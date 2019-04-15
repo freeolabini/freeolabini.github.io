@@ -2,11 +2,19 @@
 title: Free Ola Bini
 layout: base.njk
 ---
-Personer som arbetar för fri programvara och integritet bör inte kriminaliseras
+Arbete med fri programvara och integritet får inte kriminaliseras
 
-Det finns inget kriminellt om vill ha integritet.
+Att bry sig om personlig integritet är inte olagligt
 
-Ola Bini, @olabini, en världsberömd siffra inom fri programvara och försvarare för digitala rättigheter och integritet, greps på flygplatsen i Quito, Ecuador klockan 3.20.20. lokal tid den 11 april 2019. Såvitt det är känt finns det inga avgifter mot honom. Hans advokater fick inte träffas honom hela dagen och fick endast tillgång till honom efter att han fängslats i 17 timmar. Klockan 6 de fick höra att de skulle överföra honom till flaggante Delicto-enheten (Unidad de Flagrancia de la Fiscalía) hos advokatkontoret i centrala norra Quito för att ge uttalanden i en utredning av provinsiella advokatbyråns kontor i Pichincha.
+Ola Bini, @olabini, välkänd inom fri programvarurörelsen, digitala
+rättigheter och integritetsfrågor, blev den 11 april 2019 kl 15:20
+lokal tid gripen på flygplatsen i Quito, Ecuador. Såvitt det är känt
+finns inga formella anklagelser mot honom. Hans advokater fick inte
+möjlighet att träffa honom på hela dagen och lyckades etablera kontakt
+först efter 17 timmar i fångenskap. Klockan sex på kvällen fick de
+uppgifter om att han skulle överföras till Flagrante Delicto, en enhet
+under riksåklagaren, för att höras i en utredning hos
+distriktsåklagaren i Pinchincha.
 
 {% set posts = collections.sv %}
 {% include "posts.njk" %}
