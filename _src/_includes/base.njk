@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="alternate" hreflang="es" href="/es/">
+    <link rel="alternate" hreflang="sv" href="/sv/">
+    <link rel="alternate" hreflang="en" href="/en/">
+    <link rel="stylesheet" href="/css/line-awesome.min.css">
+    <link rel="stylesheet" href="/css/tachyons.min.css">
+    <title>{{title}}</title>
+  </head>
+  <body>
+    <div id="main" class="center mw8 min-vh-100">
+      <header class="pv2 pv4-ns">
+        <h1 class="f-headline lh-title fw9 mb3 mt0 pt3 ttui black">
+          Free Ola Bini!
+        </h1>
+        <nav class="f2 mid-gray lh-title" role="navigation">
+            <a href="/es/" class="link dim mid-gray ttu">Español</a> &nbsp;
+            <a href="/sv/" class="link dim mid-gray ttu">Svenska</a> &nbsp;
+            <a href="/en" class="link dim mid-gray ttu">English</a> &nbsp;
+        </nav>
+      </header>
+      <section class="f3 lh-copy">
+      {{ content | safe }}
+      </section>
+      <footer class="f1 pa4 pa5-l black-70 bt b--black-10">
+        <div class="dt dt--fixed w-100" >
+          <div class="db dtc-ns black-70 tc tr-ns v-mid">
+            <a href="mailto:olabinilegal@riseup.net" class="link dim dib mr3 black-70">
+              <i class="la la-envelope"></i>
+            </a>
+            <a href="/feed.xml" class="link dim dib mr3 black-70">
+              <i class="la la-rss"></i>
+            </a>
+            <a href="https://twitter.com/FreeOlaBini" class="link dim dib mr3 black-70">
+              <i class="la la-twitter"></i>
+            </a>
+          </div>
+        </div>
+      </footer>
+    </div>
+    </body>
+</html>
