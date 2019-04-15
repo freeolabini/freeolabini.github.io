@@ -2,7 +2,7 @@
 
 This repo is for the FreeOlaBini Website
 
-## Contributig
+## Contributing
 
 Fork this repo and clone locally.
 
