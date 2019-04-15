@@ -1,0 +1,15 @@
+{
+  "name": "FreeOlaBini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:freeolabini/freeolabini.github.io.git",
+  "author": "#FreeOlaBini <info@freeolabini.org>",
+  "dependencies": {
+    "@11ty/eleventy": "^0.8.2",
+    "@11ty/eleventy-plugin-rss": "^1.0.6"
+  },
+  "scripts": {
+    "start": "eleventy --serve --quiet",
+    "build": "_scripts/build.sh"
+  }
+}

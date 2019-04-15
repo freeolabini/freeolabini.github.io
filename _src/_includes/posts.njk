@@ -1,0 +1,13 @@
+{%- for post in posts -%}
+<article>
+  <a class="link dt w-100 pb2 mt2 blue" href="{{ post.url }}">
+    <div class="dtc w5">
+      <img src="{{ post.data.image }}" class="db w-100"/>
+    </div>
+    <div class="dtc v-top pl2">
+      <h1 class="f2 fw6 lh-title black mv0">{{ post.data.title }}</h1>
+      <small class="gray db pv2">{{ post.date }}</small>
+    </div>
+  </a>
+</article>
+{%- endfor -%}

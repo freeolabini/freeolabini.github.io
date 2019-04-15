@@ -8,7 +8,7 @@
     <link rel="alternate" hreflang="en" href="/en/">
     <link rel="stylesheet" href="/css/line-awesome.min.css">
     <link rel="stylesheet" href="/css/tachyons.min.css">
-    <title>#FreeOlaBini</title>
+    <title>{{title}}</title>
   </head>
   <body>
     <div id="main" class="center mw8 min-vh-100">
@@ -23,24 +23,7 @@
         </nav>
       </header>
       <section class="f3 lh-copy">
-          <script>
-    console.log('lang', language)
-    var language = navigator.language
-    if (language.indexOf('en') > -1) {
-      document.location.href = '/en/'
-    } else if (language.indexOf('sv') > -1) {
-      document.location.href = '/sv/'
-    } else if (language.indexOf('es') > -1) {
-      document.location.href = '/es/'
-    }
-    </script>
-    <ul>
-<li><a href="/es/">Español</a></li>
-<li><a href="/sv/">Svenska</a></li>
-<li><a href="/en/">English</a></li>
-</ul>
-
-
+      {{ content | safe }}
       </section>
       <footer class="f1 pa4 pa5-l black-70 bt b--black-10">
         <div class="dt dt--fixed w-100" >
