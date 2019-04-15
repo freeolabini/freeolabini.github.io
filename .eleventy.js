@@ -4,10 +4,6 @@ module.exports = config => {
 
   config.addPlugin(pluginRss);
 
-  config.addPassthroughCopy("img")
-  config.addPassthroughCopy("fonts")
-  config.addPassthroughCopy("css")
-
   return {
     templateFormats: [
       "md",

@@ -12,6 +12,7 @@
   "scripts": {
     "clean": "rimraf ./css ./fonts ./img ./en ./sv ./es ./index.html ./feed.xml",
     "start": "npm run clean && eleventy --serve --quiet",
-    "build": "npm run clean && eleventy"
+    "build": "npm run clean && eleventy",
+    "watch": "eleventy --watch"
   }
 }
