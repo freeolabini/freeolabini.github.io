@@ -7,7 +7,7 @@ date: 2019-04-12
 image: /img/ola.jpg
 title: Ola Bini Arrestado En Ecuador
 ---
-La gente que trabaja en software libre y privacidad no debe ser criminalizada
+La gente que trabaja en software libre y la privacidad no debe ser criminalizada
 
 No hay nada criminal en querer privacidad.
 

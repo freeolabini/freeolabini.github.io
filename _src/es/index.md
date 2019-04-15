@@ -2,7 +2,7 @@
 title: Free Ola Bini
 layout: base.njk
 ---
-La gente que trabaja en software libre y privacidad no debe ser criminalizada
+La gente que trabaja en software libre y la privacidad no debe ser criminalizada
 
 No hay nada criminal en querer privacidad.
 
