@@ -13,7 +13,7 @@ npm install
 
 The pages are in the `_src` directory, using markdown wiht yaml frontmatter
 
-The site is build using http://11ty.io
+The site is built using http://11ty.io
 
 The css is http://tachyons.io/docs/
 
