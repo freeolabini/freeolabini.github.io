@@ -10,6 +10,6 @@
   },
   "scripts": {
     "start": "eleventy --serve --quiet",
-    "build": "_scripts/build.sh"
+    "build": "eleventy"
   }
 }
