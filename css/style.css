@@ -1,0 +1,83 @@
+/* FreeOlaBini.org */
+:root {
+  --link-color: #1DA1F2;
+}
+
+div.inner {
+  max-height: 900px;
+  overflow-y: auto;
+}
+
+ul.tweets-images {
+  list-style-type: none;
+  margin-bottom: 0;
+  padding-left: 1rem;
+}
+
+ul.tweets-images .zoom {
+  cursor: pointer;
+}
+
+.zoom-wrapper {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ffffff;
+  overflow-y: auto;
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+
+.zoom-wrapper:target {
+  display: block;
+}
+
+.zoom-wrapper .close {
+  display: block;
+  position: fixed;
+  top: 2rem;
+  right: 2rem;
+  padding: 2rem;
+}
+
+.zoom-wrapper .close::before,
+.zoom-wrapper .close::after {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+
+.zoom-wrapper .close::before {
+  border-left: 2px solid #000000;
+  top: 0;
+  right: 0;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.zoom-wrapper .close::after {
+  border-right: 2px solid #000000;
+  top: 0;
+  right: 28px;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.zoom-wrapper .zoom-img {
+  display: block;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.zoom-wrapper .zoom-original {
+  display: block;
+  text-align: center;
+  font-size: 2rem;
+  color: var(--link-color);
+}
