@@ -37,3 +37,7 @@ Then git commit and push your changes, and make a pull request
 Always start new work by merging upstream.
 
 An explanation of the GitHub Standard Fork & Pull Request Workflow: https://gist.github.com/Chaser324/ce0505fbed06b947d962
+
+## Adding tweets
+
+Detailed instructions for adding tweets can be found in ADDING-TWEETS.md.

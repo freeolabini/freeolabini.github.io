@@ -31,18 +31,8 @@
         </div>
         <sidebar id="sidebar" class="fl w-40" role="complementary">
           <div class="inner">
-            <ul class="tweets-images">
-              <li>
-                <a href="#tw1" class="zoom">
-                  <img src="/img/twitter.davidakaye.1117489081397547008.png" />
-                </a>
-              </li>
-              <li>
-                <a href="#tw2" class="zoom">
-                  <img src="/img/twitter.edisonlanza.1117552044737429504.png" />
-                </a>
-              </li>
-            </ul>
+            {% set tweets = collections.tweets %}
+            {% include "tweets.njk" %}
           </div>
         </sidebar>
       </div>
@@ -63,19 +53,4 @@
       </footer>
     </div>
   </body>
-  <!-- full tweets -->
-  <div id="tw1" class="zoom-wrapper">
-    <a class="zoom-original" href="https://twitter.com/davidakaye/status/1117489081397547008" target="_blank" rel="noopener noreferrer">
-      https://twitter.com/davidakaye/status/1117489081397547008
-    </a>
-    <img class="zoom-img" src="/img/twitter.davidakaye.1117489081397547008.png" />
-    <a class="close" data-dismiss="tweet" href="#s1"></a>
-  </div>
-  <div id="tw2" class="zoom-wrapper">
-    <a class="zoom-original" href="https://twitter.com/EdisonLanza/status/1117552044737429504" target="_blank" rel="noopener noreferrer">
-      https://twitter.com/EdisonLanza/status/1117552044737429504
-    </a>
-    <img class="zoom-img" src="/img/twitter.edisonlanza.1117552044737429504.png" />
-    <a class="close" data-dismiss="tweet" href="#s1"></a>
-  </div>
 </html>

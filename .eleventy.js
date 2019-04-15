@@ -4,6 +4,9 @@ module.exports = config => {
 
   config.addPlugin(pluginRss);
 
+  // custom collection for tweets
+  config.addCollection('tweets', require('./_src/_utils/getTweets'));
+
   return {
     templateFormats: [
       "md",
@@ -27,4 +30,4 @@ module.exports = config => {
       output: process.env.PWD
     }
   }
-}
+};
