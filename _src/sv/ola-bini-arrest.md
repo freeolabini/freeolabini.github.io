@@ -5,7 +5,7 @@ tags:
   - sv
 date: 2019-04-12
 image: /img/olasite.jpg
-title: Ola Bini Arresterad I Ecuador
+title: Ola Bini arresterad i Ecuador
 ---
 
 De som arbetar med fri programvara och integritet ska inte ses som
