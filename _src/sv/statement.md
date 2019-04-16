@@ -5,32 +5,77 @@ tags:
   - sv 
 date: 2019-04-16
 image: /img/ola.jpg
-title: Free Ola Bini Solidarity Letter
+title: Brev till stöd för Ola Binis frigivande
 ---
 
-### Ola Bini is a developer, not a criminal.
+### Ola Bini är utvecklare, inte en brottsling
 
-As technologists, free and open source developers, and individuals and organizations working to protect the security of the Internet, we wish to protest in the strongest terms the continuing illegal detention in Ecuador of Ola Bini, a cyber-security expert, privacy consultant, free software contributor and advocate of digital rights. We see his ongoing, preventive detention as arbitrary and as an attack against us all.
+Som tekniker, utvecklare av fri och öppen programvara och som
+individer och organisationer som jobbar med att skydda säkerheten på
+internet så protesterar vi å det starkaste mot det pågående olagliga
+frihetsberövandet av Ola Bini i Ecuador. Ola är it-säkerhetsexpert,
+privacy-konsult, utvecklare av fri programvara och förespråkare för
+digitala rättigheter. Vi ser den fortgående häktningen av Ola som
+godtycklig och som en attack mot oss alla.
 
-Ola was detained at Quito airport on April 11 and prevented from boarding a plane to Japan. His basic rights were denied: he was not informed of the accusations against him, nor was he provided translation into his native language, Swedish, and he was kept in illegal custody without the ability to communicate with the Swedish consul, in flagrant disregard of Ecuador's constitution. 
+Ola greps på flygplatsen i Quito den 11:e april och hindrades att gå
+ombord på ett plan till Japan. Hans grundläggande rättigheter
+förnekades: han informerades inte om anklagelserna mot honom och han
+fick inteheller tolkning till sitt modersmål, svenska. Vidare
+kvarhölls han olagligt utan möjlighet att kommunicera med det svenska
+konsulatet, ett uppenbart åsidosättande av Ecuadors konstitution.
 
-After 17 hours, he was finally granted access to legal assistance and, 30 hours after his detention, a judge ordered him to be held for 90 days pretrial detention, dismissing all arguments of the defence and presenting extremely dubious evidence against him obtained by police and the prosecution. Photographs of Ola's equipment, books, and even stickers were published by the Ecuadorian police's Twitter account.
+Först efter 17 timmar fick han tillgång till juridisk hjälp och 30
+timmar efter hans gripande så beordrade en domare att han skulle
+häktas i 90 dagar i väntan på domstolsförhandlingar. Alla argument
+från försvaret avfärdades och polis och åklagare presenterade extremt
+tvivelaktig bevisning mot honom. Fotografier av Olas utrustning,
+böcker och till och med klistermärken publicerades på den
+ecuadorianska polisens Twitter-konto.
 
-Following his arrest, Ecuador's Minister of Interior, María Paula Romo—-who had just days prior held a press conference in which she claimed that Russian hackers, and a Wikileaks affiliate, were living in Ecuador--told the BBC that Ola had visited Julian Assange many times over the years, and accused of him of collaborating with former government officials to destabilise the current government.
+Efter gripandet anklagade Ecuadors inrikesminister, María Paula Romo,
+Ola för att samarbeta med tidigare regeringstjänstemän för att
+destabilisera den nuvarande regeringen och berättade för BBC att Ola
+hade besökt Julian Assange många gånger genom åren. Bara ett par dagar
+innan hade hon hållit en presskonferens där hon hävdat att ryska
+hackers, och en person nära WikiLeaks, bodde i Ecuador.
 
-Ola Bini is a cybersecurity expert and privacy consultant in the field of Free and open source software, as well as a defender of digital rights. He is a Swedish national, living with a valid permit in Ecuador for six years, a country he loves and where he has built his life. Ola has been a software developer his entire life, having started coding as an 8 year old child. He is a prolific contributor to a long list of projects, among them OTRv4 and JRuby, and is a member of the advisory board of the flagship European project DECODE (grant nr 732546) on advanced cryptographic and privacy by design research. His continuing detention negatively affects this important work.
+Ola Bini är it-säkerhetsexpert och privacy-konsult inom fri och öppen
+programvara, liksom en förespråkare av digitala rättigheter. Han är
+svensk som med giltigt tillstånd har uppehållit sig i Ecuador under
+sex år, ett land han älskar och där han har skapat sig ett liv. Ola
+har varit mjukvaruutvecklare i hela sitt liv och började programmera
+som åttaåring. Han är en framstående bidragsgivare till en lång rad av
+projekt, bland andra OTRv4 och JRuby, och medlem av den rådgivande
+panelen för det europeiska flaggskeppsprojektet DECODE (anslag 732546)
+för avancerad kryptografi och forskning inom "privacy by design". Hans
+fortsatta häktning påverkar detta viktiga arbete negativt.
 
-But above all, Ola is a loving, caring human being, who has devoted his life to what he believes is right and fair. He is a respected and important member of our community. He is one of us. For years, our community, our work has been persecuted, smeared and criminalised. Ola's case proves how vulnerable and unprotected we are, how easy it is to be targeted, and how easy it is for state actors to abuse their power arbitrarily against us. 
+Men inte minst så är Ola en älskvärd och omtänksam människa som har
+vigt sitt liv åt vad han tycker är rätt och riktigt. Han är en
+respekterad och viktig medlem av vår gemenskap. Han är en av oss. I
+flera år har vår gemenskap och vårt arbete förföljts, svärtats ned,
+och kriminaliserats. Olas fall bevisar hur sårbara och oskyddade vi är
+och hur lätt det är att bli en måltavla samt hur lätt det är för
+statliga aktörer att godtyckligt missbruka sin makt mot oss.
 
-Ecuador's actions against Ola impact us all. If members of our community are presented to the public as spies, hackers, hidden conspirators, intruders, then we are all at risk of being seen as a danger to society. 
+Ecuadors handlingar mot Ola har stor påverkan på oss alla. Om
+medlemmar ur vår gemenskap offentligt framställs som spioner, hackers,
+hemliga konspiratörer och inkräktare, så riskerar vi alla att ses som
+en fara för samhället.
 
-That is why we must raise our voices as one and demand that Ecuadorian authorities immediately release Ola Bini and unconditionally drop all charges against him.
+Därför måste vi höja våra röster och kräva att myndigheterna i Ecuador
+omedelbart släpper Ola Bini och villkorslöst lägger ner alla
+anklagelser mot honom.
 
-Upholding the right to privacy is not a crime. Defending the right to free and open software is not a crime. Ola devotes his life to everyone's freedom. Now, it's our turn to fight for Ola's freedom.
+Att försvara rättigheterna till personlig integritet är inte ett
+brott. Att försvara rätten till fri och öppen programvara är inget
+brott. Ola viger sitt liv åt allas vår frihet. Nu är det vår tur att
+slåss för Olas frihet.
 
-We want him safe, we want him back, we want him free!
+Vi vill att han ska vara i säkerhet vi vill ha honom tillbaka och vi
+vill att han ska vara fri!
 
 #FreeOlaBini
 
-### [Sign The Petition](https://is.gd/dropchargesagainstola)
-
+### [Skriv under stödbrevet](https://is.gd/dropchargesagainstola)
