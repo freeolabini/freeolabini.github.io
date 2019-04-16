@@ -4,7 +4,7 @@ tags:
   - post
   - es
 date: 2019-04-12
-image: /img/ola.jpg
+image: /img/olasite.jpg
 title: Ola Bini Arrestado En Ecuador
 ---
 La gente que trabaja en software libre y la privacidad no debe ser criminalizada

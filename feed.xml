@@ -4,7 +4,7 @@
   <subtitle>Campaign to Free Ola Bini</subtitle>
   <link href="https://freeolabini.org/feed.xml" rel="self"/>
   <link href="http://freeolabini.org/"/>
-  <updated>2019-04-15T12:25:04.930-05:00</updated>
+  <updated>2019-04-16T15:31:45.792+02:00</updated>
   <id>https://freeolabini.org/</id>
   <author>
     <name>Free Ola Bini</name>
@@ -14,7 +14,7 @@
   <entry>
     <title>Ola Bini Arrested in Ecuador</title>
     <link href="http://freeolabini.org/en/ola-bini-arrest/"/>
-    <updated>2019-04-11T19:00:00-05:00</updated>
+    <updated>2019-04-12T02:00:00+02:00</updated>
     <id>http://freeolabini.org/en/ola-bini-arrest/</id>
     <content type="html">&lt;p&gt;People working for free software and privacy should not be criminalized&lt;/p&gt;
 &lt;p&gt;There is nothing criminal about wanting privacy.&lt;/p&gt;
@@ -45,7 +45,7 @@
   <entry>
     <title>Ola Bini Arrestado En Ecuador</title>
     <link href="http://freeolabini.org/es/ola-bini-arrest/"/>
-    <updated>2019-04-11T19:00:00-05:00</updated>
+    <updated>2019-04-12T02:00:00+02:00</updated>
     <id>http://freeolabini.org/es/ola-bini-arrest/</id>
     <content type="html">&lt;p&gt;La gente que trabaja en software libre y la privacidad no debe ser criminalizada&lt;/p&gt;
 &lt;p&gt;No hay nada criminal en querer privacidad.&lt;/p&gt;
@@ -76,37 +76,40 @@
   <entry>
     <title>Ola Bini Arresterad I Ecuador</title>
     <link href="http://freeolabini.org/sv/ola-bini-arrest/"/>
-    <updated>2019-04-11T19:00:00-05:00</updated>
+    <updated>2019-04-12T02:00:00+02:00</updated>
     <id>http://freeolabini.org/sv/ola-bini-arrest/</id>
-    <content type="html">&lt;p&gt;Arbete med fri programvara och integritet får inte kriminaliseras&lt;/p&gt;
-&lt;p&gt;Att bry sig om personlig integritet är inte olagligt&lt;/p&gt;
-&lt;p&gt;Ola Bini, @olabini, välkänd inom fri programvarurörelsen, digitala
-rättigheter och integritetsfrågor, blev den 11 april 2019 kl 15:20
-lokal tid gripen på flygplatsen i Quito, Ecuador. Såvitt det är känt
-finns inga formella anklagelser mot honom. Hans advokater fick inte
-möjlighet att träffa honom på hela dagen och lyckades etablera kontakt
-först efter 17 timmar i fångenskap. Klockan sex på kvällen fick de
-uppgifter om att han skulle överföras till Flagrante Delicto, en enhet
-under riksåklagaren, för att höras i en utredning hos
-distriktsåklagaren i Pinchincha.&lt;/p&gt;
-&lt;p&gt;Bini, svensk medborgare bosatt i Ecuador, talar inte flytande spanska
-och är i behov av tolk för att kunna yttra sig i rättssaker. Han har
-olagligt hållits frihetsberövad på lösa gruner och utan att
-myndigheterna i hans land (Sverige) har underrättats i enlighet med
-internationell rätt.&lt;/p&gt;
-&lt;p&gt;Han är teknisk chef för Center for Digital Autonomy och hade på sitt
-twitter-konto tidigare meddelat att han skulle resa till Japan på en
-kampsportkurs, en resa planerad sedan mer än en månad tillbaka. Som en
-kommentarer till ett uttalande av Ecuadors inrikesminister twittrade
-han: &amp;quot;María Paula Romo, Ecuadors inrikesminister, höll i morse en
-presskonferens där hon hävdar att det finns ryska hackare i Ecuador
-och att det även finns en person från WikiLeaks bosatt i Ecuador sedan
-flera år.&amp;quot; (https://twitter.com/olabini/status/1116341908371062794)&lt;/p&gt;
-&lt;p&gt;Bini har varit mjukvaruutvecklare i hela sitt liv sedan han började
-programmera som åttaåring och har skapat två programmeringsspråk. Han
-är mångårig aktivist och förespråkare för fri programvara,
-privatlivsskydd och transparens. ComputerSweden rankade 2010 Ola Bini
-som Sveriges sjätte främsta utvecklare.&lt;/p&gt;
+    <content type="html">&lt;p&gt;De som arbetar med fri programvara och integritet ska inte ses som
+brottslingar&lt;/p&gt;
+&lt;p&gt;Det ligger inget olagligt i att sträva efter personlig integritet&lt;/p&gt;
+&lt;p&gt;Ola Bini, @olabini, välkänd inom den världsomspännande rörelsen för
+fri programvara och försvarare av digitala rättigheter och integritet
+på nätet greps den 11 april 2019 kl 15:20 lokal tid på flygplatsen i
+Quito, Ecuador. Såvitt det är känt finns varken formella anklagelser
+eller bevis mot honom. Hans advokater fick inte möjlighet att träffa
+honom på hela dagen och lyckades etablera kontakt först efter att han
+suttit fängslad i 17 timmar. Först klockan 18:00 fick de uppgifter om
+att han skulle överföras till en polisenhet för brottslingar som tas
+på bar gärning (Unidad de Flagrancia de la Fiscalia) för att höras i
+en utredning hos distriktsåklagaren i Pinchincha.&lt;/p&gt;
+&lt;p&gt;Bini är svensk medborgare och bosatt i Ecuador. Han talar inte
+flytande spanska och är i behov av tolk för att kunna yttra sig i
+rättssaker. Han har på lösa grunder hållits olagligt frihetsberövad
+och utan att myndigheterna i hans hemland (Sverige) har underrättats i
+enlighet med internationell rätt.&lt;/p&gt;
+&lt;p&gt;Han är teknisk chef för Center for Digital Autonomy och ska på sitt
+twitter-konto tidigare ha meddelat att han skulle resa till Japan på
+en kampsportskurs, en resa planerad sedan mer än en månad. När han såg
+kommentarer från Ecuadors inrikesminister twittrade han: &amp;quot;María Paula
+Romo, Ecuadors inrikesminister, höll i morse en presskonferens där hon
+hävdar att det finns ryska hackare i Ecuador och att det även finns en
+person nära knuten till WikiLeaks som är bosatt i Ecuador sedan flera
+år.&amp;quot; (https://twitter.com/olabini/status/1116341908371062794)&lt;/p&gt;
+&lt;p&gt;Bini har varit mjukvaruutvecklare i hela sitt liv, sedan han började
+programmera som åttaåring och har utvecklat två
+programmeringsspråk. Han är mångårig aktivist och förespråkare för fri
+programvara, integritet och transparens. Computerworld i Sverige
+(ComputerSweden) rankade 2010 Ola Bini som nummer sex bland svenska
+utvecklare.&lt;/p&gt;
 &lt;p&gt;Han har bidragit till:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;loke&lt;/li&gt;
@@ -124,6 +127,69 @@ som Sveriges sjätte främsta utvecklare.&lt;/p&gt;
 &lt;li&gt;Xample&lt;/li&gt;
 &lt;li&gt;JOpenSSL&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Free Ola Bini Solidarity Letter</title>
+    <link href="http://freeolabini.org/en/statement/"/>
+    <updated>2019-04-16T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/en/statement/</id>
+    <content type="html">&lt;h3&gt;Ola Bini is a developer, not a criminal.&lt;/h3&gt;
+&lt;p&gt;As technologists, free and open source developers, and individuals and organizations working to protect the security of the Internet, we wish to protest in the strongest terms the continuing illegal detention in Ecuador of Ola Bini, a cyber-security expert, privacy consultant, free software contributor and advocate of digital rights. We see his ongoing, preventive detention as arbitrary and as an attack against us all.&lt;/p&gt;
+&lt;p&gt;Ola was detained at Quito airport on April 11 and prevented from boarding a plane to Japan. His basic rights were denied: he was not informed of the accusations against him, nor was he provided translation into his native language, Swedish, and he was kept in illegal custody without the ability to communicate with the Swedish consul, in flagrant disregard of Ecuador&#39;s constitution.&lt;/p&gt;
+&lt;p&gt;After 17 hours, he was finally granted access to legal assistance and, 30 hours after his detention, a judge ordered him to be held for 90 days pretrial detention, dismissing all arguments of the defence and presenting extremely dubious evidence against him obtained by police and the prosecution. Photographs of Ola&#39;s equipment, books, and even stickers were published by the Ecuadorian police&#39;s Twitter account.&lt;/p&gt;
+&lt;p&gt;Following his arrest, Ecuador&#39;s Minister of Interior, María Paula Romo—-who had just days prior held a press conference in which she claimed that Russian hackers, and a Wikileaks affiliate, were living in Ecuador--told the BBC that Ola had visited Julian Assange many times over the years, and accused of him of collaborating with former government officials to destabilise the current government.&lt;/p&gt;
+&lt;p&gt;Ola Bini is a cybersecurity expert and privacy consultant in the field of Free and open source software, as well as a defender of digital rights. He is a Swedish national, living with a valid permit in Ecuador for six years, a country he loves and where he has built his life. Ola has been a software developer his entire life, having started coding as an 8 year old child. He is a prolific contributor to a long list of projects, among them OTRv4 and JRuby, and is a member of the advisory board of the flagship European project DECODE (grant nr 732546) on advanced cryptographic and privacy by design research. His continuing detention negatively affects this important work.&lt;/p&gt;
+&lt;p&gt;But above all, Ola is a loving, caring human being, who has devoted his life to what he believes is right and fair. He is a respected and important member of our community. He is one of us. For years, our community, our work has been persecuted, smeared and criminalised. Ola&#39;s case proves how vulnerable and unprotected we are, how easy it is to be targeted, and how easy it is for state actors to abuse their power arbitrarily against us.&lt;/p&gt;
+&lt;p&gt;Ecuador&#39;s actions against Ola impact us all. If members of our community are presented to the public as spies, hackers, hidden conspirators, intruders, then we are all at risk of being seen as a danger to society.&lt;/p&gt;
+&lt;p&gt;That is why we must raise our voices as one and demand that Ecuadorian authorities immediately release Ola Bini and unconditionally drop all charges against him.&lt;/p&gt;
+&lt;p&gt;Upholding the right to privacy is not a crime. Defending the right to free and open software is not a crime. Ola devotes his life to everyone&#39;s freedom. Now, it&#39;s our turn to fight for Ola&#39;s freedom.&lt;/p&gt;
+&lt;p&gt;We want him safe, we want him back, we want him free!&lt;/p&gt;
+&lt;p&gt;#FreeOlaBini&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&quot;https://is.gd/dropchargesagainstola&quot;&gt;Sign The Petition&lt;/a&gt;&lt;/h3&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Free Ola Bini Solidarity Letter</title>
+    <link href="http://freeolabini.org/es/statement/"/>
+    <updated>2019-04-16T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/es/statement/</id>
+    <content type="html">&lt;h3&gt;Ola Bini is a developer, not a criminal.&lt;/h3&gt;
+&lt;p&gt;As technologists, free and open source developers, and individuals and organizations working to protect the security of the Internet, we wish to protest in the strongest terms the continuing illegal detention in Ecuador of Ola Bini, a cyber-security expert, privacy consultant, free software contributor and advocate of digital rights. We see his ongoing, preventive detention as arbitrary and as an attack against us all.&lt;/p&gt;
+&lt;p&gt;Ola was detained at Quito airport on April 11 and prevented from boarding a plane to Japan. His basic rights were denied: he was not informed of the accusations against him, nor was he provided translation into his native language, Swedish, and he was kept in illegal custody without the ability to communicate with the Swedish consul, in flagrant disregard of Ecuador&#39;s constitution.&lt;/p&gt;
+&lt;p&gt;After 17 hours, he was finally granted access to legal assistance and, 30 hours after his detention, a judge ordered him to be held for 90 days pretrial detention, dismissing all arguments of the defence and presenting extremely dubious evidence against him obtained by police and the prosecution. Photographs of Ola&#39;s equipment, books, and even stickers were published by the Ecuadorian police&#39;s Twitter account.&lt;/p&gt;
+&lt;p&gt;Following his arrest, Ecuador&#39;s Minister of Interior, María Paula Romo—-who had just days prior held a press conference in which she claimed that Russian hackers, and a Wikileaks affiliate, were living in Ecuador--told the BBC that Ola had visited Julian Assange many times over the years, and accused of him of collaborating with former government officials to destabilise the current government.&lt;/p&gt;
+&lt;p&gt;Ola Bini is a cybersecurity expert and privacy consultant in the field of Free and open source software, as well as a defender of digital rights. He is a Swedish national, living with a valid permit in Ecuador for six years, a country he loves and where he has built his life. Ola has been a software developer his entire life, having started coding as an 8 year old child. He is a prolific contributor to a long list of projects, among them OTRv4 and JRuby, and is a member of the advisory board of the flagship European project DECODE (grant nr 732546) on advanced cryptographic and privacy by design research. His continuing detention negatively affects this important work.&lt;/p&gt;
+&lt;p&gt;But above all, Ola is a loving, caring human being, who has devoted his life to what he believes is right and fair. He is a respected and important member of our community. He is one of us. For years, our community, our work has been persecuted, smeared and criminalised. Ola&#39;s case proves how vulnerable and unprotected we are, how easy it is to be targeted, and how easy it is for state actors to abuse their power arbitrarily against us.&lt;/p&gt;
+&lt;p&gt;Ecuador&#39;s actions against Ola impact us all. If members of our community are presented to the public as spies, hackers, hidden conspirators, intruders, then we are all at risk of being seen as a danger to society.&lt;/p&gt;
+&lt;p&gt;That is why we must raise our voices as one and demand that Ecuadorian authorities immediately release Ola Bini and unconditionally drop all charges against him.&lt;/p&gt;
+&lt;p&gt;Upholding the right to privacy is not a crime. Defending the right to free and open software is not a crime. Ola devotes his life to everyone&#39;s freedom. Now, it&#39;s our turn to fight for Ola&#39;s freedom.&lt;/p&gt;
+&lt;p&gt;We want him safe, we want him back, we want him free!&lt;/p&gt;
+&lt;p&gt;#FreeOlaBini&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&quot;https://is.gd/dropchargesagainstola&quot;&gt;Sign The Petition&lt;/a&gt;&lt;/h3&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Free Ola Bini Solidarity Letter</title>
+    <link href="http://freeolabini.org/sv/statement/"/>
+    <updated>2019-04-16T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/sv/statement/</id>
+    <content type="html">&lt;h3&gt;Ola Bini is a developer, not a criminal.&lt;/h3&gt;
+&lt;p&gt;As technologists, free and open source developers, and individuals and organizations working to protect the security of the Internet, we wish to protest in the strongest terms the continuing illegal detention in Ecuador of Ola Bini, a cyber-security expert, privacy consultant, free software contributor and advocate of digital rights. We see his ongoing, preventive detention as arbitrary and as an attack against us all.&lt;/p&gt;
+&lt;p&gt;Ola was detained at Quito airport on April 11 and prevented from boarding a plane to Japan. His basic rights were denied: he was not informed of the accusations against him, nor was he provided translation into his native language, Swedish, and he was kept in illegal custody without the ability to communicate with the Swedish consul, in flagrant disregard of Ecuador&#39;s constitution.&lt;/p&gt;
+&lt;p&gt;After 17 hours, he was finally granted access to legal assistance and, 30 hours after his detention, a judge ordered him to be held for 90 days pretrial detention, dismissing all arguments of the defence and presenting extremely dubious evidence against him obtained by police and the prosecution. Photographs of Ola&#39;s equipment, books, and even stickers were published by the Ecuadorian police&#39;s Twitter account.&lt;/p&gt;
+&lt;p&gt;Following his arrest, Ecuador&#39;s Minister of Interior, María Paula Romo—-who had just days prior held a press conference in which she claimed that Russian hackers, and a Wikileaks affiliate, were living in Ecuador--told the BBC that Ola had visited Julian Assange many times over the years, and accused of him of collaborating with former government officials to destabilise the current government.&lt;/p&gt;
+&lt;p&gt;Ola Bini is a cybersecurity expert and privacy consultant in the field of Free and open source software, as well as a defender of digital rights. He is a Swedish national, living with a valid permit in Ecuador for six years, a country he loves and where he has built his life. Ola has been a software developer his entire life, having started coding as an 8 year old child. He is a prolific contributor to a long list of projects, among them OTRv4 and JRuby, and is a member of the advisory board of the flagship European project DECODE (grant nr 732546) on advanced cryptographic and privacy by design research. His continuing detention negatively affects this important work.&lt;/p&gt;
+&lt;p&gt;But above all, Ola is a loving, caring human being, who has devoted his life to what he believes is right and fair. He is a respected and important member of our community. He is one of us. For years, our community, our work has been persecuted, smeared and criminalised. Ola&#39;s case proves how vulnerable and unprotected we are, how easy it is to be targeted, and how easy it is for state actors to abuse their power arbitrarily against us.&lt;/p&gt;
+&lt;p&gt;Ecuador&#39;s actions against Ola impact us all. If members of our community are presented to the public as spies, hackers, hidden conspirators, intruders, then we are all at risk of being seen as a danger to society.&lt;/p&gt;
+&lt;p&gt;That is why we must raise our voices as one and demand that Ecuadorian authorities immediately release Ola Bini and unconditionally drop all charges against him.&lt;/p&gt;
+&lt;p&gt;Upholding the right to privacy is not a crime. Defending the right to free and open software is not a crime. Ola devotes his life to everyone&#39;s freedom. Now, it&#39;s our turn to fight for Ola&#39;s freedom.&lt;/p&gt;
+&lt;p&gt;We want him safe, we want him back, we want him free!&lt;/p&gt;
+&lt;p&gt;#FreeOlaBini&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&quot;https://is.gd/dropchargesagainstola&quot;&gt;Sign The Petition&lt;/a&gt;&lt;/h3&gt;
 </content>
   </entry>
 </feed>

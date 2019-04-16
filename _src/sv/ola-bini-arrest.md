@@ -4,7 +4,7 @@ tags:
   - post
   - sv
 date: 2019-04-12
-image: /img/ola.jpg
+image: /img/olasite.jpg
 title: Ola Bini Arresterad I Ecuador
 ---
 
