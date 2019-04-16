@@ -9,5 +9,7 @@ Our esteemed colleague, Ola Bini, is being detained as a political prisoner in E
 3) Email <a href="mailto:support@freeolabini.org">support&#64;freeolabini.org</a> if you can help with campaign efforts
 4) <a href="/en/subscribe">Join</a> our newsletter for updates
 
+<br><br>
+
 {% set posts = collections.en | reverse %}
 {% include "posts.njk" %}

@@ -81,3 +81,17 @@ ul.tweets-images .zoom {
   font-size: 2rem;
   color: var(--link-color);
 }
+
+@media only screen and (max-width: 600px) {
+  #main-title {
+    font-size: 64px;
+  }
+  #main-menu {
+    font-size: 20px;
+  }
+  #main-text {
+    font-size: 18px;
+  }
+}
+
+
