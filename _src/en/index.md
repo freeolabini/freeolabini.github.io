@@ -2,11 +2,11 @@
 title: Free Ola Bini
 layout: base.njk
 ---
-People working for free software and privacy should not be criminalized
+Our esteemed colleague, Ola Bini, is being detailed as a political prisoner in Ecuador. Please take action to show your support:
 
-There is nothing criminal about wanting privacy.
+1) Sign our <a href="/en/statement">solidarity letter</a> from the tech community
+2) Follow <a href="https://twitter.com/FreeOlaBini">@FreeOlaBini</a>, tweet <a href="https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini+%23FreeOlaBini">#FreeOlaBini</a> and visit freeolabini.org for updates
+3) Email <a href="mailto:support@freeolabini.org">support&#64;freeolabini.org</a> if you can help with campaign efforts
 
-Ola Bini, @olabini, a world-renowned figure in the field of free software and defender of digital rights and privacy, was arrested at the airport in Quito, Ecuador at 3:20 p.m. local time on April 11, 2019. As far as is known, there are no charges against him. His lawyers were not allowed to meet him all day yesterday and only gained access to him after he was detained for 17 hours. At 6 p.m. they were told that they were going to transfer him to the Flagrante Delicto Unit (Unidad de Flagrancia de la Fiscalía) of the Attorney General’s office in central northern Quito to give statements in an investigation by the provincial Attorney General’s office in Pichincha.
-
-{% set posts = collections.en %}
+{% set posts = collections.en | reverse %}
 {% include "posts.njk" %}

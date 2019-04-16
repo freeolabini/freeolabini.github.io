@@ -2,22 +2,11 @@
 title: Free Ola Bini
 layout: base.njk
 ---
+Our esteemed colleague, Ola Bini, is being detailed as a political prisoner in Ecuador. Please take action to show your support:
 
-De som arbetar med fri programvara och integritet ska inte ses som
-brottslingar
+1) Sign our <a href="/en/statement">solidarity letter</a> from the tech community
+2) Follow <a href="https://twitter.com/FreeOlaBini">@FreeOlaBini</a>, tweet <a href="https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini+%23FreeOlaBini">#FreeOlaBini</a> and visit freeolabini.org for updates
+3) Email <a href="mailto:support@freeolabini.org">support&#64;freeolabini.org</a> if you can help with campaign efforts
 
-Det ligger inget olagligt i att sträva efter personlig integritet
-
-Ola Bini, @olabini, välkänd inom den världsomspännande rörelsen för
-fri programvara och försvarare av digitala rättigheter och integritet
-på nätet greps den 11 april 2019 kl 15:20 lokal tid på flygplatsen i
-Quito, Ecuador. Såvitt det är känt finns varken formella anklagelser
-eller bevis mot honom. Hans advokater fick inte möjlighet att träffa
-honom på hela dagen och lyckades etablera kontakt först efter att han
-suttit fängslad i 17 timmar. Först klockan 18:00 fick de uppgifter om
-att han skulle överföras till en polisenhet för brottslingar som tas
-på bar gärning (Unidad de Flagrancia de la Fiscalia) för att höras i
-en utredning hos distriktsåklagaren i Pinchincha.
-
-{% set posts = collections.sv %}
+{% set posts = collections.sv | reverse %}
 {% include "posts.njk" %}
