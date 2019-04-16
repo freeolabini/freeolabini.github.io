@@ -4,8 +4,9 @@ module.exports = config => {
 
   config.addPlugin(pluginRss);
 
-  // custom collection for tweets
-  config.addCollection('tweets', require('./_src/_utils/getTweets'));
+  // collections
+  config.addCollection('tweets', require('./_src/_utils/gettweets'));
+  config.addCollection('signatures', require('./_src/_utils/getsignatures'));
 
   return {
     templateFormats: [
