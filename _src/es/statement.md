@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: statement.njk
 tags:
   - post
   - es
