@@ -32,5 +32,6 @@ We want him safe, we want him back, we want him free!
 
 #FreeOlaBini
 
-### [Sign The Petition](https://is.gd/dropchargesagainstola)
+### Please add your/your organization's name to this statement of support by emailing: <a href="mailto:signatures@freeolabini.org">signatures&#64;freeolabini.org</a>
+
 
