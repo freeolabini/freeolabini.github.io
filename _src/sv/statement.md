@@ -78,4 +78,6 @@ vill att han ska vara fri!
 
 #FreeOlaBini
 
-### [Skriv under stödbrevet](https://is.gd/dropchargesagainstola)
+### Skriv under stödbrevet
+Skriv under med ditt eller din organisations namn genom att mejla
+<a href="mailto:signatures@freeolabini.org">signatures@freeolabini.org</a>
