@@ -34,5 +34,5 @@ Le queremos a salvo, le queremos de vuelta, le queremos libre!
 
 #FreeOlaBini
 
-### [Sign The Petition](https://is.gd/dropchargesagainstola)
+### Por favor agrega a tu organización o a ti a esta declaración de apoyo enviando un email a: <a href="mailto:signatures@freeolabini.org">signatures&#64;freeolabini.org</a>
 
