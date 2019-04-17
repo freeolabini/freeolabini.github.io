@@ -81,6 +81,11 @@ ul.tweets-images .zoom {
   color: var(--link-color);
 }
 
+#main-title-link {
+  text-decoration: none;
+  color: #000000;
+}
+
 #main-menu {
   margin-left: 10px;
 }
