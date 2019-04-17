@@ -4,8 +4,7 @@
 }
 
 div.inner {
-  max-height: 900px;
-  overflow-y: auto;
+  max-height: auto;
 }
 
 ul.tweets-images {
@@ -81,3 +80,46 @@ ul.tweets-images .zoom {
   font-size: 2rem;
   color: var(--link-color);
 }
+
+#main-title-link {
+  text-decoration: none;
+  color: #000000;
+}
+
+#main-menu {
+  margin-left: 10px;
+}
+
+#text-links {
+  background: #3c3c3c;
+  color: white;
+  text-decoration: none;
+  padding: 3px;
+}
+
+#subscribe-button {
+  font-size: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  #main-title {
+    font-size: 64px;
+    padding: 10px;
+  }
+  #main-menu {
+    font-size: 20px;
+    padding: 10px;
+  }
+  #main-text {
+    font-size: 18px;
+    padding: 10px;
+  }
+  #post-title {
+    font-size: 22px;
+  }
+  #post-time {
+    font-size: 6px;
+  }
+}
+
+
