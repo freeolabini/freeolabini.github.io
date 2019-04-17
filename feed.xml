@@ -4,7 +4,7 @@
   <subtitle>Campaign to Free Ola Bini</subtitle>
   <link href="https://freeolabini.org/feed.xml" rel="self"/>
   <link href="http://freeolabini.org/"/>
-  <updated>2019-04-17T14:57:15.132+02:00</updated>
+  <updated>2019-04-17T10:16:44.813-05:00</updated>
   <id>https://freeolabini.org/</id>
   <author>
     <name>Free Ola Bini</name>
@@ -14,7 +14,7 @@
   <entry>
     <title>Ola Bini Arrested in Ecuador</title>
     <link href="http://freeolabini.org/en/ola-bini-arrest/"/>
-    <updated>2019-04-12T02:00:00+02:00</updated>
+    <updated>2019-04-11T19:00:00-05:00</updated>
     <id>http://freeolabini.org/en/ola-bini-arrest/</id>
     <content type="html">&lt;p&gt;People working for free software and privacy should not be criminalized&lt;/p&gt;
 &lt;p&gt;There is nothing criminal about wanting privacy.&lt;/p&gt;
@@ -45,7 +45,7 @@
   <entry>
     <title>Ola Bini Arrestado En Ecuador</title>
     <link href="http://freeolabini.org/es/ola-bini-arrest/"/>
-    <updated>2019-04-12T02:00:00+02:00</updated>
+    <updated>2019-04-11T19:00:00-05:00</updated>
     <id>http://freeolabini.org/es/ola-bini-arrest/</id>
     <content type="html">&lt;p&gt;La gente que trabaja en software libre y la privacidad no debe ser criminalizada&lt;/p&gt;
 &lt;p&gt;No hay nada criminal en querer privacidad.&lt;/p&gt;
@@ -76,7 +76,7 @@
   <entry>
     <title>Ola Bini arresterad i Ecuador</title>
     <link href="http://freeolabini.org/sv/ola-bini-arrest/"/>
-    <updated>2019-04-12T02:00:00+02:00</updated>
+    <updated>2019-04-11T19:00:00-05:00</updated>
     <id>http://freeolabini.org/sv/ola-bini-arrest/</id>
     <content type="html">&lt;p&gt;De som arbetar med fri programvara och integritet ska inte ses som
 brottslingar&lt;/p&gt;
@@ -133,7 +133,7 @@ utvecklare.&lt;/p&gt;
   <entry>
     <title>Free Ola Bini Solidarity Letter</title>
     <link href="http://freeolabini.org/en/statement/"/>
-    <updated>2019-04-16T02:00:00+02:00</updated>
+    <updated>2019-04-15T19:00:00-05:00</updated>
     <id>http://freeolabini.org/en/statement/</id>
     <content type="html">&lt;h3&gt;Ola Bini is a developer, not a criminal.&lt;/h3&gt;
 &lt;p&gt;As technologists, free and open source developers, and individuals and organizations working to protect the security of the Internet, we wish to protest in the strongest terms the continuing illegal detention in Ecuador of Ola Bini, a cyber-security expert, privacy consultant, free software contributor and advocate of digital rights. We see his ongoing, preventive detention as arbitrary and as an attack against us all.&lt;/p&gt;
@@ -154,7 +154,7 @@ utvecklare.&lt;/p&gt;
   <entry>
     <title>Carta de Solidaridad por la Liberación de Ola Bini</title>
     <link href="http://freeolabini.org/es/statement/"/>
-    <updated>2019-04-16T02:00:00+02:00</updated>
+    <updated>2019-04-15T19:00:00-05:00</updated>
     <id>http://freeolabini.org/es/statement/</id>
     <content type="html">&lt;h3&gt;Ola Bini es un desarrollador, no un criminal&lt;/h3&gt;
 &lt;p&gt;Como tecnólogos/as, desarrolladores/as de código libre y abierto, y como personas y organizaciones que trabajan para proteger la seguridad en la Internet, queremos  denunciar en términos enérgicos la detención de Ola Bini. Ola Bini es una persona experta en cyberseguridad, consultor de privacidad, contribuye al desarrollo y defensa del código abierto y defensor de los Derechos Digitales. Vemos su detención preventiva como arbitraria y como un ataque hacia toda nuestra comunidad, y, por ende, hacia nosotros mismos.&lt;/p&gt;
@@ -175,7 +175,7 @@ utvecklare.&lt;/p&gt;
   <entry>
     <title>Brev till stöd för Ola Binis frigivande</title>
     <link href="http://freeolabini.org/sv/statement/"/>
-    <updated>2019-04-16T02:00:00+02:00</updated>
+    <updated>2019-04-15T19:00:00-05:00</updated>
     <id>http://freeolabini.org/sv/statement/</id>
     <content type="html">&lt;h3&gt;Ola Bini är utvecklare, inte brottsling&lt;/h3&gt;
 &lt;p&gt;Som tekniker, utvecklare av fri och öppen programvara och som

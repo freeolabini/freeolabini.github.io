@@ -1,5 +1,5 @@
 <ul class="tweets-images">
-  {%- for tweet in tweets -%}
+  {%- for tweet in tweets | reverse -%}
     {% set data = tweet.data %}
     <li>
       <a href="#{{ tweet.fileSlug }}" class="zoom">
