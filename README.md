@@ -7,6 +7,7 @@ This repo is for the FreeOlaBini Website
 Fork this repo and clone locally.
 
 run npm install
+
 ```bash
 npm install
 ```
