@@ -2,7 +2,7 @@
 layout: post.njk
 tags:
   - post
-  - en
+  - it
 date: 2019-04-12
 image: /img/olasite.jpg
 title: Ola Bini Arrestato in Ecuador

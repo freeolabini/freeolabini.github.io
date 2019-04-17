@@ -2,7 +2,7 @@
 layout: statement.njk
 tags:
   - post
-  - en
+  - it
 date: 2019-04-16
 image: /img/ola.jpg
 title: Lettera di solidarietà Free Ola Bini
