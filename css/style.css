@@ -85,12 +85,21 @@ ul.tweets-images .zoom {
 @media only screen and (max-width: 600px) {
   #main-title {
     font-size: 64px;
+    padding: 10px;
   }
   #main-menu {
     font-size: 20px;
+    padding: 10px;
   }
   #main-text {
     font-size: 18px;
+    padding: 10px;
+  }
+  #post-title {
+    font-size: 22px;
+  }
+  #post-time {
+    font-size: 6px;
   }
 }
 
