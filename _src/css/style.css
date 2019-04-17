@@ -97,6 +97,10 @@ ul.tweets-images .zoom {
   padding: 3px;
 }
 
+#subscribe-button {
+  font-size: 30px;
+}
+
 @media only screen and (max-width: 600px) {
   #main-title {
     font-size: 64px;
