@@ -1,5 +1,5 @@
 ---
-title: "#FreeOlaBini"
+title: Ola Bini Arrested in Ecuador
 layout: redirect.njk
 image: /img/ola.jpg
 eleventyExcludeFromCollections: true
