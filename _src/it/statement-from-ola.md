@@ -5,7 +5,7 @@ tags:
   - it
 date: 2019-04-17
 image: /img/olamf.jpg
-title: Ola Bini’s statement from arbitrary detention at El Inca Prison, Ecuador
+title: Dichiarazione di Ola Bini sulla detenzione arbitraria nella prigione El Inca, Ecuador
 ---
 
 1. In primo luogo, voglio ringraziare tutti i miei sostenitori là fuori. Mi è
