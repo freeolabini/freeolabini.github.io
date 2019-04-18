@@ -5,17 +5,33 @@ tags:
   - sv
 date: 2019-04-17
 image: /img/olamf.jpg
-title: Ola Bini’s statement from arbitrary detention at El Inca Prison, Ecuador
+title: Uttalande av Ola Bini från sin godtyckliga fångenskap i El Inca-fängelset, Ecuador
 ---
 
-1. First, I want to thank all my supporters out there. I've been told about the attention this case is getting from all the world, and I appreciate it more than I can say. To my friends, family and nearest ones: all my love - you're constantly in my thoughts.
+1. Först vill jag tacka för allt stöd som jag har fått. Jag har hört
+   talas om all den uppmärksamhet som det här fallet har väckt och jag
+   kan inte med ord beskriva hur mycket jag uppskattar det. Till mina
+   vänner, min familj och mina närmaste: all min kärlek till er -- jag
+   har er ständigt i mina tankar.
 
-2. I believe strongly in the right to privacy. Without privacy, we can't have agency, and without agency we are slaves. That's why I have dedicated my life to this struggle. Surveillance is a threat to us all, we must stop it.
+2. Jag tror starkt på rätten till ett privatliv. Utan privatliv så har
+   vi inget självbestämmande och utan självbestämmande är vi
+   slavar. Det är därför jag har vigt mitt liv åt den här
+   kampen. Övervakning är ett hot mot oss alla och den måste stoppas.
 
-3. The leaders of the world are waging a war against knowledge. The case against me is based on the books I've read and the technology I have. This is Orwellian - ThoughtCrime. We can't let this happen. The world will close in closer and closer on us, until we have nothing left. If Ecuador can do this, so can others. We have to stop this idea now, before it's too late.
+3. Världens ledare för ett krig mot kunskap. Rättsfallet mot mig
+   baseras på vilka böcker jag läser och vilka tekniska hjälpmedel jag
+   äger. Det hela är Orwellskt -- tankebrott. Vi får inte låta detta
+   hända. Världen krymper och blir allt mindre, tills dess vi inte har
+   någonting kvar. Om Ecuador kan göra så här så kan andra det
+   också. Vi måste stoppa de här idéerna nu, innan det är för sent.
 
-4. I'm confident it will be obvious that there's no substance to this case, and that it will collapse into nothing.
+4. Jag är övertygad om att det kommer visa sig att det här fallet
+   saknar all substans och således rasa samman.
 
-5. I can't avoid saying a word about the Ecuadorian penal system. I'm being held under the best circumstances and it's still despicable. There needs to be serious reform. My thoughts go out to all fellow inmates in Ecuador.
+5. Jag måste också säga något om det Ecuadorianska straffsystemet. Jag
+   hålls fängslad under de bästa omständigheter och ändå är det helt
+   förkastligt. Här krävs grundliga reformer. Mina tankar går till
+   alla mina medfångar i Ecuador.
 
 ### Ola Bini
