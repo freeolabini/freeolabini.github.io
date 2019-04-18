@@ -34,5 +34,5 @@ Defender el derecho a la privacidad no es un delito. Defender el derecho al soft
 
 #FreeOlaBini
 
-### Por favor agrega a tu organización o a ti a esta declaración de apoyo enviando un email a: <a href="mailto:signatures@freeolabini.org">signatures&#64;freeolabini.org</a>
+### Por favor agrega a tu organización o a ti a esta declaración de apoyo enviando un email a: <a href="mailto:signatures@freeolabini.org" id="text-links">signatures&#64;freeolabini.org</a>
 

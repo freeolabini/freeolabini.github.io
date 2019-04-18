@@ -4,7 +4,7 @@
   <subtitle>Campaign to Free Ola Bini</subtitle>
   <link href="https://freeolabini.org/feed.xml" rel="self"/>
   <link href="http://freeolabini.org/"/>
-  <updated>2019-04-18T11:44:21.729+02:00</updated>
+  <updated>2019-04-18T16:18:15.147+02:00</updated>
   <id>https://freeolabini.org/</id>
   <author>
     <name>Free Ola Bini</name>
@@ -147,7 +147,7 @@ utvecklare.&lt;/p&gt;
 &lt;p&gt;Upholding the right to privacy is not a crime. Defending the right to free and open software is not a crime. Ola devotes his life to everyone&#39;s freedom. Now, it&#39;s our turn to fight for Ola&#39;s freedom.&lt;/p&gt;
 &lt;p&gt;We want him safe, we want him back, we want him free!&lt;/p&gt;
 &lt;p&gt;#FreeOlaBini&lt;/p&gt;
-&lt;h3&gt;Please add your/your organization&#39;s name to this statement of support by emailing: &lt;a href=&quot;mailto:signatures@freeolabini.org&quot;&gt;signatures@freeolabini.org&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;Please add your/your organization&#39;s name to this statement of support by emailing: &lt;a href=&quot;mailto:signatures@freeolabini.org&quot; id=&quot;text-links&quot;&gt;signatures@freeolabini.org&lt;/a&gt;&lt;/h3&gt;
 </content>
   </entry>
   
@@ -168,7 +168,7 @@ utvecklare.&lt;/p&gt;
 &lt;p&gt;Defender el derecho a la privacidad no es un delito. Defender el derecho al software libre y abierto no es un delito. Ola dedica su vida a la libertad de todas y todos. Ahora, es nuestro turno de luchar por la libertad de Ola.&lt;/p&gt;
 &lt;p&gt;¡Lo queremos a salvo, lo queremos de vuelta, lo queremos libre!&lt;/p&gt;
 &lt;p&gt;#FreeOlaBini&lt;/p&gt;
-&lt;h3&gt;Por favor agrega a tu organización o a ti a esta declaración de apoyo enviando un email a: &lt;a href=&quot;mailto:signatures@freeolabini.org&quot;&gt;signatures@freeolabini.org&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;Por favor agrega a tu organización o a ti a esta declaración de apoyo enviando un email a: &lt;a href=&quot;mailto:signatures@freeolabini.org&quot; id=&quot;text-links&quot;&gt;signatures@freeolabini.org&lt;/a&gt;&lt;/h3&gt;
 </content>
   </entry>
   
@@ -237,7 +237,7 @@ vill att han ska få sin frihet!&lt;/p&gt;
 &lt;p&gt;#FreeOlaBini&lt;/p&gt;
 &lt;h3&gt;Skriv under vårt stöduttalande&lt;/h3&gt;
 &lt;p&gt;Skriv under med ditt eller din organisations namn genom att mejla
-&lt;a href=&quot;mailto:signatures@freeolabini.org&quot;&gt;signatures@freeolabini.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;mailto:signatures@freeolabini.org&quot; id=&quot;text-links&quot;&gt;signatures@freeolabini.org&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
