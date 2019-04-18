@@ -17,6 +17,10 @@ ul.tweets-images .zoom {
   cursor: pointer;
 }
 
+p {
+  text-align: justify;
+}
+
 .zoom-wrapper {
   display: none;
   position: fixed;
@@ -121,5 +125,3 @@ ul.tweets-images .zoom {
     font-size: 6px;
   }
 }
-
-
