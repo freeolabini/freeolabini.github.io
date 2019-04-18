@@ -6,10 +6,20 @@
     <link rel="alternate" hreflang="es" href="/es/">
     <link rel="alternate" hreflang="sv" href="/sv/">
     <link rel="alternate" hreflang="en" href="/en/">
+    <link rel="alternate" hreflang="it" href="/it/">
     <link rel="stylesheet" href="/css/line-awesome.min.css">
     <link rel="stylesheet" href="/css/tachyons.min.css">
     <link rel="stylesheet" href="/css/style.css">
+
     <title>#FreeOlaBini</title>
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@freeolabini" />
+    <meta property="og:url" content="https://freeolabini.org/" />
+    <meta property="og:title" content="#FreeOlaBini" />
+    <meta property="og:image" content=" /img/ola.jpg" />
+
+
   </head>
   <body id="s1">
     <div id="main" class="center mw8 min-vh-100">
@@ -19,10 +29,11 @@
           Free Ola Bini!
 			  </a>
         </h1>
-        <nav class="f2 mid-gray lh-title" role="navigation" id="main-menu">
+        <nav class="f3 mid-gray lh-title" role="navigation" id="main-menu">
           <a href="/es/" class="link dim mid-gray ttu">Español</a> &nbsp;
           <a href="/sv/" class="link dim mid-gray ttu">Svenska</a> &nbsp;
-          <a href="/en" class="link dim mid-gray ttu">English</a> &nbsp;
+          <a href="/en/" class="link dim mid-gray ttu">English</a> &nbsp;
+          <a href="/it/" class="link dim mid-gray ttu">Italiano</a> &nbsp;
         </nav>
       </header>
       <div id="content">
@@ -35,6 +46,8 @@
       document.location.href = '/en/'
     } else if (language.indexOf('sv') > -1) {
       document.location.href = '/sv/'
+    } else if (language.indexOf('it') > -1) {
+      document.location.href = '/it/'
     } else if (language.indexOf('es') > -1) {
       document.location.href = '/es/'
     }
@@ -43,6 +56,7 @@
 <li><a href="/es/">Español</a></li>
 <li><a href="/sv/">Svenska</a></li>
 <li><a href="/en/">English</a></li>
+<li><a href="/it/">Italiano</a></li>
 </ul>
 
 
@@ -140,6 +154,9 @@
             <a href="https://twitter.com/FreeOlaBini" class="link dim dib mr3 black-70">
               <i class="la la-twitter"></i>
             </a>
+            <a href="https://github.com/freeolabini/freeolabini.github.io" class="link dim dib mr3 black-70">
+              <i class="la la-github"></i>
+            </a>			
           </div>
         </div>
       </footer>

@@ -1,6 +1,8 @@
 ---
 title: Frige Ola Bini
 layout: base.njk
+image: /img/ola.jpg
+eleventyExcludeFromCollections: true
 ---
 Vår högt uppskattade kollega Ola Bini är gripen och hålls som politisk fånge i Ecuador. Agera nu för att visa ditt stöd:
 

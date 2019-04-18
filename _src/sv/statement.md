@@ -2,7 +2,7 @@
 layout: statement.njk
 tags:
   - post
-  - sv 
+  - sv
 date: 2019-04-16
 image: /img/ola.jpg
 title: Brev till stöd för Ola Binis frigivande
@@ -80,4 +80,4 @@ vill att han ska få sin frihet!
 
 ### Skriv under vårt stöduttalande
 Skriv under med ditt eller din organisations namn genom att mejla
-<a href="mailto:signatures@freeolabini.org">signatures@freeolabini.org</a>
+<a href="mailto:signatures@freeolabini.org" id="text-links">signatures@freeolabini.org</a>
