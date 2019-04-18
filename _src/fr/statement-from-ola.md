@@ -15,7 +15,7 @@ title: Déclaration d'Ola Bini suite à son arrestation arbitraire depuis la pri
 
 4. J'ai confiance en qu'il sera évident que cette affaire ne peut pas être justifiée et va donc s'effondrer.
 
-5. Je ne peux pas éviter de dire quelque chose sur le système pénal équatorien. Je suis détenu dans les meilleures conditions et pourtant c'est terrible. Une réforme sérieuse est nécessaire. Mes pensées vont à tous les prisonniers en Équateur.
+5. Je ne peux pas m'empêcher de dire quelque chose sur le système pénal équatorien. Je suis détenu dans les meilleures conditions et pourtant c'est terrible. Une réforme sérieuse est nécessaire. Mes pensées vont à tous les prisonniers en Équateur.
 
 ### Ola Bini
 
