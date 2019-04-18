@@ -7,4 +7,5 @@ eleventyExcludeFromCollections: true
 - [Español](/es/)
 - [Svenska](/sv/)
 - [English](/en/)
+- [Français](/fr/)
 
