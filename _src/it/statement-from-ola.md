@@ -5,17 +5,31 @@ tags:
   - it
 date: 2019-04-17
 image: /img/olamf.jpg
-title: Ola Bini’s statement from arbitrary detention at El Inca Prison, Ecuador
+title: Dichiarazione di Ola Bini sulla detenzione arbitraria nella prigione El Inca, Ecuador
 ---
 
-1. First, I want to thank all my supporters out there. I've been told about the attention this case is getting from all the world, and I appreciate it more than I can say. To my friends, family and nearest ones: all my love - you're constantly in my thoughts.
+1. In primo luogo, voglio ringraziare tutti i miei sostenitori là fuori. Mi è
+stato detto dell'attenzione che questo caso sta ricevendo da tutto il mondo e lo
+apprezzo più di quanto possa dire. Ai miei amici, familiari e vicini: tutto il
+mio amore - sei costantemente nei miei pensieri.
 
-2. I believe strongly in the right to privacy. Without privacy, we can't have agency, and without agency we are slaves. That's why I have dedicated my life to this struggle. Surveillance is a threat to us all, we must stop it.
+2. Credo fermamente nel diritto alla privacy. Senza la privacy, non possiamo
+avere un'agenzia, e senza l'agenzia siamo schiavi. Ecco perché ho dedicato la
+mia vita a questa lotta. La sorveglianza è una minaccia per tutti noi, dobbiamo
+fermarla.
 
-3. The leaders of the world are waging a war against knowledge. The case against me is based on the books I've read and the technology I have. This is Orwellian - ThoughtCrime. We can't let this happen. The world will close in closer and closer on us, until we have nothing left. If Ecuador can do this, so can others. We have to stop this idea now, before it's too late.
+3. I leader del mondo stanno conducendo una guerra contro la conoscenza. Il caso
+contro di me si basa sui libri che ho letto e sulla tecnologia che ho. Questo
+è un Orwellian - ThoughtCrime. Non possiamo permettere che questo accada. Il
+mondo si chiuderà sempre più vicino a noi, finché non avremo più niente. Se
+l'Ecuador può fare questo, anche gli altri possono farlo. Dobbiamo fermare
+questa idea ora, prima che sia troppo tardi.
 
-4. I'm confident it will be obvious that there's no substance to this case, and that it will collapse into nothing.
+4. Sono certo che sarà ovvio che non c'è sostanza in questo caso e che
+collasserà nel nulla.
 
-5. I can't avoid saying a word about the Ecuadorian penal system. I'm being held under the best circumstances and it's still despicable. There needs to be serious reform. My thoughts go out to all fellow inmates in Ecuador.
+5. Non posso evitare di dire una parola sul sistema penale ecuadoriano. Sono
+detenuto nelle migliori circostanze ed è ancora spregevole. Ci deve essere una
+riforma seria. I miei pensieri vanno a tutti i compagni detenuti in Ecuador.
 
 ### Ola Bini
