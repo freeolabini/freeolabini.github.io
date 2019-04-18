@@ -3,19 +3,19 @@ layout: post.njk
 tags:
   - post
   - fr
-date: 2019-04-17
+date: 2019-04-18
 image: /img/olamf.jpg
-title: Ola Bini’s statement from arbitrary detention at El Inca Prison, Ecuador
+title: Déclaration d'Ola Bini suite à son arrestation arbitraire depuis la prison de El Inca, en Équateur
 ---
+1. Tout d’abord, je tiens à remercier toutes les personnes qui me soutiennent. On m'a parlé de l'attention que cette affaire a suscité dans le monde entier et c'est quelque chose j'apprécie plus que ce que je ne sais exprimer avec mes paroles. À ma famille, mes amis, à tous ceux qui sont proches, je vous envoie tout mon amour. Je vous ai toujours dans mes pensées.
 
-1. First, I want to thank all my supporters out there. I've been told about the attention this case is getting from all the world, and I appreciate it more than I can say. To my friends, family and nearest ones: all my love - you're constantly in my thoughts.
+2. Je crois fermement au droit à la vie privée. Sans vie privée, il n'y a pas d'agence et sans agence, nous sommes des esclaves. C'est pourquoi j'ai consacré ma vie à cette lutte. La surveillance est une menace pour nous tous. Ça doit s'arrêter.
 
-2. I believe strongly in the right to privacy. Without privacy, we can't have agency, and without agency we are slaves. That's why I have dedicated my life to this struggle. Surveillance is a threat to us all, we must stop it.
+3. Les leaders du monde mènent une guerre contre le savoir. L'affaire contre moi est basée sur les livres que j'ai lus et sur la technologie dont je dispose. C'est un crime seulement depuis une pensée orwellienne. Nous ne pouvons pas laisser cela arriver. Le monde va fermer de plus en plus autour de nous jusqu'à ce qu'il ne nous reste plus rien. Si l’Équateur peut le faire, d’autres le peuvent aussi. Nous devons arrêter cela avant qu'il ne soit trop tard.
 
-3. The leaders of the world are waging a war against knowledge. The case against me is based on the books I've read and the technology I have. This is Orwellian - ThoughtCrime. We can't let this happen. The world will close in closer and closer on us, until we have nothing left. If Ecuador can do this, so can others. We have to stop this idea now, before it's too late.
+4. J'ai confiance en qu'il sera évident que cette affaire ne peut pas être justifiée et va donc s'effondrer.
 
-4. I'm confident it will be obvious that there's no substance to this case, and that it will collapse into nothing.
-
-5. I can't avoid saying a word about the Ecuadorian penal system. I'm being held under the best circumstances and it's still despicable. There needs to be serious reform. My thoughts go out to all fellow inmates in Ecuador.
+5. Je ne peux pas m'empêcher de dire quelque chose sur le système pénal équatorien. Je suis détenu dans les meilleures conditions et pourtant c'est terrible. Une réforme sérieuse est nécessaire. Mes pensées vont à tous les prisonniers en Équateur.
 
 ### Ola Bini
+
