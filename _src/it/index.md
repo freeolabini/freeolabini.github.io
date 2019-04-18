@@ -1,6 +1,8 @@
 ---
 title: Free Ola Bini
 layout: base.njk
+image: /img/ola.jpg
+eleventyExcludeFromCollections: true
 ---
 Il nostro stimato collega, Ola Bini, è detenuto come prigioniero politico in Ecuador. Unisciti a noi in suo sostegno:
 
