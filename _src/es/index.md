@@ -1,5 +1,5 @@
 ---
-title: Free Ola Bini
+title: Ola Bini Arrested in Ecuador
 layout: base.njk
 image: /img/ola.jpg
 eleventyExcludeFromCollections: true
