@@ -10,7 +10,7 @@
     "rimraf": "^2.6.3"
   },
   "scripts": {
-    "clean": "rimraf ./css ./fonts ./img ./en ./sv ./es ./tweets ./signatures ./index.html ./feed.xml",
+    "clean": "rimraf ./css ./fonts ./img ./en ./sv ./es ./it ./tweets ./signatures ./index.html ./feed.xml",
     "start": "npm run clean && eleventy --serve --quiet",
     "build": "npm run clean && eleventy",
     "watch": "eleventy --watch"
