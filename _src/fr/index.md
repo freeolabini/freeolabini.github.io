@@ -1,6 +1,8 @@
 ---
 title: Free Ola Bini
 layout: base.njk
+image: /img/ola.jpg
+eleventyExcludeFromCollections: true
 ---
 
 Notre collègue et ami, Ola Bini, a été arrêté en tant que prisonnier politique par le gouvernement équatorien et a besoin de votre aide. Montrez votre soutien en promouvant et en participant à ces actions:
