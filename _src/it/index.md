@@ -11,5 +11,5 @@ Il nostro stimato collega, Ola Bini, è detenuto come prigioniero politico in Ec
 
 <br><br>
 
-{% set posts = collections.en | reverse %}
+{% set posts = collections.it | reverse %}
 {% include "posts.njk" %}
