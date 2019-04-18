@@ -5,7 +5,7 @@ tags:
   - en
 date: 2019-04-17
 image: /img/olasite.jpg
-title: Statement from Ola Bini from El Inca prison, Quito
+title: Ola Bini’s statement from arbitrary detention at El Inca Prison, Ecuador
 ---
 
 1. First, I want to thank all my supporters out there. I've been told about the attention this case is getting from all the world, and I appreciate it more than I can say. To my friends, family and nearest ones: all my love - you're constantly in my thoughts.
