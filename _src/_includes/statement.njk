@@ -3,15 +3,19 @@ layout: post.njk
 ---
 {{ content | safe }}
 <h2>Signatories</h2>
+<div class="lh-copy">
 <div class="flex flex-wrap">
-{%- for signature in collections.signatures -%}
-  <div class="w-40 mw5 ma2 bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
-    <div class="tc">
-      <img src="{{ signature.data.image }}" class="h3 dib">
-      <div><a class="f5 b link dim" href="{{ signature.data.url }}" id="text-links">{{ signature.data.name }}</a></div>
-    </div>
-    <p class="lh-copy measure center f6 black-70">
-    </p>
+{%- for signature in collections.signatureOrgs -%}
+  <div class="w-40-ns w-100 mw5 ma2 bg-white pa3 pa4-ns mv3">
+    <a class="tc lh-copy tc" href="{{ signature.data.url }}">
+      <img src="{{ signature.data.image }}" class="h3 db center ma2">
+      <div class="f4 tl bg-dark-gray pa2 white">{{ signature.data.name }}</div>
+    </a>
   </div>
 {%- endfor -%}
-<div>
+</div>
+<div class="lh-solid tc">
+{%- for signature in collections.signatures -%}
+  <a class="bg-dark-gray white link dim dib ma2 pa2" href="{{ signature.data.url }}">{{ signature.data.name | replace(" ", "&nbsp;") | safe }}</a>
+{%- endfor -%}
+</div>

@@ -2,11 +2,12 @@ const pluginRss = require("@11ty/eleventy-plugin-rss")
 
 module.exports = config => {
 
-  config.addPlugin(pluginRss);
+  config.addPlugin(pluginRss)
 
   // collections
-  config.addCollection('tweets', require('./_src/_utils/gettweets'));
-  config.addCollection('signatures', require('./_src/_utils/getsignatures'));
+  config.addCollection('tweets', require('./_src/_utils/gettweets'))
+  config.addCollection('signatures', require('./_src/_utils/getsignatures'))
+  config.addCollection('signatureOrgs', require('./_src/_utils/getsignatureorgs'))
 
   return {
     templateFormats: [
@@ -31,4 +32,4 @@ module.exports = config => {
       output: process.env.PWD
     }
   }
-};
+}
