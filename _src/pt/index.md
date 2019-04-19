@@ -14,5 +14,5 @@ Nosso estimado colega, Ola bini, está detido como preso político pelo governo 
 
 <br><br>
 
-{% set posts = collections.en | reverse %}
+{% set posts = collections.pt | reverse %}
 {% include "posts.njk" %}
