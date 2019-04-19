@@ -5,7 +5,7 @@ tags:
   - sv
 date: 2019-04-17
 image: /img/olamf.jpg
-title: Uttalande av Ola Bini från sin godtyckliga fångenskap i El Inca-fängelset, Ecuador
+title: Uttalande av Ola Bini, godtyckligt häktad i El Inca-fängelset, Ecuador
 ---
 
 1. Först av allt vill jag tacka för allt stöd där ute. Man har berättat för mig
@@ -15,7 +15,7 @@ title: Uttalande av Ola Bini från sin godtyckliga fångenskap i El Inca-fängel
    finns ständigt i mina tankar.
 
 2. Jag tror starkt på rätten till personlig integritet. Utan integritet har
-   vi inget självbestämmande och utan självbestämmande är vi
+   vi ingen handlingsfrihet och utan handlingsfrihet är vi
    slavar. Därför har jag vigt mitt liv åt den här
    kampen. Övervakning är ett hot mot oss alla och den måste stoppas.
 
