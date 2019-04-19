@@ -13,7 +13,7 @@ If you prefer to not use a wire account, just entered your name and proceed, you
 
 ## Common Troubles
 
-- If you are using a phone, you the join link will take you to a web page, once you join there you will see the room in your normal Wire client
+- If you are using a phone, the join link will take you to a web page, once you join there you will see the room in your normal Wire client
 
  
 - If you have any trouble at all connect with @dkasym on Wire and you will be added
