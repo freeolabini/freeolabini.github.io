@@ -1,6 +1,6 @@
 ## How To Join
 
-If you would like to chat with the people working on #FreeOlaBin and help out, please join our [Wire](https://app.wire.com) Guest room by following these instructions:
+If you would like to chat with the people working on #FreeOlaBini and help out, please join our [Wire](https://app.wire.com) Guest room by following these instructions:
 
 1. Go to https://is.gd/freeolabini
 
