@@ -4,12 +4,52 @@
   <subtitle>Campaign to Free Ola Bini</subtitle>
   <link href="https://freeolabini.org/feed.xml" rel="self"/>
   <link href="http://freeolabini.org/"/>
-  <updated>2019-04-19T22:29:03.257+02:00</updated>
+  <updated>2019-04-19T22:56:48.738+02:00</updated>
   <id>https://freeolabini.org/</id>
   <author>
     <name>Free Ola Bini</name>
     <email>olabinilegal@riseup.net</email>
   </author>
+  
+  <entry>
+    <title>Ola Bini ist politischer Gefangener in Ecuador</title>
+    <link href="http://freeolabini.org/de/ola-bini-arrest/"/>
+    <updated>2019-04-12T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/de/ola-bini-arrest/</id>
+    <content type="html">&lt;p&gt;Aktivisten für freie Software und Privatsphäre dürfen nicht kriminalisiert werden!&lt;/p&gt;
+&lt;p&gt;Privatsphäre ist nichts illegales.&lt;/p&gt;
+&lt;p&gt;Ola Bini, &lt;a href=&quot;https://twitter.com/olabini&quot;&gt;@olabini&lt;/a&gt;, ein weltweit bekannter Aktivist im Bereich der freien Software und engagierter Verteidiger von Grundrechten und Privatsphäre wurde am Flughaften in Quito, Ecuador am 11. April 2019 um 15:20h verhaftet.
+Soweit wir wissen, gibt es keine Anklage gegen ihn.
+Ihm wurde nicht erlaubt mit seinen Antwälten zu sprechen, obwohl er bereits über 17 Stunden festgehalten wurde.
+Um 18:00h wurde seinen Anwälten gesagt, er würde zum Verhör ins Büro des Staatsanwalts im nördlichen Quito gebracht.&lt;/p&gt;
+&lt;p&gt;Bini ist ein schwedischer Staatsbürger, der in Equador lebt und kein fließendes Spanisch spricht.
+Er würde einen Übersetzer für seine Befragung benötigen.
+Seine Festnahme ist illegal, da ihm nicht gesagt wird, was ihm vorgeworfen wird und sein Heimatland (Schweden) entgegen internationalen Gepflogenheiten nicht über seine Festnahme informiert wurde.&lt;/p&gt;
+&lt;p&gt;Er ist der Technische Leiter des Center for Digital Autonomy und hat auf seinem Twitter-Account angekündigt, dass er für einen Kampfsportkurs nach Japan reisen wollte.
+Diese Reise war bereits über Monate geplant.
+Vor seiner Festnahme kommentierte er die Aussagen von Ecuadors Innenminister auf Twitter: [“María Paula Romo, Ecuardors Innenminister hat heute morgen in einer Pressekonferenz  behauptet, dass russische Hacker in Ecuador leben und das eine Mitglid von Wikileaks seit Jahren in Ecuador lebt.”] (https://twitter.com/olabini/status/1116341908371062794)&lt;/p&gt;
+&lt;p&gt;Bini ist bereits sein ganzes Leben Softwareentwickler und hat mit 8 Jahren als Kind angefangen zu programmieren.
+Er hat selbst zwei Programmiersprachen geschaffen und ist ein langjähriger Aktivist für freie Software und Transparenz.
+Die 2010er Ausgabe der Schwedischen Computerworld hat Bini als Top 6 der wichtigsten Entwickler des Landes geführt.&lt;/p&gt;
+&lt;p&gt;Er hat an folgenden Projekten mitgewirkt:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;loke&lt;/li&gt;
+&lt;li&gt;Seph&lt;/li&gt;
+&lt;li&gt;JesCov&lt;/li&gt;
+&lt;li&gt;JRuby&lt;/li&gt;
+&lt;li&gt;JtestR&lt;/li&gt;
+&lt;li&gt;Yecht&lt;/li&gt;
+&lt;li&gt;JvYAMLb&lt;/li&gt;
+&lt;li&gt;JvYAML-gem&lt;/li&gt;
+&lt;li&gt;RbYAML&lt;/li&gt;
+&lt;li&gt;Ribs&lt;/li&gt;
+&lt;li&gt;ActiveRecord-JDBC&lt;/li&gt;
+&lt;li&gt;Jatha&lt;/li&gt;
+&lt;li&gt;Xample&lt;/li&gt;
+&lt;li&gt;JOpenSSL&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Ola Bini Arrested in Ecuador</title>
@@ -224,6 +264,48 @@ utvecklare.&lt;/p&gt;
   </entry>
   
   <entry>
+    <title>Solidarität mit Ola Bini</title>
+    <link href="http://freeolabini.org/de/statement/"/>
+    <updated>2019-04-16T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/de/statement/</id>
+    <content type="html">&lt;h3&gt;Ola Bini ist Software-Entwickler und kein Krimineller&lt;/h3&gt;
+&lt;p&gt;Als Softwareentwickler, Aktivisten für freie und offene Software; als Individuen und Organisationen, die sich für die Verteidigung eines sicheren Internets einsetzen, protestieren wir entschieden gegen die anhaltende illegale Festnahme von Ola Bini in Ecuador.
+Er ist ein Cyber-Security-Experte, Datenschützer, Entwickler für freie Software und netzpolitischer Aktivist.
+Wir betrachten seine anhaltende Sicherungshaft als Willkür und als Angriff auf uns alle.&lt;/p&gt;
+&lt;p&gt;Ola wurde am 11. April am Flughafen von Quito verhaftet und daran gehindert, nach Japan zu fliegen.
+Seine Grundrechte wurden ihm verweigert:
+Ihm wurde nicht erklärt, was ihm vorgeworfen wird; ihm wurde keine Übersetzung in seine Muttersprache – Schwedisch – angeboten, und  ohne die Möglichkeit, das schwedische Konsulat zu kontaktiren wirde er in illegal inhaftiert – eine offenkundige Verletzung der equadorianischen Verfassung.&lt;/p&gt;
+&lt;p&gt;Erst nach 17 Stunden bekam er Zugang zu juristischer Unterstützung.
+Dreißig Stunden nach seiner Verhaftung entschied ein Gericht, dass er für 90 Tage festgehalten wird – ohne jegliche Rücksicht auf die Argumentation seiner Verteidiger, dass die gegen ihn vorgebrachten &amp;quot;Beweise&amp;quot; enorm zweifalhaft sind.
+Photos von seinen elektronischen Geräten, Büchern und sogar Aufklebern wurden von der equadorianischen Polizei auf Twitter veröffentlicht.&lt;/p&gt;
+&lt;p&gt;Der ecuadorianische Innenminister, María Paula Romo hat erst vor wenigen Tagen in einer Pressekonferenz behauptete russische Hacker und ein Wikileaks Aktivist würden in Ecuador leben.
+Der Innenminister hat kurz nach der Festnahme gegenüber der BBC behauptet Ola hätte über mehrere Jahre Julian Assange besucht und beschuldigte Ola mit der vorherigen Regierung zu kooperieren, um die aktuelle Regierung zu destabilisieren.&lt;/p&gt;
+&lt;p&gt;Ola Bini ist ein Cyber-Security-Experte und Datenschutzberater im Bereich freier und offener Software, sowie ein Verteidiger der Netzpolitik.
+Er ist ein schwedischer Staatsbürger, der seit sechs Jahren mit einer legalen Aufenhaltsgenehmigung in Ecuador lebt.
+Er liebt Ecuador und hat sich dort sein Leben aufgebaut.
+Ola war sein leben lang Software-Entwickler und hat mit 8 Jahren als Kind angefangen zu programmieren.
+Er ist ein bemerkenswerter Mitwirkender einer langen Liste an Software-Projekten, darunter OTRv4 und JRuby.
+Er ist ein Mitglied des Beratungsgremiums des europäischen Leuchtturmprojekts DECODE (grant nr 732546) über fortgeschrittene Kryptographie und Forschung zu &lt;em&gt;Privacy by Design&lt;/em&gt;.
+Seine anhaltende Inhaftierung beeinträchtigt diese wichtige Arbeit.&lt;/p&gt;
+&lt;p&gt;Vor allem aber ist Ola ein liebevoller und sozial engagierter Mensch, der sein Leben einem Kampf für Recht und Gerechtigkeit gewidmet hat.
+Er ist ein respektiertes und wichtiges Mitglied unserer Gemeinschaft.
+Er ist einer von uns.
+Seit Jahren wird unsere Gemeinschaft und unsere Arbeit verfolgt, verunglimpft und kriminalisiert.
+Olas Fall zeigt, wie angreifbar und schutzlos wir sind, wie einfach wir zum Ziel werden und wie einfach Regierrungen ihre Macht missbrauchen können um uns willkürlich anzugreifen.&lt;/p&gt;
+&lt;p&gt;Equadors Vorgehen gegen Ola geht uns alle an.
+Wenn wir es zulassen, dass Mitglieder unser Gemeinschaft öffentlich als Spione, Hacker, heimliche Verschwörer oder Eindringline hingestellt werden, dann sind wir kurz davor, alle als Gefahr für die Gesellschaft diskreditiert zu werden.&lt;/p&gt;
+&lt;p&gt;Deshalb müssen wir jetzt unsere Stimmen erheben und verlangen, dass Equador Ola Bini umgehend bedingungslos frei lässt – und selbstverständlich alle Verfahren gegen ihn fallen einstellt.&lt;/p&gt;
+&lt;p&gt;Es ist kein Verbrechen, sich für das Recht auf Privatsphäre einzusetzen.
+Es ist kein Verbrechen, sich für das Recht auf freie und offene Software einzusetzen.
+Ola widmet sein Leben dem Kampf für unser aller Freiheit.
+Jetzt ist es an uns, für Olas Freiheit zu kämpfen.&lt;/p&gt;
+&lt;p&gt;Wir wollen ihn zurück, wir wollen ihn in Sicherheit, wir wollen ihn in Freiheit!&lt;/p&gt;
+&lt;p&gt;#FreeOlaBini&lt;/p&gt;
+&lt;h3&gt;Bitte fügt euch oder eure Organisation hinzu: &lt;a href=&quot;mailto:signatures@freeolabini.org&quot; id=&quot;text-links&quot;&gt;signatures@freeolabini.org&lt;/a&gt;&lt;/h3&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>Free Ola Bini Solidarity Letter</title>
     <link href="http://freeolabini.org/en/statement/"/>
     <updated>2019-04-16T02:00:00+02:00</updated>
@@ -395,6 +477,47 @@ vill att han ska få sin frihet!&lt;/p&gt;
 &lt;h3&gt;Skriv under vårt stöduttalande&lt;/h3&gt;
 &lt;p&gt;Skriv under med ditt eller din organisations namn genom att mejla
 &lt;a href=&quot;mailto:signatures@freeolabini.org&quot; id=&quot;text-links&quot;&gt;signatures@freeolabini.org&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Ola Bini über seine willkürliche Haft in El Inca, Ecuador</title>
+    <link href="http://freeolabini.org/de/statement-from-ola/"/>
+    <updated>2019-04-17T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/de/statement-from-ola/</id>
+    <content type="html">&lt;h3&gt;Eine Nachricht von Ola Bini&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Als erstes möchte ich meinen internationalen Unterstützern danken.
+Ich habe gehört dass mein Fall Aufmerksamkeit und Unterstützung überall auf der Welt erfährt und dafür bin ich so dankbar, dass mir die Worte fehlen.
+An meine Freunde, meine Familie und die, die mir am nächsten sind: All meine Liebe – ich denke die ganze Zeit an euch.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ich glaube sehr an das Recht auf Privatsphäre.
+Ohne Privatsphäre können wir keine Selbstbestimmtheit entwickeln – und ohne Selbstbestimmtheit sind wir Sklaven.
+Deshalb habe ich mein Leben diesem Kapf gewidmet.
+Überwachung ist eine Bedrohung für uns alle, wir müssen sie stoppen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Die Mächtigen dieser Welt führen einen Kampf gegen das freie Wissen.
+Gegen mich wurde eine Anklage konstruiert aufgrund der Bücher, die ich lese und der Technologien, die ich nutze.
+Wir kennen das als Orwell&#39;sche &lt;em&gt;Gedankenverbrechen&lt;/em&gt;.
+Das können wir nicht zulassen.
+Diese Welt wird uns immer mehr einengen, bis wir keinen Freiraum mehr haben.
+Wenn Equador damit durchkommt, dann schaffen das auch andere.
+Wir müssen diese Entwicklung jetzt stoppen, bevor es zu spät ist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ich bin mir sicher, dass es für alle klar wird, dass meine Anklage substanzlos ist und in sich zusammenbrechen wird.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ich kann mir eine Aussage über das equadorianische Gefängnissystem nicht verkneifen.
+Meine Gefangenschaft ist zwar unter vergleichsweise humanen Bedingungen, aber die Zustände hier sind immer noch verabscheuenswürdig.
+Dieses Land braucht dringend eine Gefängnisreform.
+Meine Gedanken gehen an meine Mitgefangenen in Ecuador.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Ola Bini&lt;/h3&gt;
 </content>
   </entry>
   
