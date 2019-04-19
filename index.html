@@ -9,6 +9,7 @@
     <link rel="alternate" hreflang="fr" href="/fr/">
     <link rel="alternate" hreflang="it" href="/it/">
     <link rel="alternate" hreflang="fr" href="/fr/">
+    <link rel="alternate" hreflang="fr" href="/pt/">
     <link rel="stylesheet" href="/css/line-awesome.min.css">
     <link rel="stylesheet" href="/css/tachyons.min.css">
     <link rel="stylesheet" href="/css/style.css">
@@ -36,6 +37,7 @@
           <a href="/en/" class="link dim mid-gray ttu">English</a> &nbsp;
           <a href="/fr/" class="link dim mid-gray ttu">Français</a> &nbsp;
           <a href="/it/" class="link dim mid-gray ttu">Italiano</a> &nbsp;
+          <a href="/it/" class="link dim mid-gray ttu">Português</a> &nbsp;
         </nav>
       </header>
       <div id="content">
@@ -44,16 +46,18 @@
                 <script>
     console.log('lang', language)
     var language = navigator.language
-    if (language.indexOf('en') > -1) {
+    if (language.indexOf('en') === 0) {
       document.location.href = '/en/'
-    } else if (language.indexOf('sv') > -1) {
+    } else if (language.indexOf('sv') === 0) {
       document.location.href = '/sv/'
-    } else if (language.indexOf('it') > -1) {
+    } else if (language.indexOf('it') === 0) {
       document.location.href = '/it/'
-    } else if (language.indexOf('es') > -1) {
+    } else if (language.indexOf('es') === 0) {
       document.location.href = '/es/'
-    } else if (language.indexOf('fr') > -1) {
+    } else if (language.indexOf('fr') === 0) {
       document.location.href = '/fr/'
+    } else if (language.indexOf('pt') === 0) {
+      document.location.href = '/pt/'
     }
     </script>
     <ul>
