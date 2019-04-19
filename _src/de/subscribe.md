@@ -1,8 +1,6 @@
 ---
 title: Abonniere unseren Newsletter
 layout: base.njk
-tags:
-  - de
 image: /img/ola.jpg
 ---
 
