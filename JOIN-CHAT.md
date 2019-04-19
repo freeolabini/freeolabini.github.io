@@ -4,9 +4,10 @@ If you would like to chat with the people working on #FreeOlaBin and help out, p
 
 1. Go to https://is.gd/freeolabini
 
-2. ![](https://freeolabini.org/img/login.png)
+![](https://freeolabini.org/img/login.png)
 
-If you have a Wire account already, log in by clicking the link at the bottom, if you don't, go here in a different tab and make one: https://app.wire.com
+
+2. If you have a Wire account already, log in by clicking the link at the bottom, if you don't, go here in a different tab and make one: https://app.wire.com
 
 If you prefer to not use a wire account, just entered your name and proceed, you will access to the room as a guest for 24 hours.
 
