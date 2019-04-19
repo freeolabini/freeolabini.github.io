@@ -4,7 +4,7 @@
   <subtitle>Campaign to Free Ola Bini</subtitle>
   <link href="https://freeolabini.org/feed.xml" rel="self"/>
   <link href="http://freeolabini.org/"/>
-  <updated>2019-04-18T21:09:54.038+02:00</updated>
+  <updated>2019-04-19T11:41:47.283+02:00</updated>
   <id>https://freeolabini.org/</id>
   <author>
     <name>Free Ola Bini</name>
@@ -116,6 +116,37 @@
 &lt;p&gt;È il direttore tecnico del Center for Digital Autonomy ed aveva pubblicato sul suo account Twitter che stava per recarsi in Giappone per un corso di arti marziali, un viaggio programmato da oltre un mese. Prima di partre aveva visto le dichiarazioni del Ministro degli Interni dell&#39;Ecuador, e aveva scritto su Twitter: &amp;quot;María Paula Romo, ministro dell&#39;Interno dell&#39;Ecuador, questa mattina ha tenuto una conferenza stampa, sostenendo che ci sono hacker russi in Ecuador, e anche che c&#39;è una persona parte di Wikileaks che vive in Ecuador da diversi anni.&amp;quot;(https://twitter.com/olabini/status/1116341908371062794)&lt;/p&gt;
 &lt;p&gt;Bini è stato un programmatore di software per tutta la sua vita. Inizió a programmare da bambino a soli 8 anni ed è autore di due linguaggi di programmazione. Da molto tempo è un attivista nel campo della privacy on-line e Software Libero. Nel 2010 Computerworld Svezia, ha nominato Ola Bini come il 6° miglior sviluppatore del paese.&lt;/p&gt;
 &lt;p&gt;Ha contribuito a:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;loke&lt;/li&gt;
+&lt;li&gt;Seph&lt;/li&gt;
+&lt;li&gt;JesCov&lt;/li&gt;
+&lt;li&gt;JRuby&lt;/li&gt;
+&lt;li&gt;JtestR&lt;/li&gt;
+&lt;li&gt;Yecht&lt;/li&gt;
+&lt;li&gt;JvYAMLb&lt;/li&gt;
+&lt;li&gt;JvYAML-gem&lt;/li&gt;
+&lt;li&gt;RbYAML&lt;/li&gt;
+&lt;li&gt;Ribs&lt;/li&gt;
+&lt;li&gt;ActiveRecord-JDBC&lt;/li&gt;
+&lt;li&gt;Jatha&lt;/li&gt;
+&lt;li&gt;Xample&lt;/li&gt;
+&lt;li&gt;JOpenSSL&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Ola Bini Preso no Equador</title>
+    <link href="http://freeolabini.org/pt/ola-bini-arrest/"/>
+    <updated>2019-04-12T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/pt/ola-bini-arrest/</id>
+    <content type="html">&lt;p&gt;As pessoas que trabalham com software livre e a privacidade não devem ser criminalizadas&lt;/p&gt;
+&lt;p&gt;Não há nada criminoso em querer privacidade.&lt;/p&gt;
+&lt;p&gt;Ola Bini, @olabini, uma reconhecida figura na área do software livre mundial e defensor dos direitos digitais e a privacidade na Internet, foi detido no aeroporto de Quito, Equador às 15h20 do 11 de abril de 2019. Até aonde se sabe, não há acusações nem provas contra ele. Não foi permitido os seus advogados se reunirem com ele todo o dia de ontem (11 de abril). Às 18h00 disseram que iria mover para a Unidade de Flagrantes da Procuradoria nocentro norte de Quito para prestar declarações sobre uma investigação da Procuradoria da província de Pichincha.&lt;/p&gt;
+&lt;p&gt;Bini, cidadão sueco residente no Equador não fala fluentemente espanhol e necessita de um intérprete para prestar qualquer declaração. Ele foi detido ilegalmente, sem acusações conhecidas, sem comunicar as autoridades de seu país (Suécia) a sua detenção como estabelecem os protocolos internacionais.&lt;/p&gt;
+&lt;p&gt;Bini é o Diretor Técnico do Centro de Autonomia Digital e havia publicado em sua conta de twitter que viajaria ao Japão para um curso de artes marciais, uma viagem planejada mais de um mês. Viu os comentários da ministra do Interior e twitou: “María Paula Romo, a Ministra do Interior do Equador, esta manhã realizou uma coletiva de imprensa, aonde alegava que hackers russos vivem no Equador, e que uma pessoa próxima de Wikileaks vive aquí também”.&lt;/p&gt;
+&lt;p&gt;Bini tem sido um programador de software toda a sua vida. Começou a programar desde os 8 anos e criou duas linguagens de programação. É um ativista de privacidade e software livre por muito tempo. Em 2010, Computerworld na Suécia, nomeou como o 6º melhor desenvolvedor do país.&lt;/p&gt;
+&lt;p&gt;Ele contribuiu com:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;loke&lt;/li&gt;
 &lt;li&gt;Seph&lt;/li&gt;
@@ -278,6 +309,27 @@ utvecklare.&lt;/p&gt;
   </entry>
   
   <entry>
+    <title>Carta de Solidaridade pela Liberdade de Ola Bini</title>
+    <link href="http://freeolabini.org/pt/statement/"/>
+    <updated>2019-04-16T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/pt/statement/</id>
+    <content type="html">&lt;h3&gt;Ola Bini é um desenvolvedor, não é um criminoso.&lt;/h3&gt;
+&lt;p&gt;Como tecnólogos/as, desenvolvedores/as de código livre e aberto, e como pessoas e organizações que trabalham para proteger a segurança na Internet, queremos denunciar e repudiar a prisão ilegal de Ola Bini no Equador. Ola Bini é um especialista em cibersegurança, consultor de privacidade, desenvolvedor e defensor do código aberto e defensor dos Direitos Digitais. Vemos a sua prisão preventiva como arbitrária e como um ataque contra toda nossa comunidade, e, portanto, contra nós mesmos.&lt;/p&gt;
+&lt;p&gt;Ola foi detido no aeroporto de Quito no dia 11 de Abril, após impedirem de embarcar em um avião para Japão como havia planejado há meses. Durante sua detenção seus direitos básicos a assistência legal foram negados: não foi informado sobre as acusações contra ele; não forneceram um tradutor para a sua língua nativa, língua sueca; e foi mantido sob custódia ilegal, já que foi negada a possibilidade de se comunicar com o consul sueco, e de ter acesso a seu advogado. Este é um flagrante desrespeito ao expressado pela constituição Equatoriana em relação aos direitos básicos das pessoas.&lt;/p&gt;
+&lt;p&gt;Finalmente, depois de 17 horas, foi concedido acesso a assistência legal e, 30 horas depois de sua detenção, um juiz ordenou a sua prisão preventiva por 90 dias, descartando todos os argumentos da defesa de Ola e apresentando provas extremamente duvidosas obtidas pela polícia e a procuradoria. Para somar a esta lista de irregularidades da sua detenção, é necessário mencionar que a conta de twitter da polícia Equatoriana publicou fotografias de livros, adesivos e o equipamento de trabalho de Ola como evidências.&lt;/p&gt;
+&lt;p&gt;Depois de sua prisão, a Ministra do Interior de Equador, María Paula Romo, -- a qual dias antes havia realizado uma conferência de imprensa afirmando que os /&amp;quot;hackers&amp;quot; russos e um membro de Wikileaks viviam no Equador--, disse para a BBC que Ola havia visitado Julian Assange em várias ocasiões ao longo dos anos, e o acusou de colaborar com ex-funcionários do governo para desestabilizar o governo atual.&lt;/p&gt;
+&lt;p&gt;Ola Bini é um especialista em cibersegurança, consultor de privacidade no campo do código aberto e livre, assim como um reconhecido defensor dos Direitos Digitais. Ele é um cidadão sueco que vive no Equador com visto válido por 6 anos. Vive no Equador pois é um país que ama e onde construiu sua vida. Ola é desenvolvedor de software toda a sua vida, iniciando na programação quando era uma criança de 8 anos. Ele é um grande contribuidor de uma varidade de projetos, entre eles, OTR versão 4 e JRuby, e é membro do conselho assessor do emblemático projeto europeu DECODE (registro n. 732546) sobre criptografia avançada e a privacidade por design. A sua detenção afeta negativamente esse importante trabalho.&lt;/p&gt;
+&lt;p&gt;Mas além disso, Ola é uma pessoa amável e carinhosa, que dedica a sua vida naquilo que acredita que é correto e justo. É um membro respeitado e importante de nossa comunidade. É um dos nossos. Por anos nossa comunidade, nosso trabalho tem sido perseguido, difamado e criminalizado. O caso de Ola prova mais uma vez o quão vulneráveis e desprotegidos estamos, quão fácil podemos ser atacados e quão fácil é para agentes estatais abusarem de seu poder de forma arbitrária contra o nosso trabalho.&lt;/p&gt;
+&lt;p&gt;As ações do governo de Equador contra Ola impacta contra todos nós. Se os membros de nossa comunidade são apresentado publicamente como espiões, hackers, conspiradores ocultos, intrusos, então, todos corremos o risco de sermos identificados como um perigo para a sociedade.&lt;/p&gt;
+&lt;p&gt;Por isso é muito importante que levantar as nossas vozes e demandar que as autoridades equatorianas libertem imediatamente Ola Bini e que retirem incondicionalmente todas as acusações contra ele.&lt;/p&gt;
+&lt;p&gt;Defender o direito a privacidade não é um crime. Defender o direito ao software livre e aberto não é um crime. Ola dedica a sua vida a libertade de todas e todos. Agora, é nossa vez de lutar pela liberdade de Ola.&lt;/p&gt;
+&lt;p&gt;Nós queremos ele seguro, nós queremos ele de volta, nós queremos ele livre!&lt;/p&gt;
+&lt;p&gt;#FreeOlaBini&lt;/p&gt;
+&lt;h3&gt;Por favor adicione a sua organização/você nesta declaração de apoio enviando um email para: &lt;a href=&quot;mailto:signatures@freeolabini.org&quot; id=&quot;text-links&quot;&gt;signatures@freeolabini.org&lt;/a&gt;&lt;/h3&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>Brev till stöd för Ola Binis frigivande</title>
     <link href="http://freeolabini.org/sv/statement/"/>
     <updated>2019-04-16T02:00:00+02:00</updated>
@@ -382,7 +434,7 @@ vill att han ska få sin frihet!&lt;/p&gt;
 &lt;p&gt;In primo luogo, voglio ringraziare tutti i miei sostenitori là fuori. Mi è stato detto dell&#39;attenzione che questo caso sta ricevendo da tutto il mondo e lo apprezzo più di quanto possa esprimere. Ai miei amici, familiari e vicini: tutto il mio amore - siete costantemente nei miei pensieri.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Credo fermamente nel diritto alla privacy. Senza la privacy, non possiamo avere azione morale, e senza l&#39;azione siamo schiavi. Ecco perché ho dedicato la mia vita a questa lotta. La vigilanza è una minaccia per tutti noi, dobbiamo fermarla.&lt;/p&gt;
+&lt;p&gt;Credo fermamente nel diritto alla privacy. Senza privacy perdiamo la libertà di agire, e senza l&#39;azione siamo schiavi. Ecco perché ho dedicato la mia vita a questa lotta. La vigilanza è una minaccia per tutti noi, dobbiamo fermarla.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;I leader del mondo stanno conducendo una guerra contro la conoscenza. Il caso contro di me si basa sui libri che ho letto e sulla tecnologia che ho. Questo è un ThoughtCrime Orwelliano. Non possiamo permettere che questo accada. Il mondo si chiuderà sempre più vicino attorno a noi, finché non ci sarà rimasto nulla. Se l&#39;Ecuador può fare questo, anche gli altri possono farlo. Dobbiamo fermare questa idea ora, prima che sia troppo tardi.&lt;/p&gt;
@@ -399,25 +451,55 @@ vill att han ska få sin frihet!&lt;/p&gt;
   </entry>
   
   <entry>
-    <title>Ola Bini’s statement from arbitrary detention at El Inca Prison, Ecuador</title>
+    <title>Carta de Ola Bini da prisão de El Inca, Equador</title>
+    <link href="http://freeolabini.org/pt/statement-from-ola/"/>
+    <updated>2019-04-17T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/pt/statement-from-ola/</id>
+    <content type="html">&lt;p&gt;Primeiro, quero agradecer a todas as pessoas que estão me apoiando aí fora. Me contaram da atenção que este caso despertou no mundo todo e isso é algo que agradeço mais do posso expressar com palavras. A minha família, meus amigos, a todos os que estão próximos, mando todo meu amor. Tenho sempre em meus pensamentos.&lt;/p&gt;
+&lt;p&gt;Creio firmemente no direito a privacidade. Sem privacidade não é possível agir e sem agir, somos escravos. Por isso dediquei a minha vida a esta luta. A vigilância é uma ameaça para todos nós, e nós devemos pará-la.&lt;/p&gt;
+&lt;p&gt;Os líderes do mundo estão promovendo uma guerra contra o conhecimento. O caso contra mim é baseado nos livros que eu tenho lido e da tecnologia que eu tenho. Isso é algo Orwelliano - uma Crimideia. Não podemos deixar que isso aconteça. O mundo se fechará mais e mais ao nosso redor até que não nos reste mais nada. Se o Equador pode fazer isso, outros também podem. Temos que parar essa ideia agora, antes que isso seja tarde demais.&lt;/p&gt;
+&lt;p&gt;Eu tenho confiança que será óbvio que não há substância para esse caso, e que isso acabará em nada.&lt;/p&gt;
+&lt;p&gt;Não posso evitar de falar algo sobre o sistema penal equatoriano. Eu estou sendo detido nas melhores circunstâncias e ainda assim é terrível. É necessário uma séria reforma. Meus pensamentos vão para todos os demais presos no Equador.&lt;/p&gt;
+&lt;h3&gt;Ola Bini&lt;/h3&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Uttalande av Ola Bini från sin godtyckliga fångenskap i El Inca-fängelset, Ecuador</title>
     <link href="http://freeolabini.org/sv/statement-from-ola/"/>
     <updated>2019-04-17T02:00:00+02:00</updated>
     <id>http://freeolabini.org/sv/statement-from-ola/</id>
     <content type="html">&lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;First, I want to thank all my supporters out there. I&#39;ve been told about the attention this case is getting from all the world, and I appreciate it more than I can say. To my friends, family and nearest ones: all my love - you&#39;re constantly in my thoughts.&lt;/p&gt;
+&lt;p&gt;Först av allt vill jag tacka för allt stöd där ute. Man har berättat för mig
+om vilken uppmärksamhet som det här fallet fått över hela världen och jag
+kan inte med ord beskriva hur mycket jag uppskattar det. Till mina
+vänner, min familj och mina närmaste: all min kärlek till er -- ni
+finns ständigt i mina tankar.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;I believe strongly in the right to privacy. Without privacy, we can&#39;t have agency, and without agency we are slaves. That&#39;s why I have dedicated my life to this struggle. Surveillance is a threat to us all, we must stop it.&lt;/p&gt;
+&lt;p&gt;Jag tror starkt på rätten till personlig integritet. Utan integritet har
+vi inget självbestämmande och utan självbestämmande är vi
+slavar. Därför har jag vigt mitt liv åt den här
+kampen. Övervakning är ett hot mot oss alla och den måste stoppas.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;The leaders of the world are waging a war against knowledge. The case against me is based on the books I&#39;ve read and the technology I have. This is Orwellian - ThoughtCrime. We can&#39;t let this happen. The world will close in closer and closer on us, until we have nothing left. If Ecuador can do this, so can others. We have to stop this idea now, before it&#39;s too late.&lt;/p&gt;
+&lt;p&gt;Världens ledare för ett krig mot kunskap. Mitt fall
+baseras på vilka böcker jag läser och vilka teknikprylar jag
+äger. Det hela är Orwellskt -- krimtänk. Vi får inte låta det här
+hända. Världen kryper närmare och närmare inpå oss, tills vi inte har
+någonting kvar. Om Ecuador kan göra så här, så kan också andra.
+Vi måste stoppa de här tankegångarna nu, innan det är för sent.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;I&#39;m confident it will be obvious that there&#39;s no substance to this case, and that it will collapse into nothing.&lt;/p&gt;
+&lt;p&gt;Jag är övertygad om att det kommer att visa sig att det här fallet
+saknar all substans, och att luften kommer att gå ur ballongen.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;I can&#39;t avoid saying a word about the Ecuadorian penal system. I&#39;m being held under the best circumstances and it&#39;s still despicable. There needs to be serious reform. My thoughts go out to all fellow inmates in Ecuador.&lt;/p&gt;
+&lt;p&gt;Jag måste också säga något om det ecuadorianska straffrättsliga systemet. Jag
+hålls fängslad under de bästa förhållanden men det är ändå avskyvärt.
+Här krävs genomgripande reform. Mina tankar går till
+alla mina medfångar i Ecuador.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3&gt;Ola Bini&lt;/h3&gt;
