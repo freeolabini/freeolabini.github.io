@@ -5,7 +5,7 @@ image: /img/ola.jpg
 eleventyExcludeFromCollections: true
 ---
 
-Nosso estimado colega, Ola bini, está detido como preso político pelo governo do Equador. Por favor, mostre o seu apoio com essas ações:
+Nosso estimado colega, Ola Bini, está detido como preso político pelo governo do Equador. Por favor, mostre o seu apoio com essas ações:
 
 1) Assine a nossa <a href="/pt/statement" id="text-links">carta de solidariedade</a> da comunidade tech
 2) Siga <a href="https://twitter.com/FreeOlaBini" id="text-links">@FreeOlaBini</a>, twite <a href="https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Defensor+dos+direitos+digitais+Ola+Bini+foi+detido+no+Equador.+Por+favor+siga+@FreeOlaBini+%23FreeOlaBini" id="text-links">#FreeOlaBini</a> e visite o site freeolabini.org para atualizações
