@@ -7,8 +7,8 @@ tags:
   - de
 ---
 
-Unser geschätzter Kollege Ola Bin wird on Equador als politischer Gefanger festgehalten.
-Bitte zeigt eure Unterstützung:
+Unser geschätzter Kollege Ola Bini wird on Equador als politischer Gefanger festgehalten.
+Bitte zeigt eure Unterstützung!
 
 1. Unterschreibt den <a href="/de/statement" id="text-links">Solidarity Letter</a> der Tech Community
 2. Folgt <a href="https://twitter.com/FreeOlaBini" id="text-links">@FreeOlaBini</a>, twittert <a href="https://twitter.com/search?q=%23freeolabini" id="text-links">#FreeOlaBini</a> oder besucht regelmäßig <a href="https://freeolabini.org" id="text-links">freeolabini.org</a> für Updates
