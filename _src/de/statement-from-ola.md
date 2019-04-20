@@ -14,7 +14,7 @@ title: Ola Bini über seine willkürliche Haft in El Inca, Ecuador
 Ich habe gehört dass mein Fall Aufmerksamkeit und Unterstützung überall auf der Welt erfährt und dafür bin ich so dankbar, dass mir die Worte fehlen.
 An meine Freunde, meine Familie und die, die mir am nächsten sind: All meine Liebe – ich denke die ganze Zeit an euch.
 
-2. Ich glaube sehr an das Recht auf Privatsphäre.
+2. Ich glaube fest an das Recht auf Privatsphäre.
 Ohne Privatsphäre können wir keine Selbstbestimmtheit entwickeln – und ohne Selbstbestimmtheit sind wir Sklaven.
 Deshalb habe ich mein Leben diesem Kapf gewidmet.
 Überwachung ist eine Bedrohung für uns alle, wir müssen sie stoppen.
@@ -29,7 +29,7 @@ Wir müssen diese Entwicklung jetzt stoppen, bevor es zu spät ist.
 
 4. Ich bin mir sicher, dass es für alle klar wird, dass meine Anklage substanzlos ist und in sich zusammenbrechen wird.
 
-5. Ich kann mir eine Aussage über das equadorianische Gefängnissystem nicht verkneifen.
+5. Ich kann mir eine Kritik am equadorianischen Gefängnissystem nicht verkneifen.
 Meine Gefangenschaft ist zwar unter vergleichsweise humanen Bedingungen, aber die Zustände hier sind immer noch verabscheuenswürdig.
 Dieses Land braucht dringend eine Gefängnisreform.
 Meine Gedanken gehen an meine Mitgefangenen in Ecuador.  
