@@ -5,6 +5,10 @@ collection: it
 image: /img/ola.jpg
 eleventyExcludeFromCollections: true
 ---
+<p>
+  <img src="/img/ola_drawing.jpg" class="db w-40"/>
+</p>
+
 Il nostro stimato collega, Ola Bini, è detenuto come prigioniero politico in Ecuador. Unisciti a noi in suo sostegno:
 
 1. Firma la [lettera di solidarietà] della nostra tech community

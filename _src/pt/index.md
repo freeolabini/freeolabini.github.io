@@ -5,6 +5,10 @@ collection: pt
 image: /img/ola.jpg
 eleventyExcludeFromCollections: true
 ---
+<p>
+  <img src="/img/ola_drawing.jpg" class="db w-40"/>
+</p>
+
 
 Nosso estimado colega, Ola Bini, está detido como preso político pelo governo do Equador. Por favor, mostre o seu apoio com essas ações:
 
@@ -15,7 +19,7 @@ Nosso estimado colega, Ola Bini, está detido como preso político pelo governo 
 5. [Inscreva-se] no nosso boletim para receber atualizações
 
 [carta de solidariedade]: /pt/statement/
-[Envie um email]: https://www.codepink.org/free-ola-bini 
+[Envie um email]: https://www.codepink.org/free-ola-bini
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
 [#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini&hashtags=FreeOlaBini
 [support@freeolabini.org]: mailto:support@freeolabini.org

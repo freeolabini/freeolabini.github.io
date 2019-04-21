@@ -5,6 +5,10 @@ collection: sv
 image: /img/ola.jpg
 eleventyExcludeFromCollections: true
 ---
+<p>
+  <img src="/img/ola_drawing.jpg" class="db w-40"/>
+</p>
+
 Vår högt uppskattade kollega Ola Bini är gripen och hålls som politisk fånge i Ecuador. Agera nu för att visa ditt stöd:
 
 1. Skriv under vårt [stöduttalande] från den tekniska communityn
@@ -14,7 +18,7 @@ Vår högt uppskattade kollega Ola Bini är gripen och hålls som politisk fång
 5. [Prenumerera] på vårt nyhetsbrev för uppdateringar
 
 [stöduttalande]: /sv/statement/
-[Skicka ett mail]: https://www.codepink.org/free-ola-bini 
+[Skicka ett mail]: https://www.codepink.org/free-ola-bini
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
 [#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini&hastags=FreeOlaBini
 [support@freeolabini.org]: mailto:support@freeolabini.org

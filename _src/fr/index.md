@@ -5,6 +5,10 @@ collection: fr
 image: /img/ola.jpg
 eleventyExcludeFromCollections: true
 ---
+<p>
+  <img src="/img/ola_drawing.jpg" class="db w-40"/>
+</p>
+
 
 Notre collègue et ami, Ola Bini, a été arrêté en tant que prisonnier politique par le gouvernement équatorien et a besoin de votre aide. Montre ton soutien en promouvant et en participant à ces actions:
 
@@ -15,7 +19,7 @@ Notre collègue et ami, Ola Bini, a été arrêté en tant que prisonnier politi
 5. [Rejoins] notre bulletin d'actualités
 
 [lettre de solidarité]: /fr/statement/
-[Envoie un courrier électronique]: https://www.codepink.org/free-ola-bini 
+[Envoie un courrier électronique]: https://www.codepink.org/free-ola-bini
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
 [#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini&hashtags=FreeOlaBini
 [support@freeolabini.org]: mailto:support@freeolabini.org

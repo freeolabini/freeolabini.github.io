@@ -5,6 +5,10 @@ collection: de
 image: /img/ola.jpg
 eleventyExcludeFromCollections: true
 ---
+<p>
+  <img src="/img/ola_drawing.jpg" class="db w-40"/>
+</p>
+
 
 Unser geschätzter Kollege Ola Bini wird on Equador als politischer Gefanger festgehalten.
 Bitte zeigt eure Unterstützung!
@@ -16,7 +20,7 @@ Bitte zeigt eure Unterstützung!
 4. [Abonniert] unseren Newsletter
 
 [solidarity letter]: /de/statement/
-[Senden Sie eine E-mail]: https://www.codepink.org/free-ola-bini 
+[Senden Sie eine E-mail]: https://www.codepink.org/free-ola-bini
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
 [#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini&hashtags=FreeOlaBini
 [support@freeolabini.org]: mailto:support@freeolabini.org
