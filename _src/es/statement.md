@@ -34,5 +34,5 @@ Defender el derecho a la privacidad no es un delito. Defender el derecho al soft
 
 #FreeOlaBini
 
-### Por favor agrega a tu organización o a ti a esta declaración de apoyo enviando un email a: <a href="mailto:signatures@freeolabini.org" id="text-links">signatures&#64;freeolabini.org</a>
+### Por favor agrega a tu organización o a ti a esta declaración de apoyo enviando un email a: <a href="mailto:signatures@freeolabini.org?subject=Signature #FreeOlaBini&body=Indícanos si estas firmando como organización o personalmente. En ambos casos envíanos un link a su sitio web con declaración de apoyo a Ola, o a tu perfil de twitter. En caso de firmar como organización, por favor enviarnos un logo para uso en fondo blanco(png, jpeg).%0D%0A%0D%0Aname:%0D%0Aurl:%0D%0Aimage:%0D%0A" id="text-links">signatures&#64;freeolabini.org</a>
 
