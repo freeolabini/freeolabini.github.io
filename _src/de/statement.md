@@ -53,4 +53,6 @@ Wir wollen ihn zurück, wir wollen ihn in Sicherheit, wir wollen ihn in Freiheit
 
 #FreeOlaBini
 
-### Bitte fügt euch oder eure Organisation hinzu: <a href="mailto:signatures@freeolabini.org" id="text-links">signatures&#64;freeolabini.org</a>
+### Bitte fügt euch oder eure Organisation hinzu: [signatures@freeolabini.org]
+
+[signatures@freeolabini.org]: mailto:signatures@freeolabini.org?subject=Signature+#FreeOlaBini&body=Let%20us%20know%20if%20you%20are%20signing%20as%20an%20organization%20or%20personally.%20In%20both%20cases%20send%20us%20a%20link%20to%20your%20website%20with%20statement%20of%20support%20for%20Ola,%20or%20your%20twitter%20profile.%20In%20case%20of%20an%20organization%20please%20send%20a%20logo%20for%20white%20background(png/jpg).%0D%0A%0D%0Aname:%0D%0Aurl:%0D%0Aimage:%0D%0A

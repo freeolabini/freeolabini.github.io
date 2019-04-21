@@ -32,4 +32,6 @@ Nós queremos ele seguro, nós queremos ele de volta, nós queremos ele livre!
 
 #FreeOlaBini
 
-### Por favor adicione a sua organização/você nesta declaração de apoio enviando um email para: <a href="mailto:signatures@freeolabini.org" id="text-links">signatures@freeolabini.org</a>
+### Por favor adicione a sua organização/você nesta declaração de apoio enviando um email para: [signatures@freeolabini.org]
+
+[signatures@freeolabini.org]: mailto:signatures@freeolabini.org?subject=Signature+#FreeOlaBini&body=Let%20us%20know%20if%20you%20are%20signing%20as%20an%20organization%20or%20personally.%20In%20both%20cases%20send%20us%20a%20link%20to%20your%20website%20with%20statement%20of%20support%20for%20Ola,%20or%20your%20twitter%20profile.%20In%20case%20of%20an%20organization%20please%20send%20a%20logo%20for%20white%20background(png/jpg).%0D%0A%0D%0Aname:%0D%0Aurl:%0D%0Aimage:%0D%0A
