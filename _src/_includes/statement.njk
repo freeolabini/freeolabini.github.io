@@ -3,7 +3,6 @@ layout: post.njk
 ---
 {{ content | safe }}
 <h2>Signatories</h2>
-<div class="lh-copy">
 <div class="flex flex-wrap">
 {%- for signature in collections.signatureOrgs -%}
   <div class="w-40-ns w-100 mw5 ma2 bg-white pa3 pa4-ns mv3">
@@ -13,7 +12,6 @@ layout: post.njk
     </a>
   </div>
 {%- endfor -%}
-</div>
 <div class="lh-solid tc">
 {%- for signature in collections.signatures -%}
   <a class="bg-dark-gray white link dim dib ma2 pa2" href="{{ signature.data.url }}">{{ signature.data.name | replace(" ", "&nbsp;") | safe }}</a>

@@ -1,18 +1,23 @@
 ---
 title: Ola Bini Preso no Equador
-layout: base.njk
+layout: index.njk
+collection: pt
 image: /img/ola.jpg
 eleventyExcludeFromCollections: true
 ---
 
 Nosso estimado colega, Ola Bini, está detido como preso político pelo governo do Equador. Por favor, mostre o seu apoio com essas ações:
 
-1) Assine a nossa <a href="/pt/statement" id="text-links">carta de solidariedade</a> da comunidade tech
-2) Siga <a href="https://twitter.com/FreeOlaBini" id="text-links">@FreeOlaBini</a>, twite <a href="https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Defensor+dos+direitos+digitais+Ola+Bini+foi+detido+no+Equador.+Por+favor+siga+@FreeOlaBini+%23FreeOlaBini" id="text-links">#FreeOlaBini</a> e visite o site freeolabini.org para atualizações
-3) Envie um email <a href="mailto:support@freeolabini.org" id="text-links">support&#64;freeolabini.org</a> se você quer ajudar nessa campanha
-4) <a href="/pt/subscribe" id="text-links">Inscreva-se</a> no nosso boletim para receber atualizações
+1. Assine a nossa [carta de solidariedade] da comunidade tech
+2. [Envie um email] para o presidente do Equador através do site da campanha Pink Code's
+3. Siga [@FreeOlaBini], twite [#FreeOlaBini] e visite o site freeolabini.org para atualizações
+4. Envie um email [support@freeolabini.org] se você quer ajudar nessa campanha
+5. [Inscreva-se] no nosso boletim para receber atualizações
 
-<br><br>
+[carta de solidariedade]: /pt/statement/
+[Envie um email]: https://www.codepink.org/free-ola-bini 
+[@FreeOlaBini]: http://twitter.com/FreeOlaBini
+[#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini+%23FreeOlaBini
+[support@freeolabini.org]: mailto:support@freeolabini.org
+[Inscreva-se]: /pt/subscribe/
 
-{% set posts = collections.pt | reverse %}
-{% include "posts.njk" %}

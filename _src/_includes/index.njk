@@ -1,0 +1,8 @@
+---
+layout: base.njk
+---
+<div class="mb6" id="cta">
+{{ content | safe }}
+</div>
+{% set posts = collections[collection] | reverse %}
+{% include "posts.njk" %}
