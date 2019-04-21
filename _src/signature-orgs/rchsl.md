@@ -1,5 +1,6 @@
 ---
 image: /img/richsllogo.png
-name: Red de Investigación de Conocimiento, Software y Hardware Libre (RICHSL)
+name: RICHSL
+date: 2001-01-06
 url: https://www.conocimientolibre.ec
 ---
