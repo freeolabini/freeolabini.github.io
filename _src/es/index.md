@@ -17,7 +17,7 @@ Nuestro colega y amigo, Ola bini, ha sido detenido como preso político por el g
 [carta de solidaridad]: /es/statement/
 [Envíe un correo electrónico]: https://www.codepink.org/free-ola-bini 
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
-[#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini+%23FreeOlaBini
+[#FreeOlaBini]: https://twitter.com/intent/tweet?text=Defensor+de+los+derechos+digitales+Ola+Bini+ha+sido+encarcelado+en+Ecuador.+Sigan+@FreeOlaBini&hashtags=FreeOlaBini
 [support@freeolabini.org]: mailto:support@freeolabini.org
 [Únete]: /es/subscribe/
 

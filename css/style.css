@@ -94,7 +94,7 @@ p {
   margin-left: 10px;
 }
 
-#text-links {
+#text-links, #cta a {
   background: #3c3c3c;
   color: white;
   text-decoration: none;

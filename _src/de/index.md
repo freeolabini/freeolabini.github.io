@@ -18,7 +18,7 @@ Bitte zeigt eure Unterstützung!
 [solidarity letter]: /de/statement/
 [Senden Sie eine E-mail]: https://www.codepink.org/free-ola-bini 
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
-[#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini+%23FreeOlaBini
+[#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini&hashtags=FreeOlaBini
 [support@freeolabini.org]: mailto:support@freeolabini.org
 [Abonniert]: /de/subscribe/
 

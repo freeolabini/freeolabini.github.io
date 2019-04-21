@@ -16,7 +16,7 @@ Vår högt uppskattade kollega Ola Bini är gripen och hålls som politisk fång
 [stöduttalande]: /sv/statement/
 [Skicka ett mail]: https://www.codepink.org/free-ola-bini 
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
-[#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini+%23FreeOlaBini
+[#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini&hastags=FreeOlaBini
 [support@freeolabini.org]: mailto:support@freeolabini.org
 [Prenumerera]: /sv/subscribe/
 

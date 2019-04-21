@@ -16,7 +16,7 @@ Our esteemed colleague, Ola Bini, is being detained as a political prisoner in E
 [solidarity letter]: /en/statement/
 [Send an email]: https://www.codepink.org/free-ola-bini 
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
-[#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini+%23FreeOlaBini
+[#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini+%23FreeOlaBini&hashtags=FreeOlaBini
 [support@freeolabini.org]: mailto:support@freeolabini.org
 [Join]: /en/subscribe/
 
