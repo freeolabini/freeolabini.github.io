@@ -2,13 +2,9 @@
 title: Ola Bini Arrested in Ecuador
 layout: index.njk
 collection: en
-image: /img/ola.jpg
+image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
-<p>
-  <img src="/img/ola_drawing.jpg" class="db w-40"/>
-</p>
-
 Our esteemed colleague, Ola Bini, is being detained as a political prisoner in Ecuador. Please take action to show your support:
 
 1. Sign our [solidarity letter] from the tech community

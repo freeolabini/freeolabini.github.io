@@ -1,8 +1,13 @@
 ---
 layout: base.njk
 ---
-<div class="mb5 ba pa3 br3" id="cta">
-{{ content | safe }}
+<div class="mb5 pa3 dt bb bt b--silver" id="cta">
+  <div class="dtc w-40 v-top pa3">
+     <img class="nested-img" src="{{ image }}" />
+  </div>
+  <div class="dtc w-60 v-top">
+    {{ content | safe }}
+  </div>
 </div>
 {% set posts = collections[collection] | reverse %}
 {% include "posts.njk" %}

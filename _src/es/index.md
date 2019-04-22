@@ -2,14 +2,9 @@
 title: Ola Bini Arrestado En Ecuador
 layout: index.njk
 collection: es
-image: /img/ola.jpg
+image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
-<p>
-  <img src="/img/ola_drawing.jpg" class="db w-40"/>
-</p>
-
-
 Nuestro colega y amigo, Ola Bini, ha sido detenido como preso político por el gobierno de Ecuador y necesita de tu colaboración. Por favor, muestra tu apoyo a través de estas acciones:
 1. Firma la [carta de solidaridad] de la comunidad tecnológica
 2. [Envía un correo electrónico] al presidente de Ecuador a través del sitio de la campaña de Code Pink
