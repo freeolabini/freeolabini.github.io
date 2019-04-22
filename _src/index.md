@@ -12,4 +12,6 @@ eleventyExcludeFromCollections: true
 - [English](/en/)
 - [Français](/fr/)
 - [Italiano](/it/)
+- [Português](/pt/)
+- [Deutsch ](/de/)
 
