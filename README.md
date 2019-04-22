@@ -70,4 +70,4 @@ An explanation of the GitHub Standard Fork & Pull Request Workflow: https://gist
 
 ### License
 
-This website is licensed under the [GNU AGPLv3 license](LICENSE). The textual content is under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+This website is licensed under the [GNU AGPLv3 license](LICENSE). The textual content is under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
