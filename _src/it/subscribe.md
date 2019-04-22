@@ -1,6 +1,7 @@
 ---
 title: Iscriviti alla nostra mailing list
 layout: base.njk
+image: /img/oladrawing.jpg
 ---
 Cliccando sul pulsante 'Iscriviti' sarai indirizzato alla nostra newsletter su riseup.net, dove puoi iscriverti alla mailing list per ricevere aggiornamenti sulla situazione.
 

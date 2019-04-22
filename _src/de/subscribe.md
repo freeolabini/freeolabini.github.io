@@ -1,7 +1,7 @@
 ---
 title: Abonniere unseren Newsletter
 layout: base.njk
-image: /img/ola.jpg
+image: /img/oladrawing.jpg
 ---
 
 Wenn ihr den Button *Abonnieren* klickt, werdet ihr zu unserem Newsletter bei *riseup.net* weitergeleitet.

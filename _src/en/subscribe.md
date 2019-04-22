@@ -1,6 +1,7 @@
 ---
 title: Subscribe to our mailing list
 layout: base.njk
+image: /img/oladrawing.jpg
 ---
 By clicking on the 'Subscribe' button, you will be directed to our newsletter
 at 'riseup.net', where you can join the mailing list. Do this if you like to get
