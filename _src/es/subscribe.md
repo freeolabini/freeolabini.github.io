@@ -1,6 +1,7 @@
 ---
 title: Únete a nuestra lista de correos
 layout: base.njk
+image: /img/oladrawing.jpg
 ---
 Al hacer clic en "Suscribirse", será redireccionado a nuestro boletín en riseup.net, donde puede unirse a la lista de correos para obtener actualizaciones sobre la situación.
 

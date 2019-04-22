@@ -1,6 +1,7 @@
 ---
 title: Rejoigne notre liste de diffusion
 layout: base.njk
+image: /img/oladrawing.jpg
 ---
 En cliquant sur "S'abonner", tu seras redirigé vers notre newsletter sur riseup.net, où tu pourras rejoindre la liste de diffusion pour recevoir des mises à jour sur la situation.
 
