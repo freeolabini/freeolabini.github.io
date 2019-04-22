@@ -2,14 +2,9 @@
 title: Ola Bini Arrêté en Equateur
 layout: index.njk
 collection: fr
-image: /img/ola.jpg
+image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
-<p>
-  <img src="/img/ola_drawing.jpg" class="db w-40"/>
-</p>
-
-
 Notre collègue et ami, Ola Bini, a été arrêté en tant que prisonnier politique par le gouvernement équatorien et a besoin de votre aide. Montre ton soutien en promouvant et en participant à ces actions:
 
 1. Signe la [lettre de solidarité] de la communauté technologique

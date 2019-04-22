@@ -2,14 +2,9 @@
 title: Ola Bini Preso no Equador
 layout: index.njk
 collection: pt
-image: /img/ola.jpg
+image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
-<p>
-  <img src="/img/ola_drawing.jpg" class="db w-40"/>
-</p>
-
-
 Nosso estimado colega, Ola Bini, está detido como preso político pelo governo do Equador. Por favor, mostre o seu apoio com essas ações:
 
 1. Assine a nossa [carta de solidariedade] da comunidade tech
