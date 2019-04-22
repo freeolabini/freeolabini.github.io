@@ -5,6 +5,8 @@ image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
 
+# Ola Bini, is being detained as a political prisoner in Ecuador
+
 - [Español](/es/)
 - [Svenska](/sv/)
 - [English](/en/)
