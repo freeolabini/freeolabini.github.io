@@ -5,7 +5,7 @@ tags:
   - fr
 date: 2019-04-12
 image: /img/olasite.jpg
-title: Ola Bini Arrêté en Equateur
+title: Ola Bini arrêté en Equateur
 ---
 Les personnes qui travaillent dans le logiciel libre et la défense de la vie privée ne doivent pas être criminalisées
 

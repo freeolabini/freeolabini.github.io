@@ -1,5 +1,5 @@
 ---
-title: Ola Bini Arrêté en Equateur
+title: Ola Bini arrêté en Equateur
 layout: index.njk
 collection: fr
 image: /img/oladrawing.jpg
