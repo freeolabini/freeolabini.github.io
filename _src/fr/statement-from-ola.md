@@ -4,7 +4,7 @@ tags:
   - post
   - fr
 date: 2019-04-18
-image: /img/olamf.jpg
+image: /img/ola_drawing.jpg
 title: Déclaration d'Ola Bini suite à son arrestation arbitraire depuis la prison de El Inca, en Équateur
 ---
 1. Tout d’abord, je tiens à remercier toutes les personnes qui me soutiennent. On m'a parlé de l'attention que cette affaire a suscité dans le monde entier et c'est quelque chose que j'apprécie plus que ce que je pourrais exprimer avec mes mots. À ma famille, mes amis, à tous ceux qui sont proches, je vous envoie tout mon amour. Je vous ai toujours dans mes pensées.

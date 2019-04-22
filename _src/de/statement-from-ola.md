@@ -4,7 +4,7 @@ tags:
   - post
   - de
 date: 2019-04-17
-image: /img/olamf.jpg
+image: /img/ola_drawing.jpg
 title: Ola Bini über seine willkürliche Haft in El Inca, Ecuador
 ---
 
@@ -32,6 +32,6 @@ Wir müssen diese Entwicklung jetzt stoppen, bevor es zu spät ist.
 5. Ich kann mir eine Kritik am equadorianischen Gefängnissystem nicht verkneifen.
 Meine Gefangenschaft ist zwar unter vergleichsweise humanen Bedingungen, aber die Zustände hier sind immer noch verabscheuenswürdig.
 Dieses Land braucht dringend eine Gefängnisreform.
-Meine Gedanken gehen an meine Mitgefangenen in Ecuador.  
+Meine Gedanken gehen an meine Mitgefangenen in Ecuador.
 
 ### Ola Bini

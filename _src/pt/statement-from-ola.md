@@ -4,7 +4,7 @@ tags:
   - post
   - pt
 date: 2019-04-17
-image: /img/olamf.jpg
+image: /img/ola_drawing.jpg
 title: Carta de Ola Bini da prisão de El Inca, Equador
 ---
 
