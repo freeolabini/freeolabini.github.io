@@ -68,3 +68,6 @@ Always start new work by merging upstream.
 
 An explanation of the GitHub Standard Fork & Pull Request Workflow: https://gist.github.com/Chaser324/ce0505fbed06b947d962
 
+### License
+
+This website is licensed under the [GNU AGPLv3 license](LICENSE). The textual content is under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
