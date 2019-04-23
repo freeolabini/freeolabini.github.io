@@ -36,7 +36,7 @@ We appeal to the Swedish Government to take firm, immediate action. So far, the 
 
 Respectfully,
 
-### Concerned citizens
+Concerned citizens
 
 **Arundahti Roy** / Author
 
