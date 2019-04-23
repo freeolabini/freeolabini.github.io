@@ -36,7 +36,8 @@ We appeal to the Swedish Government to take firm, immediate action. So far, the 
 
 
 Respectfully,
-Concerned citizens
+
+### Concerned citizens
 
 **Arundahti Roy** / Author
 
@@ -62,42 +63,42 @@ Concerned citizens
 
 **Pablo Iglesias** / General Secretary Podemos, presidential candidate, Spain
 
-**Srecko Horvat** / Philosopher
+**Agustín Frizzera** / Director, Democracia en Red	
 
-**Vendela Vida** / author, USA
+**Aijaz Ahmad Chancellor's** / Professor in the Department of Comparative Literature, University of California (Irvine).	
 
-**Agustín Frizzera** / Director, Democracia en Red  
-**Aijaz Ahmad Chancellor's** / Professor in the Department of Comparative Literature, University of California (Irvine).
+**Albert Leger** / Artist/Activist	
 
-**Albert Leger** / Artist/Activist
+**Alberto Garzón** / Spanish MP and General Coordinator of United Left Party	
 
-**Alberto Garzón** / Spanish MP and General Coordinator of United Left Party
+**Alfredo Velazco** / Usuarios Digitales	
 
-**Alfredo Velazco** / Usuarios Digitales
+**Almudena Bernabéu** / Human Rights Lawyer, Co-founder of Guernica 37	
 
-**Almudena Bernabéu** / Human Rights Lawyer, Co-founder of Guernica 37
+**Ana Miranda** / European Parliament MP, Group of the Greens/European Free Alliance	
 
-**Ana Miranda** / European Parliament MP, Group of the Greens/European Free Alliance
+**Angela Richter** / Director	
 
-**Angela Richter** / Director
+**Anthony Arnove** / Publisher	
 
-**Anthony Arnove** / Publisher
+**Antoine Deltour** / Whistleblower	
 
-**Antoine Deltour** / Whistleblower
+**Ariovaldo Ramos** / Evengelical Front for a State of Rights	
 
-**Ariovaldo Ramos** / Evengelical Front for a State of Rights
+**Bernardo Loureiro Jurema** /	
 
-**Bernardo Loureiro Jurema** /
+**Birgitta Jónsdóttir** / Former parliamentarian for the Civic Movement & Pirate Party in the Icelandic Parliament & chairman for IMMI (International Modern Media Institute).	
 
-**Birgitta Jónsdóttir** / Former parliamentarian for the Civic Movement & Pirate Party in the Icelandic Parliament & chairman for IMMI (International Modern Media Institute).
+**Carlo Freccero** /	Rai
 
-**Carol Proner** / Member of the International Committee of the Brazilian Association of Jurists for Democracy - ABJD
-**Carolina Resende Haddad** /
+**Carol Proner** / Member of the International Committee of the Brazilian Association of Jurists for Democracy - ABJD	
+
+**Carolina Resende Haddad** /	
 
 **Christian Leon** /	Political Innovation Asuntos del Sur
 
 **Clare Daly** /	Deputy to the Dáil (MP), Independents 4 Change
- 
+
 **Colonel Ann Wright** /	Veterans for Peace and former UN Diplomat, who resigned in 2003 in opposition to the US war on Iraq
 
 **Cory Doctorow** /	Author and co-editor, Boing Boing
@@ -116,7 +117,7 @@ Concerned citizens
 
 **Eirini Mitsiou** /	Member of Coordinating Collective in DiEM25
 
-**Eleonora de Lucena** /	Journalist 
+**Eleonora de Lucena** /	Journalist
 
 **Eli Gomez Alcorta** /	Lawyer of Milagros de Sala and diverse causes of defense of human rights
 
@@ -128,7 +129,9 @@ Concerned citizens
 
 **Estefanía Torres Martínez** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
 
-**Fabio Luis Barbosa dos Santos** /	Professor at UNIFESP University Brazil 
+**Fabio Luis Barbosa dos Santos** /	Professor at UNIFESP University Brazil
+
+**Felice Cappa** /	Rai
 
 **Francesca Bria** /	CTO Barcelona and DECODE project lead
 
@@ -138,7 +141,7 @@ Concerned citizens
 
 **George Danezis** /	University College London
 
-**Geraldine de Bastion** /	Konnektiv Kollektiv 
+**Geraldine de Bastion** /	Konnektiv Kollektiv
 
 **Gerardo Pisarello** /	First Deputy Mayor Barcelona City
 
@@ -146,7 +149,7 @@ Concerned citizens
 
 **Gustavo Banegas** /	PhD Student/Technische Universiteit Eindhoven
 
-**Heike Hänsel** / 	MP, Left Party Spokesperson on the Committee on International Relations of the German Bundestag
+**Heike Hänsel** /	MP, Left Party Spokesperson on the Committee on International Relations of the German Bundestag
 
 **Heinrich Buecker** /	Coop Anti-War Cafe Berlin
 
@@ -158,7 +161,7 @@ Concerned citizens
 
 **Javier Couso Permuy** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green Left.
 
-**Jimmy Nilsson** /	Founder of factor10 
+**Jimmy Nilsson** /	Founder of factor10
 
 **João Paulo Rodrigues** /	National Direction of MST and of Brazil Popular Front
 
@@ -178,12 +181,14 @@ Concerned citizens
 
 **Joslyn Barnes** /	Film Producer
 
-**Juan Grabois** /	Lawyer, CTEP leader and Patria Grande Front member. Coordinator of the dialogues of popular 
-movements with Pope Francisco
+**Juan Grabois** /	Lawyer, CTEP leader and Patria Grande Front member. Coordinator of the dialogues of popular movements with Pope Francisco
 
 **Katharina Wojcik** /	DiEM25
 
-**Leonardo Boff** / 	Theologian,Philosopher and Member of the International Earth Charta Comission
+
+**Khadija Ryadi** /	LRecipient of the UN Prize for Human Rights
+
+**Leonardo Boff** /	Theologian,Philosopher and Member of the International Earth Charta Comission
 
 **Lola Sánchez Caldentey** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
 
@@ -191,9 +196,9 @@ movements with Pope Francisco
 
 **Maite Mola** /	Vicepresident of the Party of the European Left (PEL)
 
-**Manuel Bertoldi** / 	Patria Grande Front
+**Manuel Bertoldi** /	Patria Grande Front
 
-**Marco Antonio Santos** / 	Psychologist
+**Marco Antonio Santos** /	Psychologist
 
 **Marga Ferré** /	President of La FEC, Foundation Europe of the Citizens
 
@@ -201,11 +206,13 @@ movements with Pope Francisco
 
 **Mark Weisbrot** /	CEPR, USA
 
-**Medea Benjamin** / 	co-founder CODEPINK; Women for Peace
+**Medea Benjamin** /	co-founder CODEPINK; Women for Peace
 
-**Mick Wallace** /	Deputy to the Dáil (MP), Independents 4 Change 
+**Mick Wallace** /	Deputy to the Dáil (MP), Independents 4 Change
 
 **Miguel Urban** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
+
+**Mishi Choudhary** / Legal Director, Software Freedom Law Centre	
 
 **Moritz Bartl** /	Renewable Freedom Foundation
 
@@ -219,18 +226,21 @@ movements with Pope Francisco
 
 **Nicolás Díaz Cruz** /	Executive Director, Extituto de Política Abierta
 
-**P. Sainath    Founder** /, People’s Archive of Rural India
+**P. Sainath    Founder** /, People’s Archive of Rural India	
 
-**Pablo Bustinduy** / 	Spanish MP and International Secretary of Podemos.
+**Pablo Bustinduy** /	Spanish MP and International Secretary of Podemos.
 
 **Patrick Linskey** /	Principal Engineer, Cisco Systems Inc.
 
 **Paul Mason** /	journalist and Decode advisory panel member
 
-**Paulo Sergio Pinheiro** / 	Former minister for human rights and former coordinator of the National Truth Commision
+**Paulo Sergio Pinheiro** /	Former minister for human rights and former coordinator of the National Truth Commision
+
 **Pavel Égüez** /	Muralist Painter
 
 **Perti Sumula** /	Association - Friends of the MST
+
+**Prabir Purkayastha** / President Free Software Movement of India	
 
 **Renata Avila** /	Executive Director, Fundación Ciudadanía Inteligente
 
@@ -238,13 +248,13 @@ movements with Pope Francisco
 
 **Richard Pithouse** /	Publisher New Frame,
 
-**Rodolfo Lucena** /	Journalist 
+**Rodolfo Lucena** /	Journalist
 
-**Rubén Zavala** /	Popular education professor, photographer 
+**Rubén Zavala** /	Popular education professor, photographer
 
 **S'bu Zikode** /	President of Abahlali BaseMjondolo
 
-**Scott Ludlam** /	Former Australian Senator 
+**Scott Ludlam** /	Former Australian Senator
 
 **Seth Pyenson** /	
 
@@ -252,44 +262,38 @@ movements with Pope Francisco
 
 **Shanti Marie Singham** /	Professor of History and Africana Studies, Williams College, Massachusetts USA
 
-**Stephanie Whited** /	comms director torproject, actor, writer. 
+**Sofía Celi** /	CAD
+
+**Srecko Horvat** / Philosopher	
+
+**Stephanie Whited** /	comms director torproject, actor, writer.
 
 **Tania González Peñas** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
 
-**Tim Norton** /	Digital Rights Watch 
+**Tim Norton** /	Digital Rights Watch
 
 **Valerio Arcary** /	Historian and Teacher - IFET São Paulo
+
+**Vendela Vida** / Author, USA	
 
 **Vijay Prashad** /	Director, Tricontinental: Institute for Social Research.
 
 **Virgínia Fontes** /	Professor - University, Rio de Janeiro
 
-**Vivien Lesnik Weisman** /	Latinovision Productions 
+**Vivien Lesnik Weisman** /	Latinovision Productions
 
 **Walter Palmetshofer** /	Open Knowledge Foundation Germany
 
+**Wagner Moura** / - Actor, Director
+
 **William E. Binney** /	Former Technical Director at NSA
 
-**Xabier Benito Ziluaga** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green 
-Left
+**Xabier Benito Ziluaga** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green
+
+**Y Kiran Chandra** /	General Secretary Free Software Movement of India
 
 **Yolanda Cvitak** /	MundoJusto
 
 **Zackie Achmat** /	UniteBehind
 
 **Zimoun** /	Artist, Switzerland
-
-**Y Kiran Chandra** /	General Secretary Free Software Movement of India 
-
-**Prabir Purkayastha** / President Free Software Movement of India 	
-
-**Mishi Choudhary** / Legal Director, Software Freedom Law Centre
-
-**Khadija Ryadi** /	Lauréate du prix ONU pour les droits de l'homme en 2013
-
-**Sofía Celi** /	CAD
-
-**Felice Cappa** /	Rai
-
-**Carlo Freccero** /	Rai
-
