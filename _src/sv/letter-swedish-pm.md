@@ -38,261 +38,272 @@ We appeal to the Swedish Government to take firm, immediate action. So far, the 
 Respectfully,
 Concerned citizens
 
+**Pamela Anderson** / Actress
+
+**Brian Eno** / Artist, Musician
+
+**Yanis Varoufakis** / DiEM25 co-founder, Professor of Economics – University of Athens
+
 **Arundahti Roy** / Author
 
-**Brian Eno** / Artist, Musician 
+**Danny Glover** / Actor
 
 **Dave Eggers** / Author
 
 **Noam Chomsky** / Institute Professor (emeritus) MIT, Laureate Professor U. of Arizona
 
-**Pamela Anderson**	/ Actress
+**Adolfo Perez Esquivel** / Recipient Nobel Peace Prize 1980, Argentina
 
-**Yanis Varoufakis** / DiEM25 co-founder, Professor of Economics – University of Athens
+**Evgeny Morozov** / writer and researcher on social implications of technology
 
-**Adolfo Perez Esquivel** 	/ Recipient Nobel Peace Prize 1980, Argentina
-
-**Evgeny Morozov**	/ Writer and researcher on social implications of technology
+**Srecko Horvat** / Philosopher
 
 **Jean-Luc Mélenchon** / French MP and President of the Parliamentary Group France Insoumise
 
-**Mairead Maguire**	/ Recipient Nobel Peace Prize 1976, UK 
+**Pablo Iglesias** / General Secretary Podemos, presidential candidate, Spain
+
+**Mairead Maguire** / Recipient Nobel Peace Prize 1976, UK
+
+**Vendela Vida** / Author, USA
 
 **Martin Fowler** / Software Development Author
 
-**Pablo Iglesias** / General Secretary Podemos, presidential candidate, Spain
+**Agustín Frizzera** / Director - Democracia en Red -
 
-**Agustín Frizzera** / Director, Democracia en Red	
+**Eli Gomez Alcorta** / Lawyer of Milagros de Sala and diverse causes of defense of human rights
 
-**Aijaz Ahmad Chancellor's** / Professor in the Department of Comparative Literature, University of California (Irvine).	
+**Gloria Verónica Sammartino** / Professor - Universidad Buenos Aires
 
-**Albert Leger** / Artist/Activist	
+**José Shultman** / President of the Argentine League for Human Rights
 
-**Alberto Garzón** / Spanish MP and General Coordinator of United Left Party	
+**Juan Grabois** / CTEP leader and Patria Grande Front member. Coordinator of the dialogues of popular movements with Pope Francisco
 
-**Alfredo Velazco** / Usuarios Digitales	
+**Manuel Bertoldi** / Patria Grande Front
 
-**Almudena Bernabéu** / Human Rights Lawyer, Co-founder of Guernica 37	
+**Marga Ferré** / President of La FEC, Foundation Europe of the Citizens
 
-**Ana Miranda** / European Parliament MP, Group of the Greens/European Free Alliance	
+**Scott Ludlam** / Former Australian Senator
 
-**Angela Richter** / Director	
+**Tim Norton** / Digital Rights Watch
 
-**Anthony Arnove** / Publisher	
+**Davide Castro** / DiEM25, and Co-Founder World Solidarity Forum
 
-**Antoine Deltour** / Whistleblower	
+**Christian Leon** / Political Innovation Asuntos del Sur
 
-**Ariovaldo Ramos** / Evengelical Front for a State of Rights	
+**Wagner Moura** / Actor, Director
 
-**Bernardo Loureiro Jurema** /	
+**Ariovaldo Ramos** / Evengelical Front for a State of Rights
 
-**Birgitta Jónsdóttir** / Former parliamentarian for the Civic Movement & Pirate Party in the Icelandic Parliament & chairman for IMMI (International Modern Media Institute).	
+**Bernardo Loureiro Jurema** / 
 
-**Carlo Freccero** /	Rai
+**Carol Proner** / Member of the International Committee of the Brazilian Association of Jurists for Democracy
 
-**Carol Proner** / Member of the International Committee of the Brazilian Association of Jurists for Democracy - ABJD	
+**Eleonora de Lucena** / Journalist
 
-**Carolina Resende Haddad** /	
+**Fabio Luis Barbosa dos Santos** / Professor at UNIFESP University Brazil
 
-**Christian Leon** /	Political Innovation Asuntos del Sur
+**Frei Betto** / Dominican friar and writer
 
-**Clare Daly** /	Deputy to the Dáil (MP), Independents 4 Change
+**Heloisa Fernandes** / Sociologist - Universidade de São Paulo
 
-**Colonel Ann Wright** /	Veterans for Peace and former UN Diplomat, who resigned in 2003 in opposition to the US war on Iraq
+**João Paulo Rodrigues** / National Direction of MST and of Brazil Popular Front
 
-**Cory Doctorow** /	Author and co-editor, Boing Boing
+**Joao Pedro Stedile** / MST and Via Campesina Brasil
 
-**Cristina García** /	Novelist
+**Leonardo Boff** / Theologian, Philosopher and Member of the International Earth Charta Comission
 
-**Daniel Goodwin** /	Attorney
+**Marco Antonio Santos** / Psychologist
 
-**David Adler** /	Diem25
+**Paulo Sergio Pinheiro** / Former minister for human rights and former coordinator of the National Truth Commision
 
-**David Harvey** /	City University of New York
+**Rodolfo Lucena** / Journalist
 
-**David Heinemeier Hansson** /	Danish programmer
+**Valerio Arcary** / Historian and Teacher - IFET São Paulo
 
-**Davide Castro** /	Diem 25, and Co-Founder World Solidarity Forum
+**Virgínia Fontes** / Professor - University, Rio de Janeiro
 
-**Eirini Mitsiou** /	Member of Coordinating Collective in DiEM25
+**Cory Doctorow** / Author and co-editor, Boing Boing
 
-**Eleonora de Lucena** /	Journalist
+**Javier Arteaga** / Director, Feeling
 
-**Eli Gomez Alcorta** /	Lawyer of Milagros de Sala and diverse causes of defense of human rights
+**Nicolás Díaz Cruz** / Executive Director, Extituto de Política Abierta
 
-**Enrique Santiago** /	General Secretary of the Spanish Communist Party, Human Rights Lawyer
+**David Heinemeier Hansson** / Danish programmer
 
-**Erik Edman** /	Sociologist, Activist, MEP candidate MeRA25
+**Alfredo Velazco** / Usuarios Digitales
 
-**Ernest Urtasun** /	European Parliament MP, Group of the Greens/European Free Alliance
+**Pavel Égüez** / Muralist Painter
 
-**Estefanía Torres Martínez** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
+**Rubén Zavala** / Popular education professor, photographer
 
-**Fabio Luis Barbosa dos Santos** /	Professor at UNIFESP University Brazil
+**Sofía Celi** / Technologist
 
-**Felice Cappa** /	Rai
+**George Danezis** / University College London
 
-**Francesca Bria** /	CTO Barcelona and DECODE project lead
+**Nicklas Andersson** / CTO
 
-**Frank Barat** /	Russell Tribunal
+**Perti Sumula** / Association - Friends of the MST
 
-**Frei Betto** /	Dominican friar and writer.
+**Antoine Deltour** / Whistleblower
 
-**George Danezis** /	University College London
+**Frank Barat** / Russell Tribunal
 
-**Geraldine de Bastion** /	Konnektiv Kollektiv
+**Ana Miranda** / European Parliament MP, Group of the Greens/European Free Alliance
 
-**Gerardo Pisarello** /	First Deputy Mayor Barcelona City
+**Angela Richter** / Director
 
-**Gloria Verónica Sammartino** /	Professor - Universidad Buenos Aires
+**Geraldine de Bastion** / Konnektiv Kollektiv
 
-**Gustavo Banegas** /	PhD Student/Technische Universiteit Eindhoven
+**Heike Hänsel** / MP, Left Party Spokesperson on the Committee on International Relations of the German Bundestag
 
-**Heike Hänsel** /	MP, Left Party Spokesperson on the Committee on International Relations of the German Bundestag
+**Heinrich Buecker** / Coop Anti-War Cafe Berlin
 
-**Heinrich Buecker** /	Coop Anti-War Cafe Berlin
+**Johanna Scheringer-Wright** / Member of Regional Parliament of Thuringia (Mitglied des Landtages Thüringen)
 
-**Heloisa Fernandes** /	Sociologist - Universidade de São Paulo
+**Katharina Wojcik** / DiEM25
 
-**Irvin Jim** /	General Secretary, National Union of Metalworkers of South Africa (NUMSA)
+**Moritz Bartl** / Renewable Freedom Foundation
 
-**Javier Arteaga** /	Director, Feeling
+**Sevim Dagdelen** / MP, Vice Chair Left Parliamentary Group of the German Bundestag
 
-**Javier Couso Permuy** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green Left.
+**Walter Palmetshofer** / Open Knowledge Foundation Germany
 
-**Jimmy Nilsson** /	Founder of factor10
+**Dmytri Kleiner** / 
 
-**João Paulo Rodrigues** /	National Direction of MST and of Brazil Popular Front
+**David Adler** / Diem25
 
-**Joao Pedro Stedile** /	MST and Via Campesina Brasil
+**Eirini Mitsiou** / Member of Coordinating Collective in DiEM25
 
-**Jodie Evans** /	co-founder CODEPINK; Women for Peace
+**Erik Edman** / Sociologist, Activist, MEP candidate MeRA25
 
-**Johanna Scheringer-Wright** /	Member of Regional Parliament of Thuringia (Mitglied des Landtages Thüringen)
+**Renata Avila** / Executive Director, Fundación Ciudadanía Inteligente
 
-**John Kiriakou** /	former CIA Counterterrorism Officer and former Senior Investigator, US Senate Foreign Relations Committee
+**Birgitta Jónsdóttir** / Former parliamentarian for the Civic Movement & Pirate Party in the Icelandic Parliament & chairman for IMMI (International Modern Media Institute).
 
-**Jon-Erling** / Dahl	CTO / fooheads AB
+**N. Ram** / Chairman of The Hindu Publishing Group, Chennai, India
 
-**José María Guijarro** /	Spanish MP and General Secretary of the Parliamentary Group of Unidas Podemos
+**P. Sainath** / Founder, People’s Archive of Rural India
 
-**José Shultman** /	President of the Argentine League for Human Rights
+**Prabir Purkayastha** / President Free Software Movement of India
 
-**Joslyn Barnes** /	Film Producer
+**Vijay Prashad** / Director, Tricontinental: Institute for Social Research
 
-**Juan Grabois** /	Lawyer, CTEP leader and Patria Grande Front member. Coordinator of the dialogues of popular movements with Pope Francisco
+**Y Kiran Chandra** / General Secretary Free Software Movement of India
 
-**Katharina Wojcik** /	DiEM25
+**Clare Daly** / Deputy to the Dáil (MP), Independents 4 Change
 
+**Mick Wallace** / Deputy to the Dáil (MP), Independents 4 Change
 
-**Khadija Ryadi** /	LRecipient of the UN Prize for Human Rights
+**Carlo Freccero** / Author
 
-**Leonardo Boff** /	Theologian,Philosopher and Member of the International Earth Charta Comission
+**Felice Cappa** / Author, Director
 
-**Lola Sánchez Caldentey** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
+**Francesca Bria** / CTO Barcelona and DECODE project lead
 
-**Lorenzo Marsili** /	Co-Founder European Alternatives.
+**Lorenzo Marsili** / Co-Founder European Alternatives
 
-**Maite Mola** /	Vicepresident of the Party of the European Left (PEL)
+**Khadija Ryadi** / Laureate UN Human Rights Award 2013
 
-**Manuel Bertoldi** /	Patria Grande Front
+**Gustavo Banegas** / PhD Student/Technische Universiteit Eindhoven
 
-**Marco Antonio Santos** /	Psychologist
+**Maricarmen Sequera** / Executive Director, TEDIC
 
-**Marga Ferré** /	President of La FEC, Foundation Europe of the Citizens
+**Irvin Jim** / General Secretary, National Union of Metalworkers of South Africa (NUMSA)
 
-**Maricarmen Sequera** /	Executive Director, TEDIC
+**Richard Pithouse** / Publisher - New Frame
 
-**Mark Weisbrot** /	CEPR, USA
+**S'bu Zikode** / President of Abahlali BaseMjondolo
 
-**Medea Benjamin** /	co-founder CODEPINK; Women for Peace
+**Zackie Achmat** / UniteBehind
 
-**Mick Wallace** /	Deputy to the Dáil (MP), Independents 4 Change
+**Alberto Garzón** / Spanish MP and General Coordinator of United Left Party
 
-**Miguel Urban** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
+**Almudena Bernabéu** / Human Rights Lawyer, Co-founder of Guernica 37
 
-**Mishi Choudhary** / Legal Director, Software Freedom Law Centre	
+**Enrique Santiago** / General Secretary of the Spanish Communist Party, Human Rights Lawyer
 
-**Moritz Bartl** /	Renewable Freedom Foundation
+**Ernest Urtasun** / European Parliament MP, Group of the Greens/European Free Alliance
 
-**N. Ram** /	Chairman of The Hindu Publishing Group, Chennai, India.
+**Estefanía Torres Martínez** / European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
 
-**Neville Roy Singham** /	Founder of ThoughtWorks, now retired
+**Gerardo Pisarello** / First Deputy Mayor Barcelona City
 
-**Nicklas Andersson** /	CTO
+**Javier Couso Permuy** / European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
 
-**Niclas Nilsson** /	CEO at fooheads AB
+**José María Guijarro** / Spanish MP and General Secretary of the Parliamentary Group of Unidas Podemos
 
-**Nicolás Díaz Cruz** /	Executive Director, Extituto de Política Abierta
+**Lola Sánchez Caldentey** / European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
 
-**P. Sainath    Founder** /, People’s Archive of Rural India	
+**Maite Mola** / Vice President of the Party of the European Left (PEL)
 
-**Pablo Bustinduy** /	Spanish MP and International Secretary of Podemos.
+**Miguel Urban** / European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
 
-**Patrick Linskey** /	Principal Engineer, Cisco Systems Inc.
+**Pablo Bustinduy** / Spanish MP and International Secretary of Podemos
 
-**Paul Mason** /	journalist and Decode advisory panel member
+**Tania González Peñas** / European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
 
-**Paulo Sergio Pinheiro** /	Former minister for human rights and former coordinator of the National Truth Commision
+**Xabier Benito Ziluaga** / European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
 
-**Pavel Égüez** /	Muralist Painter
+**Yolanda Cvitak** / MundoJusto
 
-**Perti Sumula** /	Association - Friends of the MST
+**Jimmy Nilsson** / Founder of factor10
 
-**Prabir Purkayastha** / President Free Software Movement of India	
+**Jon-Erling Dahl** / CTO / fooheads AB
 
-**Renata Avila** /	Executive Director, Fundación Ciudadanía Inteligente
+**Niclas Nilsson** / CEO at fooheads AB
 
-**Reverend Dr. William** / J. Barber II	Repairers of the Breach and Poor Peoples Campaign, USA
+**Zimoun** / Artist, Switzerland
 
-**Richard Pithouse** /	Publisher New Frame,
+**Ammar Amroussia** / MP (Popular Front) Tunisia
 
-**Rodolfo Lucena** /	Journalist
+**Hamma Hammami** / GS (Popular Front) Tunisia
 
-**Rubén Zavala** /	Popular education professor, photographer
+**Heikel Belkacem** / MP (Popular Front) Tunisia
 
-**S'bu Zikode** /	President of Abahlali BaseMjondolo
+**Jilani Hammami** / MP (Popular Front) Tunisia
 
-**Scott Ludlam** /	Former Australian Senator
+**Paul Mason** / Journalist and Decode advisory panel member
 
-**Seth Pyenson** /	
+**Aijaz Ahmad** / Chancellor's Professor in the Department of Comparative Literature, University of California (Irvine)
 
-**Sevim Dagdelen** /	MP, Vice Chair Left Parliamentary Group of the German Bundestag
+**Albert Leger** / Artist/Activist
 
-**Shanti Marie Singham** /	Professor of History and Africana Studies, Williams College, Massachusetts USA
+**Anthony Arnove** / Publisher
 
-**Sofía Celi** /	CAD
+**Colonel Ann Wright** / Veterans for Peace and former UN Diplomat, who resigned in 2003 in opposition to the US war on Iraq
 
-**Srecko Horvat** / Philosopher	
+**Cristina García** / Novelist
 
-**Stephanie Whited** /	comms director torproject, actor, writer.
+**Daniel Goodwin** / Attorney
 
-**Tania González Peñas** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
+**David Harvey** / City University of New York
 
-**Tim Norton** /	Digital Rights Watch
+**Jodie Evans** / co-founder CODEPINK; Women for Peace
 
-**Valerio Arcary** /	Historian and Teacher - IFET São Paulo
+**John Kiriakou** / former CIA Counterterrorism Officer and former Senior Investigator, US Senate Foreign Relations Committee
 
-**Vendela Vida** / Author, USA	
+**Joslyn Barnes** / Film Producer
 
-**Vijay Prashad** /	Director, Tricontinental: Institute for Social Research.
+**Mark Weisbrot** / CEPR, USA
 
-**Virgínia Fontes** /	Professor - University, Rio de Janeiro
+**Medea Benjamin** / co-founder CODEPINK; Women for Peace
 
-**Vivien Lesnik Weisman** /	Latinovision Productions
+**Mishi Choudhary** / Legal Director, Software Freedom Law Centre
 
-**Walter Palmetshofer** /	Open Knowledge Foundation Germany
+**Neville Roy Singham** / Founder of ThoughtWorks, now retired
 
-**Wagner Moura** / - Actor, Director
+**Patrick Linskey** / Principal Engineer, Cisco Systems Inc.
 
-**William E. Binney** /	Former Technical Director at NSA
+**Reverend Dr. William J. Barber II** / Repairers of the Breach and Poor Peoples Campaign, USA
 
-**Xabier Benito Ziluaga** /	European Parliament MP, Confederal Group of the European United Left - Nordic Green
+**Shanti Marie Singham** / Professor of History and Africana Studies, Williams College, Massachusetts USA
 
-**Y Kiran Chandra** /	General Secretary Free Software Movement of India
+**Stephanie Whited** / Communications Director - torproject. Actor, Writer
 
-**Yolanda Cvitak** /	MundoJusto
+**Vivien Lesnik Weisman** / Latinovision Productions
 
-**Zackie Achmat** /	UniteBehind
+**William E. Binney** / Former Technical Director at NSA
 
-**Zimoun** /	Artist, Switzerland
+**Carolina Resende Haddad** / 
+
+**Seth Pyenson** / 

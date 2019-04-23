@@ -1,5 +1,3 @@
 ---
-
 name: Daniel Pérez
-
 ---
