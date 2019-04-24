@@ -9,10 +9,10 @@
       <small class="gray db">
         {{ post.date.toUTCString().slice(0,16)}}
       </small>
-     <div class="pl3 pr6">{{ post.templateContent | safe | truncate }}</div>
+     <div class="pl3 pr6">{{ post.templateContent | striptags | truncate }}</div>
     </div>
     <div class="dtc w-40">
-      <img src="{{ post.data.image }}" class="db nested-img"/>
+      <img src="{{ post.data.image }}" class="db nested-img" alt="{{ title }}"/>
     </div>
 </article>
 {%- endfor -%}
