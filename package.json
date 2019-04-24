@@ -7,9 +7,12 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.8.2",
     "@11ty/eleventy-plugin-rss": "^1.0.6",
-    "rimraf": "^2.6.3"
+    "html5-validator": "^1.2.1",
+    "rimraf": "^2.6.3",
+    "standard": "^12.0.1"
   },
   "scripts": {
+    "validate": "html5v http://localhost:8080/en/",
     "clean": "rimraf ./css ./fonts ./img ./en ./sv ./es ./it ./fr ./pt ./de ./tweets ./signatures ./index.html ./feed.xml",
     "start": "npm run clean && eleventy --serve --quiet",
     "build": "npm run clean && eleventy",
