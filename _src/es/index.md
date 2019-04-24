@@ -1,5 +1,5 @@
 ---
-title: Ola Bini Arrestado En Ecuador
+title: Ola Bini arrestado en Ecuador
 layout: index.njk
 collection: es
 image: /img/oladrawing.jpg

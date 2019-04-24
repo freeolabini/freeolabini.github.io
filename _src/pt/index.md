@@ -1,5 +1,5 @@
 ---
-title: Ola Bini Preso no Equador
+title: Ola Bini preso no Equador
 layout: index.njk
 collection: pt
 image: /img/oladrawing.jpg

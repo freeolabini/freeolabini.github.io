@@ -5,7 +5,7 @@ tags:
   - pt
 date: 2019-04-12
 image: /img/olasite.jpg
-title: Ola Bini Preso no Equador
+title: Ola Bini preso no Equador
 ---
 
 As pessoas que trabalham com software livre e a privacidade não devem ser criminalizadas

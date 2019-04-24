@@ -10,7 +10,7 @@ title: Carta de Solidaridad por la Liberación de Ola Bini
 
 ### Ola Bini es un desarrollador, no un criminal
 
-Como tecnólogos/as, desarrolladores/as de código libre y abierto, y como personas y organizaciones que trabajan para proteger la seguridad en la Internet, queremos  denunciar en términos enérgicos la detención de Ola Bini. Ola Bini es una persona experta en cyberseguridad, consultor de privacidad, contribuye al desarrollo y defensa del código abierto y defensor de los Derechos Digitales. Vemos su detención preventiva como arbitraria y como un ataque hacia toda nuestra comunidad, y, por ende, hacia nosotros mismos.
+Como tecnólogos/as, desarrolladores/as de código libre y abierto, y como personas y organizaciones que trabajan para proteger la seguridad en la Internet, queremos  denunciar en términos enérgicos la detención de Ola Bini. Ola Bini es una persona experta en ciberseguridad, consultor de privacidad, contribuye al desarrollo y defensa del código abierto y defensor de los Derechos Digitales. Vemos su detención preventiva como arbitraria y como un ataque hacia toda nuestra comunidad, y, por ende, hacia nosotros mismos.
 
 
 Ola fue detenido en el aeropuerto de Quito el 11 de Abril, tras impedirle que embarcara en un avión hacia Japón como tenía previsto desde hacia meses. Durante su detención sus derechos básicos a asistencia legal fueron denegados: no fue informado de las acusaciones en su contra; no se le facilitó un traductor a su lenguaje nativo, sueco; y fue mantenido en custodia ilegal, ya que le fue negada la posibilidad de comunicarse con el cónsul sueco, y de tener acceso a su abogado. Esto es un flagrante desprecio a lo expresado por la constitución Ecuatoriana en relación a los derechos básicos de las personas.

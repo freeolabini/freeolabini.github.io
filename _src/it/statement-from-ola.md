@@ -4,7 +4,7 @@ tags:
   - post
   - it
 date: 2019-04-17
-image: /img/olamf.jpg
+image: /img/ola_drawing.jpg
 title: Dichiarazione di Ola Bini sulla detenzione arbitraria nella prigione di El Inca, Ecuador
 ---
 

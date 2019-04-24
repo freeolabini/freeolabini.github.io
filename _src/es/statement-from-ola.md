@@ -4,7 +4,7 @@ tags:
   - post
   - es
 date: 2019-04-18
-image: /img/olamf.jpg
+image: /img/ola_drawing.jpg
 title: Declaración de Ola Bini por arresto arbitrario desde la cárcel del Inca, Ecuador
 ---
 1. Primero, quiero agradecer a todas las personas que me están apoyando ahí afuera. Me contaron de la atención que este caso ha despertado en todo el mundo y eso es algo que aprecio más de lo que puedo expresar con palabras. A mi familia, mis amigos, a todos los que están cerca, les mando todo mi amor. Los tengo siempre en mis pensamientos.

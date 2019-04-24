@@ -4,7 +4,7 @@ tags:
   - post
   - sv
 date: 2019-04-17
-image: /img/olamf.jpg
+image: /img/ola_drawing.jpg
 title: Uttalande av Ola Bini, godtyckligt häktad i El Inca-fängelset, Ecuador
 ---
 
