@@ -134,4 +134,14 @@ p {
   #post-time {
     font-size: 6px;
   }
+  #post-info {
+    width: 100%;
+    padding: 15px;
+  }
+  #post-image {
+    display: none;
+  }
+  #post-text {
+    padding: 0px;
+  }
 }
