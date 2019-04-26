@@ -5,6 +5,8 @@ collection: de
 image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
+<h1 class="f3 pa3 shadow-1"><a href="/en/letters">Letters from detention</a></h1>
+
 Unser geschätzter Kollege Ola Bini wird on Equador als politischer Gefanger festgehalten.
 Bitte zeigt eure Unterstützung!
 

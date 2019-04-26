@@ -5,139 +5,139 @@ tags:
   - fr
 date: 2019-04-23
 image: /img/olamf.jpg
-title: Letter to the Prime Minister of Sweden.
+title: Lettre au Premier ministre suédois.
 
 ---
-Dear Prime Minister Stefan Löfven,
+Monsieur le Premier Ministre Stefan Löfven,
 
-On April 11, Swedish national Ola Metodius Bini, a free software developer, was arrested in Quito (Ecuador). He has been living in the Republic of Ecuador for the past six years. Ola Bini is now serving a 90-day pretrial detention. He has not been afforded bail.
+Le 11 avril, le citoyen suédois Ola Metodius Bini, développeur de logiciels libres, a été arrêté à Quito (Équateur). Il vit en Équateur depuis six ans. Ola Bini purge actuellement une peine de détention préventive de 90 jours. Il n'a pas été libéré sous caution.
 
-The case of Ola Bini has drawn worldwide concern. UN Special Rapporteur on Freedom of Expression, [David Kaye](https://twitter.com/davidakaye/status/1117489081397547008) said that ‘nothing in this story connects Ola Bini to any crime’. Further, he said, ‘the govt of Ecuador must demonstrate more than that or this looks like an arbitrary detention’. The Organisation of American State’s Special Rapporteur for Freedom of Expression, [Edison Lanza](https://twitter.com/EdisonLanza/status/1117552044737429504), added, ‘I share the Rapporteur David Kaye’s concern around the arrest and detention of digital activist Ola Bini’.
+Le cas d'Ola Bini a suscité l'inquiétude dans le monde entier. Le Rapporteur spécial des Nations Unies pour la liberté d'expression, [David Kaye] (https://twitter.com/davidakaye/status/1117489081397547008) a déclaré que «rien dans cette histoire ne relie Ola Bini à un crime». En outre, at-il déclaré, "le gouvernement de l'Équateur doit donner plus de preuves ou cela ressemble à une détention arbitraire". Le rapporteur spécial de l'Organisation des États américains pour la liberté d'expression, [Edison Lanza] (https://twitter.com/EdisonLanza/status/1117552044737429504), a ajouté: "Je partage l'inquiétude du rapporteur David Kaye concernant l'arrestation et la détention de l'activiste du numérique Ola Bini".
 
-[Amnesty International](https://twitter.com/ErikaGuevaraR/status/1117791352488628224) and [Article 19 have publicly](https://twitter.com/article19org/status/1117789379802673152) echoed this concern and are closely monitoring the case. 
+[Amnesty International] (https://twitter.com/ErikaGuevaraR/status/1117791352488628224) et [Article 19 ont publiquement] (https://twitter.com/article19org/status/1117789379802673152) fait l'écho de cette préoccupation et suivent l'affaire de près.
 
-On April 11, Ola Bini was going to Japan for a martial arts training course, which he had advertised on twitter a week before. He was detained by the Ecuadorian police. In violation of due process, the police did not contact the Swedish authorities. This process is part of the standards of Ecuadorian law. After 15 hours of his initial detention, they made the contact.
+Le 11 avril, Ola Bini se rendait au Japon pour suivre un cours d'entraînement aux arts martiaux, qu'il avait annoncée sur Twitter une semaine auparavant. Il a été arrêté par la police équatorienne. En violation des procédures, la police n'a pas contacté les autorités suédoises. Cette procédure fait partie des normes du droit équatorien. Après 15 heures de sa détention initiale, ils ont finalement pris contact.
 
-Ola Bini’s human rights have been violated repeatedly by the police, by the Ministry of the Interior, by the Attorney General’s office and by the judge in charge of the case. The agents who initially detained him did not have a valid warrant. He was denied access to his lawyers for 17 hours. He was not permitted to have a translator – even though his Spanish is rudimentary. He was not informed of the charges against him.
+Les droits individuels d'Ola Bini ont été violés à plusieurs reprises par la police, par le Ministère de l'intérieur, par le bureau du Procureur général et par le juge chargé de l'affaire. Les agents qui l'ont initialement arrêté n'avaient pas de metat valide. Il s'est vu refuser l'accès à ses avocats pendant 17 heures. Il n'a pas été autorisé à faire appel à un traducteur, même si son espagnol est rudimentaire. Il n'a pas été informé des accusations portées contre lui.
 
-Ola Bini was held at the airport for more than eight hours. In violation of Ecuadorian law, he was not transferred to the police facilities. The police then took him to his home, where they coerced him to allow access. Finally, he was taken to a facility abandoned by the judicial police, where he spent the night. By that time, he still did not have any access to legal advice or assistance.
+Ola Bini a été retenu à l'aéroport pendant plus de huit heures. En violation de la loi équatorienne, il n'a pas été transféré aux locaux de police. La police l’a ensuite emmené chez lui, où ils l’ont forcé à faciliter l'accès. Finalement, il a été emmené dans un établissement abetonné par la police judiciaire, où il a passé la nuit. À ce moment-là, il n'avait toujours pas eu accès à des conseils juridiques ou assistance légale.
 
-The next morning – on April 12 – Ola Bini was transferred to the Prosecutor's Office, where he remained for a further 12 hours before a hearing. For a total of 17 hours Ola Bini was not allowed legal advice or food. His lawyers report that they were harassed and threatened by the police.
+Le lendemain matin, le 12 avril, Ola Bini a été transféré au bureau du procureur, où il est resté 12 heures de plus avant son audience. Pendant un total de 17 heures, Ola Bini n'a pas eu droit à des conseils juridiques ni à de la nourriture. Ses avocats rapportent qu'ils ont été harcelés et menacés par la police.
 
-At the hearing, the prosecutor offered no evidence against Ola Bini. Based on the Ecuadorian Penal Code, he was accused of one very serious crime – attacking the integrity of computer systems. Despite the lack of any evidence, the judge placed Ola Bini in pretrial detention for 90 days. There was no bail hearing.
+À l'audience, le procureur n'a présenté aucune preuve contre Ola Bini. En vertu du code pénal équatorien, il a été accusé d'un crime très grave: avoir porté atteinte à l'intégrité de systèmes informatiques. Malgré le manque de preuves, le juge a placé Ola Bini en détention provisoire pendant 90 jours. Il n'y a pas eu d'audience de mise en liberté sous caution.
 
-We believe that the process is politically motivated. Fabricated charges, with no evidence, have been brought against an innocent man. He has been caught in a dispute that does not concern him and with which he is not involved at all. There is not a single piece of evidence that incriminates him. Ola Bini sits in an Ecuadoran prison, denied bail, and with no guarantees of due process. 
+Nous croyons que le processus est motivé par des raisons politiques. Des charges fabriquées, sans preuve, ont été portées contre un homme innocent. Il s'est retrouvé attrapé dans un conflit qui ne le concerne pas et dans lequel il n'est pas impliqué du tout. Il n'existe pas la moindre preuve qui puisse l'incriminer. Ola Bini est détenu dans une prison équatorienne, refusé de liberté sous caution et sans garantie d'une procédure régulière.
 
-Ola Bini is a globally respected figure in the free software community, and a renowned activist for the right to privacy. In 2010, Computerworld magazine named him as Sweden's 6th best developer. He is a member of various European and international networks for free software and privacy, and he participates in projects of the highest level, some of them sponsored by the European Commission. Ola has never expressed any views that would in any way be a threat to the Ecuadorian government. 
+Ola Bini est une figure mondialement respectée dans la communauté du logiciel libre et un activiste renommé du droit à la vie privée. En 2010, le magazine Computerworld l'a nommé 6ème meilleur développeur de Suède. Il est membre de divers réseaux européens et internationaux pour le logiciel libre et la vie privée, et participe à des projets du plus haut niveau, dont certains parrainés par la Commission européenne. Ola n'a jamais exprimé d'opinion qui constituerait une menace pour le gouvernement équatorien.
 
-As an advocate and an activist for the right to privacy, Ola has visited Julian Assange at the Ecuadorian Embassy in London several times. However, he does not work for Wikileaks, nor has he ever worked for them. Any allegation that he is conspiring against the Ecuadorian government and its computer systems is false and ludicrous.
+En tant que défenseur et activiste du droit au respect de la vie privée, Ola a rendu visite à Julian Assange à l’ambassade de l’Équateur à Londres à plusieurs reprises. Cependant, il ne travaille pas pour Wikileaks et n'a jamais travaillé pour eux. Toute allégation selon laquelle il conspire contre le gouvernement équatorien et ses systèmes informatiques est fausse et ridicule.
 
-We appeal to the Swedish Government to take firm, immediate action. So far, the Swedish Government's efforts have been limited to the presence of the Swedish Honorary Consul in Quito.  While we are grateful that the Swedish Honorary Consul in Quito involved himself we would ask you and the government to lift this to a political level, since it seems to be a political reason behind the arrest. We are sure that the misunderstanding about who Ola is and what he does could quickly be resolved. The Swedish Society and the Government of Sweden are recognized worldwide as active defenders and promoters of human rights and freedom of expression. His family, his friends, his colleagues, call on the Swedish government to intercede for Ola before the Ecuador authorities, demand respect for the law and for Ola’s human rights, and to facilitate his safe immediate return to Sweden. 
+Nous appelons le gouvernement suédois à prendre des mesures fermes et immédiates. Jusqu'à présent, les efforts du gouvernement suédois se sont limités à la présence du consul honoraire de Suède à Quito. Bien que nous soyons reconnaissants de la participation du consul honoraire suédois à Quito, nous vous demetons, à vous et au gouvernement, de porter cela à un niveau politique, car derrière cette arrestation semble avoir une raison politique. Nous sommes certains que le malentendu sur qui est Ola et ce qu'il fait pourrait être rapidement résolu. La Société suédoise et le gouvernement suédois sont reconnus dans le monde entier comme des défenseurs actifs et des promoteurs des droits de l'homme et de la liberté d'expression. Sa famille, ses amis, ses collègues appellent le gouvernement suédois à intercéder pour Ola auprès des autorités équatoriennes, à exiger le respect de la loi et des droits de l'homme d'Ola et à faciliter son retour immédiat et sûr en Suède.
 
 
-Respectfully,
+Respectueusement,
 
-Concerned citizens
+Les citoyens concernés
 
-**Pamela Anderson** / Actress
+**Pamela Anderson** / Comédienne
 
-**Brian Eno** / Artist, Musician
+**Brian Eno** / Artiste, Musicien
 
-**Yanis Varoufakis** / DiEM25 co-founder, Professor of Economics – University of Athens
+**Yanis Varoufakis** / co-fondateur de DiEM25, Professeur d'économie – Université d'Athènes
 
-**Arundahti Roy** / Author
+**Arundahti Roy** / Auteur
 
-**Danny Glover** / Actor
+**Danny Glover** / Comédien
 
-**Dave Eggers** / Author
+**Dave Eggers** / Auteur
 
-**Noam Chomsky** / Institute Professor (emeritus) MIT, Laureate Professor U. of Arizona
+**Noam Chomsky** / Professeur émérite au MIT, Professeur Lauréat Université d'Arizona
 
-**Adolfo Perez Esquivel** / Recipient Nobel Peace Prize 1980, Argentina
+**Adolfo Perez Esquivel** / Lauréat du prix Nobel de la paix en 1980, Argentine
 
-**Evgeny Morozov** / writer and researcher on social implications of technology
+**Evgeny Morozov** / écrivain et chercheur sur les implications sociales de la technologie
 
-**Srecko Horvat** / Philosopher
+**Srecko Horvat** / Philosophe
 
-**Jean-Luc Mélenchon** / French MP and President of the Parliamentary Group France Insoumise
+**Jean-Luc Mélenchon** / Député français et président du groupe parlementaire France Insoumise
 
-**Pablo Iglesias** / General Secretary Podemos, presidential candidate, Spain
+**Pablo Iglesias** / Secrétaire général de Podemos, candidat à la présidentielle, Espagne
 
-**Mairead Maguire** / Recipient Nobel Peace Prize 1976, UK
+**Mairead Maguire** / Lauréat du prix Nobel de la paix 1976, Royaume-Uni
 
-**Vendela Vida** / Author, USA
+**Vendela Vida** / Auteur, Etats Unis
 
-**Martin Fowler** / Software Development Author
+**Martin Fowler** / Auteur de développement de logiciels
 
-**Agustín Frizzera** / Director - Democracia en Red -
+**Agustín Frizzera** / Directeur - Democracia en Red -
 
-**Eli Gomez Alcorta** / Lawyer of Milagros de Sala and diverse causes of defense of human rights
+**Eli Gomez Alcorta** / Avocat de Milagros de Sala et diverses causes de défense des droits de l'homme
 
-**Gloria Verónica Sammartino** / Professor - Universidad Buenos Aires
+**Gloria Verónica Sammartino** / Professeur - Universidad Buenos Aires
 
-**José Shultman** / President of the Argentine League for Human Rights
+**José Shultman** / Président de la Ligue argentine des droits de l'homme
 
-**Juan Grabois** / CTEP leader and Patria Grande Front member. Coordinator of the dialogues of popular movements with Pope Francisco
+**Juan Grabois** / Chef de la CTEP et membre du front Patria Grande. Coordinateur du dialogue des mouvements populaires avec le Pape Francisco
 
-**Manuel Bertoldi** / Patria Grande Front
+**Manuel Bertoldi** / Front Patria Grete
 
-**Marga Ferré** / President of La FEC, Foundation Europe of the Citizens
+**Marga Ferré** / Présidente de la FEC, Fondation Europe des Citoyens
 
-**Scott Ludlam** / Former Australian Senator
+**Scott Ludlam** / Ancien sénateur australien
 
 **Tim Norton** / Digital Rights Watch
 
-**Davide Castro** / DiEM25, and Co-Founder World Solidarity Forum
+**Davide Castro** / DiEM25, et co-fondateur du World Solidarity Forum
 
-**Christian Leon** / Political Innovation Asuntos del Sur
+**Christian Leon** / Innovation politique Asuntos del Sur
 
-**Wagner Moura** / Actor, Director
+**Wagner Moura** / Comédien, Directeur
 
-**Ariovaldo Ramos** / Evengelical Front for a State of Rights
+**Ariovaldo Ramos** / Front Evangélique pour un Etat des Droits
 
 **Bernardo Loureiro Jurema** / 
 
-**Carol Proner** / Member of the International Committee of the Brazilian Association of Jurists for Democracy
+**Carol Proner** / Membre du Comité international de l'Association brésilienne des juristes pour la démocratie
 
-**Eleonora de Lucena** / Journalist
+**Eleonora de Lucena** / Journaliste
 
-**Fabio Luis Barbosa dos Santos** / Professor at UNIFESP University Brazil
+**Fabio Luis Barbosa dos Santos** / Professeur à l'UNIFESP Université du Brésil
 
-**Frei Betto** / Dominican friar and writer
+**Frei Betto** / Frèere dominicain et écrivain
 
-**Heloisa Fernandes** / Sociologist - Universidade de São Paulo
+**Heloisa Fernetes** / Sociologue - Université de São Paulo
 
-**João Paulo Rodrigues** / National Direction of MST and of Brazil Popular Front
+**João Paulo Rodrigues** / Direction Nationale du MST et du Front Populaire du Brésil
 
-**Joao Pedro Stedile** / MST and Via Campesina Brasil
+**Joao Pedro Stedile** / MST et Via Campesina Brasil
 
-**Leonardo Boff** / Theologian, Philosopher and Member of the International Earth Charta Comission
+**Leonardo Boff** / Théologien, philosophe et membre de la comission International Earth Charta 
 
-**Marco Antonio Santos** / Psychologist
+**Marco Antonio Santos** / Psychologue
 
-**Paulo Sergio Pinheiro** / Former minister for human rights and former coordinator of the National Truth Commision
+**Paulo Sergio Pinheiro** / Ancien ministre des droits de l'homme et ancien coordinateur de la Commission National Truth
 
-**Rodolfo Lucena** / Journalist
+**Rodolfo Lucena** / Journaliste
 
-**Valerio Arcary** / Historian and Teacher - IFET São Paulo
+**Valerio Arcary** / Historien et enseignant - IFET São Paulo
 
-**Virgínia Fontes** / Professor - University, Rio de Janeiro
+**Virgínia Fontes** / Professeur - Université, Rio de Janeiro
 
-**Cory Doctorow** / Author and co-editor, Boing Boing
+**Cory Doctorow** / Auteur et co-éditeur, Boing Boing
 
-**Javier Arteaga** / Director, Feeling
+**Javier Arteaga** / Directeur, Feeling
 
-**Nicolás Díaz Cruz** / Executive Director, Extituto de Política Abierta
+**Nicolás Díaz Cruz** / Directeur exécutif, Extituto de Política Abierta
 
-**David Heinemeier Hansson** / Danish programmer
+**David Heinemeier Hansson** / Programmeur danois
 
 **Alfredo Velazco** / Usuarios Digitales
 
-**Pavel Égüez** / Muralist Painter
+**Pavel Égüez** / Peintre muraliste
 
-**Rubén Zavala** / Popular education professor, photographer
+**Rubén Zavala** / Professeur d'éducation populaire, photographe
 
-**Sofía Celi** / Technologist
+**Sofía Celi** / Technologue
 
 **George Danezis** / University College London
 
@@ -145,27 +145,27 @@ Concerned citizens
 
 **Perti Sumula** / Association - Friends of the MST
 
-**Antoine Deltour** / Whistleblower
+**Antoine Deltour** / Lanceur d'alerte, Dénonciateur
 
-**Frank Barat** / Russell Tribunal
+**Frank Barat** / Tribunal Russell
 
-**Ana Miranda** / European Parliament MP, Group of the Greens/European Free Alliance
+**Ana Mireta** / Députée du Parlement européen, Groupe des Verts / Alliance libre européenne
 
-**Angela Richter** / Director
+**Angela Richter** / Directrice
 
 **Geraldine de Bastion** / Konnektiv Kollektiv
 
-**Heike Hänsel** / MP, Left Party Spokesperson on the Committee on International Relations of the German Bundestag
+**Heike Hänsel** / Députée, porte-parole du parti de gauche à la Commission des Relations Internationales du Bundestag allemand
 
 **Heinrich Buecker** / Coop Anti-War Cafe Berlin
 
-**Johanna Scheringer-Wright** / Member of Regional Parliament of Thuringia (Mitglied des Landtages Thüringen)
+**Johanna Scheringer-Wright** / Membre du Parlement régional de Thuringe (Mitglied des Lettages Thüringen)
 
 **Katharina Wojcik** / DiEM25
 
-**Moritz Bartl** / Renewable Freedom Foundation
+**Moritz Bartl** / Fondation Renewable Freedom 
 
-**Sevim Dagdelen** / MP, Vice Chair Left Parliamentary Group of the German Bundestag
+**Sevim Dagdelen** / Député, vice-président du groupe parlementaire de gauche du Bundestag allemand
 
 **Walter Palmetshofer** / Open Knowledge Foundation Germany
 
@@ -173,138 +173,140 @@ Concerned citizens
 
 **David Adler** / Diem25
 
-**Eirini Mitsiou** / Member of Coordinating Collective in DiEM25
+**Eirini Mitsiou** / Membre du collectif de coordination à DiEM25
 
-**Erik Edman** / Sociologist, Activist, MEP candidate MeRA25
+**Erik Edman** / Sociologue, activiste, candidat eurodéputé MeRA25
 
-**Renata Avila** / Executive Director, Fundación Ciudadanía Inteligente
+**Renata Avila** / Directeur exécutif, Fundación Ciudadanía Inteligente
 
-**Birgitta Jónsdóttir** / Former parliamentarian for the Civic Movement & Pirate Party in the Icelandic Parliament & chairman for IMMI (International Modern Media Institute).
+**Birgitta Jónsdóttir** / Ancien parlementaire du Mouvement Civique et du Parti Pirate au parlement islandique et président de l'IMMI (International Modern Media Institute).
 
-**N. Ram** / Chairman of The Hindu Publishing Group, Chennai, India
+**N. Ram** / Président du Hindu Publishing Group, Chennai, Inde
 
-**P. Sainath** / Founder, People’s Archive of Rural India
+**P. Sainath** / Fondateur, People's Archive of Rural India
 
-**Prabir Purkayastha** / President Free Software Movement of India
+**Prabir Purkayastha** / Président Free Software Movement of India
 
-**Vijay Prashad** / Director, Tricontinental: Institute for Social Research
+**Vijay Prashad** / Directeur, Tricontinental: Institute for Social Research
 
-**Y Kiran Chandra** / General Secretary Free Software Movement of India
+**Y Kiran Chetra** / Secrétaire général du mouvement du logiciel libre en Inde
 
-**Clare Daly** / Deputy to the Dáil (MP), Independents 4 Change
+**Clare Daly** / Députée au Parlement (MP), Independents 4 Change
 
-**Mick Wallace** / Deputy to the Dáil (MP), Independents 4 Change
+**Mick Wallace** / Député au Parlement (MP), Independents 4 Change
 
-**Carlo Freccero** / Author
+**Carlo Freccero** / Auteur
 
-**Felice Cappa** / Author, Director
+**Felice Cappa** / Auteur, Directeur
 
-**Francesca Bria** / CTO Barcelona and DECODE project lead
+**Francesca Bria** / CTO Barcelona et chef de projet pour DECODE
 
-**Lorenzo Marsili** / Co-Founder European Alternatives
+**Lorenzo Marsili** / Co-Fondateur European Alternatives
 
-**Khadija Ryadi** / Laureate UN Human Rights Award 2013
+**Khadija Ryadi** / Lauréat du Prix des droits de l'homme des Nations Unies 2013
 
-**Gustavo Banegas** / PhD Student/Technische Universiteit Eindhoven
+**Gustavo Banegas** / Doctorant/Technische Universiteit Eindhoven
 
-**Maricarmen Sequera** / Executive Director, TEDIC
+**Maricarmen Sequera** / Directeur Exécutif, TEDIC
 
-**Irvin Jim** / General Secretary, National Union of Metalworkers of South Africa (NUMSA)
+**Irvin Jim** / Secrétaire général du Syndicat national des métallurgistes d'Afrique du Sud (NUMSA)
 
-**Richard Pithouse** / Publisher - New Frame
+**Richard Pithouse** / Editeur - New Frame
 
-**S'bu Zikode** / President of Abahlali BaseMjondolo
+**S'bu Zikode** / Président du Abahlali BaseMjondolo
 
 **Zackie Achmat** / UniteBehind
 
-**Alberto Garzón** / Spanish MP and General Coordinator of United Left Party
+**Alberto Garzón** / Député espagnol et coordinateur général du Parti de la Gauche Unie
 
-**Almudena Bernabéu** / Human Rights Lawyer, Co-founder of Guernica 37
+**Almudena Bernabéu** / Avocat des droits de l'homme, co-fondateur de  Guernica 37
 
-**Enrique Santiago** / General Secretary of the Spanish Communist Party, Human Rights Lawyer
+**Enrique Santiago** / Secrétaire général du Parti Communiste Espagnol, avocat des droits de l'homme
 
-**Ernest Urtasun** / European Parliament MP, Group of the Greens/European Free Alliance
+**Ernest Urtasun** / Député du Parlement européen, Groupe des Verts / Alliance libre européenne
 
-**Estefanía Torres Martínez** / European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
+**Estefanía Torres Martínez** / Parlement européen, Groupe confédéral de la Gauche Unitaire Européenne - Gauche Verte nordique
 
-**Gerardo Pisarello** / First Deputy Mayor Barcelona City
+**Gerardo Pisarello** / Premier adjoint au maire de Barcelone
 
-**Javier Couso Permuy** / European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
+**Javier Couso Permuy** / Parlement européen, Groupe confédéral de la Gauche Unitaire Européenne - Gauche Verte nordique
 
-**José María Guijarro** / Spanish MP and General Secretary of the Parliamentary Group of Unidas Podemos
+**José María Guijarro** / Député espagnol et secrétaire général du groupe parlementaire du Unidas Podemos
 
-**Lola Sánchez Caldentey** / European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
+**Lola Sánchez Caldentey** / Parlement européen, Groupe confédéral de la Gauche Unitaire Européenne - Gauche Verte nordique
 
-**Maite Mola** / Vice President of the Party of the European Left (PEL)
+**Maite Mola** / Vice-président du Parti de la gauche européenne (PEL)
 
-**Miguel Urban** / European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
+**Miguel Urban** / Parlement européen, Groupe confédéral de la Gauche Unitaire Européenne - Gauche Verte nordique
 
-**Pablo Bustinduy** / Spanish MP and International Secretary of Podemos
+**Pablo Bustinduy** / Député espagnol et secrétaire international de Podemos
 
-**Tania González Peñas** / European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
+**Tania González Peñas** / Parlement européen, Groupe confédéral de la Gauche Unitaire Européenne - Gauche Verte nordique
 
-**Xabier Benito Ziluaga** / European Parliament MP, Confederal Group of the European United Left - Nordic Green Left
+**Xabier Benito Ziluaga** / Parlement européen, Groupe confédéral de la Gauche Unitaire Européenne - Gauche Verte nordique
 
-**Yolanda Cvitak** / MundoJusto
+**Yoleta Cvitak** / MundoJusto
 
-**Jimmy Nilsson** / Founder of factor10
+**Jimmy Nilsson** / Fondateur de factor10
 
-**Jon-Erling Dahl** / CTO / fooheads AB
+**Jon-Erling Dahl** / CTO de fooheads AB
 
-**Niclas Nilsson** / CEO at fooheads AB
+**Niclas Nilsson** / CEO de fooheads AB
 
-**Zimoun** / Artist, Switzerland
+**Zimoun** / Artiste, Suisse
 
-**Ammar Amroussia** / MP (Popular Front) Tunisia
+**Ammar Amroussia** / MP (Front populaire) Tunisie
 
-**Hamma Hammami** / GS (Popular Front) Tunisia
+**Hamma Hammami** / GS (Front populaire) Tunisie
 
-**Heikel Belkacem** / MP (Popular Front) Tunisia
+**Heikel Belkacem** / MP (Front populaire) Tunisie
 
-**Jilani Hammami** / MP (Popular Front) Tunisia
+**Jilani Hammami** / MP (Front populaire) Tunisie
 
-**Paul Mason** / Journalist and Decode advisory panel member
+**Paul Mason** / Journaliste et Membre du panel consultatif pour DECODE
 
-**Aijaz Ahmad** / Chancellor's Professor in the Department of Comparative Literature, University of California (Irvine)
+**Aijaz Ahmad** / Chancellor's Professor au département de littérature comparée de l'Université de Californie (Irvine)
 
-**Albert Leger** / Artist/Activist
+**Albert Leger** / Artiste/Activiste
 
-**Anthony Arnove** / Publisher
+**Anthony Arnove** / Éditeur
 
-**Colonel Ann Wright** / Veterans for Peace and former UN Diplomat, who resigned in 2003 in opposition to the US war on Iraq
+**Colonel Ann Wright** / Veterans for Peace et ancien diplomate des Nations Unies, qui a démissionné en 2003 pour s'opposer à la guerre américaine en Irak
 
-**Cristina García** / Novelist
+**Cristina García** / Romancière
 
-**Daniel Goodwin** / Attorney
+**Daniel Goodwin** / Avocat
 
-**David Harvey** / City University of New York
+**David Harvey** / City Université of New York
 
-**Jodie Evans** / co-founder CODEPINK; Women for Peace
+**Jodie Evans** / co-fondatrice CODEPINK; Women for Peace
 
-**John Kiriakou** / former CIA Counterterrorism Officer and former Senior Investigator, US Senate Foreign Relations Committee
+**John Kiriakou** / ancien Officier du Contre-terrorisme de la CIA et ancien Chercheur Senior au Comité des Relations Extérieures du Sénat Américain
 
-**Joslyn Barnes** / Film Producer
+**Joslyn Barnes** / Producteur de films
 
-**Mark Weisbrot** / CEPR, USA
+**Mark Weisbrot** / CEPR, Etats Unis
 
-**Medea Benjamin** / co-founder CODEPINK; Women for Peace
+**Medea Benjamin** / co-fondatrice CODEPINK; Women for Peace
 
-**Mishi Choudhary** / Legal Director, Software Freedom Law Centre
+**Mishi Choudhary** / Directrice juridique, Software Freedom Law Center
 
-**Neville Roy Singham** / Founder of ThoughtWorks, now retired
+**Neville Roy Singham** / Fondateur de ThoughtWorks, maintenant à la retraite
 
-**Patrick Linskey** / Principal Engineer, Cisco Systems Inc.
+**Patrick Linskey** / Ingénieur principal, Cisco Systems Inc.
 
-**Reverend Dr. William J. Barber II** / Repairers of the Breach and Poor Peoples Campaign, USA
+**Reverend Dr. William J. Barber II** / Repairers of the Breach and Poor Peoples Campaign, Etats Unis
 
-**Shanti Marie Singham** / Professor of History and Africana Studies, Williams College, Massachusetts USA
+**Shanti Marie Singham** / Professeur d'histoire et d'études africaines, Williams College, Massachusetts, Etats Unis
 
-**Stephanie Whited** / Communications Director - torproject. Actor, Writer
+**Stephanie Whited** / Directeur des communications - torproject. Comédienne, Écrivaine
 
 **Vivien Lesnik Weisman** / Latinovision Productions
 
-**William E. Binney** / Former Technical Director at NSA
+**William E. Binney** / Ancien directeur technique à l'Agence de Sécurité Nationale (NSA)
 
 **Carolina Resende Haddad** / 
 
 **Seth Pyenson** / 
+
+Affiliations are listed for identification purposes

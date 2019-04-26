@@ -1,6 +1,6 @@
 {%- for post in posts -%}
 <article class="mt1 dt">
-    <div class="dtc w-70 v-top">
+    <div class="dtc w-70 v-top" id="post-info">
       <a class="link" href="{{ post.url }}">
           <h2 class="f1 fw9 lh-title black mv0 underline-hover">
             {{ post.data.title }}
@@ -9,10 +9,10 @@
       <small class="gray db">
         {{ post.date.toUTCString().slice(0,16)}}
       </small>
-     <div class="pl3 pr6">{{ post.templateContent | striptags | truncate }}</div>
+     <div class="pl3 pr6" id="post-text">{{ post.templateContent | striptags | truncate }}</div>
     </div>
     <div class="dtc w-40">
-      <img src="{{ post.data.image }}" class="db nested-img" alt="{{ title }}"/>
+      <img src="{{ post.data.image }}" class="db nested-img" alt="{{ title }}" id="post-image"/>
     </div>
 </article>
 {%- endfor -%}

@@ -5,6 +5,8 @@ collection: fr
 image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
+<h1 class="f3 pa3 shadow-1"><a href="/en/letters">Letters from detention</a></h1>
+
 Notre collègue et ami, Ola Bini, a été arrêté en tant que prisonnier politique par le gouvernement équatorien et a besoin de votre aide. Montre ton soutien en promouvant et en participant à ces actions:
 
 1. Signe la [lettre de solidarité] de la communauté technologique

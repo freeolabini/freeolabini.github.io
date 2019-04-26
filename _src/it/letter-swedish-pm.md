@@ -308,3 +308,5 @@ I cittadini preoccupati
 **Carolina Resende Haddad** / 
 
 **Seth Pyenson** / 
+
+Affiliations are listed for identification purposes

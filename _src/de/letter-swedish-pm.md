@@ -309,3 +309,4 @@ Concerned citizens
 
 **Seth Pyenson** / 
 
+Affiliations are listed for identification purposes

@@ -5,6 +5,8 @@ collection: en
 image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
+<h1 class="f3 pa3 shadow-1"><a href="/en/letters">Letters from detention</a></h1>
+
 Our esteemed colleague, Ola Bini, is being detained as a political prisoner in Ecuador. Please take action to show your support:
 
 1. Sign our [solidarity letter] from the tech community

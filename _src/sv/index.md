@@ -5,6 +5,8 @@ collection: sv
 image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
+<h1 class="f3 pa3 shadow-1"><a href="/en/letters">Letters from detention</a></h1>
+
 Vår högt uppskattade kollega Ola Bini är gripen och hålls som politisk fånge i Ecuador. Agera nu för att visa ditt stöd:
 
 1. Skriv under vårt [stöduttalande] från den tekniska communityn
