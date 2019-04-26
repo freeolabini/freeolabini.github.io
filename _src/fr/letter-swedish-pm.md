@@ -308,3 +308,5 @@ Les citoyens concernés
 **Carolina Resende Haddad** / 
 
 **Seth Pyenson** / 
+
+Affiliations are listed for identification purposes

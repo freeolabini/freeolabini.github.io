@@ -45,7 +45,7 @@ Concerned citizens
 
 **Yanis Varoufakis** / DiEM25 co-founder, Professor of Economics – University of Athens
 
-**Arundahti Roy** / Author
+**Arundhati Roy** / Author
 
 **Danny Glover** / Actor
 

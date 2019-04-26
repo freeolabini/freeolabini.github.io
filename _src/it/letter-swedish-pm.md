@@ -308,3 +308,5 @@ Concerned citizens
 **Carolina Resende Haddad** / 
 
 **Seth Pyenson** / 
+
+Affiliations are listed for identification purposes
