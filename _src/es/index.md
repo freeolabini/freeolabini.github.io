@@ -5,6 +5,8 @@ collection: es
 image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
+<h1 class="f3 pa3 shadow-1"><a href="/en/letters">Letters from detention</a></h1>
+
 Nuestro colega y amigo, Ola Bini, ha sido detenido como preso político por el gobierno de Ecuador y necesita de tu colaboración. Por favor, muestra tu apoyo a través de estas acciones:
 1. Firma la [carta de solidaridad] de la comunidad tecnológica
 2. [Envía un correo electrónico] al presidente de Ecuador a través del sitio de la campaña de Code Pink

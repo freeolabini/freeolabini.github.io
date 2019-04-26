@@ -5,6 +5,8 @@ collection: it
 image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
+<h1 class="f3 pa3 shadow-1"><a href="/en/letters">Letters from detention</a></h1>
+
 Il nostro stimato collega, Ola Bini, è detenuto come prigioniero politico in Ecuador. Unisciti a noi in suo sostegno:
 
 1. Firma la [lettera di solidarietà] della nostra tech community

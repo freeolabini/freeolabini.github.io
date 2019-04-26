@@ -5,6 +5,8 @@ collection: eo
 image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
+<h1 class="f3 pa3 shadow-1"><a href="/en/letters">Letters from detention</a></h1>
+
 Nia estimita kolego, Ola Bini, estas detenata kiel politika malliberulo
 en Ekvadoro. Bonvolu agi por montri vian subtenon:
 
