@@ -11,7 +11,7 @@ Il nostro stimato collega, Ola Bini, è detenuto come prigioniero politico in Ec
 
 1. Firma la [lettera di solidarietà] della nostra tech community
 2. [Invia una e-mail] al presidente dell'Ecuador tramite il sito della campagna Code Pink
-3. Follow su tweeter [@FreeOlaBini], segui l'hashtag [#FreeOlaBini] e visita freeolabini.org per aggiornamenti
+3. Segui su twitter [@FreeOlaBini], l'hashtag [#FreeOlaBini] e visita freeolabini.org per aggiornamenti
 4. Invia un email a [support@freeolabini.org] se vuo aiutarci in questa campagna d'informazione
 5. [Iscriviti] alla nostra newsletter per aggiornamenti
 
