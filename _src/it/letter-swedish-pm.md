@@ -12,9 +12,9 @@ Caro Primo Ministro Stefan Löfven,
 
 L'11 aprile, il cittadino svedese Ola Metodius Bini, uno sviluppatore di software libero, è stato arrestato in Quito (Ecuador). Egli ha vissuto nella Repubblica dell'Ecuador negli ultimi sei anni. Ola Bini sta ora scontando una detenzione preventiva di 90 giorni. Non gli è stata concessa la cauzione.
 
-Il caso di Ola Bini ha destato preoccupazione a livello mondiale. Il relatore speciale delle Nazioni Unite sulla libertà di espressione, [David Kaye] (https://twitter.com/davidakaye/status/1117489081397547008) ha affermato che "nulla in questa storia collega Ola Bini ad alcun crimine". Inoltre, ha detto, "il governo dell'Ecuador deve dimostrare più di questo altrimenti questa sembra una detenzione arbitraria". L'organizzazione del relatore speciale per la libertà di espressione dello Stato americano, [Edison Lanza] (https://twitter.com/EdisonLanza/status/1117552044737429504), ha aggiunto: "Condivido la preoccupazione del relatore David Kaye in merito all'arresto e alla detenzione dell'attivista digitale Ola Bini".
+Il caso di Ola Bini ha destato preoccupazione a livello mondiale. Il relatore speciale delle Nazioni Unite sulla libertà di espressione, [David Kaye](https://twitter.com/davidakaye/status/1117489081397547008) ha affermato che "nulla in questa storia collega Ola Bini ad alcun crimine". Inoltre, ha detto, "il governo dell'Ecuador deve dimostrare più di questo altrimenti questa sembra una detenzione arbitraria". L'organizzazione del relatore speciale per la libertà di espressione dello Stato americano, [Edison Lanza](https://twitter.com/EdisonLanza/status/1117552044737429504), ha aggiunto: "Condivido la preoccupazione del relatore David Kaye in merito all'arresto e alla detenzione dell'attivista digitale Ola Bini".
 
-[Amnesty International] (https://twitter.com/ErikaGuevaraR/status/1117791352488628224) e [Articolo 19 hanno pubblicamente] (https://twitter.com/article19org/status/1117789379802673152) ripetuto questa preoccupazione e stanno monitorando da vicino il caso.
+[Amnesty International](https://twitter.com/ErikaGuevaraR/status/1117791352488628224) e [Articolo 19 hanno pubblicamente](https://twitter.com/article19org/status/1117789379802673152) ripetuto questa preoccupazione e stanno monitorando da vicino il caso.
 
 L'11 aprile Ola Bini stava andando in Giappone per un corso di arti marziali, divulgandolo su twitter una settimana prima. È stato detenuto dalla polizia ecuadoriana. In violazione di giusto processo, la polizia non ha contattato le autorità svedesi. Questo processo dovrebbe essere parte degli standard della legge ecuadoriana. Dopo 15 ore dalla sua detenzione iniziale, hanno eseguito la notifica.
 
@@ -95,7 +95,7 @@ I cittadini preoccupati
 
 **Ariovaldo Ramos** / Evengelical Front for a State of Rights
 
-**Bernardo Loureiro Jurema** / 
+**Bernardo Loureiro Jurema** /
 
 **Carol Proner** / Member of the International Committee of the Brazilian Association of Jurists for Democracy
 
@@ -169,7 +169,7 @@ I cittadini preoccupati
 
 **Walter Palmetshofer** / Open Knowledge Foundation Germany
 
-**Dmytri Kleiner** / 
+**Dmytri Kleiner** /
 
 **David Adler** / Diem25
 
@@ -305,8 +305,8 @@ I cittadini preoccupati
 
 **William E. Binney** / Former Technical Director at NSA
 
-**Carolina Resende Haddad** / 
+**Carolina Resende Haddad** /
 
-**Seth Pyenson** / 
+**Seth Pyenson** /
 
 Affiliations are listed for identification purposes
