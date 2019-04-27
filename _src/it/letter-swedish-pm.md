@@ -5,39 +5,39 @@ tags:
   - it
 date: 2019-04-23
 image: /img/olamf.jpg
-title: Letter to the Prime Minister of Sweden.
+title: Lettera al Primo Ministro di Svezia.
 
 ---
-Dear Prime Minister Stefan Löfven,
+Caro Primo Ministro Stefan Löfven,
 
-On April 11, Swedish national Ola Metodius Bini, a free software developer, was arrested in Quito (Ecuador). He has been living in the Republic of Ecuador for the past six years. Ola Bini is now serving a 90-day pretrial detention. He has not been afforded bail.
+L'11 aprile, il cittadino svedese Ola Metodius Bini, uno sviluppatore di software libero, è stato arrestato in Quito (Ecuador). Egli ha vissuto nella Repubblica dell'Ecuador negli ultimi sei anni. Ola Bini sta ora scontando una detenzione preventiva di 90 giorni. Non gli è stata concessa la cauzione.
 
-The case of Ola Bini has drawn worldwide concern. UN Special Rapporteur on Freedom of Expression, [David Kaye](https://twitter.com/davidakaye/status/1117489081397547008) said that ‘nothing in this story connects Ola Bini to any crime’. Further, he said, ‘the govt of Ecuador must demonstrate more than that or this looks like an arbitrary detention’. The Organisation of American State’s Special Rapporteur for Freedom of Expression, [Edison Lanza](https://twitter.com/EdisonLanza/status/1117552044737429504), added, ‘I share the Rapporteur David Kaye’s concern around the arrest and detention of digital activist Ola Bini’.
+Il caso di Ola Bini ha destato preoccupazione a livello mondiale. Il relatore speciale delle Nazioni Unite sulla libertà di espressione, [David Kaye] (https://twitter.com/davidakaye/status/1117489081397547008) ha affermato che "nulla in questa storia collega Ola Bini ad alcun crimine". Inoltre, ha detto, "il governo dell'Ecuador deve dimostrare più di questo altrimenti questa sembra una detenzione arbitraria". L'organizzazione del relatore speciale per la libertà di espressione dello Stato americano, [Edison Lanza] (https://twitter.com/EdisonLanza/status/1117552044737429504), ha aggiunto: "Condivido la preoccupazione del relatore David Kaye in merito all'arresto e alla detenzione dell'attivista digitale Ola Bini".
 
-[Amnesty International](https://twitter.com/ErikaGuevaraR/status/1117791352488628224) and [Article 19 have publicly](https://twitter.com/article19org/status/1117789379802673152) echoed this concern and are closely monitoring the case. 
+[Amnesty International] (https://twitter.com/ErikaGuevaraR/status/1117791352488628224) e [Articolo 19 hanno pubblicamente] (https://twitter.com/article19org/status/1117789379802673152) ripetuto questa preoccupazione e stanno monitorando da vicino il caso.
 
-On April 11, Ola Bini was going to Japan for a martial arts training course, which he had advertised on twitter a week before. He was detained by the Ecuadorian police. In violation of due process, the police did not contact the Swedish authorities. This process is part of the standards of Ecuadorian law. After 15 hours of his initial detention, they made the contact.
+L'11 aprile Ola Bini stava andando in Giappone per un corso di arti marziali, divulgandolo su twitter una settimana prima. È stato detenuto dalla polizia ecuadoriana. In violazione di giusto processo, la polizia non ha contattato le autorità svedesi. Questo processo dovrebbe essere parte degli standard della legge ecuadoriana. Dopo 15 ore dalla sua detenzione iniziale, hanno eseguito la notifica.
 
-Ola Bini’s human rights have been violated repeatedly by the police, by the Ministry of the Interior, by the Attorney General’s office and by the judge in charge of the case. The agents who initially detained him did not have a valid warrant. He was denied access to his lawyers for 17 hours. He was not permitted to have a translator – even though his Spanish is rudimentary. He was not informed of the charges against him.
+I diritti umani di Ola Bini sono stati violati ripetutamente dalla polizia, dal Ministero dell'Interno, dall'ufficio del Procuratore Generale e dal giudice responsabile del caso. Gli agenti che inizialmente lo hanno detenuto non avevano un mandato valido. Gli è stato negato l'accesso ai suoi avvocati per 17 ore. Non gli è stato permesso di avere un traduttore, anche se il suo spagnolo è rudimentale. Non è stato informato delle accuse contro di lui.
 
-Ola Bini was held at the airport for more than eight hours. In violation of Ecuadorian law, he was not transferred to the police facilities. The police then took him to his home, where they coerced him to allow access. Finally, he was taken to a facility abandoned by the judicial police, where he spent the night. By that time, he still did not have any access to legal advice or assistance.
+Ola Bini è stato trattenuto all'aeroporto per più di otto ore. In violazione della legge ecuadoriana, non è stato trasferito alle strutture di polizia. La polizia poi lo ha portato alla sua dimora, dove lo haano costretto a permettergli l'accesso. Alla fine, è stato portato in una struttura abbandonata dalla polizia giudiziaria, dove ha trascorso la notte. Fino a quel momento, non gli è stato fornito nessun accesso ad assistenza o consulenza legale.
 
-The next morning – on April 12 – Ola Bini was transferred to the Prosecutor's Office, where he remained for a further 12 hours before a hearing. For a total of 17 hours Ola Bini was not allowed legal advice or food. His lawyers report that they were harassed and threatened by the police.
+Il mattino seguente - il 12 aprile - Ola Bini è stato trasferito all'Ufficio del Procuratore, dove è rimasto per altre 12 ore prima di un'udienza. Per un totale di 17 ore a Ola Bini non è stato consentito l'accesso a parere legale o cibo. I suoi avvocati riferiscono di essere stati molestati e minacciati dalla polizia.
 
-At the hearing, the prosecutor offered no evidence against Ola Bini. Based on the Ecuadorian Penal Code, he was accused of one very serious crime – attacking the integrity of computer systems. Despite the lack of any evidence, the judge placed Ola Bini in pretrial detention for 90 days. There was no bail hearing.
+All'udienza, il pubblico ministero non ha offerto alcuna prova contro Ola Bini. In base al Codice Penale ecuadoriano, è stato accusato di un crimine molto grave - attacco all'integrità di sistemi informatici. Nonostante la mancanza di prove, il giudice ha posto Ola Bini in detenzione preventiva per 90 giorni. Non c'è  stata udienza per la cauzione.
 
-We believe that the process is politically motivated. Fabricated charges, with no evidence, have been brought against an innocent man. He has been caught in a dispute that does not concern him and with which he is not involved at all. There is not a single piece of evidence that incriminates him. Ola Bini sits in an Ecuadoran prison, denied bail, and with no guarantees of due process. 
+Crediamo che il processo sia politicamente motivato. Accuse fabbricate, senza prove, sono state portate contro un innocente. È stato intrappolato in una disputa che non lo riguarda e nel quale non è affatto coinvolto. Non c'è una singola prova che lo incrimina. Ola Bini è trattenuto in una prigione ecuadoriana, ha negata la sua libertà su cauzione e non ha garanzie di giusto processo.
 
-Ola Bini is a globally respected figure in the free software community, and a renowned activist for the right to privacy. In 2010, Computerworld magazine named him as Sweden's 6th best developer. He is a member of various European and international networks for free software and privacy, and he participates in projects of the highest level, some of them sponsored by the European Commission. Ola has never expressed any views that would in any way be a threat to the Ecuadorian government. 
+Ola Bini è una figura rispettata a livello mondiale nella comunità del software libero e un rinomato attivista per il diritto alla privacy. Nel 2010, la rivista Computerworld lo ha nominato il 6° miglior sviluppatore della Svezia. È membro di varie reti europee e internazionali per software libero e privacy, e partecipa a progetti di altissimo livello, alcuni dei quali sponsorizzati dalla Commissione Europea. Ola non ha mai espresso alcuna opinione che sarebbe in alcun modo una minaccia per il governo ecuadoriano.
 
-As an advocate and an activist for the right to privacy, Ola has visited Julian Assange at the Ecuadorian Embassy in London several times. However, he does not work for Wikileaks, nor has he ever worked for them. Any allegation that he is conspiring against the Ecuadorian government and its computer systems is false and ludicrous.
+Come sostenitore e attivista per il diritto alla privacy, Ola ha visitato più volte Julian Assange presso l'ambasciata ecuadoriana a Londra. Tuttavia, non lavora per Wikileaks, né ha mai lavorato per loro. Ogni accusa di cospirazione contro il governo ecuadoriano e i suoi sistemi informatici è falsa e ridicola.
 
-We appeal to the Swedish Government to take firm, immediate action. So far, the Swedish Government's efforts have been limited to the presence of the Swedish Honorary Consul in Quito.  While we are grateful that the Swedish Honorary Consul in Quito involved himself we would ask you and the government to lift this to a political level, since it seems to be a political reason behind the arrest. We are sure that the misunderstanding about who Ola is and what he does could quickly be resolved. The Swedish Society and the Government of Sweden are recognized worldwide as active defenders and promoters of human rights and freedom of expression. His family, his friends, his colleagues, call on the Swedish government to intercede for Ola before the Ecuador authorities, demand respect for the law and for Ola’s human rights, and to facilitate his safe immediate return to Sweden. 
+Facciamo appello al governo svedese affinché intraprenda un'azione ferma e immediata. Finora, gli sforzi del governo svedese si sono limitati alla presenza del Console Onorario svedese a Quito. Mentre siamo grati che il Console Onorario svedese di Quito si sia impegnato, chiederemo a te e al governo di sollevare queto caso a livello politico, poiché sembra esserci una ragione politica dietro l'arresto. Siamo sicuri che l'equivoco su chi sia Ola e di cosa si occupa possa essere risolto rapidamente. La società svedese e il governo svedese sono riconosciuti in tutto il mondo come promotori e difensori attivi dei diritti umani e della libertà di espressione. La sua famiglia, i suoi amici, i suoi colleghi, invitiamo il governo svedese a intercedere per Ola davanti presso le autorità ecuadoriane, chiediamo rispetto per la legge e per i diritti umani di Ola, e di facilitare il suo immediato ritorno in sicurezza in Svezia.
 
 
-Respectfully,
+Rispettosamente,
 
-Concerned citizens
+I cittadini preoccupati
 
 **Pamela Anderson** / Actress
 
