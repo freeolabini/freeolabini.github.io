@@ -5,7 +5,7 @@ tags:
   - it
 date: 2019-04-23
 image: /img/olamf.jpg
-title: Lettera al Primo Ministro di Svezia.
+title: Lettera al Primo Ministro di Svezia
 
 ---
 Caro Primo Ministro Stefan Löfven,

@@ -5,7 +5,7 @@ tags:
   - fr
 date: 2019-04-23
 image: /img/olamf.jpg
-title: Lettre au Premier ministre suédois.
+title: Lettre au Premier ministre suédois
 
 ---
 Monsieur le Premier Ministre Stefan Löfven,
@@ -95,7 +95,7 @@ Les citoyens concernés
 
 **Ariovaldo Ramos** / Front Evangélique pour un Etat des Droits
 
-**Bernardo Loureiro Jurema** / 
+**Bernardo Loureiro Jurema** /
 
 **Carol Proner** / Membre du Comité international de l'Association brésilienne des juristes pour la démocratie
 
@@ -111,7 +111,7 @@ Les citoyens concernés
 
 **Joao Pedro Stedile** / MST et Via Campesina Brasil
 
-**Leonardo Boff** / Théologien, philosophe et membre de la comission International Earth Charta 
+**Leonardo Boff** / Théologien, philosophe et membre de la comission International Earth Charta
 
 **Marco Antonio Santos** / Psychologue
 
@@ -163,13 +163,13 @@ Les citoyens concernés
 
 **Katharina Wojcik** / DiEM25
 
-**Moritz Bartl** / Fondation Renewable Freedom 
+**Moritz Bartl** / Fondation Renewable Freedom
 
 **Sevim Dagdelen** / Député, vice-président du groupe parlementaire de gauche du Bundestag allemand
 
 **Walter Palmetshofer** / Open Knowledge Foundation Germany
 
-**Dmytri Kleiner** / 
+**Dmytri Kleiner** /
 
 **David Adler** / Diem25
 
@@ -305,8 +305,8 @@ Les citoyens concernés
 
 **William E. Binney** / Ancien directeur technique à l'Agence de Sécurité Nationale (NSA)
 
-**Carolina Resende Haddad** / 
+**Carolina Resende Haddad** /
 
-**Seth Pyenson** / 
+**Seth Pyenson** /
 
 Affiliations are listed for identification purposes
