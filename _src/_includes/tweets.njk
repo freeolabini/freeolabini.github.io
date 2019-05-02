@@ -4,7 +4,7 @@ layout: base.njk
 {{ content | safe }}
 <h2>Tweet This</h2>
 <div class="tc">
-{%- for tweet in collections[collection] -%}
+{%- for tweet in collections[collection] | reverse -%}
 <form class="black-80" action="https://twitter.com/intent/tweet">
   <div class="tr">
     <input type="hidden" name="url" value="https://freeolabini.org{{ tweet.url }}" />
