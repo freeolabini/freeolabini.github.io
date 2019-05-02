@@ -3,7 +3,7 @@ layout: tweets.njk
 tags:
   - post
   - fr
-collection: tweeten
+collection: tweetfr
 date: 2019-05-02
 image: /img/oladrawing.jpg
 title: S'il te plaît, partage sur Twitter!

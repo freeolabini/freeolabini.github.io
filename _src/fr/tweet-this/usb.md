@@ -1,6 +1,6 @@
 ---
 layout: tweet.njk
-tags: tweeten
+tags: tweetfr
 image: /img/usb.jpg
 title: Libérez Ola Bini. Tweet ça!
 ---
