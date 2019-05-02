@@ -4,6 +4,5 @@ tags: tweeten
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-Ola Bini never denied to be a friend of Assange. If you have a
-friend sick you go to visit him at the hospital. If you have a friend
-under asylum you go and visit him in the embassy.
+Ola never denied being a friend of Assange. If your friend is sick you
+visit them at the hospital. If your friend has asylum you visit them
