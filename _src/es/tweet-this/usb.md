@@ -4,4 +4,4 @@ tags: tweetes
 image: /img/usb.jpg
 title: Free Ola Bini. Tweet This!
 ---
-30 USB sticks? Yes, that’s normal in our line of work. You don’t put a lawyer away because they have books on law. Or a football player for their football shoes. #FreeOlaBini
+30 memorias USB? Sí, eso es normal en nuestra línea de trabajo. Uno no detiene a un abogado porque tienen libros sobre ley. O un jugador de fútbol por sus zapatos de fútbol. #FreeOlaBini
