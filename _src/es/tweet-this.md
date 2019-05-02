@@ -6,8 +6,8 @@ tags:
 collection: tweetes
 date: 2019-05-02
 image: /img/oladrawing.jpg
-title: Please Tweet This!
+title: Por favor Twittea Esto!
 ---
-# Please Tweet This
+# Por favor Twittea Esto
 
-Ola Bini remains in prison in Ecudor. Help spread the word by tweeting these messages.
+Ola Bini sigue en detención en Ecuador. Ayúdanos a difundir la palabra twitteando estos mensajes.
