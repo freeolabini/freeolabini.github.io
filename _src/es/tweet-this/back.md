@@ -4,4 +4,4 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-Ola Bini planned his trip to Japan weeks ago. Then he wanted to get back working in Ecuador. #FreeOlaBini
+Ola Bini planificó su viaje a Japón varias semanas atrás. Luego iba a regresar para seguir trabajando en Ecuador. #FreeOlaBini

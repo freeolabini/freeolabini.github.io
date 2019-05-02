@@ -4,5 +4,4 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-The rights of Ola Bini are being violated. @FiscaliaEcuador has not
-respected due process. #FreeOlaBini
+Se están violando los derechos de Ola Bini. @FiscaliaEcuador no respetó el debido proceso. #FreeOlabini

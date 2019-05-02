@@ -4,4 +4,4 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-Ola Bini has been detained for 3 weeks. Neither @FiscaliaEcuador nor @mariapaularomo have explained why. #FreeOlaBini
+Han pasado 3 semanas desde que Ola Bini está detenido. Hasta ahora ni @FiscaliaEcuador, ni @mariapaularomo han explicado por qué. #FreeOlaBini

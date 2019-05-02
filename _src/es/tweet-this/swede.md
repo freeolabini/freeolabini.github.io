@@ -4,4 +4,4 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-Minister @mariapaularomo accused some Russians, police had arrest order for a Swiss national. They ended up detaining a Swede. #FreeOlaBini
+La ministra @mariapaularomo nombró a unos rusos, la policía tuvo una orden de detención contra un suizo. Terminaron deteniendo a un sueco. #FreeOlaBini

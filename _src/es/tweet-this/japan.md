@@ -4,5 +4,4 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-Ola Bini tweeted about his Japan trip two days before. Nobody knew that #Assange
-was going to be expelled from the embassy. #FreeOlaBini
+Ola Bini anunció su viaje a Japón dos días antes. Ni él ni nadie sabía que #Assange iba a ser expulsado de la embajada. #FreeOlaBini

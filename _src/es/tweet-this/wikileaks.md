@@ -4,4 +4,4 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-Ola Bini is not part or has never been part of Wikileaks. This rumour is only an attempt to justify his illegal detention. #FreeOlaBini
+Ola Bini no pertence ni ha pertenecido a Wikileaks. No trabaja ni ha trabajado con Wikileaks. El rumor es solo un intento de justificar su ilegal detención. #FreeOlaBini
