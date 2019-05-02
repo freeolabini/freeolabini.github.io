@@ -1,0 +1,19 @@
+---
+layout: base.njk
+---
+{{ content | safe }}
+<h2>Tweet This</h2>
+<div class="tc">
+{%- for tweet in collections[collection] -%}
+<form class="black-80" action="https://twitter.com/intent/tweet">
+  <div class="tr">
+    <input type="hidden" name="url" value="https://freeolabini.org{{ tweet.url }}" />
+    <input type="hidden" name="hashtag" value="FreeOlaBini" />
+    <textarea name="text" class="db mb2 border-box hover-black w-100 h4 ba b--black-20" aria-describedby="comment-desc">{{ tweet.templateContent | striptags | trim }}</textarea>
+  </div>
+  <div class="tr">
+    <input type="submit" value="tweet this!"/>
+  </div>
+</form>
+{%- endfor -%}
+</div>
