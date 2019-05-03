@@ -14,6 +14,6 @@ If you prefer to not use a wire account, just entered your name and proceed, you
 ## Common Troubles
 
 - If you are using a phone, the join link will take you to a web page, once you join there you will see the room in your normal Wire client
-- If on a mobile Browser, and it says you should follow the link on a desktop, on some browsers setting the browser to "request desttop site" works. Otherwise try again from a laptop, you will be able to use access the room on mobile aftet you join even if you join on desktop.
+- If on a mobile Browser, and it says you should follow the link on a desktop, on some browsers setting the browser to "request desttop site" works. Otherwise try again from a laptop, you will be able to access the room on mobile after you join, even if you join on desktop.
 - If you have any trouble at all connect with @dkasym on Wire and you will be added
 
