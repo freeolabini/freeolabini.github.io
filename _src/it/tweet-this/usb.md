@@ -1,6 +1,6 @@
 ---
 layout: tweet.njk
-tags: tweeten
+tags: tweetit
 image: /img/usb.jpg
 title: Free Ola Bini. Tweet This!
 ---
