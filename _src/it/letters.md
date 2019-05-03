@@ -29,14 +29,14 @@ Devi essere in grado di accedere alle risorse giuste. Tutti queste considerazion
 Seduto qui nella mia cella, mi pongo la domanda. Nello stesso modo in cui me lo sono chiesto centinaia di volte nell'ultimo anno. Non sono ancora sicuro la risposta.
 
 Ovviamente non è molto produttivo essere seduto qui. Forse l'essere diventato un martire,
-rapito dal governo dell'Ecuador, servirà ad iniziare altre conversazioni, attirare l'attenzione ed mettere luce su nuovi modi di battersi. Forse servirà a destare un po' di altre persone.
+rapito dal governo dell'Ecuador, servirà ad iniziare altre conversazioni, attirare l'attenzione o mettere luce su nuovi modi di battersi. Forse servirà a destare un po' di altre persone.
 
 Naturalmente non ho molta scelta nella mia situazione attuale, ma posso pormi questa domanda riguardo alla mia vita precedente e posso iniziare a pensare a cosa averrà d'ora in poi.
 Questi ragionamenti stanno occupando la maggior parte dei miei pensieri in questi giorni.
 
 Quindi, riguardo alla mia vita precedente, decisi molti anni fa che il campo della privacy
 fosse qualcosa di estremamente importante e anche qualcosa in cui la mia specifica conoscenza e rete di legami mi avrebbero permesso di fare qualcosa di importante.
-Quindi iniziai a lavorare su strumenti per migliorare la privacy. Per me, la privacy è qualcosa che è assolutamente necessario affinché gli esseri umani siano liberi e l'aumento della viglianza ne sta minacciando le fondamenta.
+Quindi iniziai a lavorare su strumenti per migliorare la privacy. Per me, la privacy è qualcosa che è assolutamente necessario affinché gli esseri umani siano liberi e l'aumento della vigilanza di massa ne sta minacciando le fondamenta.
 
 Il mio obiettivo con CAD (e nelle precedenti iterazioni) del concetto era di creare un gruppo
 di persone con le competenze necessarie per migliorare la privacy attraverso varie iniziative. Ci sono così tanti temi su cui lavorare. Sia protocolli hardware e software

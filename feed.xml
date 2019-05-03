@@ -4,7 +4,7 @@
   <subtitle>Campaign to Free Ola Bini</subtitle>
   <link href="https://freeolabini.org/feed.xml" rel="self"/>
   <link href="http://freeolabini.org/"/>
-  <updated>2019-05-03T21:29:28.151+02:00</updated>
+  <updated>2019-05-03T22:48:53.409+02:00</updated>
   <id>https://freeolabini.org/</id>
   <author>
     <name>Free Ola Bini</name>
@@ -2061,6 +2061,15 @@ Concerned citizens&lt;/p&gt;
     <updated>2019-05-02T02:00:00+02:00</updated>
     <id>http://freeolabini.org/fr/tweet-this/</id>
     <content type="html">&lt;p&gt;Ola Bini est toujours en prison en Equateur. Aidez à diffuser le message en tweetant ces messages.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Twitta questi messaggi per favore!</title>
+    <link href="http://freeolabini.org/it/tweet-this/"/>
+    <updated>2019-05-02T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/it/tweet-this/</id>
+    <content type="html">&lt;p&gt;Ola Bini rimane detenuto in prigione in Ecuador. Aiuta a diffondere il messaggio twittando questi messaggi.&lt;/p&gt;
 </content>
   </entry>
 </feed>
