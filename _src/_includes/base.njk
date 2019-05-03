@@ -28,12 +28,12 @@
     <title>{{ title }} | Free Ola Bini #FreeOlaBini</title>
   </head>
   <body>
-    <div class="center mw8 pa3">
+    <div class="center-ns mw8-ns pa2 pa3-ns">
       <header>
-        <a class="f-headline fw9 lh-title mb1 link dark-gray" href="/" id="main-title">
+        <a class="f-headline-ns f1 fw9 lh-title mb1 link dark-gray" href="/">
           Free Ola Bini!
         </a>
-        <nav class="f4 lh-title mb4" id="main-menu">
+        <nav class="f4-ns f5 lh-title ma2">
           <a href="/es/" class="link dim  {% if page.url.slice(1, 3) === 'es' %}white bg-dark-gray{% else %}mid-gray{% endif %} ttu">Español</a> &nbsp;
           <a href="/sv/" class="link dim  {% if page.url.slice(1, 3) === 'sv' %}white bg-dark-gray{% else %}mid-gray{% endif %} ttu grow">Svenska</a> &nbsp;
           <a href="/en/" class="link dim  {% if page.url.slice(1, 3) === 'en' %}white bg-dark-gray{% else %}mid-gray{% endif %} ttu grow">English</a> &nbsp;
@@ -44,10 +44,10 @@
           <a href="/eo/" class="link dim  {% if page.url.slice(1, 3) === 'eo' %}white bg-dark-gray{% else %}mid-gray{% endif %} ttu grow">Esperanto</a> &nbsp;
         </nav>
       </header>
-      <main class="fl w-100 f3 lh-copy mb4">
+      <main class="w-100 f3-ns f4 lh-copy mb4">
         {{ content | safe }}
       </main>
-      <footer class="f1 tc mt8">
+      <footer class="f1-ns f2 tc mt8">
         <a href="mailto:olabinilegal@riseup.net" class="link grow dib mr3 black-70">
           <i class="la la-envelope"></i>
         </a>

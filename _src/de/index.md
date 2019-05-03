@@ -1,12 +1,19 @@
 ---
+eleventyExcludeFromCollections: true
 title: Ola Bini in Ecuador verhaftet
 layout: index.njk
 collection: de
 image: /img/oladrawing.jpg
-eleventyExcludeFromCollections: true
+menu:
+  -
+    path: /de/about-ola
+    title: Über Ola
+    icon: la-star
+  -
+    path: /de/letters 
+    title: Briefe aus dem Gefängnis 
+    icon: la-file-text
 ---
-<h1 class="f3 pa3 shadow-1"><a href="/en/letters">Letters from detention</a></h1>
-
 Unser geschätzter Kollege Ola Bini wird on Equador als politischer Gefanger festgehalten.
 Bitte zeigt eure Unterstützung!
 

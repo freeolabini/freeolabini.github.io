@@ -1,18 +1,20 @@
 {%- for post in posts -%}
-<article class="mt1 dt">
-    <div class="dtc w-70 v-top" id="post-info">
-      <a class="link" href="{{ post.url }}">
-          <h2 class="f1 fw9 lh-title black mv0 underline-hover">
+<a class="link dark-gray dim" href="{{ post.url }}">
+<article class="pt3 flex-ns flex-row-reverse-ns">
+    <div class="w-100 w-40-ns">
+      <img src="{{ post.data.image }}" class="nested-img mt3" alt="{{ title }}"/>
+    </div>
+    <div class="w-100 w-60-ns v-top">
+          <h2 class="f2-ns f3 lh-title dark-gray mv0">
             {{ post.data.title }}
           </h2>
-      </a>
       <small class="gray db">
         {{ post.date.toUTCString().slice(0,16)}}
       </small>
-     <div class="pl3 pr6" id="post-text">{{ post.templateContent | striptags | truncate }}</div>
-    </div>
-    <div class="dtc w-40">
-      <img src="{{ post.data.image }}" class="db nested-img" alt="{{ title }}" id="post-image"/>
+      <div class="pl3 pr3 pr4-ns">
+        {{ post.templateContent | striptags | truncate }}
+      </div>
     </div>
 </article>
+</a>
 {%- endfor -%}

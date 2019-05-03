@@ -1,12 +1,19 @@
 ---
+eleventyExcludeFromCollections: true
 title: Ola Bini Arestita en Ekvadoro
 layout: index.njk
 collection: eo
 image: /img/oladrawing.jpg
-eleventyExcludeFromCollections: true
+menu:
+  -
+    path: /eo/about-ola
+    title: Pri Ola
+    icon: la-star
+  -
+    path: /eo/letters 
+    title: Leteroj de malliberejo
+    icon: la-file-text
 ---
-<h1 class="f3 pa3 shadow-1"><a href="/en/letters">Letters from detention</a></h1>
-
 Nia estimita kolego, Ola Bini, estas detenata kiel politika malliberulo
 en Ekvadoro. Bonvolu agi por montri vian subtenon:
 

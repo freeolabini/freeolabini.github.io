@@ -1,12 +1,19 @@
 ---
+eleventyExcludeFromCollections: true
 title: Ola Bini arrestado en Ecuador
 layout: index.njk
 collection: es
 image: /img/oladrawing.jpg
-eleventyExcludeFromCollections: true
+menu:
+  -
+    path: /es/about-ola
+    title: Sobre Ola
+    icon: la-star
+  -
+    path: /es/letters 
+    title: Cartas de detención
+    icon: la-file-text
 ---
-<h1 class="f3 pa3 shadow-1"><a href="/es/letters">Cartas desde la detención</a></h1>
-
 Nuestro colega y amigo, Ola Bini, ha sido detenido como preso político por el gobierno de Ecuador y necesita de tu colaboración. Por favor, muestra tu apoyo a través de estas acciones:
 1. Firma la [carta de solidaridad] de la comunidad tecnológica
 2. [Envía un correo electrónico] al presidente de Ecuador a través del sitio de la campaña de Code Pink
