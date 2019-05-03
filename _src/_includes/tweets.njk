@@ -1,19 +1,13 @@
 ---
-layout: base.njk
+layout: post.njk
 ---
-{{ content | safe }}
-<h2>Tweet This</h2>
-<div class="tc">
+<div class="f2 lh-copy">
+  {{ content | safe }}
+</div>
+<div class="tc pt4">
 {%- for tweet in collections[collection] | reverse -%}
-<form class="black-80" action="https://twitter.com/intent/tweet">
-  <div class="tr">
-    <input type="hidden" name="url" value="https://freeolabini.org{{ tweet.url }}" />
-    <input type="hidden" name="hashtag" value="FreeOlaBini" />
-    <textarea name="text" class="db mb2 border-box hover-black w-100 h4 ba b--black-20" aria-describedby="comment-desc">{{ tweet.templateContent | striptags | trim }}</textarea>
-  </div>
-  <div class="tr mb5">
-    <input type="submit" value="tweet this!"/>
-  </div>
-</form>
+  {% set path = tweet.url %}
+  {% set text = tweet.templateContent %}
+  {% include "tweetinc.njk" %}
 {%- endfor -%}
 </div>
