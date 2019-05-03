@@ -5,7 +5,7 @@ tags:
   - es
 collection: tweetes
 date: 2019-05-02
-image: /img/oladrawing.jpg
+image: /img/freeola.jpg
 title: Por favor Twittea Esto!
 ---
 # Por favor Twittea Esto

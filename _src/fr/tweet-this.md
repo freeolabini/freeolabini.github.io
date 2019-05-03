@@ -5,7 +5,7 @@ tags:
   - fr
 collection: tweetfr
 date: 2019-05-02
-image: /img/oladrawing.jpg
+image: /img/freeola.jpg
 title: S'il te plaît, partage sur Twitter!
 ---
 # S'il te plaît, partage sur Twitter!
