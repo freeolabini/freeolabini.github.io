@@ -2,30 +2,16 @@
 layout: post.njk
 ---
 <div class="tc">
-<form class="black-80" action="https://twitter.com/intent/tweet">
-  <div class="tr">
-    <input type="hidden" name="url" value="https://freeolabini.org{{ page.url }}" />
-    <input type="hidden" name="hashtag" value="FreeOlaBini" />
-    <textarea name="text" class="db mb2 border-box hover-black w-100 h4 ba b--black-20" aria-describedby="comment-desc">{{ content | striptags | trim }}</textarea>
-  </div>
-  <div class="tr">
-    <input type="submit" value="tweet this!"/>
-  </div>
-</form>
+  {% set path = page.url %}
+  {% set text = content %}
+  {% include "tweetinc.njk" %}
 </div>
 <div class="tc mt4 pt4 bt b--black-20">
 {%- for tweet in collections[tags] | reverse -%}
-{% if tweet.url !== page.url %}
-<form class="black-80" action="https://twitter.com/intent/tweet">
-  <div class="tr">
-    <input type="hidden" name="url" value="https://freeolabini.org{{ tweet.url }}" />
-    <input type="hidden" name="hashtag" value="FreeOlaBini" />
-    <textarea name="text" class="db mb2 border-box hover-black w-100 h4 ba b--black-20" aria-describedby="comment-desc">{{ tweet.templateContent | striptags | trim }}</textarea>
-  </div>
-  <div class="tr mb5">
-    <input type="submit" value="tweet this!"/>
-  </div>
-</form>
-{% endif %}
+  {% if tweet.url !== page.url %}
+    {% set path = tweet.url %}
+    {% set text = tweet.templateContent %}
+    {% include "tweetinc.njk" %}
+  {% endif %}
 {%- endfor -%}
 </div>
