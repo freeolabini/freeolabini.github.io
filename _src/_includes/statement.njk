@@ -5,15 +5,15 @@ layout: post.njk
 <h2>Signatories</h2>
 <div class="tc">
 {%- for signature in collections.signatureOrgs -%}
-  <div class="w-20-ns w-100 dib v-top mw5 mh1 bg-white ma3">
+  <div class="w-20-ns w-100 db dib-ns v-top mw5-ns mh1-ns bg-white mb3-ns">
     <a class="tc lh-copy tc" href="{{ signature.data.url }}">
-      <img src="{{ signature.data.image }}" class="h3 db center ma2">
+      <img src="{{ signature.data.image }}" class="nested-img h4 db center pa2">
       <div class="f5 tl bg-dark-gray pa2 white">{{ signature.data.name }}</div>
     </a>
   </div>
 {%- endfor -%}
-<div class="lh-solid tc mt4">
+<div class="lh-solid tl tc-ns mt4">
 {%- for signature in collections.signatures -%}
-  <a class="bg-dark-gray white link dim dib ma2 pa2" href="{{ signature.data.url }}">{{ signature.data.name | replace(" ", "&nbsp;") | safe }}</a>
+  <a class="bg-dark-gray white link dim db dib-ns mt2 mh2-ns pa2" href="{{ signature.data.url }}">{{ signature.data.name | replace(" ", "&nbsp;") | safe }}</a>
 {%- endfor -%}
 </div>

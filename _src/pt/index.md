@@ -1,12 +1,19 @@
 ---
+eleventyExcludeFromCollections: true
 title: Ola Bini preso no Equador
 layout: index.njk
 collection: pt
 image: /img/oladrawing.jpg
-eleventyExcludeFromCollections: true
+menu:
+  -
+    path: /pt/about-ola
+    title: Sobre Ola
+    icon: la-star
+  -
+    path: /pt/letters 
+    title: Cartas da detenção
+    icon: la-file-text
 ---
-<h1 class="f3 pa3 shadow-1"><a href="/en/letters">Letters from detention</a></h1>
-
 Nosso estimado colega, Ola Bini, está detido como preso político pelo governo do Equador. Por favor, mostre o seu apoio com essas ações:
 
 1. Assine a nossa [carta de solidariedade] da comunidade tech
