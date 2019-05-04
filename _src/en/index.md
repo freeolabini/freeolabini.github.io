@@ -18,7 +18,7 @@ menu:
     title: About Ola
     icon: la-star
   -
-    path: /en/letters 
+    path: /en/letters
     title: Letters from detention
     icon: la-file-text
 ---
