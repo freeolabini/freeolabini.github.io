@@ -5,7 +5,7 @@ tags:
   - pt
 date: 2019-05-04
 image: /img/ola_15.jpg
-title: Statement for Cryptorave
+title: Declaração para o Cryptorave
 ---
 
 Como eles ousaram, nós também ousamos. Mesmo que tenhamos todos a perder, como qualquer outro cidadão latino-americano que vai contra o que o poder quer. Mas eles ousaram contra nós, as pessoas. Eles se atreveram a encarcerar quem e quando quiserem, sem qualquer evidência. Eles ousaram confundir o trabalho de privacidade e segurança que fazemos como atividade criminosa, e chamar assim. Ousaremos então, pelo menos, deixar que nossa voz seja ouvida.

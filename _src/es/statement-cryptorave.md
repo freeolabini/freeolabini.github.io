@@ -5,7 +5,7 @@ tags:
   - es
 date: 2019-05-04
 image: /img/ola_15.jpg
-title: Statement for Cryptorave
+title: Declaración para Cryptorave
 ---
 
 Como ellos osaron, nosotros también osaremos. Aunque tengamos todo que perder,
