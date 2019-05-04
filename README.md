@@ -6,19 +6,20 @@ https://freeolabini.org
 
 Our esteemed colleague, Ola Bini, is being detained as a political prisoner in Ecuador. Please take action to show your support:
 
-1. Sign our [solidarity letter] from the tech community
-2. [Send an email] to the president of Ecuador via Code Pink's Campaign site
-3. Follow [@FreeOlaBini], tweet [#FreeOlaBini] and visit freeolabini.org for updates
-4. Email [support@freeolabini.org] if you want to help with these campaign efforts
-5. [Join] our newsletter for updates
+ - Follow [@FreeOlaBini], tweet [#FreeOlaBini] and visit freeolabini.org for updates
+ - Help support the family and legal effors by [donating to the crowd funding campaign][donate].
+ - [Send an email][codepink] to the president of Ecuador via Code Pink's Campaign site
+ - Email [support@freeolabini.org] if you want to help with these campaign efforts
+ - Sign our [solidarity letter][statement] from the tech community
+ - [Join][newsletter] our newsletter for updates
 
-[solidarity letter]: https://freeolabini.org/en/statement/
-[Send an email]: https://www.codepink.org/free-ola-bini
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
 [#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini+%23FreeOlaBini&hashtags=FreeOlaBini
+[donate]: https://www.gofundme.com/freeolabini
+[codepink]: https://www.codepink.org/free-ola-bini
 [support@freeolabini.org]: mailto:support@freeolabini.org
-[Join]: https://freeolabini.org/en/subscribe/
-
+[statement]: https://freeolabini.org/en/statement/
+[newsletter]: https://freeolabini.org/en/subscribe/
 
 ## Contributing
 
