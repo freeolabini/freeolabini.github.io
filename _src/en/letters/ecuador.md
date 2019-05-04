@@ -3,6 +3,10 @@ layout: post.njk
 date: 2019-05-02
 image: /img/ola_smile.png
 title: Why Ecuador?
+tags:
+  - letteren
+  - post
+  - en
 ---
 
 Two weeks. Prison here in Ecuador is a maddening mix of long stretches of
