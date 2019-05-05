@@ -6,6 +6,14 @@ collection: es
 image: /img/oladrawing.jpg
 menu:
   -
+    path: https://www.gofundme.com/freeolabini
+    title: Dona
+    icon: la-heart
+  -
+    path: /es/tweet-this
+    title: Twitea Esto!
+    icon: la-retweet
+  -
     path: /es/about-ola
     title: Sobre Ola
     icon: la-star

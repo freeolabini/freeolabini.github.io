@@ -6,6 +6,14 @@ collection: eo
 image: /img/oladrawing.jpg
 menu:
   -
+    path: https://www.gofundme.com/freeolabini
+    title: Donacu
+    icon: la-heart
+  -
+    path: /en/tweet-this
+    title: Tweet ĉi!
+    icon: la-retweet
+  -
     path: /eo/about-ola
     title: Pri Ola
     icon: la-star
