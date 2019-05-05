@@ -19,7 +19,7 @@ Se puede recibir un máximo de 2 visitantes durante 3 horas. Dos de mis mejores
 amigas de Ecuador me visitaron. Siempre es bueno ver a los amigos; el aislamiento
 aquí es probablemente el aspecto más difícil. Pero después de las visitas, siempre
 me siento vacío, pensativo y de mal humor. Mis amigas hicieron la pregunta sobre
-la cual quiero escribir hoy. Simplemente, ¿por qué estoy en el ecuador? Y dadas
+la cual quiero escribir hoy. Simplemente, ¿por qué estoy en el Ecuador? Y dadas
 mis experiencias recientes, ¿ha cambiado mi perspectiva?
 
 Estoy seguro de que mucha gente asume que estoy enojado con Ecuador, que querré irme
@@ -74,3 +74,5 @@ personas a una caricatura -buena o mala-.
 
 Me alegro de estar aquí en Ecuador y espero tener un futuro por delante en él,
 ¡ojalá fuera de prisión!
+
+Ola Bini
