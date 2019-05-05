@@ -62,12 +62,12 @@ en São Paulo ahora que pueden hablar sobre ello que no hay necesidad.
 Estoy detenido por tener conocimiento y no es siquiera un conocimiento esotérico
 o extraño sobre cuestiones oscuras, es conocimiento mundano sobre el funcionamiento
 de las computadoras. Todos ustedes también lo tienen. Y ello los asusta de sobre
-manera. No dejen de aprender!
+manera. ¡No dejen de aprender!
 
-En solidaridad desde la célula 10 (“Mama Lucha”), bloque de células “El Placer”,
+En solidaridad desde la celda 10 (“Mama Lucha”), bloque de celdas “El Placer”,
 CDP El Inca, Quito, Ecuador.
 
 Con mis deseos más calorosos para que tengan una fantástica rave. Yo quisiera
 poder estar con ustedes el próximo año.
 
-Ola Bini ”
+Ola Bini”
