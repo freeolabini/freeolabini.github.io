@@ -15,7 +15,7 @@ Você pode receber, no máximo, dois visitantes por três horas. Dois dos meus m
 
 Tenho certeza que um monte de pessoas assumem que estou com raiva do Equador, que eu vou querer ir embora e nunca mais voltar assim que eu sair, mas não, nada poderia estar mais distante da verdade. Eu amo o Equador. Eu adoro morar aqui. Eu tenho minha vida aqui e, se me for permitido, eu gostaria de continuá-la. 
 
-Obviamente, não estou feliz de estar na minha situação atual, mas não posso culpar o país inteiro por isso. Ao invés disso, eu culpo certos indivíduos específicos que estão se valendo da minha amizade com Julian Assange e fazendo de mim um peão político sem que haja nenhum traço de transgressão. Sim, estou com raiva dessas pessoas assim como pessoas equatorianas também estão. Usando - e abusando - das leis do país desse jeito não deveria ser aceitável. Mas isso está sendo feito por alguns indivíduos e não por toda a população.
+Obviamente, não estou feliz de estar na minha situação atual, mas não posso culpar o país inteiro por isso. Ao invés disso, eu culpo certos indivíduos específicos que estão se valendo da minha amizade com Julian Assange e fazendo de mim um peão político sem que haja nenhum traço de transgressão. Sim, estou com raiva dessas pessoas assim como pessoas equatorianas também estão. Usar - e abusar - das leis do país desse jeito não deveria ser aceitável. Mas isso está sendo feito por alguns indivíduos e não por toda a população.
 
 Certamente o sistema penal do Equador precisa ser reformado. As circunstâncias dos meus colegas encarcerados são uma evidência disso. A maioria deles vive em condições significativamente piores que as minhas.
 
