@@ -2,7 +2,7 @@
 layout: post.njk
 tags:
   - post
-  - en
+  - fr
 date: 2019-04-23
 image: /img/olamf.jpg
 title: Letter to the Prime Minister of Sweden
@@ -13,7 +13,7 @@ On April 11, Swedish national Ola Metodius Bini, a free software developer, was 
 
 The case of Ola Bini has drawn worldwide concern. UN Special Rapporteur on Freedom of Expression, [David Kaye](https://twitter.com/davidakaye/status/1117489081397547008) said that ‘nothing in this story connects Ola Bini to any crime’. Further, he said, ‘the govt of Ecuador must demonstrate more than that or this looks like an arbitrary detention’. The Organisation of American State’s Special Rapporteur for Freedom of Expression, [Edison Lanza](https://twitter.com/EdisonLanza/status/1117552044737429504), added, ‘I share the Rapporteur David Kaye’s concern around the arrest and detention of digital activist Ola Bini’.
 
-[Amnesty International](https://twitter.com/ErikaGuevaraR/status/1117791352488628224) and [Article 19 have publicly](https://twitter.com/article19org/status/1117789379802673152) echoed this concern and are closely monitoring the case. 
+[Amnesty International](https://twitter.com/ErikaGuevaraR/status/1117791352488628224) and [Article 19 have publicly](https://twitter.com/article19org/status/1117789379802673152) echoed this concern and are closely monitoring the case.
 
 On April 11, Ola Bini was going to Japan for a martial arts training course, which he had advertised on twitter a week before. He was detained by the Ecuadorian police. In violation of due process, the police did not contact the Swedish authorities. This process is part of the standards of Ecuadorian law. After 15 hours of his initial detention, they made the contact.
 
@@ -25,13 +25,13 @@ The next morning – on April 12 – Ola Bini was transferred to the Prosecutor'
 
 At the hearing, the prosecutor offered no evidence against Ola Bini. Based on the Ecuadorian Penal Code, he was accused of one very serious crime – attacking the integrity of computer systems. Despite the lack of any evidence, the judge placed Ola Bini in pretrial detention for 90 days. There was no bail hearing.
 
-We believe that the process is politically motivated. Fabricated charges, with no evidence, have been brought against an innocent man. He has been caught in a dispute that does not concern him and with which he is not involved at all. There is not a single piece of evidence that incriminates him. Ola Bini sits in an Ecuadoran prison, denied bail, and with no guarantees of due process. 
+We believe that the process is politically motivated. Fabricated charges, with no evidence, have been brought against an innocent man. He has been caught in a dispute that does not concern him and with which he is not involved at all. There is not a single piece of evidence that incriminates him. Ola Bini sits in an Ecuadoran prison, denied bail, and with no guarantees of due process.
 
-Ola Bini is a globally respected figure in the free software community, and a renowned activist for the right to privacy. In 2010, Computerworld magazine named him as Sweden's 6th best developer. He is a member of various European and international networks for free software and privacy, and he participates in projects of the highest level, some of them sponsored by the European Commission. Ola has never expressed any views that would in any way be a threat to the Ecuadorian government. 
+Ola Bini is a globally respected figure in the free software community, and a renowned activist for the right to privacy. In 2010, Computerworld magazine named him as Sweden's 6th best developer. He is a member of various European and international networks for free software and privacy, and he participates in projects of the highest level, some of them sponsored by the European Commission. Ola has never expressed any views that would in any way be a threat to the Ecuadorian government.
 
 As an advocate and an activist for the right to privacy, Ola has visited Julian Assange at the Ecuadorian Embassy in London several times. However, he does not work for Wikileaks, nor has he ever worked for them. Any allegation that he is conspiring against the Ecuadorian government and its computer systems is false and ludicrous.
 
-We appeal to the Swedish Government to take firm, immediate action. So far, the Swedish Government's efforts have been limited to the presence of the Swedish Honorary Consul in Quito.  While we are grateful that the Swedish Honorary Consul in Quito involved himself we would ask you and the government to lift this to a political level, since it seems to be a political reason behind the arrest. We are sure that the misunderstanding about who Ola is and what he does could quickly be resolved. The Swedish Society and the Government of Sweden are recognized worldwide as active defenders and promoters of human rights and freedom of expression. His family, his friends, his colleagues, call on the Swedish government to intercede for Ola before the Ecuador authorities, demand respect for the law and for Ola’s human rights, and to facilitate his safe immediate return to Sweden. 
+We appeal to the Swedish Government to take firm, immediate action. So far, the Swedish Government's efforts have been limited to the presence of the Swedish Honorary Consul in Quito.  While we are grateful that the Swedish Honorary Consul in Quito involved himself we would ask you and the government to lift this to a political level, since it seems to be a political reason behind the arrest. We are sure that the misunderstanding about who Ola is and what he does could quickly be resolved. The Swedish Society and the Government of Sweden are recognized worldwide as active defenders and promoters of human rights and freedom of expression. His family, his friends, his colleagues, call on the Swedish government to intercede for Ola before the Ecuador authorities, demand respect for the law and for Ola’s human rights, and to facilitate his safe immediate return to Sweden.
 
 
 Respectfully,
@@ -94,7 +94,7 @@ Concerned citizens
 
 **Ariovaldo Ramos** / Evengelical Front for a State of Rights
 
-**Bernardo Loureiro Jurema** / 
+**Bernardo Loureiro Jurema** /
 
 **Carol Proner** / Member of the International Committee of the Brazilian Association of Jurists for Democracy
 
@@ -168,7 +168,7 @@ Concerned citizens
 
 **Walter Palmetshofer** / Open Knowledge Foundation Germany
 
-**Dmytri Kleiner** / 
+**Dmytri Kleiner** /
 
 **David Adler** / Diem25
 
@@ -304,8 +304,8 @@ Concerned citizens
 
 **William E. Binney** / Former Technical Director at NSA
 
-**Carolina Resende Haddad** / 
+**Carolina Resende Haddad** /
 
-**Seth Pyenson** / 
+**Seth Pyenson** /
 
 Affiliations are listed for identification purposes
