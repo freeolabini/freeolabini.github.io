@@ -24,7 +24,7 @@ conferencias en este evento.
 
 Las acusaciones en contra de él varían desde acusarlo de leer ciertos libros,
 incluyendo algunos de Noam Chosmky, de tener una gran cuenta de luz por usar
-servidores, de tener muchos dispositivos electrónicos. Ninguna de estas acusasiones
+servidores, de tener muchos dispositivos electrónicos. Ninguna de estas acusaciones
 tienen sentido y, fundamentalmente, están en contra de los derechos básicos que
 nosotros, como seres humanos, tenemos. Detenerlo significa detenernos a todos,
 como personas que trabajamos en la creación de software que preserva la privacidad
@@ -38,7 +38,7 @@ están en condiciones ruines, fugas de agua adornan las paredes".
 
 Detener a Ola significa que nuestra profesión es ahora de alto riesgo, ya que
 cualquier gobierno puede ahora detener a personas por escribir software sin
-ninguna compresión de lo que esto significa. Su detención es arbitraria y no
+ninguna comprensión de lo que esto significa. Su detención es arbitraria y no
 debe permanecer impune.
 
 Como ellos osaron, nosotros también osaremos. Osaremos a hablar sobre esta injusticia,
@@ -67,7 +67,7 @@ manera. ¡No dejen de aprender!
 En solidaridad desde la celda 10 (“Mama Lucha”), bloque de celdas “El Placer”,
 CDP El Inca, Quito, Ecuador.
 
-Con mis deseos más calorosos para que tengan una fantástica rave. Yo quisiera
+Con mis deseos más calorosos para que tengan una fantástica rave. Quisiera
 poder estar con ustedes el próximo año.
 
 Ola Bini”
