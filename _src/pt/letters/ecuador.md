@@ -27,20 +27,10 @@ Então voltando à pergunta original: Por que eu vim pra cá?
 
 Por muitas razões. E às vezes elas são difíceis de elaborar, mas algumas são muito mundanas. Eu gosto muito das pessoas daqui. As pessoas são calorosas, abertas e se importam com a comunidade. Isso me atraiu bastante! E eu posso dizer que, até na minha situação atual, essa perspectiva sobre as pessoas continua. Desde como os meus colegas encarcerados tomaram conta de mim, até como as pessoas na rua vieram até meus pais para expressar o seu apoio. Minha fé no povo Equatoriano continua forte.
 
+Eu gosto de como política é algo com o que as pessoas se importam aqui. Está no sangue das pessoas. É algo que eu apreciei desde o começo. As pessoas no Equador falam sobre código aberto e entendem o valor político da tecnologia.
 
-I like that politics is something that people care about here. It’s in the blood
-of people. That’s something I appreciated from the beginning. People in Ecuador
-talk about open source and understand the political value of technology.
+E há pessoas talentosas aqui. Quando começamos minha organização no Equador, rapidamente encontramos um time de pessoas com muito potencial, diligência e motivação. Honestamente, estou morrendo de vontade de voltar a trabalhar com elas e de continuar fazendo o bem para o mundo.
 
-And there are talented people here. When we started my organization in
-Ecuador, we quickly found a team of people with lots of potential, diligence and
-drive. Honestly, I’m dying to get back to work with them and continue doing good
-for the world.
+O Equador não é o paraíso. É um lugar complexo, multicultural, às vezes estranho, com todos os tipos de pessoas com diferentes visões de mundo, lidando com 500 anos de história complicada. Não vamos nos esquecer disso e reduzir o país e seu povo a uma caricatura - boa ou má -.
 
-Ecuador is not a paradise. It’s a complex, multicultural, sometimes strange
-place with all kinds of people with different worldviews, dealing with 500 years
-of complicated history. Let’s not forget that and reduce the country and its
-people to a caricature – good or bad -.
-
-I’m glad to be here and hopefully I have along future ahead of me in Ecuador,
-hopefully outside of prison!
+Estou contente de estar aqui e, com esperança, tenho um longo futuro à frente de mim no Equador. Tomara que fora da prisão.
