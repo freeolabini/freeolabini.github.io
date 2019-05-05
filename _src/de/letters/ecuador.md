@@ -1,12 +1,12 @@
 ---
 layout: post.njk
 date: 2019-05-02
-image: /img/ola_smile.png
+image: /img/ola_letter_2.jpg
 title: Why Ecuador?
 tags:
-  - lettereo
+  - letterde
   - post
-  - eo
+  - de
 ---
 Two weeks. Prison here in Ecuador is a maddening mix of long stretches of
 isolation and boredom interspersed with random threats and acts of violence.
@@ -59,7 +59,7 @@ I like that politics is something that people care about here. It’s in the blo
 of people. That’s something I appreciated from the beginning. People in Ecuador
 talk about open source and understand the political value of technology.
 
-And there are talented people here. When we started my organization (CAD) in
+And there are talented people here. When we started my organization in
 Ecuador, we quickly found a team of people with lots of potential, diligence and
 drive. Honestly, I’m dying to get back to work with them and continue doing good
 for the world.
