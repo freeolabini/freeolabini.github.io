@@ -2,28 +2,20 @@
 layout: post.njk
 date: 2019-05-02
 image: /img/ola_letter_2.jpg
-title: Why Ecuador?
+title: Por que Equador?
 tags:
   - letterpt
   - post
   - pt
 ---
 
-Two weeks. Prison here in Ecuador is a maddening mix of long stretches of
-isolation and boredom interspersed with random threats and acts of violence.
-Today was a break in the structure: visitation day.
+Duas semanas. A prisão aqui no Equador é um misto enlouquecedor de longos períodos de isolamento e tédio intercalados com ameaças e atos de violência aleatórios. Hoje foi uma quebra na estrutura: dia de visitação.
 
-You can receive max 2 visitors for 3 hours. Two of my best friends here in
-Ecuador visited. It’s always great to see friends; the isolation here is
-probably the hardest aspect. But after visits, I always end up feeling empty,
-pensive and moody. My friends brought up the question I want to write about
-today. Simply, why am I in Ecuador? And my recent experiences, have they changed
-my perspectives?
+Você pode receber, no máximo, dois visitantes por três horas. Dois dos meus melhores amigos daqui do Equador me visitaram. É sempre ótimo ver os amigos, o isolamento aqui é provavelmente o aspecto mais duro, mas depois das visitas eu sempre termino me sentindo vazio, pensativo e melancólico. Meus amigos trouxeram a pergunta sobre qual quero escrever hoje. Simplesmente, por que eu estou no Equador? E minhas experiências recentes, elas mudaram minhas perspectivas?
 
-I’m sure a lot of people assume I’m angry at Ecuador, that I will want to leave
-as soon as I get out and never come back, but no, nothing could be further from
-the truth. I love Ecuador. I love living here. I have my life here and if I’m
-allowed, I would like to continue my life.
+Tenho certeza que um monte de pessoas assumem que estou com raiva do Equador, que eu vou querer ir embora e nunca mais voltar assim que eu sair, mas não, nada poderia estar mais distante da verdade. Eu amo o Equador. Eu adoro morar aqui. Eu tenho minha vida aqui e, se me for permitido, eu gostaria de continuá-la. 
+
+Obviamente, não estou feliz de estar na minha situação atual, mas não posso culpar o país inteiro por isso.
 
 Obviously, I’m not happy at being in my current position, but I can’t blame the
 whole country for that. Instead, I do blame certain specific individuals who are
