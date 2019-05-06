@@ -17,7 +17,7 @@ menu:
 Vår högt uppskattade kollega Ola Bini är gripen och hålls som politisk fånge i Ecuador. Agera nu för att visa ditt stöd:
 
 - Skriv under vårt [stöduttalande] från den tekniska communityn
-- Help support the family and legal effors by [donating to the crowd funding campaign][donate].
+- [Stötta familjen med deras ekonomiska utgifter][donate], som t.ex. advokatkostnader och färskt vatten till Ola
 - [Skicka ett mail] till Ecuadors president via Code Pinks kampanj webbplats
 - Följ [@FreeOlaBini], twittra [#FreeOlaBini] och besök freeolabini.org för uppdateringar
 - Mejla [support@freeolabini.org] om du kan hjälpa till med kampanjarbetet
