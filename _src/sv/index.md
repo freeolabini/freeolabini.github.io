@@ -16,18 +16,17 @@ menu:
 ---
 Vår högt uppskattade kollega Ola Bini är gripen och hålls som politisk fånge i Ecuador. Agera nu för att visa ditt stöd:
 
-- Skriv under vårt [stöduttalande] från den tekniska communityn
-- Help support the family and legal effors by [donating to the crowd funding campaign][donate].
-- [Skicka ett mail] till Ecuadors president via Code Pinks kampanj webbplats
 - Följ [@FreeOlaBini], twittra [#FreeOlaBini] och besök freeolabini.org för uppdateringar
+- [Stötta familjen med deras ekonomiska utgifter][donate], som t.ex. advokatkostnader och färskt vatten till Ola
+- [Skicka ett mail][codepink] till Ecuadors president via Code Pinks kampanjsajt
 - Mejla [support@freeolabini.org] om du kan hjälpa till med kampanjarbetet
-- [Prenumerera] på vårt nyhetsbrev för uppdateringar
+- Skriv under vårt [stöduttalande][statement] från den tekniska communityn
+- [Prenumerera på vårt nyhetsbrev][newletter] för uppdateringar
 
-[stöduttalande]: /sv/statement/
-[donate]: https://www.gofundme.com/freeolabini
-[Skicka ett mail]: https://www.codepink.org/free-ola-bini
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
 [#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini&hastags=FreeOlaBini
+[donate]: https://www.gofundme.com/freeolabini
+[codepink]: https://www.codepink.org/free-ola-bini
 [support@freeolabini.org]: mailto:support@freeolabini.org
-[Prenumerera]: /sv/subscribe/
-
+[statement]: /sv/statement/
+[newsletter]: /sv/subscribe/
