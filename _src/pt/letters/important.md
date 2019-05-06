@@ -2,80 +2,40 @@
 layout: post.njk
 date: 2019-04-23
 image: /img/ola_smile.png
-title: The most important thing
+title: A coisa mais importante
 tags:
   - letterpt
   - post
   - pt
 ---
-I'm sitting in prison- I'm in my cell. It's dark, someone took all the light
-bulbs in the cells. So, I'm sitting close to the door, so the light from the
-corridor outside can allow me to see what I'm writing.
 
-I've been here a week, but it feels longer. In Ecuadorean prisons there are no
-books, no TV, no media. We go outside 5 hours a week and can have max 2 visitors
-during three hours on Saturdays. The minutes pass by quite slowly. So I think
-and I write.
+Estou sentado na prisão, estou na minha cela. Está escuro, alguém tirou todas as lâmpadas da cela. Então estou sentado perto da porta, assim a luz do corredor lá fora pode me permitir ver o que estou escrevendo.
 
-Many years ago, a friend told me (and he has said this many times to many
-people): What is the most important thing you could do? Are you doing that? If
-not, why not? This has stayed with me as an important guideline. Indeed, our time is
-short, we should do the most important thing.
+Estive aqui por uma semana, mas parece ter sido mais. Nas prisões Equatorianas não há livros, não há TV, não há mídia. Nós saímos por 5 horas por semana e podemos receber, no máximo, 2 visitantes durante três horas aos sábados. Os minutos passam bem lentamente. Então eu penso e eu escrevo.
 
-I was born with a lot of privilege. And during my life, mostly through luck,
-I've acquired even more. Let me be clear, I don't deserve privilege over anyone
-else. In my opinion, no human being deserves privilege. However, I have it, so
-what do I do?
+Muitos anos atrás, um amigo me disse (e ele disse isso várias vezes a várias pessoas): Qual a coisa mais importante que você poderia fazer? Você está fazendo? Se não, por que não? Isso ficou comigo como uma diretriz importante. Realmente, nosso tempo é curto, devemos fazer a coisa mais importante.
 
-One option is to ignore it and act like it doesn't exist. To me, this is an
-abhorrent option. No, privilege for me means responsibility. I hate something I
-don't deserve and I can't get rid of it. Thus, I **have to** use it for the
-improvement of the world. It's really that simple. Privilege means
-responsibility, power means responsibility.
+Nasci com um monte de privilégios. E durante a minha vida, na maior parte das vezes através de sorte, eu adquiri ainda mais. Deixe eu esclarecer, eu não mereço privilégio mais do que nenhuma outra pessoa. Na minha opinião, nenhum ser humano merece privilégio. Porém, eu o tenho, então o que eu faço?
 
-Then, what is the responsible thing? Like my friend told me, logically, the most
-responsible thing you can do is to work on the most important thing you could
-ever do. It follows logically.
+Uma opção é ignorá-lo e agir como se ele não existisse. Pra mim, isso é uma opção abominável. Não, pra mim privilégio significa responsabilidade. Eu odeio algo que não mereço e do que não posso me livrar. Logo, eu **preciso** usá-lo para melhorar o mundo. É simples assim. Privilégio significa responsabilidade, poder significa responsabilidade.
 
-Of course, it's not as simple as that. You have to choose something where you
-can have -or can acquire- the right skills. You have to choose something where
-you have a chance of success. You must be able to access the right resources. All
-these considerations are embedded in the original questions.
+Então, qual a coisa responsável? Como meu amigo me disse, logicamente, a coisa mais responsável que você pode fazer é trabalhar na coisa mais importante que você poderia fazer. É um passo lógico.
 
-Sitting here in my cell, I ask myself the question. The same way I've asked
-myself the same thing hundreds of times over the last year. Iʼm still not sure of
-the answer.
+Claro, não é simples assim. Você precisa escolher algo onde você tem - ou pode adquirir - as habilidades corretas. Você precisa escolher algo onde você tem uma chance de sucesso. Você precisa ter acesso aos recursos certos. Todas essas considerações estão embutidas nas perguntas originais.
 
-Obviously I'm not very productive sitting here. But maybe me being a martyr,
-kidnapped by the Ecuador government, will serve to start discussions, catch
-attention and open new ways of fighting. Maybe it will serve to wake some
-people up.
+Sentado aqui em minha cela eu me faço a pergunta. Do mesmo jeito que eu me perguntei centenas de vezes ao longo do ano passado. Ainda não tenho certeza da resposta.
 
-Of course I don't have much choice in my current situation, but I can apply the
-question to my previous life and I can start thinking about what should come next.
-These thoughts are taking most of my head space these days.
+Obviamente, não sou muito produtivo sentado aqui. Mas talvez eu ser um mártir, sequestrado pelo governo do Equador, possa servir pra começar discussões, capturar atenção e abrir novas formas para lutar. Talvez vá servir pra acordar algumas pessoas.
 
-So, about my previous life, I decided many years ago that the field of privacy
-is both something extremely important and also something where my specific
-knowledge and connection would allow me to do something important. So, I've
-worked on privacy enhancing tools. To me, privacy is something that is absolutely
-necessary for human beings to be free and the rise of surveillance is threatening this
-to the core.
+Claro que eu não tenho muita escolha na minha situação atual, mas eu posso aplicar a pergunta para a minha vida anterior e eu posso começar a pensar sobre o que deve vir em seguida. Esses pensamentos estão tomando a maior parte da minha mente ultimamente.
 
-My goal with CAD (and the previous iterations) of the concept was to create a group
-of people with the necessary skills to push privacy forward in several different
-efforts. There are so many things to work on. Both hardware and software protocols
-and implementations, infrastructure and end user systems. And we were only just
-getting started.
+Então, sobre minha vida anterior, eu decidi há muitos anos que o campo da privacidade é tanto algo extremamente importante quanto algo que meus conhecimentos específicos e minhas conexões me permitiriam fazer algo importante. Então, eu trabalhei em ferramentas que melhorassem a privacidade. Pra mim, privacidade é algo que é absolutamente necessário aos seres humanos pra que sejam livres e a ascensão da vigilância está ameaçando a privacidade no seu cerne.
 
-The thing about the most important thing is that it can change. When I get out,
-I will have different possibilities than I had before. I don't know what that
-means. Maybe there's no good way to know until I'm out. But it's still something
-I'm thinking about.
+Meu objetivo com a CAD (e as iterações anteriores) do conceito era criar um grupo de pessoas com as habilidades necessárias para levar a privacidade à frente em vários esforços diferentes. Há tanto no que trabalhar! Tanto as implementações dos protocolos de hardware e software, quanto infraestrutura e sistemas do usuário final. E nós estávamos apenas começando.
 
-I urge all of you to consider these questions. Devote your life to the most
-important thing.
+O negócio com a coisa mais importante é que ela pode mudar. Quando eu sair, eu terei possibilidades diferentes das que eu tinha antes. Eu não sei o que isso significa. Talvez não tenha um jeito de saber até que eu saia. Mas ainda é algo no que eu tenho pensado.
 
-In solidarity,
+Insisto que todos vocês considerem essas questões. Dediquem suas vidas à coisa mais importante.
 
+Em solidariedade,
 Ola Bini
