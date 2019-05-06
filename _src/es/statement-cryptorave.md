@@ -9,8 +9,8 @@ title: Declaración para Cryptorave
 ---
 
 Como ellos osaron, nosotros también osaremos. Aunque tengamos todo que perder,
-como ciudadanos latinoamericanos que van en contra de lo que quiere el poder. Ya
-que ellos osaron, nosotros también osaremos. Ellos se atrevieron a detener a
+como ciudadanos latinoamericanos que van en contra de lo que quiere el poder.
+Pero ellos osaron contra nosotros, el pueblo. Ellos se atrevieron a detener a
 quien quieran cuando quisieran, sin ninguna evidencia. Ellos osaron confundir el
 trabajo de privacidad y seguridad que hacemos como una actividad criminal, y
 llamarla así. Osaremos, entonces, por lo menos, a hacer que nuestra voz sea oída.
