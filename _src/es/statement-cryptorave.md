@@ -67,7 +67,7 @@ manera. ¡No dejen de aprender!
 En solidaridad desde la celda 10 (“Mama Lucha”), bloque de celdas “El Placer”,
 CDP El Inca, Quito, Ecuador.
 
-Con mis deseos más calorosos para que tengan una fantástica rave. Quisiera
+Con mis deseos más calurosos para que tengan una fantástica rave. Quisiera
 poder estar con ustedes el próximo año.
 
 Ola Bini”
