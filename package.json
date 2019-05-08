@@ -17,5 +17,8 @@
     "start": "npm run clean && eleventy --serve --quiet",
     "build": "npm run clean && eleventy",
     "watch": "eleventy --watch"
+  },
+  "dependencies": {
+    "yamljs": "^0.3.0"
   }
 }

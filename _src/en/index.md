@@ -4,23 +4,6 @@ title: Ola Bini arrested in Ecuador
 layout: index.njk
 collection: en
 image: /img/oladrawing.jpg
-menu:
-  -
-    path: https://www.gofundme.com/freeolabini
-    title: Donate
-    icon: la-heart
-  -
-    path: /en/tweet-this
-    title: Tweet This!
-    icon: la-retweet
-  -
-    path: /en/about-ola
-    title: About Ola
-    icon: la-star
-  -
-    path: /en/letters
-    title: Letters from detention
-    icon: la-file-text
 ---
 Our esteemed colleague, Ola Bini, is being detained as a political prisoner in Ecuador. Please take action to show your support:
 

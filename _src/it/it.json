@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "path": "https://www.gofundme.com/freeolabini",
+      "title": "Dona",
+      "icon": "la-heart"
+    },
+    {
+      "path": "/it/tweet-this",
+      "title": "Twitta Questo!",
+      "icon": "la-retweet"
+    },
+    {
+      "path": "/it/about-ola",
+      "title": "Su di Ola",
+      "icon": "la-star"
+    },
+    {
+      "path": "/it/letters",
+      "title": "Lettere dalla detenzione",
+      "icon": "la-file-text"
+    }
+  ]
+}

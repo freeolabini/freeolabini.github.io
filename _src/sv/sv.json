@@ -1,0 +1,14 @@
+{
+  "menu": [
+    {
+      "path": "/sv/about-ola",
+      "title": "Om Ola",
+      "icon": "la-star"
+    },
+    {
+      "path": "/sv/letters",
+      "title": "Brev från frihetsberövande",
+      "icon": "la-file-text"
+    }
+  ]
+}
