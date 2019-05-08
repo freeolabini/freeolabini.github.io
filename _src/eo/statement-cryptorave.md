@@ -5,7 +5,7 @@ tags:
   - eo
 date: 2019-05-04
 image: /img/ola_15.jpg
-title: Statement for Cryptorave
+title: Deklaro por Cryptorave
 ---
 
 As they dared, we too shall dare. Even though we have all to loose, as any other Latin American citizen that goes against what power wants. But they dared against us, the people. They dared to incarcerate whomever and whenever they want without any evidence. They dared to confuse the privacy and security work we do as criminal activity, and to call it that way. We shall dare then to, at least, let our voice be heard.

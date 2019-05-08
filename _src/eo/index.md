@@ -11,7 +11,7 @@ menu:
     icon: la-heart
   -
     path: /en/tweet-this
-    title: Tweet ĉi!
+    title: Pepu ĉi tiun!
     icon: la-retweet
   -
     path: /eo/about-ola
@@ -26,10 +26,10 @@ Nia estimita kolego, Ola Bini, estas detenata kiel politika malliberulo
 en Ekvadoro. Bonvolu agi por montri vian subtenon:
 
 - Subskribu nian [solidaran leteron] el la teknika komunumo
-- Help support the family and legal effors by [donating to the crowd funding campaign][donate].
+- Helpu subteni la familion kaj leĝaj penoj [donacante al la amasfinanciga kampanjo][donate].
 - [Sendu retpoŝton] al la prezidento de Ekvadoro per la kampajna retejo de Code Pink
 - Sekvu [@FreeOlaBini], pepu [#FreeOlaBini] kaj visitu freeolabini.org por ĝisdatigoj
-- Sendum retpoŝton al [support@freeolabini.org], se vi volas helpi tiujn kampanjajn penojn
+- Sendu retpoŝton al [support@freeolabini.org], se vi volas helpi tiujn kampanjajn penojn
 - [Aliĝu] al nia bulteno por ĝisdatigoj
 
 [solidaran leteron]: /eo/statement/

@@ -10,11 +10,11 @@ title: Solidara letero de Free Ola Bini
 
 ### Ola Bini estas programisto, ne krimulo.
 
-Kiel teĥnologiistoj, programistoj de libera kaj malferma kodo kaj individuoj kaj organizacioj laborantaj por protekti la sekureco de la Interreto, ni deziras plej forte protesti la daŭran areston en Ekvadoro de Ola Bini, fakulo pri cifera sekureco, konsilanto pri privateco, kontribuanto de libera programaro kaj advokato de liberaj rajtoj. Ni vidas rian daŭran antaŭgardan areston kiel arbitra kaj kiel atako kontraŭ ĉiu ni.
+Kiel teĥnologiistoj, programistoj de libera kaj malferma kodo kaj individuoj kaj organizacioj laborantaj por protekti la sekureco de la Interreto, ni deziras plej forte protesti la daŭran areston en Ekvadoro de Ola Bini, fakulo pri cifera sekureco, konsilanto pri privateco, kontribuanto de libera programaro kaj advokato de liberaj rajtoj. Ni vidas lian daŭran antaŭgardan areston kiel arbitra kaj kiel atako kontraŭ ĉiu ni.
 
-Ola was detained at Quito airport on April 11 and prevented from boarding a plane to Japan. His basic rights were denied: he was not informed of the accusations against him, nor was he provided translation into his native language, Swedish, and he was kept in illegal custody without the ability to communicate with the Swedish consul, in flagrant disregard of Ecuador's constitution.
+Ola estis detenita en la flughaveno de Kito la 11-an de aprilo kaj maleblita je eniri en aviadilon al Japanio. Liaj bazaj rajtoj estis negitaj: li ne estis informita pri la akuzoj kontraŭ li, nek oni disponigis al li tradukon al lia denaska lingvo, sveda, kaj li estis en neleĝa aresto sen eblon komuniki kun la sveda konsulo, flagrante malobservinte la ekvadoran konstitucion.
 
-After 17 hours, he was finally granted access to legal assistance and, 30 hours after his detention, a judge ordered him to be held for 90 days pretrial detention, dismissing all arguments of the defence and presenting extremely dubious evidence against him obtained by police and the prosecution. Photographs of Ola's equipment, books, and even stickers were published by the Ecuadorian police's Twitter account.
+Post 17 horoj, oni donis fine leĝa helpo kaj, 30 horoj post lia aresto, juĝanto juĝordonis, ke li estu 90 tagojn en antaŭjuĝada aresto, dismissing all arguments of the defence and presenting extremely dubious evidence against him obtained by police and the prosecution. Photographs of Ola's equipment, books, and even stickers were published by the Ecuadorian police's Twitter account.
 
 Following his arrest, Ecuador's Minister of Interior, María Paula Romo—-who had just days prior held a press conference in which she claimed that Russian hackers, and a Wikileaks affiliate, were living in Ecuador--told the BBC that Ola had visited Julian Assange many times over the years, and accused of him of collaborating with former government officials to destabilise the current government.
 
@@ -28,7 +28,7 @@ That is why we must raise our voices as one and demand that Ecuadorian authoriti
 
 Upholding the right to privacy is not a crime. Defending the right to free and open software is not a crime. Ola devotes his life to everyone's freedom. Now, it's our turn to fight for Ola's freedom.
 
-Ni volas rin sekura, ni volas rin returna, ni volas rin libera!
+Ni volas lin sekura, ni volas lin returna, ni volas lin libera!
 
 #FreeOlaBini
 

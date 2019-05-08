@@ -2,7 +2,7 @@
 layout: post.njk
 date: 2019-05-02
 image: /img/ola_letter_2.jpg
-title: Why Ecuador?
+title: Kial Ekvadoro?
 tags:
   - lettereo
   - post

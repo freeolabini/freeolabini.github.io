@@ -5,7 +5,7 @@ tags:
   - eo
 date: 2019-04-23
 image: /img/olamf.jpg
-title: Letter to the Prime Minister of Sweden
+title: Letero al la sveda ĉefministro
 ---
 Dear Prime Minister Stefan Löfven,
 
