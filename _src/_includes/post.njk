@@ -1,6 +1,14 @@
 ---
 layout: base.njk
 ---
+<nav class="bt b--black-20 pt2 mb2">
+{% for item in menu %}
+  <a href="{{ item.path }}" class="f4 link dim dib ba b--black-20 pa2 dark-gray">
+    <i class="la {{ item.icon }}"></i>
+    {{ item.title }}
+  </a>
+{% endfor %}
+</nav>
 <img src="{{ image }}" alt="{{ title }}">
 <h1 class="lh-title f2-ns f3">{{ title }}</h1>
 {{ content | safe }}
