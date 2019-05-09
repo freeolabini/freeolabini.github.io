@@ -8,7 +8,7 @@ Ola is more than just a person detained by the authorities in Ecuador. He's a pe
 
 ### 2009-2009  Contributions to JRuby project
 
-Ola was pivotal in the JRuby community bringing the power and productivity of Ruby to the Java Virtual Machine so that enterprise teams had an additional way of deploying Ruby solutions for a multitude of application possibilities. See [Ola's commits to Jruby](https://github.com/jruby/jruby/search?p=3&q=ola&type=Commits).
+Ola was pivotal in the JRuby community bringing the power and productivity of Ruby to the Java Virtual Machine so that enterprise teams had an additional way of deploying Ruby solutions for a multitude of application possibilities. See [Ola's commits to Jruby](https://github.com/jruby/jruby/commits?author=olabini).
 
 ### 2009 -2011 His own programming language 'Ioke'
 
