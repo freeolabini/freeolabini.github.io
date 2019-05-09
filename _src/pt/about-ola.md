@@ -10,33 +10,23 @@ Ola é mais do que apenas uma pessoa detida pelas autoridades do Equador. Ele é
 
 Ola foi fundamental na comunidade JRuby trazendo o poder e a produtividade de Ruby para a Máquina Virtual Java para que times profissionais tivessem uma forma adicional de entregar soluções Ruby com uma variedade de possibilidades de aplicações. Veja os [commits de Ola no JRuby](https://github.com/jruby/jruby/commits?author=olabini).
 
-### 2009 -2011 His own programming language 'Ioke'
+### 2009-2011 His own programming language 'Ioke'
 
-Ola made his own experimental language for the JVM called "Ioke". See his [GitHub organization](https://github.com/Ioke) and [an interview with him on the language in 2014](https://www.youtube.com/watch?v=LlKdWx2YybU)
+Ola fez sua própria linguagem de programação experimental para a JVM (Máquina Virtual Java) chamada "Ioke". Veja o [GitHub da organização](https://github.com/Ioke) e [uma entrevista com ele sobre a linguagem em 2014](https://www.youtube.com/watch?v=LlKdWx2YybU)
 
-### His other own programming language 'Seph'
+### Sua outra linguagem de programação 'Seph'
 
-Ola made his own experimental language called "Seph", which goal was concurrency
-and expressiveness. See his [GitHub organization](https://github.com/seph-lang/seph)
+Ola fez sua própria linguagem de programação chamada "Seph", cujo objetivo era concorrência e expressividade. Veja o [GitHub da organização](https://github.com/seph-lang/seph)
 
 ### JesCov
 
-JesCov is an open source tool for measuring code coverage of JavaScript. It
-makes it possible to find out both line and branch coverage from any
-ES3-compliant source code. It is not tied to any particular testing framework,
-but the only current integration point is for Jasmine. The general approach is
-based on a JSON data interchange format, which means some of the reporting tools
-could potentially be used against data collected in some other way than running
-the core JesCov project.
+JesCov é uma ferramenta de código aberto para medir a cobertura de código JavaScript. Ela torna possível encontrar tanto a cobertura do *trunk* quando de *branches* de qualquer código em conformidade com ES3. Ela não está ligada a nenhum framework de testes específico, mas a única integração atual é com Jasmine. A abordagem geral é baseada em um formato de conversão de dados JSON, o que significa que algumas ferramentas de relatórios poderiam potencialmente ser usadas com os dados coletados em alguma outra forma que não fosse executar o próprio núcleo do JesCov.
 
-Find the repository [here](https://github.com/jescov) and the website [here](http://jescov.olabini.com/)
+Encontreo o repositório [aqui](https://github.com/jescov) e o website [aqui](http://jescov.olabini.com/)
 
 ### CoyIM
 
-CoyIM is a chat client that is safe and secure by default: no settings to change,
-no plugins to install, no computer configuration to change. It is a chat client
-created by Ola and his team. It’s website is [here](https://coy.im/) and the
-github repository is [here](https://github.com/coyim/coyim)
+CoyIM é um cliente de chat que é seguro por padrão: sem configurações pra mudar, sem plugins pra instalar, sem configuração do computador pra mudar. É um cliente de chat criado por Ola e seu time. O website está [aqui](https://coy.im/) e o repositório do github está [aqui](https://github.com/coyim/coyim)
 
 ### Gosecco for Subgraph
 
