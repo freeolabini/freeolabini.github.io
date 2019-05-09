@@ -4,11 +4,11 @@ layout: post.njk
 image: /img/oladrawing.jpg
 ---
 
-Ola is more than just a person detained by the authorities in Ecuador. He's a person with a distinguished career in software development as well as a friend and colleague to many.  Here's a timeline for Ola with the highlights:
+Ola é mais do que apenas uma pessoa detida pelas autoridades do Equador. Ele é uma pessoa com uma carreira de destaque em desenvolvimento de software e também um amigo e colega de muitos. Aqui está uma linha do tempo de Ola com destaques:
 
-### 2009-2009  Contributions to JRuby project
+### 2009-2009  Contribuições para o projeto JRuby
 
-Ola was pivotal in the JRuby community bringing the power and productivity of Ruby to the Java Virtual Machine so that enterprise teams had an additional way of deploying Ruby solutions for a multitude of application possibilities. See [Ola's commits to Jruby](https://github.com/jruby/jruby/search?p=3&q=ola&type=Commits).
+Ola foi fundamental na comunidade JRuby trazendo o poder e a produtividade de Ruby para a Máquina Virtual Java para que times profissionais tivessem uma forma adicional de entregar soluções Ruby com uma variedade de possibilidades de aplicações. Veja os [commits de Ola no JRuby](https://github.com/jruby/jruby/commits?author=olabini).
 
 ### 2009 -2011 His own programming language 'Ioke'
 
