@@ -4,15 +4,6 @@ title: Ola Bini arresterad i Ecuador
 layout: index.njk
 collection: sv
 image: /img/oladrawing.jpg
-menu:
-  -
-    path: /sv/about-ola
-    title: Om Ola
-    icon: la-star
-  -
-    path: /sv/letters
-    title: Brev från frihetsberövande
-    icon: la-file-text
 ---
 Vår högt uppskattade kollega Ola Bini är gripen och hålls som politisk fånge i Ecuador. Agera nu för att visa ditt stöd:
 
