@@ -22,25 +22,18 @@ Ola fez sua própria linguagem de programação chamada "Seph", cujo objetivo er
 
 JesCov é uma ferramenta de código aberto para medir a cobertura de código JavaScript. Ela torna possível encontrar tanto a cobertura do *trunk* quando de *branches* de qualquer código em conformidade com ES3. Ela não está ligada a nenhum framework de testes específico, mas a única integração atual é com Jasmine. A abordagem geral é baseada em um formato de conversão de dados JSON, o que significa que algumas ferramentas de relatórios poderiam potencialmente ser usadas com os dados coletados em alguma outra forma que não fosse executar o próprio núcleo do JesCov.
 
-Encontreo o repositório [aqui](https://github.com/jescov) e o website [aqui](http://jescov.olabini.com/)
+Encontre o repositório [aqui](https://github.com/jescov) e o website [aqui](http://jescov.olabini.com/)
 
 ### CoyIM
 
 CoyIM é um cliente de chat que é seguro por padrão: sem configurações pra mudar, sem plugins pra instalar, sem configuração do computador pra mudar. É um cliente de chat criado por Ola e seu time. O website está [aqui](https://coy.im/) e o repositório do github está [aqui](https://github.com/coyim/coyim)
 
-### Gosecco for Subgraph
+### Gosecco pra Subgraph
 
-gosecco is a project to provide a full stack of tools necessary for working with
-seccomp BPF rules from Golang. The primary pieces of functionality are the
-parser and compiler - but the project also supports a rudimentary assembler and
-disassembler. It also supports an emulator that can be tweaked to provide output
-on whether your rules actually do what you think they should do or not. None of
-these tools are exposed as command line tools - they are meant to be used as
-libraries for higher level applications and systems.
+gosecco é um projeto para prover um conjuntos completo de ferramentas necessárias para trabalhar com regras seccomp BPF de Golang. As funcionalidades primárias são o parser e o compilador - mas o projeto também suporta um assembler e um disassembler rudimentares. Ele também suporta um emulador que pode ser ajustado para prover resultados sobre se suas regras fazem o que você espera delas ou não. Nenhuma dessas ferramentas é exposta através de uma linha de comando - elas foram feitas para ser usadas como bibliotecas para sistemas e aplicações de mais alto nível.
 
-The github repository is [here](https://github.com/twtiger/gosecco). An statement
-from SubgraphOS thanking for its development can be found [here](https://subgraph.com/blog/index.en.html)
-(under the Acknowledgments section).
+O repositório do github está [aqui](https://github.com/twtiger/gosecco). Uma declaração do SubgraphOS agradecendo pelo desenvolvimento dessas ferramentas pode ser encontrada [aqui](https://subgraph.com/blog/index.en.html)
+(sob a seção Acknowledgments).
 
 ### Enigmail
 
