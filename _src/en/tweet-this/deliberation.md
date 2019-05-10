@@ -4,4 +4,4 @@ tags: tweeten
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-The judges deliberated for 3 hours. Then, they read a sentence that said nothing about what was discussed in Ola Bini's audience. #30DaysInJailWithoutEvidence
+It took the judges 3 hours to deliberate. Then, they read a sentence that said nothing about what was discussed in Ola Bini's hearing. #30DaysInJailWithoutEvidence
