@@ -4,4 +4,4 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-1 mes sin libertad por tener libros en inglés. Ola Bini #30DíasPresoSinPruebas #FreeOlaBini
+Ola Bini: 1 mes sin libertad por tener libros en inglés. #30DíasPresoSinPruebas
