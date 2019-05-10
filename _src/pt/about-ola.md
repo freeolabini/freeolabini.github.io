@@ -37,17 +37,13 @@ O repositório do github está [aqui](https://github.com/twtiger/gosecco). Uma d
 
 ### Enigmail
 
-Enigmail is a seamlessly integrated security add-on for Mozilla Thunderbird. It
-allows you to use OpenPGP to encrypt and digitally sign your emails and to
-decrypt and verify messages you receive. Enigmail is free software.
+Enigmail é um add-on de segurança integrado de forma transparente ao Mozilla Thunderbird. Ele permite usar OpenPGP para encriptar e assinar digitalmente seus emails e verificar e decifrar mensagens que você receba. Enigmail é um software livre.
 
-Ola’s contributions focused on making Enigmail easier to contribute to. This
-meant to provision new machines from scratch for the project, hooking a Travis
-CI, adding both unit tests and larger functional tests, refactoring, add
-Parcimonie style support and static analysis.
+As contribuições de Ola focaram em tornar Enigmail mais fácil de receber contribuições. Isso significou provisionar novas máquinas do zero para o projeto, associá-lo a um Travis
+CI, adicionar tanto testes unitários quanto testes funcionais maiores, refatorações, adicionar suporte no estilo Parcimonie e análise estática.
 
-You can read about Ola's thoughts about it [here](https://www.thoughtworks.com/de/insights/blog/lessons-learned-working-enigmail)
-You can find Ola's commits [here](https://gitlab.com/enigmail/enigmail/commits/master?utf8=%E2%9C%93&search=Ola+Bini)
+Você pode ler o que Ola pensa sobre o projeto [aqui](https://www.thoughtworks.com/de/insights/blog/lessons-learned-working-enigmail)
+Você pode encontrar os commits de Ola [aqui](https://gitlab.com/enigmail/enigmail/commits/master?utf8=%E2%9C%93&search=Ola+Bini)
 
 ### Tor
 
