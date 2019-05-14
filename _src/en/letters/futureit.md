@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 date: 2019-05-14
-image: /img/ola_parents.png
+image: /img/ola_IThat.png
 title: The Future of IT Security in Ecuador
 tags:
   - letteren
