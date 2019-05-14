@@ -4,7 +4,7 @@
   <subtitle>Campaign to Free Ola Bini</subtitle>
   <link href="https://freeolabini.org/feed.xml" rel="self"/>
   <link href="http://freeolabini.org/"/>
-  <updated>2019-05-13T16:34:20.705+02:00</updated>
+  <updated>2019-05-14T02:00:00+02:00</updated>
   <id>https://freeolabini.org/</id>
   <author>
     <name>Free Ola Bini</name>
@@ -1829,65 +1829,69 @@ más importante.&lt;/p&gt;
   </entry>
   
   <entry>
-    <title>The most important thing</title>
+    <title>La chose la plus importante</title>
     <link href="http://freeolabini.org/fr/letters/important/"/>
     <updated>2019-04-23T02:00:00+02:00</updated>
     <id>http://freeolabini.org/fr/letters/important/</id>
-    <content type="html">&lt;p&gt;I&#39;m sitting in prison- I&#39;m in my cell. It&#39;s dark, someone took all the light
-bulbs in the cells. So, I&#39;m sitting close to the door, so the light from the
-corridor outside can allow me to see what I&#39;m writing.&lt;/p&gt;
-&lt;p&gt;I&#39;ve been here a week, but it feels longer. In Ecuadorean prisons there are no
-books, no TV, no media. We go outside 5 hours a week and can have max 2 visitors
-during three hours on Saturdays. The minutes pass by quite slowly. So I think
-and I write.&lt;/p&gt;
-&lt;p&gt;Many years ago, a friend told me (and he has said this many times to many
-people): What is the most important thing you could do? Are you doing that? If
-not, why not? This has stayed with me as an important guideline. Indeed, our time is
-short, we should do the most important thing.&lt;/p&gt;
-&lt;p&gt;I was born with a lot of privilege. And during my life, mostly through luck,
-I&#39;ve acquired even more. Let me be clear, I don&#39;t deserve privilege over anyone
-else. In my opinion, no human being deserves privilege. However, I have it, so
-what do I do?&lt;/p&gt;
-&lt;p&gt;One option is to ignore it and act like it doesn&#39;t exist. To me, this is an
-abhorrent option. No, privilege for me means responsibility. I hate something I
-don&#39;t deserve and I can&#39;t get rid of it. Thus, I &lt;strong&gt;have to&lt;/strong&gt; use it for the
-improvement of the world. It&#39;s really that simple. Privilege means
-responsibility, power means responsibility.&lt;/p&gt;
-&lt;p&gt;Then, what is the responsible thing? Like my friend told me, logically, the most
-responsible thing you can do is to work on the most important thing you could
-ever do. It follows logically.&lt;/p&gt;
-&lt;p&gt;Of course, it&#39;s not as simple as that. You have to choose something where you
-can have -or can acquire- the right skills. You have to choose something where
-you have a chance of success. You must be able to access the right resources. All
-these considerations are embedded in the original questions.&lt;/p&gt;
-&lt;p&gt;Sitting here in my cell, I ask myself the question. The same way I&#39;ve asked
-myself the same thing hundreds of times over the last year. Iʼm still not sure of
-the answer.&lt;/p&gt;
-&lt;p&gt;Obviously I&#39;m not very productive sitting here. But maybe me being a martyr,
-kidnapped by the Ecuador government, will serve to start discussions, catch
-attention and open new ways of fighting. Maybe it will serve to wake some
-people up.&lt;/p&gt;
-&lt;p&gt;Of course I don&#39;t have much choice in my current situation, but I can apply the
-question to my previous life and I can start thinking about what should come next.
-These thoughts are taking most of my head space these days.&lt;/p&gt;
-&lt;p&gt;So, about my previous life, I decided many years ago that the field of privacy
-is both something extremely important and also something where my specific
-knowledge and connection would allow me to do something important. So, I&#39;ve
-worked on privacy enhancing tools. To me, privacy is something that is absolutely
-necessary for human beings to be free and the rise of surveillance is threatening this
-to the core.&lt;/p&gt;
-&lt;p&gt;My goal with CAD (and the previous iterations) of the concept was to create a group
-of people with the necessary skills to push privacy forward in several different
-efforts. There are so many things to work on. Both hardware and software protocols
-and implementations, infrastructure and end user systems. And we were only just
-getting started.&lt;/p&gt;
-&lt;p&gt;The thing about the most important thing is that it can change. When I get out,
-I will have different possibilities than I had before. I don&#39;t know what that
-means. Maybe there&#39;s no good way to know until I&#39;m out. But it&#39;s still something
-I&#39;m thinking about.&lt;/p&gt;
-&lt;p&gt;I urge all of you to consider these questions. Devote your life to the most
-important thing.&lt;/p&gt;
-&lt;p&gt;In solidarity,&lt;/p&gt;
+    <content type="html">&lt;p&gt;Je suis assis en prison, je suis dans ma cellule. Il fait noir, quelqu&#39;un a pris
+toutes les ampoules des cellules. Donc, je suis assis près de la porte afin que
+la lumière du couloir me permette de voir ce que j&#39;écris.&lt;/p&gt;
+&lt;p&gt;Je suis ici depuis une semaine, mais je ressens comme si c&#39;était plus longtemps.
+Dans les prisons équatoriennes il n&#39;y a pas de livres, de télévision, de médias.
+On sort 5 heures par semaine et on a le droit à un maximum de 2 visiteurs pendant
+trois heures le samedi. Les minutes s&#39;écoulent assez lentement. Alors je pense et
+j&#39;écris.&lt;/p&gt;
+&lt;p&gt;Il y a de nombreuses années, un ami m&#39;a dit (et il l&#39;a déjà répété à de nombreuses
+personnes): Quelle est la chose la plus importante que tu peux faire ? Est-ce que tu
+la fais ? Si non, pourquoi pas ? Cela est resté avec moi comme une ligne directrice
+importante. En effet, notre temps est court, nous devrions faire la chose la plus
+importante.&lt;/p&gt;
+&lt;p&gt;Je suis né avec beaucoup de privilèges. Et au cours de ma vie, principalement par
+chance, j&#39;en ai acquis encore plus. Laissez-moi être clair, je ne mérite pas de
+privilège sur quelqu&#39;un d&#39;autre. À mon avis, aucun être humain ne mérite un privilège.
+Cependant, j&#39;en ai, alors que dois-je faire ?&lt;/p&gt;
+&lt;p&gt;Une option consiste à l&#39;ignorer et à agir comme s&#39;il n&#39;existait pas. Pour moi,
+c&#39;est une option odieuse. Non, pour moi le privilège signifie la responsabilité.
+Je déteste quelque chose que je ne mérite pas et je ne peux pas m&#39;en débarrasser.
+Ainsi, je &lt;strong&gt;dois&lt;/strong&gt; l&#39;utiliser pour l&#39;amélioration du monde. C&#39;est vraiment aussi
+simple que cela. Privilège signifie responsabilité, pouvoir signifie responsabilité.&lt;/p&gt;
+&lt;p&gt;Alors, qu&#39;est-ce qui est responsable de faire ? Comme mon ami me l&#39;a dit, logiquement,
+la chose la plus responsable que vous puissiez faire est de travailler sur la chose
+la plus importante que vous puissiez faire. Il s&#39;en suit logiquement.&lt;/p&gt;
+&lt;p&gt;Bien sûr, ce n&#39;est pas aussi simple que ça. Vous devez choisir quelque chose où
+vous avez ou pouvez acquérir les bonnes compétences. Vous devez choisir quelque chose
+où vous avez une chance de réussir. Vous devez pouvoir accéder aux bonnes ressources.
+Toutes ces considérations sont intégrées aux questions initiales.&lt;/p&gt;
+&lt;p&gt;Assis ici dans ma cellule, je me pose cette question. De la même manière, je me suis
+posé cette question des centaines de fois au cours de la dernière année. Je ne suis
+toujours pas sûr de la réponse.&lt;/p&gt;
+&lt;p&gt;De toute évidence, je ne suis pas très productif assis ici. Mais peut-être que ma vie
+de martyr, kidnappée par le gouvernement équatorien, permettra d&#39;entamer des discussions,
+d&#39;attirer l&#39;attention et d&#39;ouvrir de nouveaux moyens de combattre. Peut-être que cela
+servira à réveiller certaines personnes.&lt;/p&gt;
+&lt;p&gt;Bien sûr, je n&#39;ai pas beaucoup de choix dans ma situation actuelle, mais je peux
+appliquer la question à ma vie antérieure et je peux commencer à penser à ce qui
+devrait venir ensuite. Ces pensées prennent la plus grande partie de mes idées ces
+jours-ci.&lt;/p&gt;
+&lt;p&gt;Donc, à propos de ma vie antérieure, j&#39;ai décidé il y a de nombreuses années que le
+domaine de la vie privée était à la fois quelque chose d&#39;extrêmement important et
+un domaine où mes connaissances spécifiques et ma connexion me permettraient de faire
+quelque chose d&#39;important. J&#39;ai donc travaillé sur des outils d&#39;amélioration de la
+confidentialité. Pour moi, la vie privée est une chose absolument nécessaire pour la
+liberté des êtres humains et la montée de la surveillance menace cette réalité.&lt;/p&gt;
+&lt;p&gt;Mon objectif avec CAD (et les itérations précédentes du concept) était de créer
+un groupe de personnes possédant les compétences nécessaires pour faire avancer la
+protection de la vie privée à travers de nombreux efforts. Il y a tellement de
+choses sur lesquelles travailler. Protocoles et implémentations matérielles et
+logicielles, infrastructure et systèmes pour utilisateurs finaux. Et nous ne
+faisions que commencer.&lt;/p&gt;
+&lt;p&gt;Le hic de la chose la plus importante est qu&#39;elle peut changer. Quand je sortirai,
+j&#39;aurai d&#39;autres possibilités qu&#39;avant. Je ne sais pas encore ce que cela voudra dire.
+Peut-être il n&#39;y a aucune bonne façon de le savoir avant que je sorte. Mais c&#39;est
+encore quelque chose à laquelle je pense.&lt;/p&gt;
+&lt;p&gt;Je vous invite tous à considérer ces questions. Consacrez votre vie à la chose la
+plus importante.&lt;/p&gt;
+&lt;p&gt;En solidarité,&lt;/p&gt;
 &lt;p&gt;Ola Bini&lt;/p&gt;
 </content>
   </entry>
@@ -2753,61 +2757,62 @@ personas a una caricatura -buena o mala-.&lt;/p&gt;
   </entry>
   
   <entry>
-    <title>Why Ecuador?</title>
+    <title>Pourquoi l&#39;Equateur?</title>
     <link href="http://freeolabini.org/fr/letters/ecuador/"/>
     <updated>2019-05-02T02:00:00+02:00</updated>
     <id>http://freeolabini.org/fr/letters/ecuador/</id>
-    <content type="html">&lt;p&gt;Two weeks. Prison here in Ecuador is a maddening mix of long stretches of
-isolation and boredom interspersed with random threats and acts of violence.
-Today was a break in the structure: visitation day.&lt;/p&gt;
-&lt;p&gt;You can receive max 2 visitors for 3 hours. Two of my best friends here in
-Ecuador visited. It’s always great to see friends; the isolation here is
-probably the hardest aspect. But after visits, I always end up feeling empty,
-pensive and moody. My friends brought up the question I want to write about
-today. Simply, why am I in Ecuador? And my recent experiences, have they changed
-my perspectives?&lt;/p&gt;
-&lt;p&gt;I’m sure a lot of people assume I’m angry at Ecuador, that I will want to leave
-as soon as I get out and never come back, but no, nothing could be further from
-the truth. I love Ecuador. I love living here. I have my life here and if I’m
-allowed, I would like to continue my life.&lt;/p&gt;
-&lt;p&gt;Obviously, I’m not happy at being in my current position, but I can’t blame the
-whole country for that. Instead, I do blame certain specific individuals who are
-instrumentalizing my friendship with Julian Assange and making me a political
-pawn without any trace of wrongdoing. Yes, I’m angry at these people and so
-Ecuadorians be. Using – and abusing – the laws of the country in this way should
-not be acceptable. But this is being done by a few individuals, not the whole
-population.&lt;/p&gt;
-&lt;p&gt;To be sure, the penal system of Ecuador has to be reformed. The plight of my
-many fellow inmates is evidence of this; they mostly live in significantly worse
-conditions than mine.&lt;/p&gt;
-&lt;p&gt;Ecuador is not perfect. There are many things that could be improved. Just like
-the rest of Latin America, Ecuador has several hundreds of years of colonial
-history to deal with, followed by many years of military dictatorships, general
-unrest and repeated unlawful interventions by so called developed countries.&lt;/p&gt;
-&lt;p&gt;So no, Ecuador can improve on many things, but from the historical perspective,
-the peoples of Latin America have shown tremendous strength in getting as far as
-they have.&lt;/p&gt;
-&lt;p&gt;So, coming back to the original question: Why did I come here?&lt;/p&gt;
-&lt;p&gt;For many reasons, and sometimes they are hard to tease but some are very
-mundane. I really like the people here. People are warm, open, caring and they
-care about the community. This attracted me a lot. And I can say that even in
-my current situation, this perspective on the people remain. From how my fellow
-inmates have taken care of me, to how people on the street have come up to my
-parents on the street, expressing their support. My faith in the Ecuadorian
-people remains strong.&lt;/p&gt;
-&lt;p&gt;I like that politics is something that people care about here. It’s in the blood
-of people. That’s something I appreciated from the beginning. People in Ecuador
-talk about open source and understand the political value of technology.&lt;/p&gt;
-&lt;p&gt;And there are talented people here. When we started my organization in
-Ecuador, we quickly found a team of people with lots of potential, diligence and
-drive. Honestly, I’m dying to get back to work with them and continue doing good
-for the world.&lt;/p&gt;
-&lt;p&gt;Ecuador is not a paradise. It’s a complex, multicultural, sometimes strange
-place with all kinds of people with different worldviews, dealing with 500 years
-of complicated history. Let’s not forget that and reduce the country and its
-people to a caricature – good or bad -.&lt;/p&gt;
-&lt;p&gt;I’m glad to be here and hopefully I have along future ahead of me in Ecuador,
-hopefully outside of prison!&lt;/p&gt;
+    <content type="html">&lt;p&gt;Deux semaines. Ici, en Équateur, la prison est un mélange épuisant de longues
+périodes d&#39;isolement et d&#39;ennui entrecoupées de menaces aléatoires et d&#39;actes
+de violence. Aujourd&#39;hui c&#39;était une pause dans la structure: jour de visite.&lt;/p&gt;
+&lt;p&gt;Vous pouvez recevoir max 2 visiteurs pendant 3 heures. Deux de mes meilleurs
+amis ici en Equateur m&#39;ont rendu visite. C&#39;est toujours un plaisir de voir des
+amis. L&#39;isolement est probablement l&#39;aspect le plus difficile. Mais après les
+visites, je me sens toujours vide, pensif et de mauvaise humeur. Mes amis ont
+soulevé la question sur laquelle je veux écrire aujourd&#39;hui. Pourquoi suis-je en
+Equateur? Est-ce que mes expériences récentes ont-elles changé mes perspectives?&lt;/p&gt;
+&lt;p&gt;Je suis sûr que beaucoup de gens pensent que je suis fâché contre l&#39;Équateur,
+que je voudrai partir dès que je serai libéré et que je ne reviendrai jamais,
+mais non. Rien n&#39;est plus éloigné de la vérité. J&#39;aime l&#39;Equateur. J&#39;aime vivre
+ici. J&#39;ai ma vie ici et si on me le permet, j&#39;aimerais continuer ma vie ici.&lt;/p&gt;
+&lt;p&gt;Évidemment, je ne suis pas content d&#39;être à mon poste actuel, mais je ne peux
+pas en vouloir à tout le pays. Par contre, je reproche certains individus
+spécifiques qui instrumentalisent mon amitié avec Julian Assange et qui font
+de moi un pion politique sans aucune trace de méfait. Oui, je suis en colère
+contre ces gens, et les équatoriens le sont aussi. Utiliser - et abuser - des
+lois du pays de cette manière ne devrait pas être acceptable. Mais ceci est
+fait par quelques individus et non par la population entière.&lt;/p&gt;
+&lt;p&gt;Pour en être sûr, le système pénal équatorien doit être réformé. La situation
+difficile de mes nombreux codétenus en est la preuve; ils vivent la plupart du
+temps dans des conditions nettement pires que les miennes.&lt;/p&gt;
+&lt;p&gt;L&#39;Equateur n&#39;est pas parfait. Il y a beaucoup de choses qui pourraient être
+améliorées. À l&#39;instar du reste de l&#39;Amérique latine, l&#39;Équateur a plusieurs
+centaines d&#39;années d&#39;histoire coloniale à traiter, suivies de nombreuses
+années de dictatures militaires, de troubles généraux et d&#39;interventions
+illégales répétées des pays dits développés.&lt;/p&gt;
+&lt;p&gt;Donc non, l&#39;Équateur peut s&#39;améliorer dans beaucoup de domaines, mais d&#39;un
+point de vue historique, les peuples d&#39;Amérique latine ont fait preuve d&#39;une
+force extraordinaire pour aller aussi loin qu&#39;ils l&#39;ont fait.&lt;/p&gt;
+&lt;p&gt;Donc, revenons à la question initiale: pourquoi suis-je venu ici?&lt;/p&gt;
+&lt;p&gt;Pour de nombreuses raisons, parfois difficiles à démêler, mais certaines sont
+très banales. J&#39;aime vraiment les gens ici. Les gens sont chaleureux, ouverts,
+attentionnés et se soucient de la communauté. Cela m&#39;a beaucoup attiré. Et je
+peux dire que même dans ma situation actuelle, cette perspective sur les personnes
+demeure vrai. De la façon dont mes codétenus ont pris soin de moi et de la
+façon dont les gens dans la rue sont venus voir mes parents pour exprimer leur
+soutien. Ma foi dans le peuple équatorien reste forte.&lt;/p&gt;
+&lt;p&gt;J&#39;aime que la politique soit une chose qui intéresse les gens ici. C&#39;est dans
+le sang des gens. C&#39;est quelque chose que j&#39;ai apprécié dès le début. Les
+habitants d&#39;Équateur parlent d&#39;open source et comprennent la valeur politique
+de la technologie.&lt;/p&gt;
+&lt;p&gt;Et il y a des gens talentueux ici. Lorsque nous avons créé mon organisation en
+Équateur, nous avons rapidement trouvé une équipe de personnes ayant beaucoup
+de potentiel, de diligence et de motivation. Honnêtement, je meurs d&#39;envie de
+retourner travailler avec eux et de continuer à faire du bien au monde.&lt;/p&gt;
+&lt;p&gt;L&#39;Equateur n&#39;est pas un paradis. C&#39;est un lieu complexe, multiculturel, parfois
+étrange, avec toutes sortes de personnes ayant des visions du monde différentes,
+confrontées à 500 ans d&#39;histoire compliquée. N&#39;oublions pas cela et ne réduisons
+pas le pays et ses habitants à une caricature - bonne ou mauvaise -.&lt;/p&gt;
+&lt;p&gt;Je suis heureux d&#39;être ici et j&#39;espère avoir un avenir en Équateur, hors de prison!&lt;/p&gt;
 </content>
   </entry>
   
@@ -3777,6 +3782,166 @@ But the truth is, over these last 5 years, anger is not the emotion that defines
 &lt;p&gt;I am afraid, because the Ecuadorian government has acted in a lawless, out of control and totalitarian manner towards me and I have no reason to believe this will stop.&lt;/p&gt;
 &lt;p&gt;This is the nature of power, unchecked.&lt;/p&gt;
 &lt;p&gt;/Ola&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Future of IT Security in Ecuador</title>
+    <link href="http://freeolabini.org/de/letters/futureit/"/>
+    <updated>2019-05-14T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/de/letters/futureit/</id>
+    <content type="html">&lt;p&gt;I’m tired. Sleep deprived. Prison is much louder than I could ever imagine. And add to that sleeping on the floor, in a small room with 6 other inmates, getting rest is a significant challenge.&lt;/p&gt;
+&lt;p&gt;I’ve been thinking about my situation and the case against me – or the lack of case – as is more factual. My current considerations are about what the possible implications for IT security in Ecuador could be and honestly, it looks pretty dark. If you currently work in this field in Ecuador, I would recommend you to move or change profession. Let me explain why.&lt;/p&gt;
+&lt;p&gt;The basics of my case can be boiled down to one thing: knowing Julian Assange. However, that was not the reason why the judge approved my imprisonment. Instead, the stated reasons based on “evidence” submitted by the prosecution, was the amount of computers, USB drives and technical books I had.&lt;/p&gt;
+&lt;p&gt;What has been implied in press and stated by high government officials, is that I’m a hacker and that I have hacked public government systems, phones and other devices and stolen or destroyed information. They have not given any specifics nor provided any evidence. There is a simple reason for this: I haven&#39;t done anything.&lt;/p&gt;
+&lt;p&gt;Do I have a lot of technical books about security, privacy, cryptography and computer intrusion? Certainly! It’s my field and it’s part of building stronger and more resilient systems to know how they can be attacked.&lt;/p&gt;
+&lt;p&gt;So, adding to this, penetration testing is an extremely important part of a full scale security posture. Pen testers are sometimes called “white hat hackers”. They are people that do break into computer systems, but with previous permission from the owner of these systems. This is a crucial part of proper security and it’s also a well-established and respected profession in the industry.&lt;/p&gt;
+&lt;p&gt;We need these people, without them we can never feel reasonably certain that our systems are secure enough.&lt;/p&gt;
+&lt;p&gt;What then separates a penetration tester from a criminal computer intruder? Certainly not their knowledge, since the skills needed are the same. No, the only difference is their actions. Thus, saying someone is suspicious purely based on their capabilities but not on their actions will mean you will suspect a lot of innocent people.&lt;/p&gt;
+&lt;p&gt;As I’ve said before, I’m not a penetration tester. I’m not a person that breaks into computer systems. But I do posses much of the same knowledge – no action – that I’m being investigated, and that should scare security professionals in Ecuador. This could happen to anyone of them.&lt;/p&gt;
+&lt;p&gt;My predictions, if my case moves forward, is that many people will avoid the pen testing profession in Ecuador and that means the computer systems of Ecuador will be full of holes. By prosecuting this war on knowledge, claiming I break into computer systems, the government of Ecuador is ironically creating a future where they will be the easiest hacking target for 10 or 20 years.&lt;/p&gt;
+&lt;p&gt;This is what happen when you wage war on knowledge. You encourage people to avoid that knowledge and that’s a really bad idea when this knowledge is crucial for the future of us all.&lt;/p&gt;
+&lt;p&gt;/O&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Future of IT Security in Ecuador</title>
+    <link href="http://freeolabini.org/en/letters/futureit/"/>
+    <updated>2019-05-14T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/en/letters/futureit/</id>
+    <content type="html">&lt;p&gt;I’m tired. Sleep deprived. Prison is much louder than I could ever imagine. And add to that sleeping on the floor, in a small room with 6 other inmates, getting rest is a significant challenge.&lt;/p&gt;
+&lt;p&gt;I’ve been thinking about my situation and the case against me – or the lack of case – as is more factual. My current considerations are about what the possible implications for IT security in Ecuador could be and honestly, it looks pretty dark. If you currently work in this field in Ecuador, I would recommend you to move or change profession. Let me explain why.&lt;/p&gt;
+&lt;p&gt;The basics of my case can be boiled down to one thing: knowing Julian Assange. However, that was not the reason why the judge approved my imprisonment. Instead, the stated reasons based on “evidence” submitted by the prosecution, was the amount of computers, USB drives and technical books I had.&lt;/p&gt;
+&lt;p&gt;What has been implied in press and stated by high government officials, is that I’m a hacker and that I have hacked public government systems, phones and other devices and stolen or destroyed information. They have not given any specifics nor provided any evidence. There is a simple reason for this: I haven&#39;t done anything.&lt;/p&gt;
+&lt;p&gt;Do I have a lot of technical books about security, privacy, cryptography and computer intrusion? Certainly! It’s my field and it’s part of building stronger and more resilient systems to know how they can be attacked.&lt;/p&gt;
+&lt;p&gt;So, adding to this, penetration testing is an extremely important part of a full scale security posture. Pen testers are sometimes called “white hat hackers”. They are people that do break into computer systems, but with previous permission from the owner of these systems. This is a crucial part of proper security and it’s also a well-established and respected profession in the industry.&lt;/p&gt;
+&lt;p&gt;We need these people, without them we can never feel reasonably certain that our systems are secure enough.&lt;/p&gt;
+&lt;p&gt;What then separates a penetration tester from a criminal computer intruder? Certainly not their knowledge, since the skills needed are the same. No, the only difference is their actions. Thus, saying someone is suspicious purely based on their capabilities but not on their actions will mean you will suspect a lot of innocent people.&lt;/p&gt;
+&lt;p&gt;As I’ve said before, I’m not a penetration tester. I’m not a person that breaks into computer systems. But I do posses much of the same knowledge – no action – that I’m being investigated, and that should scare security professionals in Ecuador. This could happen to anyone of them.&lt;/p&gt;
+&lt;p&gt;My predictions, if my case moves forward, is that many people will avoid the pen testing profession in Ecuador and that means the computer systems of Ecuador will be full of holes. By prosecuting this war on knowledge, claiming I break into computer systems, the government of Ecuador is ironically creating a future where they will be the easiest hacking target for 10 or 20 years.&lt;/p&gt;
+&lt;p&gt;This is what happen when you wage war on knowledge. You encourage people to avoid that knowledge and that’s a really bad idea when this knowledge is crucial for the future of us all.&lt;/p&gt;
+&lt;p&gt;/O&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Future of IT Security in Ecuador</title>
+    <link href="http://freeolabini.org/eo/letters/futureit/"/>
+    <updated>2019-05-14T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/eo/letters/futureit/</id>
+    <content type="html">&lt;p&gt;I’m tired. Sleep deprived. Prison is much louder than I could ever imagine. And add to that sleeping on the floor, in a small room with 6 other inmates, getting rest is a significant challenge.&lt;/p&gt;
+&lt;p&gt;I’ve been thinking about my situation and the case against me – or the lack of case – as is more factual. My current considerations are about what the possible implications for IT security in Ecuador could be and honestly, it looks pretty dark. If you currently work in this field in Ecuador, I would recommend you to move or change profession. Let me explain why.&lt;/p&gt;
+&lt;p&gt;The basics of my case can be boiled down to one thing: knowing Julian Assange. However, that was not the reason why the judge approved my imprisonment. Instead, the stated reasons based on “evidence” submitted by the prosecution, was the amount of computers, USB drives and technical books I had.&lt;/p&gt;
+&lt;p&gt;What has been implied in press and stated by high government officials, is that I’m a hacker and that I have hacked public government systems, phones and other devices and stolen or destroyed information. They have not given any specifics nor provided any evidence. There is a simple reason for this: I haven&#39;t done anything.&lt;/p&gt;
+&lt;p&gt;Do I have a lot of technical books about security, privacy, cryptography and computer intrusion? Certainly! It’s my field and it’s part of building stronger and more resilient systems to know how they can be attacked.&lt;/p&gt;
+&lt;p&gt;So, adding to this, penetration testing is an extremely important part of a full scale security posture. Pen testers are sometimes called “white hat hackers”. They are people that do break into computer systems, but with previous permission from the owner of these systems. This is a crucial part of proper security and it’s also a well-established and respected profession in the industry.&lt;/p&gt;
+&lt;p&gt;We need these people, without them we can never feel reasonably certain that our systems are secure enough.&lt;/p&gt;
+&lt;p&gt;What then separates a penetration tester from a criminal computer intruder? Certainly not their knowledge, since the skills needed are the same. No, the only difference is their actions. Thus, saying someone is suspicious purely based on their capabilities but not on their actions will mean you will suspect a lot of innocent people.&lt;/p&gt;
+&lt;p&gt;As I’ve said before, I’m not a penetration tester. I’m not a person that breaks into computer systems. But I do posses much of the same knowledge – no action – that I’m being investigated, and that should scare security professionals in Ecuador. This could happen to anyone of them.&lt;/p&gt;
+&lt;p&gt;My predictions, if my case moves forward, is that many people will avoid the pen testing profession in Ecuador and that means the computer systems of Ecuador will be full of holes. By prosecuting this war on knowledge, claiming I break into computer systems, the government of Ecuador is ironically creating a future where they will be the easiest hacking target for 10 or 20 years.&lt;/p&gt;
+&lt;p&gt;This is what happen when you wage war on knowledge. You encourage people to avoid that knowledge and that’s a really bad idea when this knowledge is crucial for the future of us all.&lt;/p&gt;
+&lt;p&gt;/O&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Future of IT Security in Ecuador</title>
+    <link href="http://freeolabini.org/es/letters/futureit/"/>
+    <updated>2019-05-14T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/es/letters/futureit/</id>
+    <content type="html">&lt;p&gt;I’m tired. Sleep deprived. Prison is much louder than I could ever imagine. And add to that sleeping on the floor, in a small room with 6 other inmates, getting rest is a significant challenge.&lt;/p&gt;
+&lt;p&gt;I’ve been thinking about my situation and the case against me – or the lack of case – as is more factual. My current considerations are about what the possible implications for IT security in Ecuador could be and honestly, it looks pretty dark. If you currently work in this field in Ecuador, I would recommend you to move or change profession. Let me explain why.&lt;/p&gt;
+&lt;p&gt;The basics of my case can be boiled down to one thing: knowing Julian Assange. However, that was not the reason why the judge approved my imprisonment. Instead, the stated reasons based on “evidence” submitted by the prosecution, was the amount of computers, USB drives and technical books I had.&lt;/p&gt;
+&lt;p&gt;What has been implied in press and stated by high government officials, is that I’m a hacker and that I have hacked public government systems, phones and other devices and stolen or destroyed information. They have not given any specifics nor provided any evidence. There is a simple reason for this: I haven&#39;t done anything.&lt;/p&gt;
+&lt;p&gt;Do I have a lot of technical books about security, privacy, cryptography and computer intrusion? Certainly! It’s my field and it’s part of building stronger and more resilient systems to know how they can be attacked.&lt;/p&gt;
+&lt;p&gt;So, adding to this, penetration testing is an extremely important part of a full scale security posture. Pen testers are sometimes called “white hat hackers”. They are people that do break into computer systems, but with previous permission from the owner of these systems. This is a crucial part of proper security and it’s also a well-established and respected profession in the industry.&lt;/p&gt;
+&lt;p&gt;We need these people, without them we can never feel reasonably certain that our systems are secure enough.&lt;/p&gt;
+&lt;p&gt;What then separates a penetration tester from a criminal computer intruder? Certainly not their knowledge, since the skills needed are the same. No, the only difference is their actions. Thus, saying someone is suspicious purely based on their capabilities but not on their actions will mean you will suspect a lot of innocent people.&lt;/p&gt;
+&lt;p&gt;As I’ve said before, I’m not a penetration tester. I’m not a person that breaks into computer systems. But I do posses much of the same knowledge – no action – that I’m being investigated, and that should scare security professionals in Ecuador. This could happen to anyone of them.&lt;/p&gt;
+&lt;p&gt;My predictions, if my case moves forward, is that many people will avoid the pen testing profession in Ecuador and that means the computer systems of Ecuador will be full of holes. By prosecuting this war on knowledge, claiming I break into computer systems, the government of Ecuador is ironically creating a future where they will be the easiest hacking target for 10 or 20 years.&lt;/p&gt;
+&lt;p&gt;This is what happen when you wage war on knowledge. You encourage people to avoid that knowledge and that’s a really bad idea when this knowledge is crucial for the future of us all.&lt;/p&gt;
+&lt;p&gt;/O&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Future of IT Security in Ecuador</title>
+    <link href="http://freeolabini.org/fr/letters/futureit/"/>
+    <updated>2019-05-14T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/fr/letters/futureit/</id>
+    <content type="html">&lt;p&gt;I’m tired. Sleep deprived. Prison is much louder than I could ever imagine. And add to that sleeping on the floor, in a small room with 6 other inmates, getting rest is a significant challenge.&lt;/p&gt;
+&lt;p&gt;I’ve been thinking about my situation and the case against me – or the lack of case – as is more factual. My current considerations are about what the possible implications for IT security in Ecuador could be and honestly, it looks pretty dark. If you currently work in this field in Ecuador, I would recommend you to move or change profession. Let me explain why.&lt;/p&gt;
+&lt;p&gt;The basics of my case can be boiled down to one thing: knowing Julian Assange. However, that was not the reason why the judge approved my imprisonment. Instead, the stated reasons based on “evidence” submitted by the prosecution, was the amount of computers, USB drives and technical books I had.&lt;/p&gt;
+&lt;p&gt;What has been implied in press and stated by high government officials, is that I’m a hacker and that I have hacked public government systems, phones and other devices and stolen or destroyed information. They have not given any specifics nor provided any evidence. There is a simple reason for this: I haven&#39;t done anything.&lt;/p&gt;
+&lt;p&gt;Do I have a lot of technical books about security, privacy, cryptography and computer intrusion? Certainly! It’s my field and it’s part of building stronger and more resilient systems to know how they can be attacked.&lt;/p&gt;
+&lt;p&gt;So, adding to this, penetration testing is an extremely important part of a full scale security posture. Pen testers are sometimes called “white hat hackers”. They are people that do break into computer systems, but with previous permission from the owner of these systems. This is a crucial part of proper security and it’s also a well-established and respected profession in the industry.&lt;/p&gt;
+&lt;p&gt;We need these people, without them we can never feel reasonably certain that our systems are secure enough.&lt;/p&gt;
+&lt;p&gt;What then separates a penetration tester from a criminal computer intruder? Certainly not their knowledge, since the skills needed are the same. No, the only difference is their actions. Thus, saying someone is suspicious purely based on their capabilities but not on their actions will mean you will suspect a lot of innocent people.&lt;/p&gt;
+&lt;p&gt;As I’ve said before, I’m not a penetration tester. I’m not a person that breaks into computer systems. But I do posses much of the same knowledge – no action – that I’m being investigated, and that should scare security professionals in Ecuador. This could happen to anyone of them.&lt;/p&gt;
+&lt;p&gt;My predictions, if my case moves forward, is that many people will avoid the pen testing profession in Ecuador and that means the computer systems of Ecuador will be full of holes. By prosecuting this war on knowledge, claiming I break into computer systems, the government of Ecuador is ironically creating a future where they will be the easiest hacking target for 10 or 20 years.&lt;/p&gt;
+&lt;p&gt;This is what happen when you wage war on knowledge. You encourage people to avoid that knowledge and that’s a really bad idea when this knowledge is crucial for the future of us all.&lt;/p&gt;
+&lt;p&gt;/O&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Future of IT Security in Ecuador</title>
+    <link href="http://freeolabini.org/it/letters/futureit/"/>
+    <updated>2019-05-14T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/it/letters/futureit/</id>
+    <content type="html">&lt;p&gt;I’m tired. Sleep deprived. Prison is much louder than I could ever imagine. And add to that sleeping on the floor, in a small room with 6 other inmates, getting rest is a significant challenge.&lt;/p&gt;
+&lt;p&gt;I’ve been thinking about my situation and the case against me – or the lack of case – as is more factual. My current considerations are about what the possible implications for IT security in Ecuador could be and honestly, it looks pretty dark. If you currently work in this field in Ecuador, I would recommend you to move or change profession. Let me explain why.&lt;/p&gt;
+&lt;p&gt;The basics of my case can be boiled down to one thing: knowing Julian Assange. However, that was not the reason why the judge approved my imprisonment. Instead, the stated reasons based on “evidence” submitted by the prosecution, was the amount of computers, USB drives and technical books I had.&lt;/p&gt;
+&lt;p&gt;What has been implied in press and stated by high government officials, is that I’m a hacker and that I have hacked public government systems, phones and other devices and stolen or destroyed information. They have not given any specifics nor provided any evidence. There is a simple reason for this: I haven&#39;t done anything.&lt;/p&gt;
+&lt;p&gt;Do I have a lot of technical books about security, privacy, cryptography and computer intrusion? Certainly! It’s my field and it’s part of building stronger and more resilient systems to know how they can be attacked.&lt;/p&gt;
+&lt;p&gt;So, adding to this, penetration testing is an extremely important part of a full scale security posture. Pen testers are sometimes called “white hat hackers”. They are people that do break into computer systems, but with previous permission from the owner of these systems. This is a crucial part of proper security and it’s also a well-established and respected profession in the industry.&lt;/p&gt;
+&lt;p&gt;We need these people, without them we can never feel reasonably certain that our systems are secure enough.&lt;/p&gt;
+&lt;p&gt;What then separates a penetration tester from a criminal computer intruder? Certainly not their knowledge, since the skills needed are the same. No, the only difference is their actions. Thus, saying someone is suspicious purely based on their capabilities but not on their actions will mean you will suspect a lot of innocent people.&lt;/p&gt;
+&lt;p&gt;As I’ve said before, I’m not a penetration tester. I’m not a person that breaks into computer systems. But I do posses much of the same knowledge – no action – that I’m being investigated, and that should scare security professionals in Ecuador. This could happen to anyone of them.&lt;/p&gt;
+&lt;p&gt;My predictions, if my case moves forward, is that many people will avoid the pen testing profession in Ecuador and that means the computer systems of Ecuador will be full of holes. By prosecuting this war on knowledge, claiming I break into computer systems, the government of Ecuador is ironically creating a future where they will be the easiest hacking target for 10 or 20 years.&lt;/p&gt;
+&lt;p&gt;This is what happen when you wage war on knowledge. You encourage people to avoid that knowledge and that’s a really bad idea when this knowledge is crucial for the future of us all.&lt;/p&gt;
+&lt;p&gt;/O&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Future of IT Security in Ecuador</title>
+    <link href="http://freeolabini.org/pt/letters/futureit/"/>
+    <updated>2019-05-14T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/pt/letters/futureit/</id>
+    <content type="html">&lt;p&gt;I’m tired. Sleep deprived. Prison is much louder than I could ever imagine. And add to that sleeping on the floor, in a small room with 6 other inmates, getting rest is a significant challenge.&lt;/p&gt;
+&lt;p&gt;I’ve been thinking about my situation and the case against me – or the lack of case – as is more factual. My current considerations are about what the possible implications for IT security in Ecuador could be and honestly, it looks pretty dark. If you currently work in this field in Ecuador, I would recommend you to move or change profession. Let me explain why.&lt;/p&gt;
+&lt;p&gt;The basics of my case can be boiled down to one thing: knowing Julian Assange. However, that was not the reason why the judge approved my imprisonment. Instead, the stated reasons based on “evidence” submitted by the prosecution, was the amount of computers, USB drives and technical books I had.&lt;/p&gt;
+&lt;p&gt;What has been implied in press and stated by high government officials, is that I’m a hacker and that I have hacked public government systems, phones and other devices and stolen or destroyed information. They have not given any specifics nor provided any evidence. There is a simple reason for this: I haven&#39;t done anything.&lt;/p&gt;
+&lt;p&gt;Do I have a lot of technical books about security, privacy, cryptography and computer intrusion? Certainly! It’s my field and it’s part of building stronger and more resilient systems to know how they can be attacked.&lt;/p&gt;
+&lt;p&gt;So, adding to this, penetration testing is an extremely important part of a full scale security posture. Pen testers are sometimes called “white hat hackers”. They are people that do break into computer systems, but with previous permission from the owner of these systems. This is a crucial part of proper security and it’s also a well-established and respected profession in the industry.&lt;/p&gt;
+&lt;p&gt;We need these people, without them we can never feel reasonably certain that our systems are secure enough.&lt;/p&gt;
+&lt;p&gt;What then separates a penetration tester from a criminal computer intruder? Certainly not their knowledge, since the skills needed are the same. No, the only difference is their actions. Thus, saying someone is suspicious purely based on their capabilities but not on their actions will mean you will suspect a lot of innocent people.&lt;/p&gt;
+&lt;p&gt;As I’ve said before, I’m not a penetration tester. I’m not a person that breaks into computer systems. But I do posses much of the same knowledge – no action – that I’m being investigated, and that should scare security professionals in Ecuador. This could happen to anyone of them.&lt;/p&gt;
+&lt;p&gt;My predictions, if my case moves forward, is that many people will avoid the pen testing profession in Ecuador and that means the computer systems of Ecuador will be full of holes. By prosecuting this war on knowledge, claiming I break into computer systems, the government of Ecuador is ironically creating a future where they will be the easiest hacking target for 10 or 20 years.&lt;/p&gt;
+&lt;p&gt;This is what happen when you wage war on knowledge. You encourage people to avoid that knowledge and that’s a really bad idea when this knowledge is crucial for the future of us all.&lt;/p&gt;
+&lt;p&gt;/O&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Future of IT Security in Ecuador</title>
+    <link href="http://freeolabini.org/sv/letters/futureit/"/>
+    <updated>2019-05-14T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/sv/letters/futureit/</id>
+    <content type="html">&lt;p&gt;I’m tired. Sleep deprived. Prison is much louder than I could ever imagine. And add to that sleeping on the floor, in a small room with 6 other inmates, getting rest is a significant challenge.&lt;/p&gt;
+&lt;p&gt;I’ve been thinking about my situation and the case against me – or the lack of case – as is more factual. My current considerations are about what the possible implications for IT security in Ecuador could be and honestly, it looks pretty dark. If you currently work in this field in Ecuador, I would recommend you to move or change profession. Let me explain why.&lt;/p&gt;
+&lt;p&gt;The basics of my case can be boiled down to one thing: knowing Julian Assange. However, that was not the reason why the judge approved my imprisonment. Instead, the stated reasons based on “evidence” submitted by the prosecution, was the amount of computers, USB drives and technical books I had.&lt;/p&gt;
+&lt;p&gt;What has been implied in press and stated by high government officials, is that I’m a hacker and that I have hacked public government systems, phones and other devices and stolen or destroyed information. They have not given any specifics nor provided any evidence. There is a simple reason for this: I haven&#39;t done anything.&lt;/p&gt;
+&lt;p&gt;Do I have a lot of technical books about security, privacy, cryptography and computer intrusion? Certainly! It’s my field and it’s part of building stronger and more resilient systems to know how they can be attacked.&lt;/p&gt;
+&lt;p&gt;So, adding to this, penetration testing is an extremely important part of a full scale security posture. Pen testers are sometimes called “white hat hackers”. They are people that do break into computer systems, but with previous permission from the owner of these systems. This is a crucial part of proper security and it’s also a well-established and respected profession in the industry.&lt;/p&gt;
+&lt;p&gt;We need these people, without them we can never feel reasonably certain that our systems are secure enough.&lt;/p&gt;
+&lt;p&gt;What then separates a penetration tester from a criminal computer intruder? Certainly not their knowledge, since the skills needed are the same. No, the only difference is their actions. Thus, saying someone is suspicious purely based on their capabilities but not on their actions will mean you will suspect a lot of innocent people.&lt;/p&gt;
+&lt;p&gt;As I’ve said before, I’m not a penetration tester. I’m not a person that breaks into computer systems. But I do posses much of the same knowledge – no action – that I’m being investigated, and that should scare security professionals in Ecuador. This could happen to anyone of them.&lt;/p&gt;
+&lt;p&gt;My predictions, if my case moves forward, is that many people will avoid the pen testing profession in Ecuador and that means the computer systems of Ecuador will be full of holes. By prosecuting this war on knowledge, claiming I break into computer systems, the government of Ecuador is ironically creating a future where they will be the easiest hacking target for 10 or 20 years.&lt;/p&gt;
+&lt;p&gt;This is what happen when you wage war on knowledge. You encourage people to avoid that knowledge and that’s a really bad idea when this knowledge is crucial for the future of us all.&lt;/p&gt;
+&lt;p&gt;/O&lt;/p&gt;
 </content>
   </entry>
 </feed>
