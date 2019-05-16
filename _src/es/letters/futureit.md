@@ -2,45 +2,34 @@
 layout: post.njk
 date: 2019-05-14
 image: /img/ola_IThat.png
-title: The Future of IT Security in Ecuador
+title: El futuro de la seguridad informática en Ecuador
 tags:
   - letteres
   - post
   - es
 ---
 
-I’m tired. Sleep deprived. Prison is much louder than I could ever imagine. And add to that sleeping on the floor, in a small room with 6 other inmates, getting rest is a significant challenge. 
+Estoy cansado. Con falta de sueño. La prisión es mucho más ruidosa de lo que jamás podría imaginar. Y a esto se añade dormir en el piso, en una habitación pequeña con otros 6 reclusos: descansar es un desafío significativo.
 
+He estado pensando en mi situación y el caso en mi contra, o la falta de un caso, que es más real. Mis consideraciones actuales son acerca de cuáles podrían ser las posibles implicaciones para la seguridad de TI en Ecuador y, honestamente, se ven bastante oscuras. Si actualmente alguien trabaja en este campo en Ecuador, le recomendaría mudarse o cambiar de profesión. Déjame explicarte por qué.
 
-I’ve been thinking about my situation and the case against me – or the lack of case – as is more factual. My current considerations are about what the possible implications for IT security in Ecuador could be and honestly, it looks pretty dark. If you currently work in this field in Ecuador, I would recommend you to move or change profession. Let me explain why. 
+Los fundamentos de mi caso se pueden resumir a una cosa: conocer a Julian Assange. Sin embargo, esa no fue la razón por la cual el juez aprobó mi encarcelamiento. En cambio, las razones expuestas basadas en la "evidencia" presentada por la fiscalía fueron la cantidad de computadoras, unidades USB y libros técnicos que tenía.
 
+Lo que ha insinuado la prensa y ha sido declarado por altos funcionarios del gobierno es que soy un pirata informático y que he pirateado los sistemas públicos del gobierno, los teléfonos y otros dispositivos. Y que robado o destruido información. No han dado ningún dato específico ni proporcionado ninguna evidencia. Hay una razón simple para ello: no he hecho nada.
 
-The basics of my case can be boiled down to one thing: knowing Julian Assange. However, that was not the reason why the judge approved my imprisonment. Instead, the stated reasons based on “evidence” submitted by the prosecution, was the amount of computers, USB drives and technical books I had. 
+¿Tengo muchos libros técnicos sobre seguridad, privacidad, criptografía e intrusión informática? ¡Ciertamente! Es mi campo y es parte de la idea de construir sistemas más fuertes y resistentes el saber cómo pueden ser atacados.
 
+Entonces, añadiendo a esto, las pruebas de penetración son una parte extremadamente importante de una postura de seguridad a gran escala. Las personas que hacen pruebas de penetración a veces se llaman "hackers de sombrero blanco". Son personas que ingresan a los sistemas informáticos, pero con el permiso previo del propietario de estos sistemas. Esta es una parte crucial de una seguridad adecuada, y también es una profesión bien establecida y respetada en la industria.
 
-What has been implied in press and stated by high government officials, is that I’m a hacker and that I have hacked public government systems, phones and other devices and stolen or destroyed information. They have not given any specifics nor provided any evidence. There is a simple reason for this: I haven't done anything. 
+Necesitamos a estas personas, sin ellas nunca podemos sentirnos razonablemente seguros de que nuestros sistemas estén lo suficientemente seguros.
 
+Entonces, ¿qué separa a una persona que hace pruebas de penetración de un intruso informático criminal? Ciertamente no su conocimiento, ya que las habilidades necesarias son las mismas. No, la única diferencia son sus acciones. Por lo tanto, decir que alguien es sospechoso basándose puramente en sus capacidades pero no en sus acciones significará que existan sospechas sobre mucha gente inocente.
 
-Do I have a lot of technical books about security, privacy, cryptography and computer intrusion? Certainly! It’s my field and it’s part of building stronger and more resilient systems to know how they can be attacked. 
+Como he dicho antes, no soy alguien que hace pruebas de penetración. No soy una persona que irrumpe en los sistemas informáticos. Pero sí poseo gran parte del mismo conocimiento (sin haber hecho ninguna acción), por el que estoy siendo investigado, y eso debería asustar a los profesionales de la seguridad en Ecuador. Esto podría pasarle a cualquiera de ellos.
 
+Mis predicciones, si mi caso avanza, es que muchas personas evitarán la profesión de ser alguien que haga pruebas de penetración en Ecuador y eso significa que los sistemas informáticos de Ecuador estarán llenos de agujeros. Al continuar con esta guerra hacia conocimiento, al afirmar que rompo con sistemas informáticos, el gobierno de Ecuador está creando irónicamente un futuro donde serán el objetivo fácil de la piratería durante 10 o 20 años.
 
-So, adding to this, penetration testing is an extremely important part of a full scale security posture. Pen testers are sometimes called “white hat hackers”. They are people that do break into computer systems, but with previous permission from the owner of these systems. This is a crucial part of proper security and it’s also a well-established and respected profession in the industry. 
+Esto es lo que sucede cuando se libra una guerra hacia el conocimiento. Alienta a las personas a evitar ese poseer ese conocimiento y esa es una muy mala idea cuando este conocimiento es crucial para el futuro de todos nosotros y nosotras.
 
-
-We need these people, without them we can never feel reasonably certain that our systems are secure enough. 
-
-
-What then separates a penetration tester from a criminal computer intruder? Certainly not their knowledge, since the skills needed are the same. No, the only difference is their actions. Thus, saying someone is suspicious purely based on their capabilities but not on their actions will mean you will suspect a lot of innocent people. 
-
-
-As I’ve said before, I’m not a penetration tester. I’m not a person that breaks into computer systems. But I do posses much of the same knowledge – no action – that I’m being investigated, and that should scare security professionals in Ecuador. This could happen to anyone of them. 
-
-
-My predictions, if my case moves forward, is that many people will avoid the pen testing profession in Ecuador and that means the computer systems of Ecuador will be full of holes. By prosecuting this war on knowledge, claiming I break into computer systems, the government of Ecuador is ironically creating a future where they will be the easiest hacking target for 10 or 20 years. 
-
-
-This is what happen when you wage war on knowledge. You encourage people to avoid that knowledge and that’s a really bad idea when this knowledge is crucial for the future of us all. 
-
-
-/O 
+/O
 
