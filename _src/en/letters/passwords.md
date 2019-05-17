@@ -8,9 +8,9 @@ tags:
   - post
   - en
 ---
-It’s evening in the cellblock. Things are fairly quiet. It was a long day. Many had visits from their lawyers, a few got released; mos of them finished their sentence on Thursday, but Friday was a holiday and due to the slow administration, they only got released today, Monday evening.
+It’s evening in the cellblock. Things are fairly quiet. It was a long day. Many had visits from their lawyers, a few got released; most of them finished their sentence on Thursday, but Friday was a holiday and due to the slow administration, they only got released today, Monday evening.
 
-We had a new arrival too. It happens most days. The routine is the same: the “capo” introduces the procedures and most people say hi, then he’s left alone to adjust for a while. Most have a dazed expression, like they still don’t really believe this is happening. Some cry, later, in the dark of their cells. I remember the feeling when firts arriving here, I guess I have adjusted, but it’s still not easy.
+We had a new arrival too. It happens most days. The routine is the same: the “capo” introduces the procedures and most people say hi, then he’s left alone to adjust for a while. Most have a dazed expression, like they still don’t really believe this is happening. Some cry, later, in the dark of their cells. I remember the feeling when first arriving here, I guess I have adjusted, but it’s still not easy.
 
 A week ago we had a hearing with the prosecutor and the technical forensics people, the people that are ripping apart and dissecting my whole digital life.
 
