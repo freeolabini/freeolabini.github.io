@@ -2,34 +2,34 @@
 layout: post.njk
 date: 2019-05-13
 image: /img/ola_it.png
-title: Power
+title: Pouvoir
 tags:
   - letterfr
   - post
   - fr
 ---
 
-Just outside the door to my cellblock, is the “calabozo”, the dungeon. Officially, they are called “reflection cells”. This is where people who misbehave are sent for 12 hours or more, without food and in ugly conditions.
+Juste devant la porte de ma cellule, se trouve le "calabozo", le cachot. Officiellement, elles sont appelées "cellules de réflexion". C'est ici que les personnes qui se conduisent mal sont envoyées pendant 12 heures ou plus, sans nourriture et dans des conditions déplorables.
 
-The door has a small grid window. When we go for food, we pass this door. Most of the time, the people inside hurl insults at us and they beg for food. Some of our people always give them a little, but the window is so small it’s impossible to get through anything substantial.
+La porte a une petite fenêtre en grille. Lorsque nous allons chercher de la nourriture, nous passons cette porte. La plupart du temps, les personnes à l'intérieur nous insultent et demandent de la nourriture. Certains parmi nous donnent toujours un peu, mais la fenêtre est si petite qu’il est impossible de passer quelque chose de substantiel.
 
-There are always people in there. I haven't seen the inside, but the outside perceptions make the cell out 2 x 4 or 5 meters. I’ve been told there are usually 12 inmates there at the same time. Today, one of them was by the window, not being very loud or saying anything offensive. One of the guards came up and flicked on his taser a few centimeters from the face of the prisoner. No one else noticed. When I saw that I decided I wanted to write about power. Obviously a big subject. I’ll not be comprehensive.
+Il y a toujours des gens dedans. Je n'ai pas vu l'intérieur, mais les perceptions extérieures font que la cellule a 2 x 4 ou 5 mètres. On m'a dit qu'il y avait généralement 12 détenus en même temps. Aujourd'hui, l'un d'entre eux était près de la fenêtre, sans être très bruyant ni offensant. L'un des gardes s'est approché et a agité son pistolet paralysant à quelques centimètres du visage du prisonnier. Personne d'autre n'a remarqué. Quand j'ai vu cela, j'ai décidé d'écrire sur le pouvoir. Evidemment un gros sujet. Je ne serai pas exhaustif.
 
-Today is Tuesday. It’s evening. My lawyers came earlier in the afternoon telling me what was going on the outside. This was the first update I have gotten since my failed appeal hearing last Thursday. The days since then, have been some of the hardest in my life.
+Aujourd'hui, c'est mardi. C’est le soir. Mes avocats sont venus plus tôt dans l'après-midi pour me dire ce qui se passait à l'extérieur. Il s’agit de la première mise à jour que j’ai reçue depuis mon échec à l’audience d’appel, jeudi dernier. Les jours qui se sont écoulés depuis ont été parmi les plus difficiles de ma vie.
 
-There are many reasons for this. My birthday was on Friday and I had wished to be out and to celebrate with my friends. We were supposed to have visits on Saturday, but the prison changed the schedule, so my friends were standing outside, unable to get in. And on Thursday, directly after the judgment, the guards dragged me out so quickly, I couldn’t say goodbye to my friends or even have a final word with my lawyers. On top, my parents had to fly home on Saturday. The last we saw of each other was at the appeal hearing and now they are half a world away.
-My fellow inmates here are great. They have been giving a lot of support. They even sang for me on my birthday, but even with their support, going 5 days with no contact at all from the outside after a devastating hearing, has been brutal on my mind, and not knowing what’s happening in the world outside, leaving me blind, that’s a special kind of torture for someone like me.
+Il y a plusieurs raisons à cela. Mon anniversaire était le vendredi et j'avais souhaité être dehors et célébrer avec mes amis. Nous étions censés avoir des visites samedi, mais la prison a changé l'horaire. Mes amis étaient donc debout à l'extérieur, incapables d'entrer. Et jeudi, juste après le jugement, les gardes m'ont traîné si rapidement que je ne pouvais pas dire au revoir à mes amis ou même avoir un dernier mot avec mes avocats. En plus, mes parents ont dû rentrer à la maison samedi. La dernière fois que nous nous sommes vus, c'était lors de l'audience d'appel et ils sont maintenant à l'autre bout du monde.
+Mes camarades détenus sont géniaux. Ils m'ont apporté beaucoup de soutien. Ils ont même chanté pour moi le jour de mon anniversaire, mais même avec leur soutien, passer cinq jours sans aucun contact de l'extérieur après une audition dévastatrice a été brutal dans mon esprit, sans savoir ce qui se passe dans le monde extérieur, me laissant aveugle, c'est un genre de torture spécial pour quelqu'un comme moi.
 
-To be clear, as far as I can tell, my lawyers tell me, and outside observers observe: the judgement in my appeal was a travesty, a force that has nothing to do with justice or the legal system of Ecuador. The result was purely political, and not legal, precisely because it was driven by political motivations and not by legal reasoning.
-I am angry, I am so angry, and it comes over me sometimes, and I get overwhelmed. I have been kidnapped, I have been robbed and they are literally stealing my life, something they can never give back. They invade my friends, they investigate my girlfriend, and for what? Political gain? The injustice and unfairness make me nauseous. 
-But the truth is, over these last 5 years, anger is not the emotion that defines them, instead, what I feel more than anything is fear, helplessness and hopelessness. I have entered a deep depression. I feel constant anxiety and it’s getting worse.
+Pour être clair, ce que je sais, ce que mes avocats me disent, et ce que les observateurs externes observent : le jugement rendu dans mon appel était une parodie, une force qui n'a rien à voir avec la justice ou le système juridique de l'Équateur. Le résultat était purement politique et non juridique, précisément parce qu'il était motivé par des motivations politiques et non par un raisonnement juridique.
+Je suis en colère, je suis tellement en colère, et cela me reviens parfois, et je suis submergé. On m'a enlevé, on m'a volé et ils volent littéralement ma vie, quelque chose qu'ils ne peuvent jamais rendre. Ils envahissent mes amis, ils enquêtent sur ma copine et pour quoi ? Gain politique ? L'injustice et l’iniquité me donnent des nausées.
+Mais la vérité est qu'au cours de ces 5 dernières années, la colère n'est pas l'émotion qui les définit. Ce que je ressens avant tout, c'est la peur, l'impuissance et le désespoir. Je suis entré dans une dépression profonde. Je ressens une anxiété constante et la situation empire.
 
-I feel this way because I have no guarantee I’ll ever get out of here. I have not committed any crime. I haven’t been charged or even accused of any crime. There’s no evidence of any crime and yet I’m in prison and my current “sentence” is for 64 more days. When those days are over, the imprisonment can be extended up to one year and if this ever goes to trial, I can be sentenced to 5 years, according to the current “crime” I’m accused of (without specifics). In all of these proceedings, there are many legal protections that are supposed to ensure my rights, that my presumption of innocence is followed and so on. And up to this point, the Ecuadorian judiciary has not given a-second thought to these protections.
+C’est ce que je ressens car je n’ai aucune garantie que je sortirai jamais d’ici. Je n'ai commis aucun crime. Je n'ai pas été inculpé ni même accusé d'un crime. Il n’ya aucune preuve d’un crime et pourtant je suis en prison et ma "peine" actuelle est de 64 jours. À la fin de ces jours, l’emprisonnement peut être prolongé d’un an et, si un procès se produit, je peux être condamné à une peine de cinq ans d’emprisonnement, selon le "crime" dont je suis accusé (sans précision). Dans toutes ces procédures, de nombreuses protections juridiques sont censées garantir mes droits, le respect de ma présomption d'innocence, etc. Et jusqu'à ce point, le système judiciaire équatorien n'a pas consacré une deuxième pensée à ces protections.
 
-So, what is to say, they won’t do exactly the same going forward? Letting the politicians sentence me to prison for nothing.
+Alors, comment dire qu'ils ne feront pas exactement la même chose à l’avenir ? Laisser les politiciens me condamner à la prison pour rien.
 
-I am afraid, because the Ecuadorian government has acted in a lawless, out of control and totalitarian manner towards me and I have no reason to believe this will stop.
+J'ai peur, parce que le gouvernement équatorien a agi de manière illégitime, incontrôlable et totalitaire à mon égard et je n'ai aucune raison de croire que cela va s'arrêter.
 
-This is the nature of power, unchecked.
+C'est la nature du pouvoir, sans contrôle.
 
 /Ola
