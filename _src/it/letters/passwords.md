@@ -2,37 +2,37 @@
 layout: post.njk
 date: 2019-05-17
 image: /img/ola_parents.png
-title: Revealing Passwords
+title: Rivelare Passwords
 tags:
   - letterit
   - post
   - it
 ---
-It’s evening in the cellblock. Things are fairly quiet. It was a long day. Many had visits from their lawyers, a few got released; mos of them finished their sentence on Thursday, but Friday was a holiday and due to the slow administration, they only got released today, Monday evening.
+È sera nel blocco della cella. Le cose sono abbastanza tranquille. E` stata una lunga giornata. Molti hanno avuto visite dai loro avvocati, alcuni sono stati rilasciati; Molti di loro ha concluso la loro pena giovedì, ma il venerdì era vacanza e, a causa della lenta amministrazione, sono stati rilasciati solo oggi, lunedì sera.
 
-We had a new arrival too. It happens most days. The routine is the same: the “capo” introduces the procedures and most people say hi, then he’s left alone to adjust for a while. Most have a dazed expression, like they still don’t really believe this is happening. Some cry, later, in the dark of their cells. I remember the feeling when firts arriving here, I guess I have adjusted, but it’s still not easy.
+Abbiamo ricevuto anche un nuovo arrivo. Succede quasi tutti i giorni. La routine è la stessa: il "capo" introduce le procedure e la maggior parte della gente dice ciao, quindi viene laciato solo per adattarsi per un po'. La maggior parte ha un'espressione stordita, come se ancora non capissero davvero cosa stia succedendo. Alcuni piangono, più tardi, nel buio delle loro celle. Ricordo la sensazione quando sono arrivato qui, suppongo di essermi adattato, ma non è ancora facile.
 
-A week ago we had a hearing with the prosecutor and the technical forensics people, the people that are ripping apart and dissecting my whole digital life.
+Una settimana fa abbiamo avuto un'udienza con il pubblico ministero e le persone della scientifica forense, le persone che si stanno lacerando e sezionando tutta la mia vita digitale.
 
-They asked if I would help them and voluntarily give them my passwords, so they could inspect the content of all my devices. I said no.
+Mi hanno chiesto se potevo aiutarli e dare loro volontariamente le mie password, in modo che potessero ispezionare il contenuto di tutti i miei dispositivi. Ho detto no.
 
-Now, saying no is a bit of a luxury. In many jurisdictions around the world, I could have been held in contempt for refusing to provide passwords. I don’t remember and I don’t have any internet access so I can look it up, but the sentences for not providing passwords can be long. I still would have said no.
+Ora, dire di no è un po 'di lusso. In molte giurisdizioni in tutto il mondo, avrei potuto essere trattenuto per aver rifiutato di fornire password. Non ricordo e non ho accesso a Internet, quindi posso cercarlo, ma le frasi per non fornire le password possono essere lunghe. Avrei comunque detto ancora di no.
 
-I also, on purpose, never use any of the fancy biometric stuff that Apple has, for example things like  Face ID and Touch ID. I don’t trust these technologies and especially Touch ID  is tricky from a legal standpoint. Most jurisdictions allow prosecution or police to take your fingeprints. That means you can be forced to unlock, even if you wouldn’t be forced to give up your passcode. Same thing with facial recognition.
+Anch'io, di proposito, non uso mai nessuno dei fantastici oggetti biometrici che Apple ha, per esempio cose come Face ID e Touch ID. Non mi fido di queste tecnologie e in particolare Touch ID sono complesse da un punto di vista legale. La maggior parte delle giurisdizioni consente durnate il processo o alla polizia di prendere le proprie impronte digitali. Ciò significa che puoi essere costretto a sbloccare, anche se non saresti costretto a rinunciare al tuo passcode. La stessa cosa con il riconoscimento facciale.
 
-There are many reasons I’m not interested in submitting to the prosecution’s request. The first, and simplest, is that I don’t recognize or accept their legal authority. They have not revealed what they think I have done; when, how or where. They have no evidence and they have placed me in prison without any proper justification. That is a travesty of justicy and anyone that takes part of this scam loses any legal authority they otherwise would have had.
+Ci sono molte ragioni per cui non sono interessato a presentare la richiesta dell'accusa. Il primo, e il più semplice, è che non riconosco o accetto la loro autorità legale. Non hanno rivelato ciò che pensano io abbia fatto; quando, come o dove. Non hanno prove e mi hanno messo in prigione senza alcuna giustificazione adeguata. Questa è una parodia di giustizia e chiunque prenda parte a questa truffa perde ogni autorità legale che altrimenti avrebbero avuto.
 
-I can’t stop them from imprisoning me, but I certainly don’t acknowledge their right to do it.
+Non posso impedirgli di imprigionarmi, ma certamente non riconosco il loro diritto di farlo.
 
-However, even without that reason, it would be very hard for me to comply with such request. There are two reasons for that. The first is that I believe in privacy as a human right. That means you can’t just turn it off when it’s inconvenient. It’s a right that should be built into the foundations of our society, and in the meantime, both corporate and government surveillance is getting closer and closer to all-powerful. What we have inside our skulls is intimately connected to what we have in our devices and I believe that’s where the line has to be drawn.
+Tuttavia, anche senza questa ragione, sarebbe molto difficile per me soddisfare questa richiesta. Ci sono altre due ragioni per ciò. La prima è che io credo nella privacy come un diritto umano. Ciò significa che non puoi ignorarla solo quando è inopportuna. È un diritto che dovrebbe essere incorporato nelle fondamenta della nostra società e, nel frattempo, sia la vigilanza delle aziende che quella governativa si stanno avvicinando sempre più ad essere onnipotenti. Quello che abbiamo nel nostro cranio è intimamente connesso a ciò che abbiamo nei nostri dispositivi e credo che sia il punto in cui deve essere tracciata la linea.
 
-But what about bad people? That’s the immediate question everyone asks. The answer is pretty simple. Law inforcement has more power to investigate than ever in history. That will have to be enough. In the US, the 4th amendment protects against unreasonable searches and from my perspective, searching through devices is clearly unreasonable. We are still supposed to have a presumption of innocence.
+Ma che dire delle persone cattive? Questa è la domanda immediata che tutti chiedono. La risposta è molto semplice. Le forse dell'ordine hanno più potere per investigare che mai prima nella storia. Questo dovrà essere sufficiente. Negli Stati Uniti, il 4° emendamento protegge da ricerche irragionevoli e dal mio punto di vista, la ricerca attraverso i dispositivi è chiaramente irragionevole. Dovremmo trovarci ancora in un casodi una presunzione di innocenza.
 
-The other reason is simple. My devices contain conversations with other people. If I revealed my passwords, I would allow the Ecuador prosecution the possibility to invade the privacy of all my friends, family and coworkers. That is clearly not ethically accceptable.
-The forensics lab will certainly try to break into my devices. They will probably succeed with some, especially if they use black market or “gray market” tools for the Apple devices, although it likely would be expensive, but at least I’m not complicit in this immoral, illegal action.
+L'altra ragione è semplice. I miei dispositivi contengono conversazioni con altre persone. Se rivelassi le mie password, permetterei all'Ecuador la possibilità di invadere la privacy di tutti i miei amici, familiari e colleghi. Questo è chiaramente non eticamente accettabile.
+Il laboratorio forense cercherà sicuramente di penetrare nei miei dispositivi. Probabilmente avranno successo con alcuni, specialmente se usano strumenti del mercato nero o del "mercato grigio" per i dispositivi Apple, anche se probabilmente costoso, ma almeno non sarò complice di questa azione illegale ed immorale.
 
-It is time for us to establish clear lines around our digital lifes. If we don’t, political interests will, and the results will not be for our liking.
+È tempo per noi di stabilire linee chiare intorno alla nostra vita digitale. Se non lo facciamo, gli interessi politici lo faranno, e i risultati non saranno di nostro gradimento.
 
-May 6th, 2019
+6 maggio 2019
 
 Ola Bini
