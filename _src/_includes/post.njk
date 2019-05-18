@@ -12,6 +12,9 @@ layout: base.njk
 <img src="{{ image }}" alt="{{ title }}">
 <h1 class="lh-title f2-ns f3">{{ title }}</h1>
 {{ content | safe }}
+<div class="mv6">
 {% set path = page.url %}
 {% set text = "#FreeOlaBini " + title %}
+{% set hidden = true %}
 {% include "tweetinc.njk" %}
+</div>
