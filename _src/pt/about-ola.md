@@ -65,29 +65,21 @@ Os commits de Ola podem ser encontrados [aqui](https://github.com/certbot/certbo
 
 ### OTRv4
 
-Off-the-Record Messaging (OTR) is a cryptographic protocol that provides
-encryption and deniability for instant messaging conversations. OTRv4 is the fourth version of
-the OTR messaging protocol. OTR version 4 (OTRv4) provides better deniability
-properties by the use of a deniable authenticated key exchange (DAKE), and better
-forward secrecy through the use of double ratcheting. OTRv4 works on top of an
-existing messaging protocol, such as XMPP. Ola and his team did the protocol and
-the implementation.
+Off-the-Record Messaging (OTR) é um protocolo criptográfico que provê encriptação e negabilidade para conversas de mensagem instantânea. OTRv4 é a quarta versão do protocolo de mensagens OTR. A versão 4 do OTR (OTRv4) provê melhores propriedades de negabilidade pelo uso de DAKE (Deniable Authenticated Key Exchange) e melhor encaminhamento sigiloso através do uso do algoritmo de Double Ratchet. OTRv4 funciona em cima de um protocolo de mensagens já existente, como o XMPP. Ola e seu time fizeram o protocolo e a implementação.
 
-* The protocol can be found [here](https://github.com/otrv4/otrv4/blob/master/otrv4.md)
-* The website can be found [here](http://otr.im/)
-* The Wikipedia article can be found [here](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
-* The whole repository can be found [here](https://github.com/otrv4)
+* O protocolo pode ser encontrado [aqui](https://github.com/otrv4/otrv4/blob/master/otrv4.md)
+* O website pode ser encontrado [aqui](http://otr.im/)
+* O artigo da Wikipedia pode ser encontrado [aqui](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
+* O repositório inteiro pode ser encontrado [aqui](https://github.com/otrv4)
 
-Additionally, Ola's team has been busy last year presenting. Here are our
-presentations and resources:
+Adicionalmente, o time de Ola esteve ocupado com apresentações no ano passado. Aqui estão nossas apresentações e recursos:
 
-* A [paper](https://petsymposium.org/2018/files/hotpets/7-bini.pdf) written for PETS2018
-  and the [presentation](https://youtu.be/Px2WEQAzDCg?t=4769)
-* The [presentation](https://datatracker.ietf.org/meeting/103/materials/slides-103-pearg-otrv4-slides-01) at IETF
-* The [presentation](https://www.youtube.com/watch?v=KR4s6t9D9Jo) at CCC (35c3)
-* The [presentation](https://www.youtube.com/watch?v=JYTEn2as0Rg) at COSIC
-* The [presentation](https://fosdem.org/2019/schedule/event/otr4/) at FOSDEM
-* The [presentation](https://llvm.org/devmtg/2019-04/slides/TechTalk-Celi-Clang_tools_for_implementing_cryptographic_protocols_like_OTRv4.pdf) at LLVM Euro 2019 meeting
+* O [artigo](https://petsymposium.org/2018/files/hotpets/7-bini.pdf) escrito para o PETS2018 e a [apresentação](https://youtu.be/Px2WEQAzDCg?t=4769)
+* A [apresentação](https://datatracker.ietf.org/meeting/103/materials/slides-103-pearg-otrv4-slides-01) na IETF
+* A [apresentação](https://www.youtube.com/watch?v=KR4s6t9D9Jo) no CCC (35c3)
+* A [apresentação](https://www.youtube.com/watch?v=JYTEn2as0Rg) no COSIC
+* A [apresentação](https://fosdem.org/2019/schedule/event/otr4/) na FOSDEM
+* A [apresentação](https://llvm.org/devmtg/2019-04/slides/TechTalk-Celi-Clang_tools_for_implementing_cryptographic_protocols_like_OTRv4.pdf) na LLVM Euro 2019 meeting
 
 ### Libgoldilocks
 
