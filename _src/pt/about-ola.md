@@ -47,21 +47,13 @@ Você pode encontrar os commits de Ola [aqui](https://gitlab.com/enigmail/enigma
 
 ### Tor
 
-Tor is free and open-source software for enabling anonymous communication. The
-name is derived from an acronym for the original software project name "The
-Onion Routing program". Tor directs Internet traffic through a free, worldwide,
-volunteer overlay network consisting of more than seven thousand relays to
-conceal a user's location and usage from anyone conducting network surveillance
-or traffic analysis.
+Tor é um software livre e de código aberto para possibilitar comunicação anônima. O nome é derivado de um acrônimo para o nome original do projeto "The Onion Routing program". Tor direciona tráfego de internet através de uma rede de nós livre, mundial e voluntária consistindo em mais de sete mil nós usados para ocultar o conteúdo e a localização dos usuários de quem quer que esteja conduzindo monitoramento e vigilância de rede ou análise de tráfego.
 
-Ola worked on a proposal for the entry Guard algorithm (as defined in these
-[papers](https://www.freehaven.net/anonbib/#wpes12-cogs)).The first proposal can
-be found [here](https://gist.github.com/olabini/343da01de8e01491bf5c) and the
-discussion around it can be found [here](https://lists.torproject.org/pipermail/tor-dev/2016-February/010392.html).
+Ola trabalhou em uma proposta para o algoritmo Entry Guard (como definido nesses [artigos](https://www.freehaven.net/anonbib/#wpes12-cogs)). A primeira proposta pode ser encontrada [aqui](https://gist.github.com/olabini/343da01de8e01491bf5c) e a discussão sobre ela pode ser encontrada [aqui](https://lists.torproject.org/pipermail/tor-dev/2016-February/010392.html).
 
-He also did a bunch of tests and refactorings that can be found [here](https://github.com/torproject/tor/commits?author=olabini&before=206d28ff152f2df5ccf966a5923804718f49b43b+35)
+Ele também fez uma porção de testes e refatorações que podem ser encontradas [aqui](https://github.com/torproject/tor/commits?author=olabini&before=206d28ff152f2df5ccf966a5923804718f49b43b+35)
 
-Ola's thoughts about Tor can be found [here](https://www.martinfowler.com/articles/tor-for-technologists.html)
+O que Ola pensa sobre Tor pode ser encontrado [aqui](https://www.martinfowler.com/articles/tor-for-technologists.html)
 
 ### Letsencrypt
 
