@@ -1,13 +1,23 @@
 {
   "menu": [
     {
+      "path": "https://www.gofundme.com/freeolabini",
+      "title": "Donera",
+      "icon": "la-heart"
+    },
+    {
+      "path": "/en/tweet-this",
+      "title": "Tweeta!",
+      "icon": "la-retweet"
+    },
+    {
       "path": "/sv/about-ola",
       "title": "Om Ola",
       "icon": "la-star"
     },
     {
       "path": "/sv/letters",
-      "title": "Brev från frihetsberövande",
+      "title": "Brev från fängelset",
       "icon": "la-file-text"
     }
   ]

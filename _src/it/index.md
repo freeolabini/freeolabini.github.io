@@ -7,7 +7,7 @@ image: /img/oladrawing.jpg
 menu:
   -
     path: https://www.gofundme.com/freeolabini
-    title: Dona
+    title: Donazioni
     icon: la-heart
   -
     path: /it/tweet-this
@@ -15,17 +15,17 @@ menu:
     icon: la-retweet
   -
     path: /it/about-ola
-    title: Su di Ola
+    title: About Ola
     icon: la-star
   -
     path: /it/letters
-    title: Lettere dalla detenzione
+    title: Lettere dal carcere
     icon: la-file-text
 ---
 Il nostro stimato collega, Ola Bini, è detenuto come prigioniero politico in Ecuador. Unisciti a noi in suo sostegno:
 
 - Firma la [lettera di solidarietà] della nostra tech community
-- Aiuta a sostenere gli sforzi familiari e legali [donando alla campagna di finanziamento][donare].
+- Sostieni gli sforzi della famiglia e legali [donando alla campagna di finanziamento][donare].
 - [Invia una e-mail] al presidente dell'Ecuador tramite il sito della campagna Code Pink
 - Segui su twitter [@FreeOlaBini], l'hashtag [#FreeOlaBini] e visita freeolabini.org per aggiornamenti
 - Invia un email a [support@freeolabini.org] se vuo aiutarci in questa campagna d'informazione

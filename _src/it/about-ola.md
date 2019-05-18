@@ -4,129 +4,121 @@ layout: post.njk
 image: /img/oladrawing.jpg
 ---
 
-Ola is more than just a person detained by the authorities in Ecuador. He's a person with a distinguished career in software development as well as a friend and colleague to many.  Here's a timeline for Ola with the highlights:
+Ola è più di una semplice persona detenuta dalle autorità in Ecuador. È una persona con una brillante carriera nello sviluppo software, nonché un amico e un collega per molti do noi. Qui una timeline per Ola con i punti salienti:
 
-### 2009-2009  Contributions to JRuby project
+### 2009-2009  Contributi al progetto JRuby
 
-Ola was pivotal in the JRuby community bringing the power and productivity of Ruby to the Java Virtual Machine so that enterprise teams had an additional way of deploying Ruby solutions for a multitude of application possibilities. See [Ola's commits to Jruby](https://github.com/jruby/jruby/search?p=3&q=ola&type=Commits).
+Ola è stato fondamentale nella comunità JRuby portando l'efficacia e la produttività di Ruby sulla Java Virtual Machine in modo che team enterprise avessero un ulteriore mezzo per distribuire le soluzioni Ruby per una moltitudine di possibilità applicative. Vedi [i commits di Ola su Jruby](https://github.com/jruby/jruby/commits?author=olabini)
 
-### 2009 -2011 His own programming language 'Ioke'
+### 2009 -2011 Il suo linguaggio di programmazione 'Ioke'
 
-Ola made his own experimental language for the JVM called "Ioke". See his [GitHub organization](https://github.com/Ioke) and [an interview with him on the language in 2014](https://www.youtube.com/watch?v=LlKdWx2YybU)
+Ola ha creato il proprio linguaggio sperimentale per JVM chiamato "Ioke". Vedi il suo [gruppo su GitHub](https://github.com/Ioke) e [una sua intervista sul linguaggio nel 2014](https://www.youtube.com/watch?v=LlKdWx2YybU)
 
-### His other own programming language 'Seph'
+### Il suo linguaggio di programmazione 'Seph'
 
-Ola made his own experimental language called "Seph", which goal was concurrency
-and expressiveness. See his [GitHub organization](https://github.com/seph-lang/seph)
+Ola ha creato il proprio linguaggio sperimentale chiamato "Seph", con gli obiettivi di concorrenza ed espressività. Vedi il suo [gruppo su GitHub](https://github.com/seph-lang/seph)
 
 ### JesCov
 
-JesCov is an open source tool for measuring code coverage of JavaScript. It
-makes it possible to find out both line and branch coverage from any
-ES3-compliant source code. It is not tied to any particular testing framework,
-but the only current integration point is for Jasmine. The general approach is
-based on a JSON data interchange format, which means some of the reporting tools
-could potentially be used against data collected in some other way than running
-the core JesCov project.
+JesCov è uno strumento open source per misurare la 'code coverage' in JavaScript. Permette di scoprire sia la 'line coverage' che la 'branch coverage' da qualsiasi
+codice sorgente ES3-compatibile. Non è legato a nessun particolare framework di test,
+ma l'unico punto di integrazione attuale è per Jasmine. L'approccio generale è
+basato su un formato di interscambio di dati JSON, che significa alcuni degli strumenti di reporting potrebbero potenzialmente essere utilizzati con dati raccolti da sorgenti diverse dal core di JesCov.
 
-Find the repository [here](https://github.com/jescov) and the website [here](http://jescov.olabini.com/)
+Vedi il repository [qui](https://github.com/jescov) ed il sito web del progetto [qui](http://jescov.olabini.com/)
 
 ### CoyIM
 
-CoyIM is a chat client that is safe and secure by default: no settings to change,
-no plugins to install, no computer configuration to change. It is a chat client
-created by Ola and his team. It’s website is [here](https://coy.im/) and the
-github repository is [here](https://github.com/coyim/coyim)
+CoyIM è un chat client sicuro e protetto di default: nessuna impostazione da modificare,
+nessun plugin da installare, nessuna configurazione da modificare. È un client di chat
+creato da Ola e dal suo team. Il suo sito web è [qui](https://coy.im/) e il
+repository github è [qui](https://github.com/coyim/coyim)
 
 ### Gosecco for Subgraph
 
-gosecco is a project to provide a full stack of tools necessary for working with
-seccomp BPF rules from Golang. The primary pieces of functionality are the
-parser and compiler - but the project also supports a rudimentary assembler and
-disassembler. It also supports an emulator that can be tweaked to provide output
-on whether your rules actually do what you think they should do or not. None of
-these tools are exposed as command line tools - they are meant to be used as
-libraries for higher level applications and systems.
+gosecco è un progetto per fornire una serie completa di strumenti necessari per lavorare con
+regole seccomp BPF in Golang. Le funzionalità principali sono il
+parser e compilatore - ma il progetto supporta anche un assembler e
+disassembler rudimentali. 
+Supporta anche un emulatore che può essere adattato per fornire in output 
+se le tue regole fanno effettivamente ciò che pensi che dovrebbero o meno fare. Nessuno di
+questi componenti è esposto da riga di comando - sono pensati per essere usati come
+librerie per applicazioni e sistemi di livello superiore.
 
-The github repository is [here](https://github.com/twtiger/gosecco). An statement
-from SubgraphOS thanking for its development can be found [here](https://subgraph.com/blog/index.en.html)
-(under the Acknowledgments section).
+Il repository github è [qui](https://github.com/twtiger/gosecco). Una note di ringraziamento 
+di SubgraphOS per il suo sviluppo può essere trovata [qui](https://subgraph.com/blog/index.en.html)
+(nella sezione Acknowledgments).
 
 ### Enigmail
 
-Enigmail is a seamlessly integrated security add-on for Mozilla Thunderbird. It
-allows you to use OpenPGP to encrypt and digitally sign your emails and to
-decrypt and verify messages you receive. Enigmail is free software.
+Enigmail è un add-on sicurezza per Mozilla Thunderbird. Esso consente di utilizzare OpenPGP per crittografare e firmare digitalmente le tue e-mail e decifrare e verificare i messaggi che ricevi. Enigmail è free software.
 
-Ola’s contributions focused on making Enigmail easier to contribute to. This
-meant to provision new machines from scratch for the project, hooking a Travis
-CI, adding both unit tests and larger functional tests, refactoring, add
-Parcimonie style support and static analysis.
+Il contributo di Ola si è concentrato su come rendere più semplice futuri contributi a Enigmail. 
+Questo ha significato strumenti per il provisioning 'from scratch' di macchine di sviluppo per il progetto, integrazione in Travis CI, aggiungeta di unit test e test funzionali più estesi, refactoring, aggiungeta del supporto per Parcimonie ed di analisi del codice.
 
-You can read about Ola's thoughts about it [here](https://www.thoughtworks.com/de/insights/blog/lessons-learned-working-enigmail)
-You can find Ola's commits [here](https://gitlab.com/enigmail/enigmail/commits/master?utf8=%E2%9C%93&search=Ola+Bini)
+Puoi leggere le considerazioni di Ola a riguardo [qui](https://www.thoughtworks.com/de/insights/blog/lessons-learned-working-enigmail)
+Puoi trovare i commit di Ola [qui](https://gitlab.com/enigmail/enigmail/commits/master?utf8=%E2%9C%93&search=Ola+Bini)
 
 ### Tor
 
-Tor is free and open-source software for enabling anonymous communication. The
-name is derived from an acronym for the original software project name "The
-Onion Routing program". Tor directs Internet traffic through a free, worldwide,
-volunteer overlay network consisting of more than seven thousand relays to
-conceal a user's location and usage from anyone conducting network surveillance
-or traffic analysis.
+Tor è un software gratuito e open source che permette comunicazione anonima on-line. Il
+nome deriva da un acronimo del nome originale del progetto "The
+Onion Router". Tor reindirizza il traffico Internet attraverso una rete gratuita, globale,
+di volontari costituita da oltre settemila 'relays' per nascondere la posizione e
+l'utilizzo di un utente da chiunque effettui spionaggio sulla rete
+o analisi del traffico.
 
-Ola worked on a proposal for the entry Guard algorithm (as defined in these
-[papers](https://www.freehaven.net/anonbib/#wpes12-cogs)).The first proposal can
-be found [here](https://gist.github.com/olabini/343da01de8e01491bf5c) and the
-discussion around it can be found [here](https://lists.torproject.org/pipermail/tor-dev/2016-February/010392.html).
+Ola ha lavorato alla proposta del 'entry Guard' algorithm (come specificato 
+in questi [papers](https://www.freehaven.net/anonbib/#wpes12-cogs)). 
+Il primo proposal può essere trovati [qui](https://gist.github.com/olabini/343da01de8e01491bf5c) e la discussione relativa ad essa può essere trovata [qui](https://lists.torproject.org/pipermail/tor-dev/2016-February/010392.html).
 
-He also did a bunch of tests and refactorings that can be found [here](https://github.com/torproject/tor/commits?author=olabini&before=206d28ff152f2df5ccf966a5923804718f49b43b+35)
 
-Ola's thoughts about Tor can be found [here](https://www.martinfowler.com/articles/tor-for-technologists.html)
+Ha anche fatto un sacco di test e refactoring che possono essere trovati [qui](https://github.com/torproject/tor/commits?author=olabini&before=206d28ff152f2df5ccf966a5923804718f49b43b+35)
 
-### Letsencrypt
+Le riflessioni di Ola a riguardo possono essere trovate [qui](https://www.martinfowler.com/articles/tor-for-technologists.html)
 
-Let’s Encrypt is a free, automated, and open Certificate Authority.
+### Let's Encrypt
 
-Ola and his team worked with Certbot. Certbot is part of EFF’s effort to encrypt
-the entire Internet. Certbot is a fully-featured, extensible client for the
-Let's Encrypt CA (or any other CA that speaks the ACME protocol) that can
-automate the tasks of obtaining certificates and configuring web servers to use
-them. This client runs on Unix-based operating systems.
+Let’s Encrypt è una Certification Authority gratuita, automatizzata ed aperta.
 
-Ola's commits can be found [here](https://github.com/certbot/certbot/commits?author=olabini)
+Ola e il suo team hanno lavorato con Certbot. Certbot è parte dello sforzo di EFF di crittografare l'intera Internet. Certbot è un client completo ed estensibile per il
+Let's Encrypt CA (o qualsiasi altra CA che usa il protocollo ACME) che può
+automatizzare le attività di acquisizione dei certificati e configurazione dei Web server. Questo client funziona su sistemi operativi Unix-based.
+
+I commit di Ola possono essere trovati [qui](https://github.com/certbot/certbot/commits?author=olabini)
 
 ### OTRv4
 
-Off-the-Record Messaging (OTR) is a cryptographic protocol that provides
-encryption and deniability for instant messaging conversations. OTRv4 is the fourth version of
-the OTR messaging protocol. OTR version 4 (OTRv4) provides better deniability
-properties by the use of a deniable authenticated key exchange (DAKE), and better
-forward secrecy through the use of double ratcheting. OTRv4 works on top of an
-existing messaging protocol, such as XMPP. Ola and his team did the protocol and
-the implementation.
+Off-the-Record Messaging (OTR) è un protocollo crittografico che fornisce
+cifratura e 'deniability' per conversazioni di messaggistica istantanea. 
+OTRv4 è la quarta versione del protocollo di messaggistica OTR. 
+OTR versione 4 (OTRv4) offre una migliore proprietà di 'deniability' mediante l'uso 
+di uno scambio di chiavi autenticate (DAKE), e migliore 'forward secrecy' 
+tramite l'uso di 'double ratcheting'. 
+OTRv4 può funzionare in cima a un protocollo di messaggistica esistente, come XMPP. 
+Ola e il suo team hanno creato il protocollo e la sua implementazione.
 
-* The protocol can be found [here](https://github.com/otrv4/otrv4/blob/master/otrv4.md)
-* The website can be found [here](http://otr.im/)
-* The Wikipedia article can be found [here](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
-* The whole repository can be found [here](https://github.com/otrv4)
+* Il protocollo può essere trovato [qui](https://github.com/otrv4/otrv4/blob/master/otrv4.md)
+* Il sito web può essere trovato [qui](http://otr.im/)
+* L'articolo di Wikipedia può essere trovato [qui](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
+* L'intero repository può essere trovato [qui](https://github.com/otrv4)
 
-Additionally, Ola's team has been busy last year presenting. Here are our
-presentations and resources:
+In aggiunta, il team di Ola's è stato impagnato quest'ultimo anno presentando 
+i risulati del progetto. Qui sono disponibili presentationi e risorse:
 
-* A [paper](https://petsymposium.org/2018/files/hotpets/7-bini.pdf) written for PETS2018
-  and the [presentation](https://youtu.be/Px2WEQAzDCg?t=4769)
-* The [presentation](https://datatracker.ietf.org/meeting/103/materials/slides-103-pearg-otrv4-slides-01) at IETF
-* The [presentation](https://www.youtube.com/watch?v=KR4s6t9D9Jo) at CCC (35c3)
-* The [presentation](https://www.youtube.com/watch?v=JYTEn2as0Rg) at COSIC
-* The [presentation](https://fosdem.org/2019/schedule/event/otr4/) at FOSDEM
-* The [presentation](https://llvm.org/devmtg/2019-04/slides/TechTalk-Celi-Clang_tools_for_implementing_cryptographic_protocols_like_OTRv4.pdf) at LLVM Euro 2019 meeting
+* Il [paper](https://petsymposium.org/2018/files/hotpets/7-bini.pdf) scritto per PETS2018
+  e la [presentazione](https://youtu.be/Px2WEQAzDCg?t=4769)
+* La [presentazione](https://datatracker.ietf.org/meeting/103/materials/slides-103-pearg-otrv4-slides-01) al IETF
+* La [presentazione](https://www.youtube.com/watch?v=KR4s6t9D9Jo) al CCC (35c3)
+* La [presentazione](https://www.youtube.com/watch?v=JYTEn2as0Rg) al COSIC
+* La [presentazione](https://fosdem.org/2019/schedule/event/otr4/) al FOSDEM
+* La [presentazione](https://llvm.org/devmtg/2019-04/slides/TechTalk-Celi-Clang_tools_for_implementing_cryptographic_protocols_like_OTRv4.pdf) al LLVM Euro 2019 meeting
 
 ### Libgoldilocks
 
-A pure implementation of [Ed448-Goldilocks elliptic curve](https://eprint.iacr.org/2015/625.pdf).
-It is based on [libdecaf](https://sourceforge.net/projects/ed448goldilocks/) by Mike Hamburg.
+Una implementazione della [curva ellittica Ed448-Goldilock](https://eprint.iacr.org/2015/625.pdf).
+È basata su [libdecaf](https://sourceforge.net/projects/ed448goldilocks/) di Mike Hamburg.
 
-The repository in C and Golang can be found [here](https://github.com/otrv4/libgoldilocks)
-and [here](https://github.com/otrv4/ed448).
+Il repository in C e Golang possono essere trovati [qui](https://github.com/otrv4/libgoldilocks)
+e [qui](https://github.com/otrv4/ed448).
 
