@@ -57,15 +57,11 @@ O que Ola pensa sobre Tor pode ser encontrado [aqui](https://www.martinfowler.co
 
 ### Letsencrypt
 
-Let’s Encrypt is a free, automated, and open Certificate Authority.
+Let's Encrypt é uma Autoridade Certificadora (CA) livre, automatizada e aberta.
 
-Ola and his team worked with Certbot. Certbot is part of EFF’s effort to encrypt
-the entire Internet. Certbot is a fully-featured, extensible client for the
-Let's Encrypt CA (or any other CA that speaks the ACME protocol) that can
-automate the tasks of obtaining certificates and configuring web servers to use
-them. This client runs on Unix-based operating systems.
+Ola e seu time trabalharam ao lado do Certbot. Certbot é parte do esforço da EFF para criptografar toda a Internet. Certbot é um cliente funcional e extensível para a Autoridade Certificadora Let's Encrypt (ou qualquer outra CA que fale o protocolo ACME) que pode automatizar tarefas de obtenção de certificados e configuração de servidores web para usá-los. Esse cliente roda em sistemas operacionais baseados em Unix.
 
-Ola's commits can be found [here](https://github.com/certbot/certbot/commits?author=olabini)
+Os commits de Ola podem ser encontrados [aqui](https://github.com/certbot/certbot/commits?author=olabini)
 
 ### OTRv4
 
