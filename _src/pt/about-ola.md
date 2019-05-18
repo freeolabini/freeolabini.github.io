@@ -83,8 +83,8 @@ Adicionalmente, o time de Ola esteve ocupado com apresentações no ano passado.
 
 ### Libgoldilocks
 
-A pure implementation of [Ed448-Goldilocks elliptic curve](https://eprint.iacr.org/2015/625.pdf).
-It is based on [libdecaf](https://sourceforge.net/projects/ed448goldilocks/) by Mike Hamburg.
+Uma implementação pura da [curva elíptica Ed448-Goldilocks](https://eprint.iacr.org/2015/625.pdf).
+É baeada em [libdecaf](https://sourceforge.net/projects/ed448goldilocks/) por Mike Hamburg.
 
-The repository in C and Golang can be found [here](https://github.com/otrv4/libgoldilocks)
-and [here](https://github.com/otrv4/ed448).
+Os repositórios em C e Goland podem ser encontrados [aqui](https://github.com/otrv4/libgoldilocks)
+e [aqui](https://github.com/otrv4/ed448).
