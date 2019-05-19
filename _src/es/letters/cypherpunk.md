@@ -27,10 +27,10 @@ Este conflicto llevó a lo que se llamó la primera Guerra de criptografía (muc
 
 Muchas ideas importantes surgieron de estas primeras discusiones y personas: la moneda digital (precursora de Bitcoin), las redes mixtas (que condujeron a onion routing y Tor), PGP, sistemas de votación electrónica (no como los que tenemos hoy, no. Dichos sistemas de los que se hablaba proveían muchas más garantías de seguridad) y muchas otras cosas más.
 
-Entonces, ¿cuáles son sus creencias, el marco moral? Por un lado, el código y la arquitectura son más importantes que las leyes. Las leyes se pueden romper, pero si construimos nuestros sistemas correctamente, podemos proporcionar garantías reales. El derecho a la privacidad, la seguridad y el anonimato también es una creencia sólida y la idea de que estos derechos pertenecen a todos, no solo a aquellos que pueden pagarlo.
+Entonces, ¿cuáles son sus creencias, su marco moral? Por un lado, que el código y la arquitectura son más importantes que las leyes. Las leyes se pueden romper, pero, si construimos nuestros sistemas correctamente, podemos proporcionar garantías reales. El derecho a la privacidad, la seguridad y el anonimato también es una creencia sólida y la idea de que estos derechos pertenecen a todos, no solo a aquellos que pueden pagarlo.
 
-Relacionado con esto, está la desconfianza en la autoridad, no solo la de gobiernos, sino de cualquier otro tipo de autoridad. Eso significa que esos derechos no pueden ser proporsionados solo como derechos legales por mandato. En cambio, estos derechos tienen que ser proporcionados por algo más fuerte: por sistemas criptográficos, implementados y ejecutados al aire libre. Esta es la única forma real en la que, en última instancia, se puede proporcionar una autodeterminación real para todos en el mundo.
+Relacionado con esto, está la desconfianza en la autoridad, no solo la de gobiernos, sino de cualquier otro tipo de autoridad. Eso significa que esos derechos no pueden ser proporcionados solo como derechos legales por mandato. En cambio, estos derechos tienen que ser proporcionados por algo más fuerte: por sistemas criptográficos, implementados y ejecutados librement. Esta es la única forma real por la que, en última instancia, se puede proporcionar una autodeterminación real para todos en el mundo.
 
-Una creencia final: los cypherpunks escriben código. Esto significa justo lo que dice. Si queremos un mundo mejor, tenemos que asumir la responsabilidad. Tenemos que construirlo nosotros mismos.
+Una creencia final: los cypherpunks escriben código. Esto significa justamente lo que dice. Si queremos un mundo mejor, tenemos que asumir la responsabilidad de hacerlo. Tenemos que construirlo nosotros mismos.
 
 /Ola Bini
