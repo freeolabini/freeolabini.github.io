@@ -2,36 +2,36 @@
 layout: post.njk
 date: 2019-05-17
 image: /img/ola_peace.png
-title: Compartmentalization
+title: Compartimentación
 tags:
   - letteres
   - post
   - es
 ---
-Most of the time we are between 80 and 90 prisoners in my cellblock. Around half of those are always sick. Part of that is bad sanitation, we have little clean water, but mostly it’s because we are a lot of people crammed together in one small space.
+La mayoría de las veces estamos entre 80 y 90 prisioneros en mi celda. Alrededor de la mitad de ellos están siempre enfermos. Parte de eso es el mal saneamiento, tenemos poca agua limpia, pero sobre todo porque somos mucha gente abarrotada en un espacio pequeño.
 
-This prison has far over a thousand prisoners. There are all kinds of people here: from murderers and serious drugdealers, allt he way to people that didn’t pay their alimony, or like me, that haven’t been charged with anything at all. All these people in one small place. Drugs are rampant. An underground economy runs rampant and people learn from each other.
+Esta prisión tiene más de mil prisioneros. Hay todo tipo de personas aquí: desde asesinos y graves traficantes de drogas, hasta aquellos que no pagaron su pensión alimenticia, o como yo, que no han sido acusados de nada. Todas estas personas en un pequeño lugar. Las drogas son rampantes. Una economía clandestina corre desenfrenada y la gente aprende de los otros.
 
-Both these situations are examples of bad compartmentalization.
+Ambas situaciones son ejemplos de mala compartimentación.
 
-Many people are wondering why I had so many USB drives, computers and other pieces of technology. The prosecution is claiming that this much technology is suspicious and probably means I’m a hacker. Of course, there exists no such casual connection.
+Muchas personas se preguntan por qué tenía tantas unidades USB, computadoras y otras piezas de tecnología. La fiscalía afirma que esta cantidad de tecnología es sospechosa y probablemente significa que soy un hacker. Por supuesto, no hay tal conexión.
 
-Once again, the answer is (mostly): compartmentalization.
+Una vez más, la respuesta es (en su mayoría): compartimentación.
 
-What is this, then? Simply put, you separate different things into different “compartments” in order to minimize the risk that problems of one project impact another one. Compartments can be anything: time, physical place, group of coworkers, computers, cables, storage devices and many other things.
+¿Qué es esto, entonces? En pocas palabras, se separan diferentes cosas en diferentes "compartimentos" para minimizar el riesgo de que los problemas de un proyecto afecten a otro. Los compartimientos pueden ser cualquier cosa: tiempo, lugar físico, grupo de compañeros de trabajo, computadoras, cables, dispositivos de almacenamiento y muchas otras cosas.
 
-The reason is simple. You want to avoid cross contamination. Any kind. So, that’s why putting 90 prisoners in 17 cells with very little space and sanitation is a good counter example. We keep getting sick because there’s too much cross contamination.
+La razón es simple. Quieres evitar la contaminación cruzada. Cualquier tipo. Entonces, esa es la razón por la que colocar 90 presos en 17 celdas con muy poco espacio y saneamiento es un buen ejemplo. Seguimos enfermándonos porque hay demasiada contaminación cruzada.
 
-The same is true for all my USBs. If one of them gets infected with something, I want to be sure my other projects are safe and this is also why I have different computers for different projects. You can have an “infection” that impacts the  hardware or firmware of the computer and once again, you simply want to avoid this to affect more than one project, if possible.
+Lo mismo es cierto para todos mis USBs. Si uno de ellos se infecta con algo, quiero estar seguro de que mis otros proyectos son seguros y, por eso, también tengo diferentes computadoras para diferentes proyectos. Puede tener una "infección" en el hardware o firmware de la computadora y, una vez más, debe evitar que esto afecte a más de un proyecto, si es posible.
 
-So, why do I travel with so many USB drives? Simple, if I leave them behind, I don know if someone has tampered with them, so the only way to stop that is to always keep them with me.
+Entonces, ¿por qué viajo con tantas unidades USB? Simple, si las dejo atrás, no sé si alguien las manipuló, por lo que la única forma de evitarlo es siempre tenerlas conmigo.
 
-Still, that’s a lot of USB drives I had. Is compartmentalization the only reason for all of them? Well, no. There are two more reasons.
+Aún así, tenía un montón de unidades USB. ¿Es por la compartimentación la única razón para tenerlas? Bueno, no. Hay dos razones más.
 
-First, I don’t trust USB drives. They can fail badly. So, I always carry a duplicate of all information I have.
+En primer lugar, no confío en las unidades USB. Pueden fallar. Por lo tanto, siempre llevo un duplicado de toda la información que tengo.
 
-Second, USB drives are, in many cases, possible carriers of infection. This means that it’s not a good idea to reuse them, unless in certain circumstances. Because of this, I always travel with a few unopened packages of USB drives, so, if I need a new safe one, I have it.
+En segundo lugar, las unidades USB son, en muchos casos, posibles portadoras de infecciones. Esto significa que no es una buena idea reutilizarlos; solo en ciertas circunstancias. Debido a esto, siempre viajo con algunos paquetes de unidades USB sin abrir, por lo que, si necesito una nueva y segura, la tengo.
 
-At the end of the day, compartmentalization is one of the most important security principles there is and it impacts everything a security professional does. It’s a principle to learn and always keep in mind.
+Al final del día, la compartimentación es uno de los principios de seguridad más importantes que existe y es todo lo que hace un profesional de la seguridad. Es un principio para aprender y tener siempre en cuenta.
 
 /O
