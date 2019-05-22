@@ -2,44 +2,43 @@
 layout: post.njk
 date: 2019-05-13
 image: /img/ola_books.png
-title: The Books I Read in Prison
+title: Os Livros que Li na Prisão
 tags:
   - letterpt
   - post
   - pt
 ---
 
-In this prison there are not many books. There are a few Bibles and a copy of Ben Hur in my cell block. But that’s it. I’ve seen a library when entering the prison, but I never see people there, or with new books. No one seems to know or care.
-This is a bit of a painful situation for me. I love to read and I’m always surrounded by books. As my friends can testify, I almost always carry a book with me, in case I have some dead minutes, waiting for a red light or things like that.
-The first 3 days I was detained, I almost went crazy. The inside of my own head was not a nice place to be. Luckily, my lawyer managed to fix this situation. My assumption is that the Director knows I’m innocent and that there are no charges, so he’s OK with this relaxation discipline.
-Since my books are apparently an important component in the prosecution's “case” against me, I thought I would simplify their lives a little, and write a few notes about the books I’ve read here, so they don have to raid my prison cell and confiscate these books (like they did with my other ones).
-These books were not chosen by me. Most of them, were lovingly selected by my friends, one or two, are a random inclusion.
+Nessa prisão não há muitos livros. Há algumas bíblias e uma cópia de Ben Hur no meu bloco de celas. Mas é isso. Eu vi uma biblioteca enquanto eu entrava na prisão, mas eu nunca vi pessoas lá, ou com livros novos. Ninguém parece saber ou se importar.
+Essa é meio que uma situação dolorosa pra mim. Eu adoro ler e estou sempre cercado por livros. Todos meus amigos podem testemunhar, eu quase sempre carrego um livro comigo, caso eu tenha alguns minutos perdidos, esperando em um sinal vermelho ou coisas do gênero.
+Nos 3 primeiros dias em que eu fui detido eu quase fiquei louco. O lado de dentro da minha própria cabeça não era um lugar legal pra se estar. Felizmente, meu advogado conseguiu resolver essa situação. Minha suposição é que o Diretor sabe que eu sou inocente e que não há acusações, então ele está OK com essa disciplina mais relaxada.
+Já que meus livros aparentemente são um componente importante das "circunstâncias" da acusação, achei que eu simplificaria um pouco a vida deles e escreveria umas poucas notas sobre os livros que li aqui, assim eles não precisam fazer uma incursão na minha cela pra confiscar esses livros (como fizeram com os meus outros).
+Esses livros não foram escolhidos por mim. A maioria deles foi amavelmente selecionada por meus amigos, um ou dois são uma inclusão aleatória.
 
-LOVE IN THE TIME OF CHOLERA - Gabriel García Márquez
-I’ve never liked romance novels. Period dramas are about as far from my taste as you can get. So, I was not presupposed to like this book. But, to my surprise, Márquez’ fantastic visual language and deeply detailed and compelling personal portraits, made this a joy to read. I guess there’s a reason why the Nobel committee chose him.
+O AMOR NOS TEMPOS DO CÓLERA - Gabriel García Márquez
+Eu nunca gostei de romances de história de amor. Dramas de época são o mais longe que meu gosto pode ir. Então eu supostamente não deveria gostar desse livro. Mas, pra minha surpresa, a linguagem visual fantástica de Márquez e as descrições convincentes, detalhadas e profundas das pessoas, transformaram o livro em um prazer pra ler. Acho que há uma razão pro comitê do Nobel tê-lo escolhido.
 
-RESILIENCE – Harvard Business Review 
-A small white book. 120 pages containing 6 or 7 articles about how people deal with adversity and come back from tragedy, failure or other adverse situations. I read it twice. First time regularly and then a second time, as a palliative when I had finished my other books. I also hoped the lessons would sink in deeper and maybe be more useful. It was certainly interesting, but whether it actually helps, I won’t know until my current ordeal is over and I’ve recovered from it. Or not.
+RESILIÊNCIA – Harvard Business Review
+Um pequeno livro branco. 120 páginas contendo 6 ou 7 artigos sobre como pessoas lidam com adversidade e se recuperam de tragédias, fracassos ou outras situações adversas. Eu o li duas vezes. Da primeira vez regularmente e então uma segunda vez como um paliativo quando eu tinha terminado meus outros livros. Eu também esperava que as lições batessem fundo e talvez fossem mais úteis. Certamente foi interessante, mas se realmente ajuda, não saberei até que minha provação atual tenha acabado e eu tenha me recuperado dela. Ou não.
 
-GALAPAGOS – Kurt Vonnegut 
-A very funny, dry, satirical science-fiction-ish story about the almost end of mankind. Utterly entertaining and with a tone that suited my gallows humor perfectly. Would recommend to anyone in prison.
+GALÁPAGOS – Kurt Vonnegut
+Uma história meio de ficção científica, muito engraçada, seca e satírica sobre o quase fim da humanidade. Totalmente divertida e com um tom perfeitamente adequado ao meu humor sombrio. Recomendaria a qualquer pessoa que esteja na prisão.
 
 THE BLOOD NEVER DIED – John Newsinger
-There’s nothing quite like a history of the ugly side of the British empire to put your own troubles in proper perspective. This is a book filled with misery perpetrated by the British. From the slave holdings in Jamaica in the late 1700s, all the way to Blair's and Brown's subservient participation in the invasions of Iraq and Afghanistan. It’s a fascinating book, in a horrible way. I couldn’t put it down. It documents scenes of history, that are too often forgotten or swept under the rug.
+Não há nada como uma história sobre o lado feio do império Britânico para botar seus próprios problemas em perspectiva. Esse é um livro cheio de miséria perpetrada pelos Britânicos. Desde a escravização na Jamaica na segunda metade dos anos 1700, passando por tudo até a participação subserviente de Blair e Brown nas invasões do Iraque e do Afeganistão. É um livro fascinante, de uma forma horrível. Ele documenta cenas da história que são muito frequentemente esquecidas ou varridas pra debaixo do tapete.
 
 REBOOT – Amy Tintera
-And then comes - to cleanse the palate – a simple popcorn young adult dystopian future novel. A mix between zombies, robots and revolutionaries provides for some slight entertainment, but the plot leaves your brain in seconds after putting the book down.
+Aí então vem - pra limpar o paladar - um simples romance pipoca distópico futurista para jovens adultos. Uma mistura de zumbis, robôs e revolucionários serve como algum entretenimento, mas a trama abandona seu cérebro segundos após soltar o livro.
 
-DIRTY WARS – Jeremy Scahill
-In case I had forgotten how problematic empires can be, and particularly what a horrible presence the US can be in the world, this book comes along as a reminder. Over 500 pages of tightly printed text, filled with dates, quotes, facts and horrible stories. It’s like a car crash you can’t look away. It’s an important book, but I know it will give me new nightmares in the years to come.
+GUERRAS SUJAS – Jeremy Scahill
+Caso eu tivesse esquecido o quão problemáticos impérios podem ser, e particularmente que presença horrível os Estados Unidos podem ser no mundo, esse livro veio como um lembrete. Mais que 500 páginas de texto impresso bem apertado, cheio de datas, citações, fatos e histórias horríveis. É como um acidente de carro que você não pode evitar de olhar. É um livro importante, mas eu sei que ele me dará novos pesadelos nos anos que virão.
 
 THE LAND OF NAKED PEOPLE - Madhusree Mukerjee
-A mix of travelogue history book and anthropological study, this little book chronicles the author’s encounters and experiences with for indigenous tribes living in the Andaman islands in the Indian Ocean. These people might be the oldest separated group of humans left in existence. The book chronicles some of their history and talks about their current degeneration, exploitation and ultimately decline and maybe destruction. It’s an interesting, but sad story.
+Uma mistura de relato de viagem com estudo antropológico, esse pequeno livro conta em crônicas os encontros e experiências da autora com tribos indígenas vivendo nas ilhas Andaman no Oceano Índico. Essas pessoas podem ser o grupo mais velho de humanos isolados ainda em existência. O livro conta um pouco da história deles e fala sobre a degeneração atual, a exploração, o irrevogável declínio e a possível destruição deles. É uma história interessante, mas triste.
 
-THE DISPOSSESSED – Ursula K. Le Guin
-The title has always seemed so clever to me, carrying the normal interpretation while also hiding in plain sight the deeper meaning. This has been one of my favorite books ever since I first read it, maybe 20 years ago. Since then, I’ve re-read it many times. Now latest, finishing it earlier today. It describes an example of an anarchist society and how human feelings, interactions, wants and beliefs could work in such an environment and what happens when change comes, both internal and external. It’s a book about humans looking at the world from a revolutionary perspective, sometimes failing and sometimes succeeding. I love it.
+OS DESPOSSUÍDOS – Ursula K. Le Guin
+Um título que sempre me pareceu inteligente, contendo a interpretação normal enquanto também escondia à luz do dia o seu significado mais profundo. Esse tem sido um dos meus livros favoritos desde que eu o li pela primeira vez, talvez há 20 anos. Desde então eu o reli várias vezes. A leitura mais recente terminou hoje cedo. Ele descreve um exemplo de uma sociedade anarquista e como os sentimentos, as interações, os desejos e as crenças funcionam em um ambiente como esse e o que acontece quando a mudança vem, tanto interna como externamente. É um livro sobre humanos olhando para o mundo de uma perspectiva revolucionária, às vezes falhando e às vezes tendo sucesso. Eu o adoro.
 
-What next? I’ve just started THE SUGAR BARONS by Matthew Parker, a history of sugar cane farming in the Caribbean ad what the impact and implications were from this “white gold”.
-After that, who knows? If I’m lucky, my time in prison might end on Thursday (may 2nd). Either way, I’ll continue reading.
-/Ola
-
+O que vem pela frente? Eu acabei de começar THE SUGAR BARONS de Matthew Parker, uma história do cultivo de cana-de-açucar no Caribe e de quais foram o impacto e as implicações desse "ouro branco".
+Depois disso, quem sabe? Se eu der sorte, meu tempo na prisão pode acabar na quinta (2 de maio). De toda forma, continuarei lendo.
+Ola
