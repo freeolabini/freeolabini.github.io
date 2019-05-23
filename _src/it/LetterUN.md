@@ -5,10 +5,10 @@ tags:
   - it
 date: 2019-05-23
 image: /img/un.png
-title: Letter UN
+title: Lettera ONU
 ---
 
-This is the letter submitted from the UN to the Government of Ecuador:
+Questa è la lettera inviata dall'ONU al governo dell'Ecuador:
 
 ![alt text](/img/OlaUN-0.png)
 ![alt text](/img/OlaUN-1.png)
