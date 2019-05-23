@@ -2,50 +2,50 @@
 layout: post.njk
 date: 2019-05-22
 image: /img/ola_15.jpg
-title: Letter To The President
+title: Carta al Presidente de Ecuador
 tags:
   - letteres
   - post
   - es
 ---
 
-Boredom and the occasional brush with violence is probably the worst part of prison. Boredom, frustration, anger, depression. They all come from the same place. No one here is unaffected and I suspect many will have lasting psychological damage from this experience. I fear I will too. To be fair, I was probably not exactly normal to start with, but this experience won’t exactly improve it.
+El aburrimiento y el roce ocasional con la violencia es probablemente la peor parte de la prisión. Aburrimiento, frustración, ira, depresión. Todos vienen del mismo lugar. Nadie aquí no se ve afectado y sospecho que muchos tendrán un daño psicológico duradero debido a esta experiencia. Me temo que yo también lo tendré. Para ser justos, para empezar, probablemente no era exactamente normal; pero esta experiencia no me mejorará exactamente.
 
-So, what do people do with the boredom? There are many coping mechanisms. Some people sleep a   lot. Others cut paper into small squares, make triangles out of them and them put them together into amazing sculptures made from hundreds or thousands of pieces of paper. Some people, away in the other cellblocks, do drugs. All the time people talk, they smoke, play games. A common thing here is to rip  threads from clothes and towels and then weave them into arm bands or head bands. But honestly, I don’t see any of those things really helping. The frustration is still there.
+Entonces, ¿qué hace la gente con el aburrimiento? Hay muchos mecanismos de afrontarlo. Algunas personas duermen mucho. Otros cortan el papel en pequeños cuadrados, hacen triángulos con ellos y los juntan en increíbles esculturas hechas de cientos o miles de pedazos de papel. Algunas personas, solas en los bloques de celdas, toman drogas. Todo el tiempo la gente habla, fuma, juega. Una cosa común aquí es rasgar los hilos de la ropa y las toallas, y luego tejerlas en bandas para el brazo o para la cabeza. Pero, honestamente, no veo que ninguna de esas cosas realmente ayude. La frustración sigue ahí.
 
-I write, but yes, I’m frustrated. Even more so now, after five weeks. I’m trying to come up with new ways to cope. Today I decided to write a letter to the president of the Republic of Ecuador to see if airing my frustration to him would help.
+Escribo, pero sí, estoy frustrado. Más aún ahora, después de cinco semanas. Estoy tratando de encontrar nuevas formas de hacer frente. Hoy decidí escribir una carta al Presidente de la República del Ecuador para ver si transmitirle mi frustración me ayudaría:
 
+"""
 
-Dear President Lenín Moreno:
+Estimado Presidente Lenín Moreno:
 
-My name is Ola Bini. I’m honestly not sure if you know who I am or not. You went on national TV a few weeks ago and said some weird things about me, so maybe you have been misinformed.
+Mi nombre es Ola Bini. Sinceramente, no estoy seguro de si sabe quién soy o no. Usted apareció en la televisión nacional hace unas semanas y habló algunas cosas raras sobre mí, así que quizás te hayan desinformado.
 
-Let me introduce myself: I am from Sweden (not Russia and not Switzerland), I’ve lived here in Quito, Ecuador for over 5 years. I call Ecuador my home. I like it here. I have my apartment here, my friends, my girlfriend, my work. And durin these years, I have contributed modestly maybe, but I do my part for Ecuador. This year I was in the process to apply for a new 2-year visa and after that, I was going to apply for a permanent residency. I’m just saying this to let you know I’m committed to your country.
+Permítame presentarme: soy de Suecia (no de Rusia y no de Suiza), he vivido aquí en Quito, Ecuador durante más de 5 años. Yo llamo a Ecuador mi hogar. Me gusta aquí. Tengo mi apartamento aquí, mis amigos, mi novia, mi trabajo. Y durante estos años, quizás haya contribuido modestamente, pero hago mi parte por Ecuador. Este año estaba en el proceso de solicitar una nueva visa de 2 años y, después de eso, iba a solicitar una residencia permanente. Solo digo esto para hacerle saber que estoy comprometido con su país.
 
-5 weeks ago I was detained at the Quito airport. This detention was improper, illegally done and broke my human and constitutional rights in a number of ways, and those problems continue to persist during the five weeks I’ve spent in prison.
+Hace 5 semanas fui detenido en el aeropuerto de Quito. Esta detención fue inapropiada, se hizo ilegalmente, y quebrantó mis derechos humanos y constitucionales de varias maneras, y esos problemas continúan persistiendo durante las cinco semanas que he estado en prisión.
 
-Now, this is where I’m confused. Why did you do all this to me? Do you hate me so much? For what? Yes, I know I’m a friend of your former asylee and you and Mr. Assange have had your differences but, is that really enough to treat me like this?
+Ahora, aquí es donde estoy confundido. ¿Por qué hizo todo esto? ¿Me odia tanto? ¿Para qué? Sí, ya sé que soy amigo de su ex asilado, y usted y el Sr. Assange han tenido sus diferencias, pero, ¿es eso realmente suficiente para tratarme así?
 
-Your prosecutor says I’m being investigated for attacking the integrity of computer systems. But he doesn’t say more, except that my books are suspicious. What systems did I attack? When? How? Do you even know? I don’t.
+Su fiscal dice que estoy siendo investigado por atacar la integridad de los sistemas informáticos. Pero él no dice más, excepto que mis libros son sospechosos. ¿Qué sistemas he atacado? ¿Cuando? ¿Cómo? ¿Lo sabe? Yo no.
 
-Your judges say I’m a danger to society. They also say there’s a presumption of innocence and that prison doesn’t have to be punitive. Then they sent me to prison. This confuses me too. I thought the very idea of prison was to be a punishment. How can I be presumed innocent and still be sent here? How can I be presumed innocent but also considered a danger to society? I would appreciate if you could clear this up for me.
+Sus jueces dicen que soy un peligro para la sociedad. También dicen que hay presunción de inocencia y que la prisión no tiene que ser punitiva. Pero,me enviaron a la cárcel. Esto también me confunde. Pensé que la idea misma de prisión era ser un castigo punitivo. ¿Cómo puedo ser presumido inocente y todavía ser enviado aquí? ¿Cómo puedo ser considerado inocente pero también considerado un peligro para la sociedad? Le agradecería si pudiera aclararme esto.
 
-I’m also thinking of some of the TV spots my lawyer has told me about. For example, your minister of the Interior said in a press conference I was detained, but this happened over three hours before a judge had written my detention order. Is that how the judicial system is supposed to work?
-Let’s go back to what you said about me. That I had attacked computer systems, servers and mobile phones. If you know this, you must have evidence, right? Why haven’t you given that evidence to your prosecutor? Because he has no evidence against me. You also said I was fleeing the country and didn’t even had my martial arts training equipment with me, however, in my backpack there are papers that prove I bought the ticket months ago. And the prosecution documents also show I had my equipment with me. So, why did you go on TV and tell the whole country these things?
+También estoy pensando en algunos de los anuncios de televisión de los que me ha hablado mi abogado. Por ejemplo, su Ministra del Interior dijo en una conferencia de prensa que fui detenido, pero esto ocurrió más de tres horas antes de que un juez escribiera mi orden de detención. ¿Es así como se supone que funciona el sistema judicial?
 
-Another thing said in press conferences is that I had collaborated with Ricardo Patiño and that I had worked to destabilize the government, your government. Let me assure you, I have never met Patiño and I have no interest in destabilizing your government. Of course, I don’t agree with all your policies, I didn’t agree with all your predecessors choices either. I believe in democracy. The people of Ecuador chose you and I believe in Ecuador, that means I want the government of Ecuador to be strong.
+Volvamos a lo que dijo sobre mí. Que había atacado sistemas informáticos, servidores y teléfonos móviles. Si sabe esto, debe tener evidencia, ¿verdad? ¿Por qué no le ha dado esa evidencia a su fiscal? Porque no tiene pruebas/evidencia contra mí. También dijo que estaba huyendo del país y que ni siquiera tenía mi equipo de entrenamiento de artes marciales conmigo; sin embargo, en mi mochila hay papeles que demuestran que compré el boleto hace meses. Y los documentos de la Fiscalía también muestran que tenía mi equipo conmigo. Entonces, ¿por qué habló en la televisión y dijo estas cosas a todo el país?
 
-Let me be clear. I have never done anyting aimed to attack or destabilize your country. That’s not who I am.
+Otra cosa que se dijo en las conferencias de prensa es que yo había colaborado con Ricardo Patiño y que había trabajado para desestabilizar el Gobierno, su Gobierno. Permítame asegurarle que nunca conocí a Patiño y no tengo ningún interés en desestabilizar a su Gobierno. Por supuesto, no estoy de acuerdo con todas sus políticas, tampoco estuve de acuerdo con todas las elecciones de sus predecesores. Yo creo en la democracia. La gente de Ecuador lo eligió y yo creo en Ecuador, eso significa que quiero que el gobierno de Ecuador sea fuerte.
 
-Mr. President, I feel like this is personal. If you can, please answer and clarify all my questions and if you can’t, why not stop this investigation now? It seems to me that public opinion is also confused about why you’re doing this to me and they are getting more confused the longer this goes on. In my humble opinion, I think you should stop, let me go and then we can forget this whole embarrasing incident happened.
+Déjame ser claro. Nunca he hecho nada destinado a atacar o desestabilizar su país. Eso no es lo que yo soy.
 
-With cordial greetings,
+Señor Presidente, siento que esto es personal. Si puede, responda y aclare todas mis preguntas y, si no puede, ¿por qué no detiene esta investigación ahora? Me parece que la opinión pública también está confundida acerca de por qué me está haciendo esto y se están confundiendo cada vez más a medida que continúa. En mi humilde opinión, creo que debería parar, déjame ir y luego podemos olvidar que todo este incidente vergonzoso aconteció.
 
-
-
-Ola Bini
-Cell 10, El Placer, CDP El Inca, Quito, Pichincha, Ecuador
+Coordialmente,
 
 
 
-P.S. Mr. President, if you want to respond, please reach me at the above address. If you choose to respond via a public address, know I have no access to TV in this prison, so, in that case, I won’t get your response.
+Ola Bini Celda 10, El Placer, CDP El Inca, Quito, Pichincha, Ecuador
+
+
+PD. Señor Presidente, si desea responder, comuníquese conmigo a la dirección que figura arriba. Si elige responder a través de una dirección pública, sepa que no tengo acceso a la televisión en esta prisión, por lo que, en ese caso, no obtendré su respuesta.
