@@ -9,13 +9,6 @@ tags:
   - en
 ---
 
-Boredom and the occasional brush with violence is probably the worst part of prison. Boredom, frustration, anger, depression. They all come from the same place. No one here is unaffected and I suspect many will have lasting psychological damage from this experience. I fear I will too. To be fair, I was probably not exactly normal to start with, but this experience won’t exactly improve it.
-
-So, what do people do with the boredom? There are many coping mechanisms. Some people sleep a   lot. Others cut paper into small squares, make triangles out of them and them put them together into amazing sculptures made from hundreds or thousands of pieces of paper. Some people, away in the other cellblocks, do drugs. All the time people talk, they smoke, play games. A common thing here is to rip  threads from clothes and towels and then weave them into arm bands or head bands. But honestly, I don’t see any of those things really helping. The frustration is still there.
-
-I write, but yes, I’m frustrated. Even more so now, after five weeks. I’m trying to come up with new ways to cope. Today I decided to write a letter to the president of the Republic of Ecuador to see if airing my frustration to him would help.
-
-
 Dear President Lenín Moreno:
 
 My name is Ola Bini. I’m honestly not sure if you know who I am or not. You went on national TV a few weeks ago and said some weird things about me, so maybe you have been misinformed.
