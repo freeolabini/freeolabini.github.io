@@ -6,15 +6,15 @@ layout: base.njk
      <img class="nested-img" src="{{ image }}" alt="{{ title }}" />
     <nav>
     {% for item in menu %}
-      <a href="{{ item.path }}" class="f4 link db mb2">
+      <a href="{{ item.path }}" class="f4 link avenir db mb2">
         <i class="la {{ item.icon }}"></i>
         {{ item.title }}
       </a>
     {% endfor %}
   </nav>
   </div>
-  <div class="w-100 w-60-ns v-top nested-copy">
-    <h1 class="f2-ns f4 lh-title">{{ title }}</h1>
+  <div class="w-100 w-60-ns f3 v-top nested-copy">
+    <h1 class="f2-ns f4 avenir lh-title">{{ title }}</h1>
     {{ content | safe }}
   </div>
 </div>
