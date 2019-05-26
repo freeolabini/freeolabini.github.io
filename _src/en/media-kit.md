@@ -28,11 +28,11 @@ Help raising awareness about the campaign. Reuse, share and print this material.
 
 ### Stickers
 
-1. Logo with Hashtag Overlay [JPG](/media-kit/sticker_1_8x8.jpg)
-2. Quote: "A friend told me..." [JPG](/media-kit/sticker_2.jpg)
-3. Quote: "Without privacy..." [JPG](/media-kit/sticker_3.jpg)
-4. Logo simplified [PNG](/media-kit/sticker_4.png)
-5. Logo hat only [PNG](/media-kit/sticker_5.png)
+* Logo with Hashtag Overlay [JPG](/media-kit/sticker_1_8x8.jpg)
+* Quote: "A friend told me..." [JPG](/media-kit/sticker_2.jpg)
+* Quote: "Without privacy..." [JPG](/media-kit/sticker_3.jpg)
+* Logo simplified [PNG](/media-kit/sticker_4.png)
+* Logo hat only [PNG](/media-kit/sticker_5.png)
 
 ### T-shirts
 
