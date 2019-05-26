@@ -5,13 +5,13 @@
       <img src="{{ post.data.image }}" class="nested-img mt3" alt="{{ title }}"/>
     </div>
     <div class="w-100 w-60-ns v-top">
-          <h2 class="f2-ns f3 lh-title dark-gray mv0">
+          <h2 class="f3-ns f4 avenir lh-title dark-gray mv0">
             {{ post.data.title }}
           </h2>
       <small class="gray db">
         {{ post.date.toUTCString().slice(0,16)}}
       </small>
-      <div class="pl3 pr3 pr4-ns">
+      <div class="pl3 f4 pr3 pr4-ns">
         {{ post.templateContent | striptags | truncate }}
       </div>
     </div>
