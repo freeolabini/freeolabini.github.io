@@ -14,6 +14,7 @@ Help raising awareness about the campaign. Reuse, share and print this material.
 [AI](/media-kit/logo_free-ola_simplified.ai)
 * With Hashtag Overlay 
 [PNG](/media-kit/logo_free-ola_overlay.png) 
+[SVG](/media-kit/logo_free-ola_overlay.svg) 
 [AI](/media-kit/logo_free-ola_overlay.ai)
 * Black & White 
 [PNG](/media-kit/logo_free-ola_black-white.png) 
@@ -22,8 +23,8 @@ Help raising awareness about the campaign. Reuse, share and print this material.
 ### Posters and Flyers
 
 * Front [PDF](/media-kit/flyer_free-ola_front_A5.pdf) [PNG](/media-kit/flyer_free-ola_front_A5.png) [SVG](/media-kit/flyer_free-ola_front_A5.svg)
-<!--  * Back _work in progress_ [PDF](/media-kit/flyer_free-ola_back_A5.pdf) [PNG](/media-kit/flyer_free-ola_back_A5.png) [SVG](/media-kit/flyer_free-ola_back_A5.svg) 
--->
+* Back [PDF](/media-kit/flyer_free-ola_back_A5.pdf) [PNG](/media-kit/flyer_free-ola_back_A5.png) [SVG](/media-kit/flyer_free-ola_back_A5.svg) 
+
 
 ### Stickers
 

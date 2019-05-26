@@ -22,7 +22,7 @@
    inkscape:export-ydpi="384"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath18"><path
@@ -37,17 +37,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3475"
-     inkscape:window-height="2016"
+     inkscape:window-width="2560"
+     inkscape:window-height="1329"
      id="namedview4"
      showgrid="false"
      units="mm"
-     inkscape:zoom="2.085965"
-     inkscape:cx="456.25955"
-     inkscape:cy="411.99223"
+     inkscape:zoom="2.09"
+     inkscape:cx="350.17403"
+     inkscape:cy="216.90353"
      inkscape:window-x="0"
-     inkscape:window-y="81"
-     inkscape:window-maximized="0"
+     inkscape:window-y="55"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g10" /><g
      id="g10"
      inkscape:groupmode="layer"
@@ -78,12 +78,14 @@
      x="25.517952"
      y="-545.71741"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.5px;line-height:0px;font-family:'Oswald SemiBold';-inkscape-font-specification:'Oswald SemiBold, ';text-align:start;text-anchor:start;fill:#633f4f;fill-opacity:1;stroke-width:0.75"
-     id="tspan3485">OLA BINI</tspan><tspan
+     id="tspan3485">ABOUT OLA BINI</tspan><tspan
      sodipodi:role="line"
      x="25.517952"
      y="-508.21741"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Oswald SemiBold';-inkscape-font-specification:'Oswald SemiBold, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#633f4f;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="tspan9676" /></text>
+
+
 
 <text
    xml:space="preserve"
@@ -99,6 +101,8 @@
      style="stroke-width:0.75" /></text>
 
 
+
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot3407"
@@ -109,7 +113,7 @@
        height="83.414627"
        x="-20.134565"
        y="553.0448" /></flowRegion><flowPara
-     id="flowPara3413"></flowPara></flowRoot><text
+     id="flowPara3413" /></flowRoot><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
    x="103.18965"
@@ -120,104 +124,93 @@
      id="tspan3415"
      x="103.18965"
      y="-49.32119"
-     style="stroke-width:0.75"></tspan></text>
+     style="stroke-width:0.75" /></text>
+
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="396.34525"
-   y="-24.818069"
+   x="390.34525"
+   y="-29.318069"
    id="text9670-3"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="396.34525"
-     y="-24.818069"
+     x="390.34525"
+     y="-29.318069"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.5px;line-height:0px;font-family:'Oswald SemiBold';-inkscape-font-specification:'Oswald SemiBold, ';text-align:end;text-anchor:end;fill:#633f4f;fill-opacity:1;stroke-width:0.75"
      id="tspan9674-2">FREEOLABINI.ORG</tspan><tspan
      sodipodi:role="line"
-     x="396.34525"
-     y="12.681931"
+     x="390.34525"
+     y="8.1819305"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Oswald SemiBold';-inkscape-font-specification:'Oswald SemiBold, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#633f4f;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="tspan9676-3" /></text>
+
+
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:'Oswald Medium';-inkscape-font-specification:'Oswald Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="26.606392"
-   y="-619.90369"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.34500053px;line-height:1.25;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16805971;"
+   x="27.292641"
+   y="-496.28171"
    id="text3491"
-   transform="scale(1,-1)"><tspan
+   transform="scale(0.96168217,-1.0398446)"><tspan
      sodipodi:role="line"
-     id="tspan3489"
-     x="26.606392"
-     y="-592.00391"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, ';stroke-width:0.75" /><tspan
+     id="tspan2513">Ola Bini has been arrested by the Ecuadorian authorities on April 11. </tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-554.50391"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3495" /><tspan
+     id="tspan2515">His detention is undue, illegal and contrary to human and constitutional rights.</tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-517.00391"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3497">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </tspan><tspan
+     id="tspan2517"></tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-479.50388"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3501">Vivamus nisi libero, suscipit eget rhoncus quis, mattis non </tspan><tspan
+     id="tspan2519">Ola is a privacy and free software advocate. His contributions are multiple: OTRv4, </tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-442.00388"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3529">lectus. Pellentesque habitant morbi tristique senectus et </tspan><tspan
+     id="tspan2521">CoyM, Enigmail, JRuby and his team has helped Tor, Let's Encrypt, and more.</tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-404.50388"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3531">netus et malesuada fames ac turpis egestas. Aliquam lobortis</tspan><tspan
+     id="tspan2523"></tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-367.00388"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3533"> mi ac nibh ullamcorper, sit amet ullamcorper est luctus. </tspan><tspan
+     id="tspan2525">He's currently being investigated for attacking the integrity of computer systems but </tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-329.50388"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3535">Etiam elit velit, dapibus eu pretium euismod, ornare eu nibh. </tspan><tspan
+     id="tspan2527">the prosecution doesn’t say what systems he attack or what information has been </tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-292.00388"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3537">Vivamus pulvinar scelerisque elementum. Fusce ac vulputate </tspan><tspan
+     id="tspan2529">compromised.</tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-254.50389"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3539">erat, sit amet venenatis libero. Lorem ipsum dolor sit amet, </tspan><tspan
+     id="tspan2531">Many irregularities put a shadow on his arrest process and he's being held in a </tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-217.00389"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3541">consectetur adipiscing elit. In hac habitasse platea dictumst. </tspan><tspan
+     id="tspan2533">90 days pre-detention before the actual charges are even submitted. The prosecution </tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-179.50389"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3543">Sed varius neque in dapibus pharetra. Suspendisse ut mattis </tspan><tspan
+     id="tspan2535">has no evidence of any crime except stating that &quot;the books he owns are suspicious&quot; </tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-142.00389"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3545">nisl. Mauris porta volutpat quam, quis placerat enim laoreet </tspan><tspan
+     id="tspan2537">or that he was &quot;carrying too many electronic devices&quot;. He should be free!</tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-104.50389"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3547">id. Phasellus commodo magna sit amet risus laoreet, a </tspan><tspan
+     id="tspan2539"></tspan><tspan
      sodipodi:role="line"
-     x="26.606392"
-     y="-67.003891"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:0;font-family:'Oswald Light';-inkscape-font-specification:'Oswald Light, Light';stroke-width:0.75;letter-spacing:0px;word-spacing:0px"
-     id="tspan3513">imperdiet tortor vehicula. </tspan></text>
+     id="tspan2541">Ecuador's government representatives made multiple false statements to the press: </tspan><tspan
+     sodipodi:role="line"
+     id="tspan2543">that he was detained before a judge wrote his detention order, that he was fleeing </tspan><tspan
+     sodipodi:role="line"
+     id="tspan2545">the country while his travel was planned months before, that he was conspiring for</tspan><tspan
+     sodipodi:role="line"
+     id="tspan2547">the destabilization of the government with the former minister of foreign affairs of </tspan><tspan
+     sodipodi:role="line"
+     id="tspan2549">Ecuador, who later declared he has never met Ola.</tspan><tspan
+     sodipodi:role="line"
+     id="tspan2551"></tspan><tspan
+     sodipodi:role="line"
+     id="tspan2553">The UN Working Group for Arbitrary Detention and UN Rapporteur for Freedom of </tspan><tspan
+     sodipodi:role="line"
+     id="tspan2555">Expression &quot;expressed consternation, particularly because the arrest and charges </tspan><tspan
+     sodipodi:role="line"
+     id="tspan2557">against Mr. Bini seem to be connected to public support and his friendship with </tspan><tspan
+     sodipodi:role="line"
+     id="tspan2559">Julian Assange, as well as to his work and activism in the area of privacy&quot;.</tspan><tspan
+     sodipodi:role="line"
+     id="tspan2561"></tspan><tspan
+     sodipodi:role="line"
+     id="tspan2563">The detention of Ola is politically motivated, adds a new precedent and puts at risk </tspan><tspan
+     sodipodi:role="line"
+     id="tspan2565">this entire community further criminalizing privacy advocates.</tspan><tspan
+     sodipodi:role="line"
+     id="tspan2567"></tspan><tspan
+     sodipodi:role="line"
+     id="tspan2569">Please, support #FreeOlaBini</tspan></text>
+
+
 </g></svg>
