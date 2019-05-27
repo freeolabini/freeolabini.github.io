@@ -1,18 +1,18 @@
 {%- for post in posts -%}
 <a class="link dark-gray dim" href="{{ post.url }}">
-<article class="pt3 flex-ns flex-row-reverse-ns">
+<article class="pt2 flex-ns flex-row-reverse-ns pv4 bt bb b--black-10 ph3 ph0-l">
     <div class="w-100 w-40-ns">
-      <img src="{{ post.data.image }}" class="nested-img mt3" alt="{{ title }}"/>
+      <img src="{{ post.data.image }}" class="db" alt="{{ title }}"/>
     </div>
-    <div class="w-100 w-60-ns v-top">
-          <h2 class="f3-ns f4 avenir lh-title dark-gray mv0">
+    <div class="w-100 w-60-ns v-top pt3 pt0-ns">
+          <h2 class="f4-ns f4 avenir lh-title dark-gray mv0">
             {{ post.data.title }}
           </h2>
-      <small class="gray db">
+      <time class=" f6 gray db">
         {{ post.date.toUTCString().slice(0,16)}}
-      </small>
-      <div class="pl3 f4 pr3 pr4-ns">
-        {{ post.templateContent | striptags | truncate }}
+      </time>
+      <div class="f5 pr3 pr4-ns">
+        {{ post.templateContent | striptags | truncate(250) }}
       </div>
     </div>
 </article>
