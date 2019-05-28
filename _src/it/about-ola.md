@@ -4,7 +4,7 @@ layout: post.njk
 image: /img/oladrawing.jpg
 ---
 
-Ola è più di una semplice persona detenuta dalle autorità in Ecuador. È una persona con una brillante carriera nello sviluppo software, nonché un amico e un collega per molti do noi. Qui una timeline per Ola con i punti salienti:
+Ola è più di una semplice persona detenuta dalle autorità in Ecuador. È una persona con una brillante carriera nello sviluppo software, nonché un amico e un collega per molti di noi. Qui una timeline per Ola con i punti salienti:
 
 ### 2009-2009  Contributi al progetto JRuby
 
@@ -23,7 +23,7 @@ Ola ha creato il proprio linguaggio sperimentale chiamato "Seph", con gli obiett
 JesCov è uno strumento open source per misurare la 'code coverage' in JavaScript. Permette di scoprire sia la 'line coverage' che la 'branch coverage' da qualsiasi
 codice sorgente ES3-compatibile. Non è legato a nessun particolare framework di test,
 ma l'unico punto di integrazione attuale è per Jasmine. L'approccio generale è
-basato su un formato di interscambio di dati JSON, che significa alcuni degli strumenti di reporting potrebbero potenzialmente essere utilizzati con dati raccolti da sorgenti diverse dal core di JesCov.
+basato su un formato di interscambio di dati JSON, significa che alcuni degli strumenti di reporting potrebbero potenzialmente essere utilizzati con dati raccolti da sorgenti diverse dal core di JesCov.
 
 Vedi il repository [qui](https://github.com/jescov) ed il sito web del progetto [qui](http://jescov.olabini.com/)
 
@@ -40,12 +40,12 @@ gosecco è un progetto per fornire una serie completa di strumenti necessari per
 regole seccomp BPF in Golang. Le funzionalità principali sono il
 parser e compilatore - ma il progetto supporta anche un assembler e
 disassembler rudimentali. 
-Supporta anche un emulatore che può essere adattato per fornire in output 
+Supporta anche un emulatore che può essere adattato per fornire un output 
 se le tue regole fanno effettivamente ciò che pensi che dovrebbero o meno fare. Nessuno di
 questi componenti è esposto da riga di comando - sono pensati per essere usati come
 librerie per applicazioni e sistemi di livello superiore.
 
-Il repository github è [qui](https://github.com/twtiger/gosecco). Una note di ringraziamento 
+Il repository github è [qui](https://github.com/twtiger/gosecco). Una nota di ringraziamento 
 di SubgraphOS per il suo sviluppo può essere trovata [qui](https://subgraph.com/blog/index.en.html)
 (nella sezione Acknowledgments).
 
@@ -54,7 +54,7 @@ di SubgraphOS per il suo sviluppo può essere trovata [qui](https://subgraph.com
 Enigmail è un add-on sicurezza per Mozilla Thunderbird. Esso consente di utilizzare OpenPGP per crittografare e firmare digitalmente le tue e-mail e decifrare e verificare i messaggi che ricevi. Enigmail è free software.
 
 Il contributo di Ola si è concentrato su come rendere più semplice futuri contributi a Enigmail. 
-Questo ha significato strumenti per il provisioning 'from scratch' di macchine di sviluppo per il progetto, integrazione in Travis CI, aggiungeta di unit test e test funzionali più estesi, refactoring, aggiungeta del supporto per Parcimonie ed di analisi del codice.
+Questo ha significato strumenti per il provisioning 'from scratch' di macchine di sviluppo per il progetto, integrazione in Travis CI, aggiunta di unit test e test funzionali più estesi, refactoring, aggiunta del supporto per Parcimonie e di analisi del codice.
 
 Puoi leggere le considerazioni di Ola a riguardo [qui](https://www.thoughtworks.com/de/insights/blog/lessons-learned-working-enigmail)
 Puoi trovare i commit di Ola [qui](https://gitlab.com/enigmail/enigmail/commits/master?utf8=%E2%9C%93&search=Ola+Bini)
@@ -69,7 +69,7 @@ l'utilizzo di un utente da chiunque effettui spionaggio sulla rete
 o analisi del traffico.
 
 Ola ha lavorato alla proposta del 'entry Guard' algorithm (come specificato 
-in questi [papers](https://www.freehaven.net/anonbib/#wpes12-cogs)). 
+in queste [pubblicazioni](https://www.freehaven.net/anonbib/#wpes12-cogs)). 
 Il primo proposal può essere trovati [qui](https://gist.github.com/olabini/343da01de8e01491bf5c) e la discussione relativa ad essa può essere trovata [qui](https://lists.torproject.org/pipermail/tor-dev/2016-February/010392.html).
 
 
@@ -103,7 +103,7 @@ Ola e il suo team hanno creato il protocollo e la sua implementazione.
 * L'articolo di Wikipedia può essere trovato [qui](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
 * L'intero repository può essere trovato [qui](https://github.com/otrv4)
 
-In aggiunta, il team di Ola's è stato impagnato quest'ultimo anno presentando 
+In aggiunta, il team di Ola's è stato impegnato quest'ultimo anno presentando 
 i risulati del progetto. Qui sono disponibili presentationi e risorse:
 
 * Il [paper](https://petsymposium.org/2018/files/hotpets/7-bini.pdf) scritto per PETS2018
@@ -116,7 +116,7 @@ i risulati del progetto. Qui sono disponibili presentationi e risorse:
 
 ### Libgoldilocks
 
-Una implementazione della [curva ellittica Ed448-Goldilock](https://eprint.iacr.org/2015/625.pdf).
+Un'implementazione della [curva ellittica Ed448-Goldilock](https://eprint.iacr.org/2015/625.pdf).
 È basata su [libdecaf](https://sourceforge.net/projects/ed448goldilocks/) di Mike Hamburg.
 
 Il repository in C e Golang possono essere trovati [qui](https://github.com/otrv4/libgoldilocks)

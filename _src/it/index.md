@@ -11,11 +11,11 @@ menu:
     icon: la-heart
   -
     path: /it/tweet-this
-    title: Twitta Questo!
+    title: Twittalo!
     icon: la-retweet
   -
     path: /it/about-ola
-    title: About Ola
+    title: Riguardo Ola
     icon: la-star
   -
     path: /it/letters
@@ -25,11 +25,11 @@ menu:
 Il nostro stimato collega, Ola Bini, è detenuto come prigioniero politico in Ecuador. Unisciti a noi in suo sostegno:
 
 - Firma la [lettera di solidarietà] della nostra tech community
-- Sostieni gli sforzi della famiglia e legali [donando alla campagna di finanziamento][donare].
+- Sostieni gli sforzi della famiglia e dei legali [donando alla campagna di finanziamento][donare].
 - [Invia una e-mail] al presidente dell'Ecuador tramite il sito della campagna Code Pink
 - Segui su twitter [@FreeOlaBini], l'hashtag [#FreeOlaBini] e visita freeolabini.org per aggiornamenti
-- Invia un email a [support@freeolabini.org] se vuo aiutarci in questa campagna d'informazione
-- [Iscriviti] alla nostra newsletter per aggiornamenti
+- Invia una e-mail a [support@freeolabini.org] se vuo aiutarci in questa campagna d'informazione
+- [Iscriviti] alla nostra newsletter per ricevere aggiornamenti
 
 [lettera di solidarietà]: /it/statement/
 [donare]: https://www.gofundme.com/freeolabini
