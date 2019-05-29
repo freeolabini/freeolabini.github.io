@@ -4,4 +4,4 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-¿Qué pruebas hay en contra de Ola Bini? #30DíasPresoSinPruebas
+¡Dejen que Ola Bini se defienda en libertad! #FreeOlaBini

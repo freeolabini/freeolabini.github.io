@@ -4,4 +4,4 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-Para @FiscaliaEcuador, ser inteligente, como Ola Bini, es ser peligroso. #30DíasPresoSinPruebas
+La política no debe entrometerse en la justicia. Ola Bini debe salir libre ya. #FreeOlaBini
