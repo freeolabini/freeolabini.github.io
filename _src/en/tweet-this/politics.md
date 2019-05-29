@@ -4,4 +4,4 @@ tags: tweeten
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-What evidence is there against Ola Bini? #30DaysInJailWithoutEvidence
+ Politics should not intervene with the judiciary. Ola needs to be freed now. #FreeOlaBini
