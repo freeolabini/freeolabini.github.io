@@ -7,9 +7,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.8.2",
     "@11ty/eleventy-plugin-rss": "^1.0.6",
-    "html5-validator": "^1.2.1",
-    "rimraf": "^2.6.3",
-    "standard": "^12.0.1"
+    "rimraf": "^2.6.3"
   },
   "scripts": {
     "validate": "html5v http://localhost:8080/en/",
@@ -19,6 +17,6 @@
     "watch": "eleventy --watch"
   },
   "dependencies": {
-    "yamljs": "^0.3.0"
+    "clipboard": "^2.0.4"
   }
 }
