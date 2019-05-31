@@ -11,6 +11,11 @@
       "icon": "la-retweet"
     },
     {
+      "path": "/en/media-kit",
+      "title": "Media Kit",
+      "icon": "la-bullhorn"
+    },
+    {
       "path": "/fr/about-ola",
       "title": "À propos de Ola",
       "icon": "la-star"

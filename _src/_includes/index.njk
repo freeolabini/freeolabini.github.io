@@ -1,9 +1,9 @@
 ---
 layout: base.njk
 ---
-<div class="bb bt b--black-20 flex-ns" id="cta">
-  <div class="w-100 w-40-ns v-top pa3">
-     <img class="nested-img" src="{{ image }}" alt="{{ title }}" />
+<div class="bt b--black-20 flex-ns" id="cta">
+  <div class="w-100 w-40-ns v-top pa3 ">
+     <img class="db" src="{{ image }}" alt="{{ title }}" />
     <nav>
     {% for item in menu %}
       <a href="{{ item.path }}" class="f4 link db mb2">
@@ -13,9 +13,12 @@ layout: base.njk
     {% endfor %}
   </nav>
   </div>
-  <div class="w-100 w-60-ns v-top nested-copy">
-    <h1 class="f2-ns f4 lh-title">{{ title }}</h1>
-    {{ content | safe }}
+  <div class="w-100 w-60-ns f3 v-top nested-copy">
+    <h2 class="f3-ns f3  lh-title">{{ title }}</h2>
+    <div class="f4">
+        {{ content | safe }}
+    </div>
+
   </div>
 </div>
 {% set posts = collections[collection] | reverse %}
