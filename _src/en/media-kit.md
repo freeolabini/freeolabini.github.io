@@ -8,43 +8,61 @@ Help raising awareness about the campaign. Reuse, share and print this material.
 
 ### Logo
 
-* Free Ola Bini 
+* Free Ola Bini: 
 [PNG](/media-kit/logo_free-ola_simplified.png) 
 [SVG](/media-kit/logo_free-ola_simplified.svg) 
 [AI](/media-kit/logo_free-ola_simplified.ai)
-* With Hashtag Overlay 
+* With Hashtag Overlay: 
 [PNG](/media-kit/logo_free-ola_overlay.png) 
 [SVG](/media-kit/logo_free-ola_overlay.svg) 
 [AI](/media-kit/logo_free-ola_overlay.ai)
-* Black & White 
+* Black & White:
 [PNG](/media-kit/logo_free-ola_black-white.png) 
 [SVG](/media-kit/logo_free-ola_black-white.svg)
 
 ### Social media
 
-* Profile icon [PNG](/media-kit/social-profile_icon_black-white.png) [SVG](/media-kit/social-profile_icon_black-white.svg)
-* Profile background banner [PNG](/media-kit/social-profile_banner_background.png) [SVG](/media-kit/social-profile_banner_background.svg)
+* Profile icon:
+[PNG](/media-kit/social-profile_icon_black-white.png)
+[SVG](/media-kit/social-profile_icon_black-white.svg)
+* Profile background banner:
+[PNG](/media-kit/social-profile_banner_background.png) 
+[SVG](/media-kit/social-profile_banner_background.svg)
 
 
 ### Posters and Flyers
 
-* Front [PDF](/media-kit/flyer_free-ola_front_A5.pdf) [PNG](/media-kit/flyer_free-ola_front_A5.png) [SVG](/media-kit/flyer_free-ola_front_A5.svg)
-* Back [PDF](/media-kit/flyer_free-ola_back_A5.pdf) [PNG](/media-kit/flyer_free-ola_back_A5.png) [SVG](/media-kit/flyer_free-ola_back_A5.svg) 
+* Front:
+[PDF](/media-kit/flyer_free-ola_front_A5.pdf) 
+[PNG](/media-kit/flyer_free-ola_front_A5.png) 
+[SVG](/media-kit/flyer_free-ola_front_A5.svg)
+* Back:
+[PDF](/media-kit/flyer_free-ola_back_A5.pdf)
+[PNG](/media-kit/flyer_free-ola_back_A5.png)
+[SVG](/media-kit/flyer_free-ola_back_A5.svg) 
 
 ### Presentations
 
 Include this slide in your presentations and talk about Ola's case
 
-* Slide [PDF](/media-kit/presentation_slide_free-ola.pdf) [PNG](/media-kit/presentation_slide_free-ola.png) [SVG](/media-kit/presentation_slide_free-ola.svg)
+* Slide:
+[PDF](/media-kit/presentation_slide_free-ola.pdf)
+[PNG](/media-kit/presentation_slide_free-ola.png)
+[SVG](/media-kit/presentation_slide_free-ola.svg)
 
 
 ### Stickers
 
-* Logo with Hashtag Overlay [JPG](/media-kit/sticker_1_8x8.jpg)
-* Quote: "A friend told me..." [JPG](/media-kit/sticker_2.jpg)
-* Quote: "Without privacy..." [JPG](/media-kit/sticker_3.jpg)
-* Logo simplified [PNG](/media-kit/sticker_4.png)
-* Logo hat only [PNG](/media-kit/sticker_5.png)
+* Logo with Hashtag Overlay:
+[JPG](/media-kit/sticker_1_8x8.jpg)
+* Quote: "A friend told me...":
+[JPG](/media-kit/sticker_2.jpg)
+* Quote: "Without privacy...":
+[JPG](/media-kit/sticker_3.jpg)
+* Logo simplified:
+[PNG](/media-kit/sticker_4.png)
+* Logo hat only:
+[PNG](/media-kit/sticker_5.png)
 
 ### T-shirts
 
