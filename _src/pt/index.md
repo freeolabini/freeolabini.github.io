@@ -22,7 +22,7 @@ menu:
     title: Cartas da detenção
     icon: la-file-text
 ---
-Nosso estimado colega, Ola Bini, está detido como preso político pelo governo do Equador. Por favor, mostre o seu apoio com essas ações:
+Ola Bini, desenvolvedor de software livre e defensor da la privacidade, está detido como preso político pelo governo do Equador. Por favor, mostre o seu apoio com essas ações:
 
 - Assine a nossa [carta de solidariedade] da comunidade tech
 - Ajuda a apoiar os esforços familiares e legais [doando para a campanha de financiamento coletivo][donate].
