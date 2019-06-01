@@ -20,10 +20,22 @@ Help raising awareness about the campaign. Reuse, share and print this material.
 [PNG](/media-kit/logo_free-ola_black-white.png) 
 [SVG](/media-kit/logo_free-ola_black-white.svg)
 
+### Social media
+
+* Profile icon [PNG](/media-kit/social-profile_icon_black-white.png) [SVG](/media-kit/social-profile_icon_black-white.svg)
+* Profile background banner [PNG](/media-kit/social-profile_banner_background.png) [SVG](/media-kit/social-profile_banner_background.svg)
+
+
 ### Posters and Flyers
 
 * Front [PDF](/media-kit/flyer_free-ola_front_A5.pdf) [PNG](/media-kit/flyer_free-ola_front_A5.png) [SVG](/media-kit/flyer_free-ola_front_A5.svg)
 * Back [PDF](/media-kit/flyer_free-ola_back_A5.pdf) [PNG](/media-kit/flyer_free-ola_back_A5.png) [SVG](/media-kit/flyer_free-ola_back_A5.svg) 
+
+### Presentations
+
+Include this slide in your presentations and talk about Ola's case
+
+* Slide [PDF](/media-kit/presentation_slide_free-ola.pdf) [PNG](/media-kit/presentation_slide_free-ola.png) [SVG](/media-kit/presentation_slide_free-ola.svg)
 
 
 ### Stickers
@@ -43,7 +55,6 @@ Sample:
 ![Sample t-shirts](/media-kit/t-shirts.jpg "Sample t-shirts")
 
 <!--  
-### Presentation slides
 
 ### Photographies
 
