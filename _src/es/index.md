@@ -22,7 +22,8 @@ menu:
     title: Cartas de detención
     icon: la-file-text
 ---
-Nuestro colega y amigo, Ola Bini, ha sido detenido como preso político por el gobierno de Ecuador y necesita de tu colaboración. Por favor, muestra tu apoyo a través de estas acciones:
+Ola Bini, desarrollador de software libre y defensor de la privacidad, ha sido detenido como preso político por el gobierno de Ecuador y necesita de tu colaboración. Por favor, muestra tu apoyo a través de estas acciones:
+
 - Firma la [carta de solidaridad] de la comunidad tecnológica
 - Ayuda a apoyar los esfuerzos familiares y legales [donando a esta campaña de financiación colectiva][dona].
 - [Envía un correo electrónico] al presidente de Ecuador a través del sitio de la campaña de Code Pink

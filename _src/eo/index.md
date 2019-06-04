@@ -22,8 +22,7 @@ menu:
     title: Leteroj de malliberejo
     icon: la-file-text
 ---
-Nia estimita kolego, Ola Bini, estas detenata kiel politika malliberulo
-en Ekvadoro. Bonvolu agi por montri vian subtenon:
+Ola Bini, privateca aktivisto kaj libera programisto, estas detenata kiel politika malliberulo en Ekvadoro. Bonvolu agi por montri vian subtenon:
 
 - Subskribu nian [solidaran leteron] el la teknika komunumo
 - Helpu subteni la familion kaj leĝaj penoj [donacante al la amasfinanciga kampanjo][donate].

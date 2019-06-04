@@ -22,7 +22,7 @@ menu:
     title: Lettere dal carcere
     icon: la-file-text
 ---
-Il nostro stimato collega, Ola Bini, è detenuto come prigioniero politico in Ecuador. Unisciti a noi in suo sostegno:
+Ola Bini, difensore della privacy e sviluppatore di software libero, è detenuto come prigioniero politico in Ecuador. Unisciti a noi in suo sostegno:
 
 - Firma la [lettera di solidarietà] della nostra tech community
 - Sostieni gli sforzi della famiglia e dei legali [donando alla campagna di finanziamento][donare].
