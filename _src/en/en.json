@@ -21,6 +21,11 @@
       "icon": "la-star"
     },
     {
+      "path": "/en/timeline-ola",
+      "title": "Timeline of Ola's detention",
+      "icon": "la-calendar"
+    },
+    {
       "path": "/en/letters",
       "title": "Letters from detention",
       "icon": "la-file-text"

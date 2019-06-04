@@ -5,7 +5,7 @@ layout: index.njk
 collection: en
 image: /img/oladrawing.jpg
 ---
-Our esteemed colleague, Ola Bini, is being detained as a political prisoner in Ecuador. Please take action to show your support:
+Ola Bini, privacy advocate and free software developer, is being detained as a political prisoner in Ecuador. Please take action to show your support:
 
  - Follow [@FreeOlaBini], tweet [#FreeOlaBini] and visit freeolabini.org for updates
  - Help support the family and legal effors by [donating to the crowd funding campaign][donate].
