@@ -66,3 +66,6 @@ The International Team stated:
 
 > We are deeply concerned that the Ecuadorian judiciary lacks the necessary independence required by any democratic state and by the minimum standards of due process. In such a hostile environment and following a politically charged campaign, his continued detention and possible charges constitutes an abuse of process in breach of national law and Ecuador's international treaty obligations. As a result of the failures by the domestic courts the Petitioner has no option but to take this to the UN to intervene.
 
+<br>
+
+Original statement can be found here: [https://www.guernica37.com/post/press-statement-international-legal-team-for-ola-bini-files-urgent-appeal-to-un-special-procedures](https://www.guernica37.com/post/press-statement-international-legal-team-for-ola-bini-files-urgent-appeal-to-un-special-procedures)
