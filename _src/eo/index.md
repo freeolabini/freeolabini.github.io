@@ -4,23 +4,6 @@ title: Ola Bini Arestita en Ekvadoro
 layout: index.njk
 collection: eo
 image: /img/oladrawing.jpg
-menu:
-  -
-    path: https://www.gofundme.com/freeolabini
-    title: Donacu
-    icon: la-heart
-  -
-    path: /en/tweet-this
-    title: Pepu ĉi tiun!
-    icon: la-retweet
-  -
-    path: /eo/about-ola
-    title: Pri Ola
-    icon: la-star
-  -
-    path: /eo/letters
-    title: Leteroj de malliberejo
-    icon: la-file-text
 ---
 Ola Bini, privateca aktivisto kaj libera programisto, estas detenata kiel politika malliberulo en Ekvadoro. Bonvolu agi por montri vian subtenon:
 

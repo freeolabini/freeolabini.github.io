@@ -21,9 +21,19 @@
       "icon": "la-star"
     },
     {
+      "path": "/en/timeline-ola",
+      "title": "Timeline of Ola's detention",
+      "icon": "la-calendar"
+    },
+    {
       "path": "/es/letters",
       "title": "Cartas de detención",
       "icon": "la-file-text"
+    },
+    {
+      "path": "/es/recommended-reading",
+      "title": "Lecturas recomendadas",
+      "icon": "la-file"
     }
   ]
 }

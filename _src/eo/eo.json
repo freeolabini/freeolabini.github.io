@@ -21,9 +21,19 @@
       "icon": "la-star"
     },
     {
+      "path": "/en/timeline-ola",
+      "title": "Timeline of Ola's detention",
+      "icon": "la-calendar"
+    },
+    {
       "path": "/eo/letters",
       "title": "Leteroj de malliberejo",
       "icon": "la-file-text"
+    },
+    {
+      "path": "/en/recommended-reading",
+      "title": "Recommended readings",
+      "icon": "la-file"
     }
   ]
 }

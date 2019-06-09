@@ -4,23 +4,6 @@ title: Ola Bini arrestado en Ecuador
 layout: index.njk
 collection: es
 image: /img/oladrawing.jpg
-menu:
-  -
-    path: https://www.gofundme.com/freeolabini
-    title: Dona
-    icon: la-heart
-  -
-    path: /es/tweet-this
-    title: Twitea Esto!
-    icon: la-retweet
-  -
-    path: /es/about-ola
-    title: Sobre Ola
-    icon: la-star
-  -
-    path: /es/letters
-    title: Cartas de detención
-    icon: la-file-text
 ---
 Ola Bini, desarrollador de software libre y defensor de la privacidad, ha sido detenido como preso político por el gobierno de Ecuador y necesita de tu colaboración. Por favor, muestra tu apoyo a través de estas acciones:
 

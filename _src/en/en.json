@@ -29,6 +29,11 @@
       "path": "/en/letters",
       "title": "Letters from detention",
       "icon": "la-file-text"
+    },
+    {
+      "path": "/en/recommended-reading",
+      "title": "Recommended readings",
+      "icon": "la-file"
     }
   ]
 }
