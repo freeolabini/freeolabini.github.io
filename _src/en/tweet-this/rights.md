@@ -4,4 +4,6 @@ tags: tweeten
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
- Let #OlaBini defend himself in freedom on bail! #FreeOlaBin
+Ola Bini’s rights have been violated repeatedly by #Ecuador.
+#HabeusCorpus
+#FreeOlaBini
