@@ -4,5 +4,6 @@ tags: tweetfr
 image: /img/freeola.jpg
 title: Libérez Ola Bini. Tweet ça!
 ---
-Les droits de Ola Bini sont violés. @FiscaliaEcuador n'a pas 
-respecté la procédure. #FreeOlaBini
+Les droits de #OlaBini ont été violés à plusieurs reprises.
+#HabeusCorpus
+#FreeOlaBini
