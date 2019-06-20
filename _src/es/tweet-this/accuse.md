@@ -4,4 +4,4 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-¡Dejen que Ola Bini se defienda en libertad! #FreeOlaBini
+Hasta ahora no se sabe de que acusan a Ola Bini. #FreeOlaBini
