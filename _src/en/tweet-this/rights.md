@@ -5,5 +5,5 @@ image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
 Ola Bini’s rights have been violated repeatedly by #Ecuador.
-#HabeusCorpus
+#HabeasCorpus
 #FreeOlaBini
