@@ -4,4 +4,4 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-Relatores de ONU y CIDH han expresado su preocupación por la detención de Ola Bini. #FreeOlaBini
+Relatores de ONU y CIDH han expresado su preocupación por la detención de Ola Bini en #Ecuador. #HabeasCorpus #FreeOlaBini
