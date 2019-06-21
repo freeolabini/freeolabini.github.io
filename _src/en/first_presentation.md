@@ -11,7 +11,7 @@ These two videos are of Ola Bini showing his presence at the Prosecution's offic
 
 Prior to going to the office:
 <center><iframe width="700" height="500"
-src="https://archive.org/details/Ola21JuneVideo1_201906/download/Ola21JuneVideo1_201906/Ola_21_June_Video_1.mp4">
+src="https://archive.org/details/Ola21JuneVideo1_201906">
 </iframe></center>
 
 The statement and questions after Ola Bini presented himself at the Prosecution's office:
