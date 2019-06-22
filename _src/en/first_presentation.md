@@ -10,13 +10,7 @@ title: Ola Bini presents himself at the Prosecution's office
 These two videos are of Ola Bini showing his presence at the Prosecution's office, as requested by justice in Ecuador. This is the first time he attends.
 
 Prior to going to the office:
-<center><iframe width="700" height="500"
-src="https://archive.org/details/Ola21JuneVideo1_201906">
-</iframe></center>
+<center><iframe src="https://archive.org/embed/Ola21JuneVideo1_201906" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></center>
 
 The statement and questions after Ola Bini presented himself at the Prosecution's office:
-<center><iframe width="700" height="500"
-src="https://archive.org/details/signatures_freeolabini_Ola2">
-</iframe></center>
-
-
+<center><iframe src="https://archive.org/embed/signatures_freeolabini_Ola2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></center>
