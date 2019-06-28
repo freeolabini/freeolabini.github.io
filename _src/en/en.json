@@ -34,6 +34,11 @@
       "path": "/en/recommended-reading",
       "title": "Recommended readings",
       "icon": "la-file"
+    },
+    {
+      "path": "/en/latestnews",
+      "title": "Latest News",
+      "icon": "la-newspaper-o"
     }
   ]
 }

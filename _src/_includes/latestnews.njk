@@ -1,0 +1,7 @@
+---
+layout: post.njk
+---
+{{ content }}
+{% set posts = collections[collection] | reverse %}
+{% include "posts.njk" %}
+
