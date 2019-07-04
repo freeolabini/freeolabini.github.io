@@ -4,7 +4,7 @@
   <subtitle>Campaign to Free Ola Bini</subtitle>
   <link href="https://freeolabini.org/feed.xml" rel="self"/>
   <link href="http://freeolabini.org/"/>
-  <updated>2019-06-27T02:00:00+02:00</updated>
+  <updated>2019-07-04T02:00:00+02:00</updated>
   <id>https://freeolabini.org/</id>
   <author>
     <name>Free Ola Bini</name>
@@ -5552,6 +5552,16 @@ On 11 April, Mr. Ola Bini was arrested and detained at Mariscal Sucre Internatio
     <updated>2019-06-27T02:00:00+02:00</updated>
     <id>http://freeolabini.org/en/latestnews/puntonoticias/</id>
     <content type="html">&lt;p&gt;En nuestra primera emisión tuvimos a Ola Bini, desarrollador de software y programador sueco, quien contó cómo fue su detención, arbitraria e ilegal, según sus abogados, que lo llevó a la cárcel.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Ola Bini interview at La Barra Espaciadora</title>
+    <link href="http://freeolabini.org/en/latestnews/barraespaciadora/"/>
+    <updated>2019-07-04T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/en/latestnews/barraespaciadora/</id>
+    <content type="html">&lt;p&gt;La controversial detención del sueco Ola Bini, en Quito, supone la necesidad de preguntarnos por las motivaciones del gobierno de Lenín Moreno y las de su ministra más fuerte, María Paula Romo, para propiciar un arresto sin pruebas suficientes y mediante un proceso que a todas luces mostró ilegalidades. ¿Qué hace a Ola Bini sospechoso a los ojos del poder? ¿Cuánta ignorancia y cuánto miedo pueden llevar a un gobierno a atropellar derechos humanos? ¿Qué saben los gobiernos sobre privacidad y seguridad en internet?&lt;/p&gt;
+&lt;p&gt;Lee el artículo completo &lt;a href=&quot;https://labarraespaciadora.com/entrevistas/ola-bini-libertad/&quot;&gt;aquí&lt;/a&gt; por Diego Cazar Baquero y Lise Hermann.&lt;/p&gt;
 </content>
   </entry>
 </feed>
