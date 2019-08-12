@@ -16,3 +16,7 @@ arrestado en abril. El consenso de los expertos con los que hablamos fue que un
 factor importante que afectaba el estado actual del juicio eran las
 consecuencias políticas percibidas del abandono del caso o de la continuación
 del enjuiciamiento. Más información [aquí](https://www.eff.org/es/deeplinks/2019/08/ecuador-political-actors-must-step-away-ola-binis-case).
+
+El siguiente video (en inglés) es la siguiente parte de los hallazgos:
+
+<center><iframe src="https://archive.org/embed/englisheff" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></center>
