@@ -3,7 +3,7 @@ layout: video.njk
 date: 2019-08-07
 image: https://img.youtube.com/vi/5D9aADzQu8M/0.jpg
 videoembed: https://www.youtube.com/embed/5D9aADzQu8M
-title: Conferencia de prensa del FEP sobre el Investigador de Seguridad Ola Bini, Arrestado desde Abril
+title: Conferencia de prensa del FEP sobre el Investigador de Seguridad Ola Bini, arrestado desde Abril
 tags:
   - recommendedes
   - post
