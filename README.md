@@ -13,7 +13,7 @@ Our esteemed colleague, Ola Bini, is being persecuted in a political manner in E
  - Email [support@freeolabini.org] if you want to help with these campaign efforts
  - Sign our [solidarity letter][statement] from the tech community
  - [Join][newsletter] our newsletter for updates
- - Sign our [on-going persecution][statement_2] from the tech community
+ - Sign our [on-going persecution statement][statement_2] from the tech community
 
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
 [#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini+%23FreeOlaBini&hashtags=FreeOlaBini
