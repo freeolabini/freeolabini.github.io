@@ -6,18 +6,22 @@ image: /img/freeola.jpg
 
 Help raising awareness about the campaign. Reuse, share and print this material.
 
+### Counter
+
+* [One Slide](/media-kit/Contador.pptx)
+
 ### Logo
 
-* Free Ola Bini: 
-[PNG](/media-kit/logo_free-ola_simplified.png) 
-[SVG](/media-kit/logo_free-ola_simplified.svg) 
+* Free Ola Bini:
+[PNG](/media-kit/logo_free-ola_simplified.png)
+[SVG](/media-kit/logo_free-ola_simplified.svg)
 [AI](/media-kit/logo_free-ola_simplified.ai)
-* With Hashtag Overlay: 
-[PNG](/media-kit/logo_free-ola_overlay.png) 
-[SVG](/media-kit/logo_free-ola_overlay.svg) 
+* With Hashtag Overlay:
+[PNG](/media-kit/logo_free-ola_overlay.png)
+[SVG](/media-kit/logo_free-ola_overlay.svg)
 [AI](/media-kit/logo_free-ola_overlay.ai)
 * Black & White:
-[PNG](/media-kit/logo_free-ola_black-white.png) 
+[PNG](/media-kit/logo_free-ola_black-white.png)
 [SVG](/media-kit/logo_free-ola_black-white.svg)
 
 ### Social media
@@ -26,20 +30,20 @@ Help raising awareness about the campaign. Reuse, share and print this material.
 [PNG](/media-kit/social-profile_icon_black-white.png)
 [SVG](/media-kit/social-profile_icon_black-white.svg)
 * Profile background banner:
-[PNG](/media-kit/social-profile_banner_background.png) 
+[PNG](/media-kit/social-profile_banner_background.png)
 [SVG](/media-kit/social-profile_banner_background.svg)
 
 
 ### Posters and Flyers
 
 * Front:
-[PDF](/media-kit/en/flyer_free-ola_front_A5.pdf) 
-[PNG](/media-kit/en/flyer_free-ola_front_A5.png) 
+[PDF](/media-kit/en/flyer_free-ola_front_A5.pdf)
+[PNG](/media-kit/en/flyer_free-ola_front_A5.png)
 [SVG](/media-kit/en/flyer_free-ola_front_A5.svg)
 * Back:
 [PDF](/media-kit/en/flyer_free-ola_back_A5.pdf)
 [PNG](/media-kit/en/flyer_free-ola_back_A5.png)
-[SVG](/media-kit/en/flyer_free-ola_back_A5.svg) 
+[SVG](/media-kit/en/flyer_free-ola_back_A5.svg)
 
 ### Presentations
 
@@ -72,7 +76,7 @@ Sample:
 
 ![Sample t-shirts](/media-kit/t-shirts.jpg "Sample t-shirts")
 
-<!--  
+<!--
 
 ### Photographies
 
