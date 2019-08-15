@@ -5,7 +5,7 @@ tags:
   - pt
 date: 2019-08-13
 image: /img/statement_conf.jpg
-title: Against the Political Persecution of Ola Bini
+title: Civil society organizations sign joint statement against the ongoing persecution of Ola Bini
 ---
 
 Ola Bini is a renowned free software activist and an expert in digital security.
