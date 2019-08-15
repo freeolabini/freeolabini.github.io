@@ -27,7 +27,7 @@ Our esteemed colleague, Ola Bini, is being persecuted in a political manner in E
 ## Contributing
 
 
-### Chat Room`
+### Chat Room
 Join our [Wire Guest Room](/JOIN-CHAT.md) if you want to help or have any questions.
 
 
