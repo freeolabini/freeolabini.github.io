@@ -39,6 +39,11 @@
       "path": "/en/latestnews",
       "title": "Latest News",
       "icon": "la-newspaper-o"
+    },
+    {
+      "path":"/en/daycounter",
+      "title":"Day Counter",
+      "icon":"la-clock-o"
     }
   ]
 }
