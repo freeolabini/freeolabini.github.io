@@ -13,6 +13,7 @@ Ola Bini, privacy advocate and free software developer, is being detained as a p
  - Email [support@freeolabini.org] if you want to help with these campaign efforts
  - Sign our [solidarity letter][statement] from the tech community
  - [Join][newsletter] our newsletter for updates
+ - Sign our [on-going persecution statement][statement_2] from the community
 
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
 [#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini+%23FreeOlaBini&hashtags=FreeOlaBini
@@ -21,4 +22,5 @@ Ola Bini, privacy advocate and free software developer, is being detained as a p
 [support@freeolabini.org]: mailto:support@freeolabini.org
 [statement]: /en/statement/
 [newsletter]: /en/subscribe/
+[statement_2]: https://freeolabini.org/en/statement_2/
 
