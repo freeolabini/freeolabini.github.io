@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: postform.njk
 tags:
   - post
   - en
@@ -29,4 +29,3 @@ We invite you and your organization to add your signature to the following state
 
 #FreeOlaBini
 
-### Please add your/your organization's name to this statement of support by emailing: [signatures@freeolabini.org]

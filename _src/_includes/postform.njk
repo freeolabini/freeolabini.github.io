@@ -1,0 +1,55 @@
+---
+layout: post.njk
+---
+{{ content | safe }}
+
+<article class="pa4 avenir black-80">
+
+  <form id="contact-form" method="post">
+    <input type="hidden" name="contact_number">
+    <fieldset class="ba b--transparent ph0 mh0">
+      <legend class="ph0 mh0 fw6 ">Sign this statement</legend>
+      <div class="mt3">
+        <label class="db fw6 lh-copy f6" >Name or Organization</label>
+        <input class="pa2 input-reset ba bg-transparent w-50 measure" type="text" name="name"  placeholder="Name Surname" required />
+      </div>
+      <div class="mt3">
+        <label class="db fw6 lh-copy f6" for="email">Email</label>
+        <input class="pa2 input-reset ba bg-transparent w-50 measure" type="email" name="email_address" placeholder="user@example.com" required />
+      </div>
+      <div class="mt3">
+        <label class="db fw6 lh-copy f6" for="url">URL:</label>
+        <input  class="pa2 input-reset ba bg-transparent w-50 measure" type="url" name="url" placeholder= "http://www.example.com"/>
+      </div>
+      <div class="mt3">
+        <label class="db fw6 lh-copy f6" for= "url"> Logo URL:</label>
+        <input t class="pa2 input-reset ba bg-transparent w-50 measure" type="url" name="logo_url" placeholder= "http://www.example.com/logo.png"/>
+      </div>
+     </fieldset>
+   <div class="mt3"><input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6" type="submit" value="Send"></div>
+  </form>
+
+</article>
+
+<script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.3.2/email.min.js"></script>
+<script type="text/javascript">
+  window.onload = function() {
+    (function(){
+       emailjs.init("user_Gl9OgUZNTsCMMgd2isKga")
+     })()
+     document.getElementById('contact-form').addEventListener('submit', function(event) {
+       event.preventDefault()
+       this.contact_number.value = Math.random() * 100000 | 0
+       emailjs.sendForm('default_service','template_c7ua7xQN',this)
+       .then(function(){ 
+         alert("Sent!")
+       }, function(err) {
+         alert("Send email failed!\r\n Response:\n " + JSON.stringify(err));
+
+       })
+     })
+  }
+</script>
+
+
+
