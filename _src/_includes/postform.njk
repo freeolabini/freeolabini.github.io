@@ -38,8 +38,6 @@ layout: post.njk
        emailjs.init("user_Gl9OgUZNTsCMMgd2isKga")
      })()
      document.getElementById('contact-form').addEventListener('submit', function(event) {
-       var button = document.getElementById('send-button')
-       button.value = "Sending ..."
        event.preventDefault()
        this.contact_number.value = Math.random() * 100000 | 0
        emailjs.sendForm('default_service','template_c7ua7xQN',this)
@@ -49,7 +47,6 @@ layout: post.njk
          alert("Send email failed!\r\n Response:\n " + JSON.stringify(err));
 
        })
-       button.value = "Send"
      })
   }
 </script>
