@@ -5,7 +5,7 @@
 https://freeolabini.org
 
 
-Our esteemed colleague, Ola Bini, is being detained as a political prisoner in Ecuador. Please take action to show your support:
+Our esteemed colleague, Ola Bini, is being persecuted in a political manner in Ecuador. Please take action to show your support:
 
  - Follow [@FreeOlaBini], tweet [#FreeOlaBini] and visit freeolabini.org for updates
  - Help support the family and legal effors by [donating to the crowd funding campaign][donate].
@@ -13,6 +13,7 @@ Our esteemed colleague, Ola Bini, is being detained as a political prisoner in E
  - Email [support@freeolabini.org] if you want to help with these campaign efforts
  - Sign our [solidarity letter][statement] from the tech community
  - [Join][newsletter] our newsletter for updates
+ - Sign our [on-going persecution][statement_2] from the tech community
 
 [@FreeOlaBini]: http://twitter.com/FreeOlaBini
 [#FreeOlaBini]: https://twitter.com/intent/tweet?url=https://freeolabini.org&text=Digital+rights+defender+Ola+Bini+has+been+imprisoned+in+Ecuador.+Please+follow+@FreeOlaBini+%23FreeOlaBini&hashtags=FreeOlaBini
@@ -21,6 +22,7 @@ Our esteemed colleague, Ola Bini, is being detained as a political prisoner in E
 [support@freeolabini.org]: mailto:support@freeolabini.org
 [statement]: https://freeolabini.org/en/statement/
 [newsletter]: https://freeolabini.org/en/subscribe/
+[statement_2]: https://freeolabini.org/en/statement_2/
 
 ## Contributing
 
