@@ -5,7 +5,7 @@ tags:
   - es
 date: 2019-08-13
 image: /img/statement_conf.jpg
-title: Contra la persecución política a Ola Bini
+title: Organizaciones de la sociedad civil firman declaración conjunta contra la persecución en curso de Ola Bini
 ---
 Ola Bini es un reconocido activista por el software libre y experto en seguridad
 digital. Desde el 11 de abril de 2019 se encuentra sujeto a un proceso judicial
