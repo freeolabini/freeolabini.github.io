@@ -4,4 +4,4 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-Rechazamos la presión política que el gobierno de #Ecuador ha ejercido contra la justicia en el caso de @olabini. 124 días #FreeOlaBini
+Rechazamos la presión política que el gobierno de #Ecuador ha ejercido contra la justicia en el caso de @olabini. 127 días #FreeOlaBini
