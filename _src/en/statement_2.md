@@ -1,5 +1,5 @@
 ---
-layout: postform.njk
+layout: statement2.njk
 tags:
   - post
   - en

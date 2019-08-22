@@ -1,0 +1,13 @@
+---
+layout: post.njk
+---
+{{ content | safe }}
+{% include "forminc.njk" %}
+
+<h2 class ="avenir">Signatories</h2>
+<div class="tc">
+<div class="lh-solid tl tc-ns mt4">
+{%- for signature in collections.signatures2 -%}
+  <a class="bg-dark-gray white link dim db dib-ns mt2 mh2-ns pa2" href="{{ signature.data.url }}">{{ signature.data.name | replace(" ", "&nbsp;") | safe }}</a>
+{%- endfor -%}
+</div>
