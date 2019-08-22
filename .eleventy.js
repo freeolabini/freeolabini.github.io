@@ -7,7 +7,7 @@ module.exports = config => {
   // collections
   config.addCollection('signatures', require('./_src/_utils/getsignatures'))
   config.addCollection('signatureOrgs', require('./_src/_utils/getsignatureorgs'))
-
+  config.addCollection('signatures2', require('./_src/_utils/getsignatures2'))
   return {
     templateFormats: [
       "md",
