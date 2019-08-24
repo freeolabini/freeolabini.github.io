@@ -2,25 +2,25 @@
 layout: post.njk
 date: 2019-06-06
 image: /img/ola_comp.jpg
-title: On collaboration
+title: Sulla collaborazione
 tags:
   - letterit
   - post
   - it
 ---
-STATEMENT: ON COLLABORATION
+DICHIARAZIONE: SULLA COLLABORAZIONE
 
-In yesterday’s bail hearing, both the prosecution and the judge claimed repeatedly that I have not been collaborating with the legal process. The implication was that keeping me in prison is a punishment for this perceived lack of collaboration.
+Nell'audizione sulla cauzione di ieri, sia l'accusa che il giudice hanno ripetutamente affermato che non ho collaborato al processo legale. L'implicazione è stata che tenermi in prigione è una punizione per questa percepita mancanza di collaborazione.
 
-In fact, the prosecution has only asked for my cooperation in two instances. The first happened approximately at 03:15, early  morning of April 12th. There, they claimed they had a court order to enter my home (but they never showed me) and asked if I would help them get in. I didn’t say no. I said I needed my lawyer to answer that. They denied my request for lawyer and broke into my house.
+In effetti, l'accusa ha richiesto la mia collaborazione solo in due casi. Il primo è avvenuto all'incirca alle 03:15, la mattina presto del 12 aprile. Lì, hanno affermato di avere un ordine del tribunale per entrare in casa mia (ma non mi hanno mai mostrato) e hanno chiesto se li avessi potuti aiutare ad entrare. Non ho detto di no. Ho detto che avevo bisogno del mio avvocato per rispondere. Hanno negato la mia richiesta di avvocato e sono entrati in casa mia.
 
-The other instance is the case of my encrypted devices, where I said I would consider helping if the prosecution tells me what I’m being accused of.
+L'altra istanza è il caso dei miei dispositivi crittografati, in cui ho detto che prenderei in considerazione la possibilità di aiutare se l'accusa mi dicesse di cosa sono accusato.
 
-These are the only two questions the prosecution has ever asked me. There has been no interrogation. No questions. No attempts to resolve the situation.
+Queste sono le uniche due domande che l'accusa mi ha mai posto. Non ci sono stati interrogatori. Niente domande. Nessun tentativo di risolvere la situazione.
 
-I’m not at all against cooperating with the investigation. Even though I believe this legal system has lost its authority over me by dealing in an obviously illegal and political manner. I’m perfectly willing to answer questions, as long as they don’t infringe on the privacy of me or others.
+Non sono affatto contrario a collaborare all'inchiesta. Anche se credo che questo sistema legale abbia ora perso la sua autorità su di me trattando in modo evidentemente illegale e politico. Sono perfettamente disposto a rispondere alle domande, purché non violino la mia privacy o di altri.
 
-The truth is, it’s the prosecution that has not been interested in collaboration. It’s not right to hold me responsible and punish me for that.
+La verità è che l'accusa non è stata interessata alla mia collaborazione. Non è giusto ritenermi responsabile e punirmi per questo.
 
 2019-05-30
 
