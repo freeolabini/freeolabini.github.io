@@ -5,26 +5,26 @@ tags:
   - it
 date: 2019-06-13
 image: /img/rcon.png
-title: RightsCon Tunis
+title: RightsCon Tunisi
 ---
 
-Greetings to all of you at RightsCon in Tunis. My name is Ola Bini. I work on technical security and privacy issues. I’m writing to you on Friday, May 24th, 2019 from the provisional detention center El Inca, in Quito, Ecuador. I have today been illegally imprisoned for 43 days and in this facility for 41 of those.
+Saluti a tutti voi al RightsCon di Tunisi. Mi chiamo Ola Bini. Lavoro su temi di sicurezza informatica e privacy. Vi scrivo venerdì 24 maggio 2019 dal centro di detenzione provvisoria El Inca, a Quito, in Ecuador. Ad oggi sono stato imprigionato illegalmente per 43 giorni ed in questa struttura per 41 di questi.
 
-On Wednesday 29th, there will be a bail hearing. So, when you receive this, it’s possible that I’m out, in some capacity. Unfortunately, it’s not likely. The judiciary have been completely captured by political interests and it’s unlikely they will let me out. There still exists absolutely no evidence of wrongdoing, but to admit that would mean the government would lose face.
+Mercoledì 29, ci sarà un'audizione per la cauzione. Quindi, quando riceverete questo, è possibile che io sia fuori, in qualche modo. Sfortunatamente, non è probabile. La magistratura è stata completamente in balia di interessi politici ed è improbabile che mi lasceranno andare. Non esiste ancora alcuna prova di illeciti, ma ammettere ciò significherebbe che il governo perda la faccia.
 
-I believe in the right to privacy. Not just in isolation, but also as a fundamental principle that is necessary for other rights to be possible. Privacy is necessary for self-determination, and without this personal freedom, democracy itself is undermined, and without democracy, most of the rest of our rights are impossible.
+Credo nel diritto alla privacy. Non solo in senso isolato, ma anche come principio fondamentale necessario affinché siano possibili altri diritti. La privacy è necessaria per l'autodeterminazione e, senza questa libertà personale, la democrazia stessa è compromessa e senza democrazia, la maggior parte dei nostri restanti diritti è impossibile.
 
-There is currently a stream of thought in public debate that security is in opposition to privacy. I personally believe this is misguided in the extreme. Security is fundamentally a set of tools that can be used for many different purposes and if you say that we have to give up privacy in order to protect the security of  the community, you are committing a contradiction, an oxymoron. For us to protect our communities, we need to use tools of security to protect privacy, not compromise it.
+C'è attualmente una corrente di pensiero nel dibattito pubblico sul fatto che la sicurezza sia contraria alla privacy. Personalmente credo che questo sia estremamente fuorviante. La sicurezza è fondamentalmente un insieme di strumenti che possono essere utilizzati per molti scopi diversi e se dite che dobbiamo rinunciare alla privacy per proteggere la sicurezza della comunità, state commettendo una contraddizione, un ossimoro. Per noi per proteggere le nostre comunità, dobbiamo usare strumenti di sicurezza per proteggere la privacy, non comprometterla.
 
-My case is extreme. The only indications and reasons the prosecution has submitted is the large amount of technology I possess, the books and knowledge I have and my friendship with Julian Assange. None of these things could ever be considered evidence of a crime. But still I’m here.
+Il mio caso è estremo. L'unica indicazione e ragioni presentate dall'accusa sono la grande quantità di strumenti tecnologici che possiedo, i libri e le conoscenze che possiedo e la mia amicizia con Julian Assange. Nessuna di queste cose potrebbe mai essere considerata la prova di un crimine. Tuttavia sono ancora qui.
 
-Unless some of you think that this is only Ecuador, a small so-called developing country in Latin America and this could never happen in the so-called developed western world. I want to point out that these kinds of political abuses of justice ARE happening. Look at Chelsea Manning, back in prison, back in solitary confinement for her values. Look at Jeremy Hammond, who was forced to accept a plea deal for 10 years in prison since the prosecutor threatened him with a life spent in trials if he didn’t plea guilty. Look at Julian Assange, who despite widespread disbelief, is now facing extradition to the US and a potential risk to his life and look at Aaron Swartz, who was threatened and bullied by federal prosecutors until he couldn’t take it anymore and ended his life.
+In caso che alcuni di voi pensino che questo sia solo l'Ecuador, un piccolo paese  cosiddetto 'in via di sviluppo' in America Latina e questo non potrebbe mai accadere nel cosiddetto 'sviluppato' mondo occidentale. Voglio sottolineare che si stanno verificando questi tipi di abusi politici del sitema giuridico. Guardate a Chelsea Manning, di nuovo in carcere, di nuovo in isolamento per i suoi principi. Guardate a Jeremy Hammond, che è stato costretto ad accettare un patteggiamento per 10 anni di carcere da quando il pubblico ministero lo ha minacciato con una vita trascorsa in processi se non si fosse dichiarato colpevole. Guardate a Julian Assange, che nonostante l'ampia incredulità, ora sta affrontando un'estradizione negli Stati Uniti e un potenziale rischio per la sua vita e guardate Aaron Swartz, che è stato minacciato e vittima di bullismo dai pubblici ministeri federali fino a quando non è riuscito a reagire più e ha posto termine alla proprio vita.
 
-Is this right? Is this justice? Is this the world we want?
+È corretto? È questa giustizia? È questo il mondo che vogliamo?
 
-This war is only just beginning. My situation is just the latest battle. If we care about our rights, our values, we need to fight now. Before it’s too late.
+Questa guerra è solo all'inizio. La mia situazione è solo l'ultima battaglia. Se ci preoccupiamo dei nostri diritti, dei nostri valori, dobbiamo combattere ora. Prima che sia troppo tardi.
 
-In solidarity,
+In solidarietà,
 
 Ola Bini
 
