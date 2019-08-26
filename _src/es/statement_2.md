@@ -1,5 +1,5 @@
 ---
-layout: postform.njk
+layout: statement2.njk
 tags:
   - post
   - es
@@ -19,9 +19,9 @@ Este es su pronunciamiento:
 
 Ola Bini es un reconocido activista por el software libre y experto en seguridad digital. Desde el 11 de abril de 2019 se encuentra sujeto a un proceso judicial en Ecuador, acusado de haber vulnerado sistemas informáticos. Tal proceso, sin embargo, ha sido ampliamente cuestionado por la multiplicidad de irregularidades cometidas y por estar bajo un sinnúmero de presiones políticas.
 
-El primer elemento ha sido confirmado por el Habeas Corpus otorgado en junio pasado por parte del tribunal de la Corte Provincial de Pichincha y por las expresiones oportunamente realizadas por las Relatorías Especiales sobre la Libertad de Expresión de la Organización de Estados Americanos (OEA) y la Organización de las Naciones Unidas (ONU).<sup>1</sup> <sup>2</sup>
+El primer elemento ha sido confirmado por el [Habeas Corpus otorgado en junio](https://cnnespanol.cnn.com/2019/06/20/tribunal-de-ecuador-acepta-recurso-de-habeas-corpus-para-ola-bini/) pasado por parte del tribunal de la Corte Provincial de Pichincha y por [las expresiones oportunamente realizadas](https://www.eluniverso.com/noticias/2019/04/15/nota/7287350/relatorias-onu-oea-cuestionan-detencion-ola-bini) por las Relatorías Especiales sobre la Libertad de Expresión de la Organización de Estados Americanos (OEA) y la Organización de las Naciones Unidas (ONU).
 
-Por su parte, la Misión Internacional de la Electronic Frontier Foundation (EFF) enviada recientemente a Ecuador, tras conversar sobre esta situación con políticos, académicos y periodistas de distintas tendencias, ha concluido que la motivación tras el caso de Ola Bini es política, no criminal.<sup>3</sup> De hecho, todavía se desconoce cuáles son los sistemas informáticos de cuya vulneración se le acusó en un principio.
+Por su parte, la Misión Internacional de la Electronic Frontier Foundation (EFF) enviada recientemente a Ecuador, tras conversar sobre esta situación con políticos, académicos y periodistas de distintas tendencias, [ha concluido](https://www.eff.org/es/deeplinks/2019/08/ecuador-political-actors-must-step-away-ola-binis-case) que la motivación tras el caso de Ola Bini es política, no criminal. De hecho, todavía se desconoce cuáles son los sistemas informáticos de cuya vulneración se le acusó en un principio.
 
 Junto con ello, una serie de hechos recientes han encendido nuevas alertas. En primer lugar, la vinculación de una nueva persona a la causa por el sólo hecho de mantener un vínculo profesional con Bini y a pesar de que en la audiencia respectiva no se presentaron los elementos jurídicos necesarios para cumplir con dicho trámite. Además, el Fiscal a cargo de la acusación decidió abrir dos nuevas líneas de investigación contra Ola Bini: por “defraudación fiscal” y “tráfico de influencias”. De tal forma, la fiscalía ahora se propone investigar por hasta el plazo de 2 años más al activista.
 
@@ -39,12 +39,6 @@ Considerando lo expresado más arriba y las conversaciones mantenidas en el marc
 <img src="https://stats.karisma.org.co/wp-content/uploads/2019/08/LOGOS-OLA-1024x114.png" alt="" class="wp-image-19508" srcset="https://stats.karisma.org.co/wp-content/uploads/2019/08/LOGOS-OLA-1024x114.png 1024w, https://stats.karisma.org.co/wp-content/uploads/2019/08/LOGOS-OLA-300x33.png 300w, https://stats.karisma.org.co/wp-content/uploads/2019/08/LOGOS-OLA.png 1268w, https://stats.karisma.org.co/wp-content/uploads/2019/08/LOGOS-OLA-300x33@2x.png 600w" sizes="(max-width: 1024px) 100vw, 1024px">
 
 El pronunciamiento puede ser encontrado en su totalidad [aquí](https://ia601405.us.archive.org/25/items/pronunciamiento_201908/Pronunciamiento.pdf).
-
-<sup>1</sup> https://cnnespanol.cnn.com/2019/06/20/tribunal-de-ecuador-acepta-recurso-de-habeas-corpus-para-ola-bini/
-
-<sup>2</sup> https://www.eluniverso.com/noticias/2019/04/15/nota/7287350/relatorias-onu-oea-cuestionan-detencion-ola-bini
-
-<sup>3</sup> https://www.eff.org/es/deeplinks/2019/08/ecuador-political-actors-must-step-away-ola-binis-case
 
 ---
 
