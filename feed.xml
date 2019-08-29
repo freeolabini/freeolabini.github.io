@@ -4,7 +4,7 @@
   <subtitle>Campaign to Free Ola Bini</subtitle>
   <link href="https://freeolabini.org/feed.xml" rel="self"/>
   <link href="http://freeolabini.org/"/>
-  <updated>2019-08-28T21:37:41.209+02:00</updated>
+  <updated>2019-08-29T02:00:00+02:00</updated>
   <id>https://freeolabini.org/</id>
   <author>
     <name>Free Ola Bini</name>
@@ -6951,6 +6951,24 @@ actual crime.&lt;/p&gt;
     <id>http://freeolabini.org/es/recommended_readings/amnesty/</id>
     <content type="html">&lt;p&gt;Amnistía Internacional continuará vigilando el proceso penal que enfrenta el defensor de derechos humanos Ola Bini en Ecuador, tras identificar violaciones de derechos humanos e interferencia indebida del Gobierno. La justicia debe garantizar que cualquier prueba utilizada en su contra haya sido obtenida de manera legal con apego al derecho internacional.&lt;/p&gt;
 &lt;p&gt;Lee el reporte &lt;a href=&quot;https://www.amnesty.org/download/Documents/AMR2808712019SPANISH.pdf&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>90+ organizations world wide denounce due process violations in the case of Ola Bini</title>
+    <link href="http://freeolabini.org/en/recommended_readings/infography_2/"/>
+    <updated>2019-08-29T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/en/recommended_readings/infography_2/</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://freeolabini.org/img/org_en.jpg&quot; alt=&quot;90+ organizations&quot;&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>90+ organizaciones del mundo denuncian faltas al debido proceso en el caso de Ola Bini</title>
+    <link href="http://freeolabini.org/es/recommended_readings/infography_2/"/>
+    <updated>2019-08-29T02:00:00+02:00</updated>
+    <id>http://freeolabini.org/es/recommended_readings/infography_2/</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://freeolabini.org/img/org_es.jpg&quot; alt=&quot;90+ organizations&quot;&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
