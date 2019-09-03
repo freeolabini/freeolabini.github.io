@@ -64,7 +64,7 @@ política y viciado por múltiples violaciones al debido proceso.<sup>4</sup>
 
 Seguiremos vigilantes del caso y continuaremos articulando esfuerzos para se
 haga justicia y Ola Bini atraviese un juicio conforme a estándares de debido
-proceso y donde pueda ejercer plenamente todos sus derechos
+proceso y donde pueda ejercer plenamente todos sus derechos.
 
 <center>
 <b>Asociación para el Progreso de las Comunicaciones (APC)</b>
@@ -93,4 +93,4 @@ proceso y donde pueda ejercer plenamente todos sus derechos
 
 <sup>3</sup> Para conocer una descripción más profunda respecto de la foto en cuestión y su contenido ver: https://www.eff.org/es/deeplinks/2019/08/telnet-not-crime-unconvincing-prosecution-screenshot-leaked-ola-bini-case
 
-<sup>4</sup>Ver: https://www.amnesty.org/es/latest/news/2019/08/ecuador-gobierno-interfiere-en-proceso-penal-contra-ola-bini/
+<sup>4</sup> Ver: https://www.amnesty.org/es/latest/news/2019/08/ecuador-gobierno-interfiere-en-proceso-penal-contra-ola-bini/
