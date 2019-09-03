@@ -59,7 +59,7 @@ authorities, Bini was part of a supposed conspiracy from Wikileaks to
 destabilize the government, carried out by Russian hackers residing in Ecuador.
 This reformulation of charges denies these accusations -questioned by
 Amnesty International, as well-, confirming that we are facing a case of political
-nature policy and vitiated by multiple violations of due process. <sup>4</sup>
+nature policy and vitiated by multiple violations of due process.<sup>4</sup>
 
 We will remain vigilant of this case, and we will continue to articulate efforts
 so that justice is made and Ola Bini will have a trial according to standards
