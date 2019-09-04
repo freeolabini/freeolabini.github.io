@@ -8,62 +8,63 @@ tags:
   - post
   - en
 ---
-Ola Bini, free software activist, human rights defender and expert in digital
-security, is subject to a judicial process in Ecuador since April 2019. So far,
-a large set of organizations around the world have denounced that there is a
-political motivation in the accusation and that the case is marked by serious
+Ola Bini, a free software activist, human rights defender and digital security
+expert, has been subject to legal proceedings in Ecuador since April 2019. So
+far, a wide range of organizations around the world have denounced that there is
+political motivation in the indictment and that the case is marked by serious
 violations of due process.<sup>1</sup>
 
-With that background, various organizations from the civil society of Ecuador
-and international ones made the decision of witnessing the hearing of the
-reformulation of charges that took place last Thursday, August 29. In it, the
-Prosecutor's Office requested that Ola Bini should be accused of non-consensual
-access to a computer system (Art. No. 234 of the Integral Criminal Code of
-Ecuador), discarding the original accusation: attacking the integrity of such
-systems (Art. No. 232 of the Integral Criminal Code of Ecuador). The central
-evidence presented to justify this change was a photograph from 2015 that allegedly
-prove Bini's non-consensual access into the National Telecommunications
-Corporation (CNT) system.
+Given this background, various Ecuadorian and international civil society
+organizations took the decision to attend the hearing on the reformulation of
+charges that took place last Thursday, August 29th. During the hearing, the
+Public Prosecutor requested that Ola Bini be charged with non-consensual access
+to a computer system (Art. No. 234 of the Comprehensive Penal Code of Ecuador),
+dismissing the original indictment: attacking the integrity of such systems
+(Art. No. 232 of the Comprehensive Penal Code of Ecuador). The primary evidence
+presented to justify the change, is a photograph from 2015 that is supposed to
+prove Bini's unauthorized entry into the system of the National
+Telecommunications Corporation (CNT).
 
-It is necessary to highlight that this hearing was held two days before the end
-of the fiscal instruction period, which legally cannot last more than 120 days
-(Art. No. 592 of the Integral Criminal Code of Ecuador). However, the law
-provides that after a reformulation of charges, all investigations periods must
-be increased by 30 days (Art. No. 596 of the Integral Criminal Code of Ecuador).
-Using as a subterfuge that the object of the crime and the penalty for the new
-charges are similar to the originals (distinction that the law does not make),
-the extension did not take place. As a result, Bini did not have the extra 30
-days to defend himself against this new accusation, but rather 2, which
-constitutes a violation of his right to defense. In this regard, the
-Constitution of the Republic of Ecuador in its Article 76, Number 7, subsection
-“b” establishes that every person prosecuted must “have the time and adequate
-means to prepare his defense”. This violation of due process also violates
-International Treaties and Agreements signed and ratified by Ecuador and
-applicable jurisprudence, such as the Fermín Ramírez <i>vs</i> Guatemala case.
+It should be noted, that this hearing took place just two days before the end of the
+prosecutorial investigation period, which legally cannot last more than 120 days
+(Art. No. 592 of the Comprehensive Penal Code of Ecuador). However, the law
+stipulates that after a reformulation of charges, all investigations must be
+extended by 30 days (Article No. 596 of the Comprehensive Penal Code of
+Ecuador). Using as a subterfuge that the object of the crime and the penalty in
+the new charges are similar to the original ones (a distinction that the law
+does not make) such an extension did not take place. As a consequence, Bini did
+not have the additional 30 days to prepare a defense against the new accusation,
+but had but 2 days, which constitutes a violation of his right to a defense. In
+this regard, the Constitution of the Republic of Ecuador in its Article 76,
+Numeral 7, Subsection "b" establishes, that every accused person must have
+"adequate time and means for the preparation of his defense". This violation of
+due process also violates international treaties and conventions signed and
+ratified by Ecuador and applicable jurisprudence, such as the case of Fermín
+Ramírez <i>vs</i> Guatemala.
 
-The Prosecutor's Office argued that the photo submitted would prove the
-non-consensual access from Bini to the CNT computer system. However, there are
-two issues regarding that that attract attention. First, that such a photograph
-would have been leaked to the press before being included in the file and that
-the defense did not have access to it.<sup>2</sup> Second, that that photo,
-according to the <i> Electronic Frontier Foundation </i> (EFF), does not show
-neither a violation nor an unauthorized access to a private server.<sup>3</sup>
-However, during the hearing it was evidenced the technical ignorance from the
-Prosecution and the responsible judge of the case that allowed the
-reformulation.
+The prosecution argued that the photograph presented would prove Bini's
+non-consensual entry into the CNT's computer system. However, there are two
+issues that attract scrutiny. Firstly, that said photograph was leaked to the
+press before it was included in the case-file, and before the legal defense had
+access to it.<sup>2</sup> Secondly, that said photograph, according to
+the <i>Electronic Frontier Foundation</i> (EFF), shows neither violation nor
+unauthorized access to a private server.<sup>3</sup> However, during the
+hearing, there was an evident lack of technical knowledge in the matter on the
+part of the Attorney General's Office and the judge responsible for the case,
+who proceeded to the reformulation.
 
-Finally, we are worried that Bini was originally deprived of his freedom for 70
-days based on public statements made by the current Minister of Government,
-María Paula Romo, and by the President, Lenín Moreno. According to the
-authorities, Bini was part of a supposed conspiracy from Wikileaks to
-destabilize the government, carried out by Russian hackers residing in Ecuador.
-This reformulation of charges denies these accusations -questioned by
-Amnesty International, as well-, confirming that we are facing a case of political
-nature policy and vitiated by multiple violations of due process.<sup>4</sup>
+Lastly, we are concerned that Bini was originally deprived of his liberty for 70
+days on the basis of public statements by the current Government Minister,
+María Paula Romo, and President Lenín Moreno. According to the authorities, Bini
+was part of an alleged Wikileaks conspiracy to destabilize the government,
+carried out by Russian hackers residing in Ecuador. This reformulation of
+charges denies such accusations -that have also been questioned by Amnesty
+International- confirming that we are dealing with a case of a political nature
+and tainted by multiple violations of due process.<sup>4</sup>
 
-We will remain vigilant of this case, and we will continue to articulate efforts
-so that justice is made and Ola Bini will have a trial according to standards
-of due process and where he can fully exercise all his rights.
+We will continue to monitor the case and will continue to articulate efforts to
+ensure that justice is served, and that Ola Bini has a trial in accordance with
+due process standards and where he can fully exercise all of his rights.
 
 <center>
 <b>Asociación para el Progreso de las Comunicaciones (APC)</b>
