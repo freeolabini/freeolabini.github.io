@@ -18,10 +18,10 @@ These books were not chosen by me. Most of them, were lovingly selected by my fr
 LOVE IN THE TIME OF CHOLERA - Gabriel García Márquez
 I’ve never liked romance novels. Period dramas are about as far from my taste as you can get. So, I was not presupposed to like this book. But, to my surprise, Márquez’ fantastic visual language and deeply detailed and compelling personal portraits, made this a joy to read. I guess there’s a reason why the Nobel committee chose him.
 
-RESILIENCE – Harvard Business Review 
+RESILIENCE – Harvard Business Review
 A small white book. 120 pages containing 6 or 7 articles about how people deal with adversity and come back from tragedy, failure or other adverse situations. I read it twice. First time regularly and then a second time, as a palliative when I had finished my other books. I also hoped the lessons would sink in deeper and maybe be more useful. It was certainly interesting, but whether it actually helps, I won’t know until my current ordeal is over and I’ve recovered from it. Or not.
 
-GALAPAGOS – Kurt Vonnegut 
+GALAPAGOS – Kurt Vonnegut
 A very funny, dry, satirical science-fiction-ish story about the almost end of mankind. Utterly entertaining and with a tone that suited my gallows humor perfectly. Would recommend to anyone in prison.
 
 THE BLOOD NEVER DIED – John Newsinger
