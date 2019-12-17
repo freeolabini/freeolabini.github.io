@@ -4,4 +4,9 @@ tags: tweetes
 image: /img/freeola.jpg
 title: Free Ola Bini. Tweet This!
 ---
-.@olabini lleva 127 días en un caso que empezó por supuestas vulneraciones a sistemas informáticos en Ecuador. 127 días involucrado en un caso sin pruebas, lo que claramente ha vulnerado sus derechos.
+Este es un caso decisivo que debería ser motivo de preocupación para los defensores de los derechos humanos y los tecnólogos de todo el mundo. Este caso de persecución judicial en Ecuador es un intento de criminalizar e intimidar a otros en estos ámbitos.
+
+#FreeOlaBini
+#SomosTodosOlaBini
+
+#Ecuador
