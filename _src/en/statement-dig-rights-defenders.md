@@ -4,7 +4,7 @@ tags:
   - post
   - en
 date: 2019-12-17
-image: /img/OB_Feature.png
+image: /img/OB_Feature.jpg
 title: Statement for the Protection of Digital Rights Defenders
 ---
 
@@ -68,7 +68,7 @@ TEDIC
 Usuarios Digitales  
 Vigilance for Democracy and the Civic State  
 
-![OB_Logos](/img/OB_Logos.png)
+![OB_Logos](/img/OB_Logos.jpg)
 
 
 
