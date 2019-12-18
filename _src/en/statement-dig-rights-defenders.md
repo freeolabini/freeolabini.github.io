@@ -31,8 +31,8 @@ We reject all persecution of digital rights defenders. We demand the recognition
 ---
 ### Signatories
 
-Access Now
-Amnesty International
+Access Now  
+Amnesty International  
 Arab Digital Expression Foundation - ADEF  
 Article 19  
 ASLE  
