@@ -36,7 +36,8 @@ Amnesty International
 Arab Digital Expression Foundation - ADEF  
 Article 19  
 ASLE  
-Association of Progressive Communications  
+Association for Progressive Communications  
+Blueprint for Free Speech  
 Casa da Cultura Digital Porto Alegre  
 Centro de Documentación en Derechos Humanos "Segundo Montes Mozo S.J"  
 Committee for the Protection of Journalists (CPJ)  
