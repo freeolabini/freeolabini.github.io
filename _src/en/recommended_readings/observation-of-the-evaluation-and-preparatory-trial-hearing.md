@@ -10,3 +10,5 @@ tags:
 ---
 
 Pronouncement by organizations that oversee the evaluation and the preparatory trial hearing for the Ola Bini case.
+
+[Download PDF](/pdf/ola-bini.pdf)

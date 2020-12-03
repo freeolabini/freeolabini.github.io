@@ -10,3 +10,5 @@ tags:
 ---
 
 Pronunciamiento de organizaciones veedoras de la audiencia evaluatoria y preparatoria del juicio del caso Ola Bini.
+
+[Descargar PDF](/pdf/ola-bini.pdf)
