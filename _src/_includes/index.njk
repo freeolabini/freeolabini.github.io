@@ -9,11 +9,14 @@ layout: base.njk
         <div class="bg-gray-200">
           <img class="block max-w-full object-cover" src="{{ image }}" alt="{{ title }}" />
         </div>
-        <nav class="flex flex-col py-10 lg:py-14 px-10 lg:px-14">
+        <nav class="flex flex-col py-10 lg:py-14 px-10 lg:px-14 space-y-2">
           {% for item in menu %}
-            <a href="{{ item.path }}" class="f4 link db mb2">
-              <i class="la {{ item.icon }}"></i>
-              {{ item.title }}
+            <a class="inline-flex items-center space-x-2 text-gray-900 hover:text-gray-700" href="{{ item.path }}">
+              <i class="la text-2xl block {{ item.icon }}"></i>
+              <div class="w-5 h-px bg-gray-300"></div>
+              <div class="font-medium text-lg">
+                {{ item.title }}
+              </div>
             </a>
           {% endfor %}
         </nav>
@@ -23,7 +26,7 @@ layout: base.njk
       <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10 lg:px-20">
         <div class="py-10 lg:py-20 space-y-10 lg:space-y-20">
           <div class="flex flex-col space-y-10">
-            <h2 class="text-2xl lg:text-4xl font-semibold lg:font-bold tracking-tight">
+            <h2 class="text-2xl lg:text-4xl xl:text-5xl font-semibold lg:font-bold tracking-tight">
               {{ title }}
             </h2>
             <div class="text-base lg:text-lg leading-relaxed">
