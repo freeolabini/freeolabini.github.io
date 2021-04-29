@@ -3,28 +3,39 @@ layout: base.njk
 ---
 
 {% block content %}
-  <div class="bt b--black-20 flex-ns" id="cta">
-    <div class="w-100 w-40-ns v-top pa3 ">
-      <img class="db" src="{{ image }}" alt="{{ title }}" />
-      <nav>
-      {% for item in menu %}
-        <a href="{{ item.path }}" class="f4 link db mb2">
-          <i class="la {{ item.icon }}"></i>
-          {{ item.title }}
-        </a>
-      {% endfor %}
-    </nav>
-    </div>
-    <div class="w-100 w-60-ns f3 v-top nested-copy">
-      <h2 class="f3-ns f3  lh-title">{{ title }}</h2>
-      <div class="f4">
-          {{ content | safe }}
+  <div class="grid grid-cols-1 lg:grid-cols-12 w-full">
+    <div class="col-span-1 lg:col-span-4 bg-white">
+      <div class="relative lg:sticky lg:top-0">
+        <div class="bg-gray-200">
+          <img class="block max-w-full object-cover" src="{{ image }}" alt="{{ title }}" />
+        </div>
+        <nav class="flex flex-col py-10 lg:py-14 px-10 lg:px-14">
+          {% for item in menu %}
+            <a href="{{ item.path }}" class="f4 link db mb2">
+              <i class="la {{ item.icon }}"></i>
+              {{ item.title }}
+            </a>
+          {% endfor %}
+        </nav>
       </div>
-
+    </div>
+    <div class="col-span-1 lg:col-span-8 bg-gradient-to-b from-gray-100 to-white">
+      <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10 lg:px-20">
+        <div class="py-10 lg:py-20 space-y-10 lg:space-y-20">
+          <div class="flex flex-col space-y-10">
+            <h2 class="text-2xl lg:text-4xl font-semibold lg:font-bold tracking-tight">
+              {{ title }}
+            </h2>
+            <div class="text-base lg:text-lg leading-relaxed">
+              {{ content | safe }}
+            </div>
+          </div>
+          <div class="flex w-full">
+            {% set posts = collections[collection] | reverse %}
+            {% include "posts.njk" %}
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-
-  {% set posts = collections[collection] | reverse %}
-  {% include "posts.njk" %}
-
 {% endblock %}

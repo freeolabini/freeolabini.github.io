@@ -1,20 +1,24 @@
-{%- for post in posts -%}
-<a class="link dark-gray dim" href="{{ post.url }}">
-<article class="pt2 flex-ns flex-row-reverse-ns pv4 bt bb b--black-10 ph3 ph0-l">
-    <div class="w-100 w-40-ns">
-      <img src="{{ post.data.image }}" class="db" alt="{{ title }}"/>
-    </div>
-    <div class="w-100 w-60-ns v-top pt3 pt0-ns">
-          <h2 class="f4-ns f4 avenir lh-title dark-gray mv0">
-            {{ post.data.title }}
-          </h2>
-      <time class=" f6 gray db">
-        {{ post.date.toUTCString().slice(0,16)}}
-      </time>
-      <div class="f5 pr3 pr4-ns">
-        {{ post.templateContent | striptags | truncate(250) }}
+<div class="space-y-10 lg:space-y-14">
+  {%- for post in posts -%}
+    <article class="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-12">
+      <div class="col-span-1 lg:col-span-4 lg:order-2">
+        <img src="{{ post.data.image }}" class="max-w-full h-auto" alt="{{ title }}" />
       </div>
-    </div>
-</article>
-</a>
-{%- endfor -%}
+      <div class="col-span-1 lg:col-span-8 lg:order-1 space-y-6">
+        <div class="flex flex-col space-y-2">
+          <a class="" href="{{ post.url }}">
+            <h2 class="font-semibold lg:font-bold text-lg lg:text-2xl xl:text-3xl tracking-tight">
+              {{ post.data.title }}
+            </h2>
+          </a>
+          <time class="text-gray-600 text-sm font-medium">
+            {{ post.date.toUTCString().slice(0,16)}}
+          </time>
+        </div>
+        <div class="text-gray-800 leading-relaxed">
+          {{ post.templateContent | striptags | truncate(250) }}
+        </div>
+      </div>
+    </article>
+  {%- endfor -%}
+</div>
