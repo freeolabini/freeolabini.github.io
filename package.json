@@ -7,8 +7,8 @@
   "scripts": {
     "validate": "html5v http://localhost:8080/en/",
     "clean": "rimraf ./css ./fonts ./img ./en ./sv ./es ./it ./fr ./pt ./de ./tweets ./signatures ./index.html ./feed.xml",
-    "start": "yarn clean && eleventy --serve --quiet",
-    "build": "yarn clean && eleventy",
+    "start": "eleventy --serve --quiet",
+    "build": "eleventy",
     "watch": "eleventy --watch"
   },
   "dependencies": {
