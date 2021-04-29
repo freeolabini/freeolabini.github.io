@@ -29,7 +29,7 @@ module.exports = ( eleventyConfig ) => {
     markdownTemplateEngine: 'njk',
     dir: {
       input: '_src',
-      output: process.env.PWD,
+      output: '_site',
     }
   }
 }
