@@ -27,6 +27,27 @@
     <link rel="stylesheet" href="/css/line-awesome.min.css" />
     <link rel="stylesheet" href="/css/tachyons.min.css" />
     <link rel="stylesheet" href="/css/style.css" />
+    
+  <script>
+    console.log('lang', language)
+    var language = navigator.language
+    if (language.indexOf('en') === 0) {
+      document.location.href = '/en/'
+    } else if (language.indexOf('sv') === 0) {
+      document.location.href = '/sv/'
+    } else if (language.indexOf('it') === 0) {
+      document.location.href = '/it/'
+    } else if (language.indexOf('es') === 0) {
+      document.location.href = '/es/'
+    } else if (language.indexOf('fr') === 0) {
+      document.location.href = '/fr/'
+    } else if (language.indexOf('pt') === 0) {
+      document.location.href = '/pt/'
+    } else if (language.indexOf('de') === 0) {
+      document.location.href = '/de/'
+    }
+  </script>
+
   </head>
   <body>
     <div class="center-ns avenir mw8-ns pa2 pa3-ns">
@@ -46,26 +67,8 @@
         </nav>
       </header>
       <main class="w-100 f4-ns sans-serif fw2 f4 lh-copy mb4">
-            <script>
-    console.log('lang', language)
-    var language = navigator.language
-    if (language.indexOf('en') === 0) {
-      document.location.href = '/en/'
-    } else if (language.indexOf('sv') === 0) {
-      document.location.href = '/sv/'
-    } else if (language.indexOf('it') === 0) {
-      document.location.href = '/it/'
-    } else if (language.indexOf('es') === 0) {
-      document.location.href = '/es/'
-    } else if (language.indexOf('fr') === 0) {
-      document.location.href = '/fr/'
-    } else if (language.indexOf('pt') === 0) {
-      document.location.href = '/pt/'
-    } else if (language.indexOf('de') === 0) {
-      document.location.href = '/de/'
-    }
-    </script>
-    <h1>Ola Bini, is being detained as a political prisoner in Ecuador</h1>
+        
+  <h1>Ola Bini, is being detained as a political prisoner in Ecuador</h1>
 <ul>
 <li><a href="/en/">English</a></li>
 <li><a href="/es/">Español</a></li>
