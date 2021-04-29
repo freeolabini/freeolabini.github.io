@@ -1,25 +1,30 @@
 ---
 layout: base.njk
 ---
-<div class="bt b--black-20 flex-ns" id="cta">
-  <div class="w-100 w-40-ns v-top pa3 ">
-     <img class="db" src="{{ image }}" alt="{{ title }}" />
-    <nav>
-    {% for item in menu %}
-      <a href="{{ item.path }}" class="f4 link db mb2">
-        <i class="la {{ item.icon }}"></i>
-        {{ item.title }}
-      </a>
-    {% endfor %}
-  </nav>
-  </div>
-  <div class="w-100 w-60-ns f3 v-top nested-copy">
-    <h2 class="f3-ns f3  lh-title">{{ title }}</h2>
-    <div class="f4">
-        {{ content | safe }}
-    </div>
 
+{% block content %}
+  <div class="bt b--black-20 flex-ns" id="cta">
+    <div class="w-100 w-40-ns v-top pa3 ">
+      <img class="db" src="{{ image }}" alt="{{ title }}" />
+      <nav>
+      {% for item in menu %}
+        <a href="{{ item.path }}" class="f4 link db mb2">
+          <i class="la {{ item.icon }}"></i>
+          {{ item.title }}
+        </a>
+      {% endfor %}
+    </nav>
+    </div>
+    <div class="w-100 w-60-ns f3 v-top nested-copy">
+      <h2 class="f3-ns f3  lh-title">{{ title }}</h2>
+      <div class="f4">
+          {{ content | safe }}
+      </div>
+
+    </div>
   </div>
-</div>
-{% set posts = collections[collection] | reverse %}
-{% include "posts.njk" %}
+
+  {% set posts = collections[collection] | reverse %}
+  {% include "posts.njk" %}
+
+{% endblock %}

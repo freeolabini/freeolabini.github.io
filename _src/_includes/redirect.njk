@@ -1,12 +1,9 @@
----
-layout: base.njk
----
-    <script>
-    console.log('lang', language)
-    var language = navigator.language
-    if (language.indexOf('en') === 0) {
-      document.location.href = '/en/'
-    } else if (language.indexOf('sv') === 0) {
+{% extends base.njk %}
+
+{% block javascript %}
+  <script type="javascript">
+    const language = navigator.language;
+    if if (language.indexOf('sv') === 0) {
       document.location.href = '/sv/'
     } else if (language.indexOf('it') === 0) {
       document.location.href = '/it/'
@@ -18,6 +15,12 @@ layout: base.njk
       document.location.href = '/pt/'
     } else if (language.indexOf('de') === 0) {
       document.location.href = '/de/'
+    } else {
+      document.location.href = '/en/'
     }
-    </script>
-    {{ content | safe }}
+  </script>
+{% endblock %}
+    
+{% block content %}
+  {{ content | safe }}
+{% endblock %}
