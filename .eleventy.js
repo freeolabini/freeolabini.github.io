@@ -5,7 +5,7 @@ module.exports = ( eleventyConfig ) => {
   // Eleventy plugins
   eleventyConfig.addPlugin( pluginRss );
   eleventyConfig.addPlugin( pluginTailwindCSS, {
-    src: '_src/css/tailwind.css',
+    src: 'tailwind.css',
     dest: 'css',
     watchEleventyWatchTargets: true,
     keepFolderStructure: false,
