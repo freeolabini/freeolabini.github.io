@@ -39,10 +39,10 @@ Add an [Issue](https://github.com/freeolabini/freeolabini.github.io/issues) if y
 
 Fork this repo and clone locally.
 
-run npm install
+run yarn install
 
 ```bash
-npm install
+yarn install
 ```
 
 The pages are in the `_src` directory, using markdown wiht yaml frontmatter
@@ -56,14 +56,14 @@ Icons are https://icons8.com/line-awesome
 When working locally on the site, start a dev server with
 
 ```bash
-npm start
+yarn start
 ```
 You now have a local webserver serving the site, as well as a browsersync for testing
 
 When you are ready to submit your site for publication, run:
 
 ```bash
-npm run build
+yarn build
 ```
 
 Then git commit and push your changes, and make a pull request
