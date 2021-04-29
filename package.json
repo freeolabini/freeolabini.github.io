@@ -7,8 +7,8 @@
   "scripts": {
     "validate": "html5v http://localhost:8080/en/",
     "clean": "rimraf ./css ./fonts ./img ./en ./sv ./es ./it ./fr ./pt ./de ./tweets ./signatures ./index.html ./feed.xml",
-    "start": "eleventy --serve --quiet",
-    "build": "eleventy",
+    "start": "ELEVENTY_ENV=development eleventy --serve --quiet",
+    "build": "ELEVENTY_ENV=production eleventy",
     "watch": "eleventy --watch"
   },
   "dependencies": {
@@ -19,6 +19,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
+    "eleventy-plugin-tailwindcss": "^0.3.0",
     "rimraf": "^2.6.3"
   }
 }

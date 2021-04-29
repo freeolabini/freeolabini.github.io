@@ -1,8 +1,16 @@
 const pluginRss = require('@11ty/eleventy-plugin-rss');
+const pluginTailwindCSS = require('eleventy-plugin-tailwindcss');
 
 module.exports = ( eleventyConfig ) => {
   // Eleventy plugins
   eleventyConfig.addPlugin( pluginRss );
+  eleventyConfig.addPlugin( pluginTailwindCSS, {
+    src: '_src/css/tailwind.css',
+    dest: 'css',
+    watchEleventyWatchTargets: true,
+    keepFolderStructure: false,
+    minify: process.env.ELEVENTY_ENV === 'development',
+  } );
 
   // Custom collections
   eleventyConfig.addCollection('signatures',    require( './_src/_utils/getsignatures'    ));
