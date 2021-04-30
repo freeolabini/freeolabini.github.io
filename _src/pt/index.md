@@ -4,8 +4,10 @@ title: Ola Bini preso no Equador
 layout: index.njk
 collection: pt
 image: /img/oladrawing.jpg
+intro: Ola Bini, desenvolvedor de software livre e defensor da la privacidade, está detido como preso político pelo governo do Equador.
 ---
-Ola Bini, desenvolvedor de software livre e defensor da la privacidade, está detido como preso político pelo governo do Equador. Por favor, mostre o seu apoio com essas ações:
+
+Por favor, mostre o seu apoio com essas ações:
 
 - Assine a nossa [carta de solidariedade] da comunidade tech
 - Ajuda a apoiar os esforços familiares e legais [doando para a campanha de financiamento coletivo][donate].

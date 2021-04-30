@@ -4,8 +4,10 @@ title: Ola Bini arrestato in Ecuador
 layout: index.njk
 collection: it
 image: /img/oladrawing.jpg
+intro: Ola Bini, difensore della privacy e sviluppatore di software libero, è detenuto come prigioniero politico in Ecuador.
 ---
-Ola Bini, difensore della privacy e sviluppatore di software libero, è detenuto come prigioniero politico in Ecuador. Unisciti a noi in suo sostegno:
+
+Unisciti a noi in suo sostegno:
 
 - Firma la [lettera di solidarietà] della nostra tech community
 - Sostieni gli sforzi della famiglia e dei legali [donando alla campagna di finanziamento][donare].

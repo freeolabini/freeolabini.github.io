@@ -4,8 +4,9 @@ title: Ola Bini in Ecuador verhaftet
 layout: index.njk
 collection: de
 image: /img/oladrawing.jpg
+intro: Unser geschätzter Kollege Ola Bini wird on Equador als politischer Gefanger festgehalten.
 ---
-Unser geschätzter Kollege Ola Bini wird on Equador als politischer Gefanger festgehalten.
+
 Bitte zeigt eure Unterstützung!
 
 - Unterschreibt den [Solidarity Letter] der Tech Community

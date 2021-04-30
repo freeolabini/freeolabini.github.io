@@ -4,8 +4,10 @@ title: Ola Bini arresterad i Ecuador
 layout: index.njk
 collection: sv
 image: /img/oladrawing.jpg
+intro: Vår högt uppskattade kollega Ola Bini är gripen och hålls som politisk fånge i Ecuador.
 ---
-Vår högt uppskattade kollega Ola Bini är gripen och hålls som politisk fånge i Ecuador. Agera nu för att visa ditt stöd:
+
+Agera nu för att visa ditt stöd:
 
 - Följ [@FreeOlaBini], twittra [#FreeOlaBini] och besök freeolabini.org för uppdateringar
 - [Stötta familjen med deras ekonomiska utgifter][donate], som t.ex. advokatkostnader och färskt vatten till Ola
