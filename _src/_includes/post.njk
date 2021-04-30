@@ -2,36 +2,12 @@
 layout: base.njk
 ---
 
-<div class="border-t border-gray-300">
-  <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10">
-    <nav class="items-center flex-wrap hidden">
-      {% for item in menu %}
-        <a class="flex items-center" href="{{ item.path }}">
-          <i class="la {{ item.icon }}"></i>
-          <div>
-            {{ item.title }}
-          </div>
-        </a>
-      {% endfor %}
-    </nav>
-    <div class="space-y-10 lg:space-y-14 py-10 lg:py-20">
-      <div class="text-center container max-w-screen-lg mx-auto">
-        <h1 class="text-2xl lg:text-4xl xl:text-6xl font-semibold lg:font-bold xl:font-black tracking-tight leading-relaxed">
-          {{ title }}
-        </h1>
-      </div>
-      <div class="w-full text-center">
-        <img class="max-w-full h-auto mx-auto" src="{{ image }}" alt="{{ title }}" />
-      </div>
-      <div class="prose lg:prose-lg xl:prose-xl mx-auto">
-        {{ content | safe }}
-      </div>
-    </div>
-    <div class="border-t border-gray-200 py-10">
-      {% set path = page.url %}
-      {% set text = "#FreeOlaBini " + title %}
-      {% set hidden = true %}
-      {% include "tweetinc.njk" %}
+{% block content %}
+  <div class="border-t border-gray-300">
+    <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10">      
+      {% include "common_navigation.njk" %}
+      {% include "post_content.njk" %}
+      {% include "tweet_this.njk" %}
     </div>
   </div>
-</div>
+{% endblock %}

@@ -1,0 +1,10 @@
+<nav class="items-center flex-wrap hidden">
+  {% for item in menu %}
+    <a class="flex items-center" href="{{ item.path }}">
+      <i class="la {{ item.icon }}"></i>
+      <div>
+        {{ item.title }}
+      </div>
+    </a>
+  {% endfor %}
+</nav>

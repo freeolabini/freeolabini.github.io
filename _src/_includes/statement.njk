@@ -1,19 +1,40 @@
 ---
 layout: post.njk
 ---
-{{ content | safe }}
-<h2 class ="avenir">Signatories</h2>
-<div class="tc">
-{%- for signature in collections.signatureOrgs -%}
-  <div class="w-20-ns w-100 db dib-ns v-top mw5-ns mh1-ns bg-white mb3-ns">
-    <a class="tc lh-copy tc" href="{{ signature.data.url }}">
-      <img src="{{ signature.data.image }}" class="nested-img h4 db center pa2">
-      <div class="f5 tl bg-dark-gray pa2 white">{{ signature.data.name }}</div>
-    </a>
+
+{% block content %}
+  {{ content | safe }}
+{% endblock %}
+
+{% block more %}
+  <div class="bg-gray-100 mt-10 p-10 rounded-lg lg:rounded-xl lg:-mx-40">
+    <h2 class ="text-center m-0 text-xl lg:text-2xl">
+      Signatories
+    </h2>
+    <div class="w-full container max-w-screen-lg mx-auto space-y-10">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-10">
+        {%- for signature in collections.signatureOrgs -%}
+          <div class="col-span-1 md:col-span-1 lg:col-span-4 flex bg-white rounded-lg shadow-lg overflow-hidden">
+            <a class="flex flex-col no-underline text-base" href="{{ signature.data.url }}" target="_blank" rel="noopener noreferrer">
+              <div class="flex flex-1 items-center justify-center">
+                <div class="text-center px-10">
+                  <img src="{{ signature.data.image }}" alt="{{ signature.data.name }}" class="block max-w-full h-auto mx-auto" />
+                </div>
+              </div>
+              <div class="text-black font-semibold p-8 no-underline rounded-b-lg leading-relaxed lg:rounded-b-xl text-lg">
+                {{ signature.data.name }}
+              </div>
+            </a>
+          </div>
+        {%- endfor -%}
+      </div>
+      <div class="flex flex-wrap justify-center gap-x-2 gap-y-2">
+        {%- for signature in collections.signatures -%}
+          <a class="flex px-4 py-2 -mx-2 leading-4 rounded-full no-underline hover:no-underline text-gray-900 hover:text-gray-100 text-lg font-semibold hover:bg-black" href="{{ signature.data.url }}" target="_blank" rel="noopener noreferrer">
+            {{ signature.data.name | replace(" ", "&nbsp;") | safe }}
+          </a>
+        {%- endfor -%}
+      </div>
+    </div>
   </div>
-{%- endfor -%}
-<div class="lh-solid tl tc-ns mt4">
-{%- for signature in collections.signatures -%}
-  <a class="bg-dark-gray white link dim db dib-ns mt2 mh2-ns pa2" href="{{ signature.data.url }}">{{ signature.data.name | replace(" ", "&nbsp;") | safe }}</a>
-{%- endfor -%}
-</div>
+{% endblock %}

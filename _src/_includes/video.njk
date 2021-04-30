@@ -1,24 +1,19 @@
 ---
 layout: base.njk
 ---
-<nav class="bt b--black-20 pt2 mb2">
-{% for item in menu %}
-  <a href="{{ item.path }}" class="f5 link dim db avenir dib-ns ba b--black-20 pa2 dark-gray mb1 mb0-ns ">
-    <i class="la {{ item.icon }}"></i>
-    {{ item.title }}
-  </a>
-{% endfor %}
-</nav>
-<div class="w-100 w-70-ns">
-<iframe width="560" height="315" src="{{ videoembed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<h1 class="lh-title  f3">{{ title }}</h1>
-<div class="f5">
-{{ content | safe }}    
-</div>
-<div class="mv6">
-{% set path = page.url %}
-{% set text = "#FreeOlaBini " + title %}
-{% set hidden = true %}
-{% include "tweetinc.njk" %}
-</div>
+
+{% block content %}
+  <div class="border-t border-gray-300">
+    <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10">      
+      {% include "common_navigation.njk" %}
+      <div class="space-y-10 lg:space-y-14 py-10 lg:py-20">
+        {% include "post_title.njk" %}
+        <div class="w-full bg-black">
+          <iframe width="560" height="315" src="{{ videoembed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        {% include "post_text.njk" %}
+      </div>
+      {% include "tweet_this.njk" %}
+    </div>
+  </div>
+{% endblock %}
