@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: infography.njk
 date: 2019-09-05
 image: /img/ola_info_3_header.jpg
 title: Ola Bini Case
