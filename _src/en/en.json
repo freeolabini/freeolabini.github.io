@@ -1,4 +1,43 @@
 {
+  "donate": {
+    "path": "https://www.gofundme.com/freeolabini",
+    "title": "Donate",
+    "icon": "la-heart"
+  },
+  "main_menu": [
+    {
+      "path": "/en",
+      "title": "Home"
+    },
+    {
+      "path": "/en/about-ola",
+      "title": "About"
+    },
+    {
+      "path": "/en/media-kit",
+      "title": "Media Kit"
+    },
+    {
+      "path": "/en/timeline-ola",
+      "title": "Timeline"
+    },
+    {
+      "path": "/en/letters",
+      "title": "Letters"
+    },
+    {
+      "path": "/en/recommended-reading",
+      "title": "Recommended"
+    },
+    {
+      "path": "/en/latestnews",
+      "title": "Latest News"
+    },
+    {
+      "path":"/en/daycounter",
+      "title":"Day Counter"
+    }
+  ],
   "menu": [
     {
       "path": "https://www.gofundme.com/freeolabini",

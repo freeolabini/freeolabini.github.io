@@ -1,4 +1,34 @@
 {
+  "donate": {
+    "path": "https://www.gofundme.com/freeolabini",
+    "title": "Dona"
+  },
+  "main_menu": [
+    {
+      "path": "/es/media-kit",
+      "title": "Multimedia"
+    },
+    {
+      "path": "/es/about-ola",
+      "title": "Acerca de"
+    },
+    {
+      "path": "/es/timeline-ola",
+      "title": "Línea de tiempo"
+    },
+    {
+      "path": "/es/letters",
+      "title": "Cartas de detención"
+    },
+    {
+      "path": "/es/recommended-reading",
+      "title": "Lecturas recomendadas"
+    },
+    {
+      "path": "/es/contador",
+      "title": "Contador de días"
+    }
+  ],
   "menu": [
     {
       "path": "https://www.gofundme.com/freeolabini",
