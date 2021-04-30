@@ -33,6 +33,7 @@ module.exports = ( eleventyConfig ) => {
       'woff',
       'woff2',
       'pdf',
+      'mp4',
     ],
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
