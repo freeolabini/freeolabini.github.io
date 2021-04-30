@@ -1,24 +1,37 @@
 ---
 layout: base.njk
 ---
-<nav class="bt b--black-20 pt2 mb2">
-{% for item in menu %}
-  <a href="{{ item.path }}" class="f5 link dim db avenir dib-ns ba b--black-20 pa2 dark-gray mb1 mb0-ns ">
-    <i class="la {{ item.icon }}"></i>
-    {{ item.title }}
-  </a>
-{% endfor %}
-</nav>
-<div class="w-100 w-70-ns">
-<img src="{{ image }}">
-</div>
-<h1 class="lh-title  f3">{{ title }}</h1>
-<div class="f5">
-{{ content | safe }}
-</div>
-<div class="mv6">
-{% set path = page.url %}
-{% set text = "#FreeOlaBini " + title %}
-{% set hidden = true %}
-{% include "tweetinc.njk" %}
+
+<div class="border-t border-gray-300">
+  <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10">
+    <nav class="flex items-center flex-wrap">
+      {% for item in menu %}
+        <a class="flex items-center" href="{{ item.path }}">
+          <i class="la {{ item.icon }}"></i>
+          <div>
+            {{ item.title }}
+          </div>
+        </a>
+      {% endfor %}
+    </nav>
+    <div class="space-y-10 lg:space-y-14 py-10 lg:py-20">
+      <div class="text-center container max-w-screen-md mx-auto">
+        <h1 class="text-2xl lg:text-4xl xl:text-6xl font-semibold lg:font-bold xl:font-black tracking-tight leading-relaxed">
+          {{ title }}
+        </h1>
+      </div>
+      <div class="w-full text-center">
+        <img class="max-w-full h-auto mx-auto" src="{{ image }}" alt="{{ title }}" />
+      </div>
+      <div class="prose lg:prose-lg xl:prose-xl mx-auto">
+        {{ content | safe }}
+      </div>
+    </div>
+    <div class="border-t border-gray-200 py-10">
+      {% set path = page.url %}
+      {% set text = "#FreeOlaBini " + title %}
+      {% set hidden = true %}
+      {% include "tweetinc.njk" %}
+    </div>
+  </div>
 </div>
