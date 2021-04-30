@@ -1,0 +1,21 @@
+---
+layout: base.njk
+---
+
+{% block content %}
+  <div class="relative w-full overflow-hidden bg-gradient-to-t from-gray-300 to-white">
+    <div class="flex justify-center relative z-20">
+      {% include "ola_bini.njk" %}
+    </div>
+    <div class="bg-black py-10 lg:py-20 shadow-2xl relative z-10">
+      <div class="container max-w-screen-lg mx-auto px-10">
+        <div class="text-white text-center">
+          <h1 class="text-2xl lg:text-4xl xl:text-6xl font-semibold lg:font-bold xl:font-black tracking-tight">
+            Ola Bini, is being <span class="text-orange-600">detained</span> as a <span class="text-orange-600">political prisoner</span> in Ecuador
+          </h1>
+        </div>
+      </div>
+    </div>
+    <div class="bg-orange-400 bg-gradient-to-t from-orange-600 to-orange-400 absolute bottom-0 left-0 right-0 h-2/4 z-0"></div>
+  </div>
+{% endblock %}

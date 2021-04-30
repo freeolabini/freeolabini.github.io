@@ -1,8 +1,6 @@
 ---
 title: Ola Bini Arrested in Ecuador
-layout: redirect.njk
+layout: home.njk
 image: /img/oladrawing.jpg
 eleventyExcludeFromCollections: true
 ---
-
-# Ola Bini, is being detained as a political prisoner in Ecuador
