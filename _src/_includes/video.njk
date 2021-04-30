@@ -8,8 +8,8 @@ layout: base.njk
       {% include "common_navigation.njk" %}
       <div class="space-y-10 lg:space-y-14 py-10 lg:py-20">
         {% include "post_title.njk" %}
-        <div class="w-full bg-black">
-          <iframe width="560" height="315" src="{{ videoembed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="aspect-w-16 aspect-h-9 bg-black">
+          <iframe src="{{ videoembed }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         {% include "post_text.njk" %}
       </div>
