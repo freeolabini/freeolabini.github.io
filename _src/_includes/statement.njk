@@ -2,43 +2,42 @@
 layout: base.njk
 ---
 
+{% include "common_navigation.njk" %}
+
 {% block content %}
-  <div class="border-t border-gray-300">
-    <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10">      
-      {% include "common_navigation.njk" %}
-      {% include "post_content.njk" %}
-      {% include "tweet_this.njk" %}
-    </div>
-    <div class="bg-gray-100 py-10 lg:pt-20 space-y-10 lg:space-y-14">
-      <h2 class ="text-center text-xl lg:text-2xl xl:text-4xl font-semibold lg:font-bold">
-        Signatories
-      </h2>
-      <div class="w-full container max-w-screen-lg lg:max-w-screen-xl px-10 mx-auto space-y-10">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-10">
-          {%- for signature in collections.signatureOrgs -%}
-            <div class="col-span-1 md:col-span-1 lg:col-span-3 flex bg-white rounded-lg shadow-lg overflow-hidden">
-              <a class="flex flex-col no-underline text-base" href="{{ signature.data.url }}" target="_blank" rel="noopener noreferrer">
-                <div class="flex flex-1 items-center justify-center">
-                  <div class="text-center p-10">
-                    <img src="{{ signature.data.image }}" alt="{{ signature.data.name }}" class="block max-w-full h-auto mx-auto" />
-                  </div>
+  <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10">      
+    {% include "post_content.njk" %}
+    {% include "tweet_this.njk" %}
+  </div>
+  <div class="bg-gray-100 py-10 lg:pt-20 space-y-10 lg:space-y-14">
+    <h2 class ="text-center text-xl lg:text-2xl xl:text-4xl font-semibold lg:font-bold">
+      Signatories
+    </h2>
+    <div class="w-full container max-w-screen-lg lg:max-w-screen-xl px-10 mx-auto space-y-10">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-10">
+        {%- for signature in collections.signatureOrgs -%}
+          <div class="col-span-1 md:col-span-1 lg:col-span-3 flex bg-white rounded-lg shadow-lg overflow-hidden">
+            <a class="flex flex-col no-underline text-base" href="{{ signature.data.url }}" target="_blank" rel="noopener noreferrer">
+              <div class="flex flex-1 items-center justify-center">
+                <div class="text-center p-10">
+                  <img src="{{ signature.data.image }}" alt="{{ signature.data.name }}" class="block max-w-full h-auto mx-auto" />
                 </div>
-                <div class="text-black font-semibold px-8 pb-8 no-underline rounded-b-lg leading-relaxed lg:rounded-b-xl text-lg">
-                  {{ signature.data.name }}
-                </div>
-              </a>
-            </div>
-          {%- endfor -%}
-        </div>
-        <div class="flex flex-wrap justify-center gap-x-2 gap-y-2">
-          {%- for signature in collections.signatures -%}
-            <a class="flex px-4 py-2 -mx-2 leading-4 rounded-full no-underline hover:no-underline text-gray-900 hover:text-gray-100 text-lg font-semibold hover:bg-black" href="{{ signature.data.url }}" target="_blank" rel="noopener noreferrer">
-              {{ signature.data.name | replace(" ", "&nbsp;") | safe }}
+              </div>
+              <div class="text-black font-semibold px-8 pb-8 no-underline rounded-b-lg leading-relaxed lg:rounded-b-xl text-lg">
+                {{ signature.data.name }}
+              </div>
             </a>
-          {%- endfor -%}
-        </div>
+          </div>
+        {%- endfor -%}
+      </div>
+      <div class="flex flex-wrap justify-center gap-x-2 gap-y-2">
+        {%- for signature in collections.signatures -%}
+          <a class="flex px-4 py-2 -mx-2 leading-4 rounded-full no-underline hover:no-underline text-gray-900 hover:text-gray-100 text-lg font-semibold hover:bg-black" href="{{ signature.data.url }}" target="_blank" rel="noopener noreferrer">
+            {{ signature.data.name | replace(" ", "&nbsp;") | safe }}
+          </a>
+        {%- endfor -%}
       </div>
     </div>
-    <hr />
   </div>
+  <hr />
 {% endblock %}

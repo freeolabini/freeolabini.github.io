@@ -1,7 +1,15 @@
 ---
-layout: post.njk
+layout: base.njk
 ---
-{{ content }}
-{% set posts = collections[collection] | reverse %}
-{% include "posts.njk" %}
+
+{% include "common_navigation.njk" %}
+
+<div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10">      
+  {% include "post_content.njk" %}
+</div>
+
+<div class="container max-w-screen-lg mx-auto px-10 pb-10 lg:pb-20 lg:text-lg">
+  {% set posts = collections[collection] | reverse %}
+  {% include "posts.njk" %}
+</div>
 

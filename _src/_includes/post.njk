@@ -2,10 +2,11 @@
 layout: base.njk
 ---
 
+{% include "common_navigation.njk" %}
+
 {% block content %}
-  <div class="border-t border-gray-300">
-    <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10">      
-      {% include "common_navigation.njk" %}
+  <div class="bg-gradient-to-b from-gray-100 to-white relative z-10">
+    <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10">
       {% include "post_content.njk" %}
       {% include "tweet_this.njk" %}
     </div>

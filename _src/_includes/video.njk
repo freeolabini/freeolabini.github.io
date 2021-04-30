@@ -2,18 +2,17 @@
 layout: base.njk
 ---
 
+{% include "common_navigation.njk" %}
+
 {% block content %}
-  <div class="border-t border-gray-300">
-    <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10">      
-      {% include "common_navigation.njk" %}
-      <div class="space-y-10 lg:space-y-14 py-10 lg:py-20">
-        {% include "post_title.njk" %}
-        <div class="aspect-w-16 aspect-h-9 bg-black">
-          <iframe src="{{ videoembed }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-        {% include "post_text.njk" %}
+  <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10">      
+    <div class="space-y-10 lg:space-y-14 py-10 lg:py-20">
+      {% include "post_title.njk" %}
+      <div class="aspect-w-16 aspect-h-9 bg-black">
+        <iframe src="{{ videoembed }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-      {% include "tweet_this.njk" %}
+      {% include "post_text.njk" %}
     </div>
+    {% include "tweet_this.njk" %}
   </div>
 {% endblock %}

@@ -1,0 +1,15 @@
+---
+layout: base.njk
+---
+
+{% include "common_navigation.njk" %}
+
+{% block content %}
+  <div class="space-y-10 lg:space-y-14 py-10 lg:py-20">
+    {% include "post_title.njk" %}
+    {% include "post_text.njk" %}
+  </div>
+  <div class="container max-w-screen-lg lg:max-w-screen-xl mx-auto px-10">   
+    {% include "tweet_this.njk" %}
+  </div>
+{% endblock %}
