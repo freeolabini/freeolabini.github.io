@@ -8,7 +8,6 @@ module.exports = {
     './**/*.njk',
     './**/*.md',
   ],
-  mode: 'jit',
   darkMode: false, // or 'media' or 'class'
   theme: {
     colors: {

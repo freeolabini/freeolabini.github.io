@@ -7,9 +7,8 @@
   "scripts": {
     "validate": "html5v http://localhost:8080/en/",
     "clean": "rimraf ./css ./fonts ./img ./en ./sv ./es ./it ./fr ./pt ./de ./tweets ./signatures ./index.html ./feed.xml",
-    "start": "ELEVENTY_ENV=development eleventy --serve --quiet",
-    "build": "ELEVENTY_ENV=production eleventy",
-    "watch": "eleventy --watch"
+    "start": "eleventy --serve --quiet & postcss ./tailwind.css --o _tmp/tailwind.css --watch",
+    "build": "ELEVENTY_PRODUCTION=true eleventy & NODE_ENV=production postcss ./tailwind.css --o docs/css/tailwind.css"
   },
   "dependencies": {
     "axios": "^0.21.1",
@@ -21,8 +20,12 @@
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@tailwindcss/aspect-ratio": "^0.2.0",
     "@tailwindcss/typography": "^0.4.0",
+    "autoprefixer": "^10.2.5",
     "eleventy-plugin-tailwindcss": "^0.3.0",
     "html-minifier": "^4.0.0",
+    "postcss": "^8.2.13",
+    "postcss-cli": "^8.3.1",
+    "purgecss": "^4.0.3",
     "rimraf": "^2.6.3"
   }
 }
