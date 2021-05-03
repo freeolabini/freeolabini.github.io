@@ -10,7 +10,7 @@ module.exports = ( eleventyConfig ) => {
     dest: 'css',
     watchEleventyWatchTargets: true,
     keepFolderStructure: false,
-    minify: process.env.ELEVENTY_ENV === 'development',
+    minify: true,
   } );
 
   // Custom collections
