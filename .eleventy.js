@@ -1,5 +1,6 @@
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const htmlmin = require('html-minifier');
+const markdownIt = require('markdown-it');
 
 module.exports = ( eleventyConfig ) => {
   // Eleventy plugins
@@ -27,6 +28,23 @@ module.exports = ( eleventyConfig ) => {
 
   eleventyConfig.addWatchTarget( './_tmp/tailwind.css' );
   eleventyConfig.addPassthroughCopy( { './_tmp/tailwind.css': './css/tailwind.css' } );
+
+  // Allows post to have excerpts
+  eleventyConfig.setFrontMatterParsingOptions( {
+    excerpt: true,
+    excerpt_separator: '--excerpt--',
+  } );
+
+  const markdownItOptions = {
+    html: true,
+    breaks: false,
+    linkify: true,
+  };
+
+  eleventyConfig.setLibrary( 'md', markdownIt(markdownItOptions) );
+
+  // Adds a new filter to convert markdown to html
+  eleventyConfig.addFilter( 'toHTML', ( src ) => markdownIt( markdownItOptions ).render( src ) );
 
   return {
     templateFormats: [
