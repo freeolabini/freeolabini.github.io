@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: flisol_manifesto.njk
 tags:
   - post
   - es
