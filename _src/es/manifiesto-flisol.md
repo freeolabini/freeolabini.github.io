@@ -8,7 +8,15 @@ image: /img/freeola.jpg
 title: "Ola Bini: 2 años de persecución gubernamental"
 ---
 
-El Festival Latinoamericano de Instalación de Software Libre – FLISOL es un evento que organizan, año a año, las comunidades de software libre de la región desde el 2005 con 2 objetivos: promover el uso de software libre y fortalecer los lazos de amistad de activistas que promueven este tipo de tecnología. Ola Bini, desarrollador de software libre, quien ha contribuido a numerosos proyectos de software libre a lo largo de su carrera, ha cumplido ya 2 años desde que iniciara la persecución gubernamental en su contra, tiempo durante el cual se han identificado numerosas violaciones al debido proceso, aplicación discrecional de la justicia, sumado a incontables vulneraciones a sus derechos humanos, por estos motivos, en el marco de la edición 17 del FLISOL, hemos escrito el siguiente manifiesto en donde exponemos nuestra profunda preocupación por la crimininalización de quienes trabajan en defensa de los derechos en el mundo digital. 
+El [Festival Latinoamericano de Instalación de Software Libre](https://flisol.info/) – **FLISOL** es un evento que organizan, año a año, las comunidades de software libre de la región desde el 2005 con 2 objetivos: promover el uso de software libre y fortalecer los lazos de amistad de activistas que promueven este tipo de tecnología.
+
+Ola Bini, desarrollador de software libre, quien ha contribuido a numerosos proyectos de software libre a lo largo de su carrera, ha cumplido ya 2 años desde que iniciara la persecución gubernamental en su contra, tiempo durante el cual se han identificado numerosas violaciones al debido proceso, aplicación discrecional de la justicia, sumado a incontables vulneraciones a sus derechos humanos, por estos motivos, en el marco de la edición 17 del FLISOL, hemos escrito el siguiente manifiesto en donde exponemos nuestra profunda preocupación por la crimininalización de quienes trabajan en defensa de los derechos en el mundo digital. 
+
+<div class="text-center">
+  <a href="#manifiesto">
+    Leer manifiesto
+  </a>
+</div>
 
 <hr />
 
@@ -20,6 +28,8 @@ El Festival Latinoamericano de Instalación de Software Libre – FLISOL es un e
 </div>
 
 <hr />
+
+<div id="manifiesto"></div>
 
 El 11 de abril del 2019 Ola Bini, director técnico del Centro de Autonomía Digital (CAD), desarrollador de software libre, experto de categoría mundial en privacidad y seguridad, además de ser un reconocido defensor de los Derechos Humanos, fue detenido en el Aeropuerto Mariscal Sucre de Quito cuando se disponía a viajar a Japón para asistir a un entrenamiento de artes marciales. ¿El detonante? Declaraciones de la entonces Ministra del Interior, María Paula Romo, asegurando que en el país existirían hackers emprendiendo actividades de desestabilización en contra del gobierno ecuatoriano; afirmación en la cual nunca se mencionó el nombre de Ola, sin embargo se desplegaron todos los esfuerzos para construir un caso de manera apresurada y sin elementos suficientes que permitieran inculparlo y apresarlo, ignorando así el principio de presunción de inocencia.
 
