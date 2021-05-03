@@ -13,9 +13,11 @@ module.exports = ( eleventyConfig ) => {
   } );
 
   // Custom collections
-  eleventyConfig.addCollection('signatures',    require( './_src/_utils/getsignatures'    ));
-  eleventyConfig.addCollection('signatureOrgs', require( './_src/_utils/getsignatureorgs' ));
-  eleventyConfig.addCollection('signatures2',   require( './_src/_utils/getsignatures2'   ));
+  eleventyConfig.addCollection('signatures',      require( './_src/_utils/getsignatures'                ));
+  eleventyConfig.addCollection('signatureOrgs',   require( './_src/_utils/getsignatureorgs'             ));
+  eleventyConfig.addCollection('signatures2',     require( './_src/_utils/getsignatures2'               ));
+  eleventyConfig.addCollection('manifestoOrgs',   require( './_src/_utils/getManifestoSignaturesOrgs'   ));
+  eleventyConfig.addCollection('manifestoPeople', require( './_src/_utils/getManifestoSignaturesPeople' ));
 
   return {
     templateFormats: [
