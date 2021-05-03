@@ -1,8 +1,7 @@
 {
   "donate": {
     "path": "https://www.gofundme.com/freeolabini",
-    "title": "Donate",
-    "icon": "la-heart"
+    "title": "Donate"
   },
   "main_menu": [
     {

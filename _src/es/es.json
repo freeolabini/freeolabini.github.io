@@ -5,6 +5,10 @@
   },
   "main_menu": [
     {
+      "path": "/es",
+      "title": "Inicio"
+    },
+    {
       "path": "/es/media-kit",
       "title": "Multimedia"
     },

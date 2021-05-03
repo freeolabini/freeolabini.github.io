@@ -1,9 +1,12 @@
 {
+  "donate": {
+    "path": "https://www.gofundme.com/freeolabini",
+    "title": "Doa"
+  },
   "menu": [
     {
-      "path": "https://www.gofundme.com/freeolabini",
-      "title": "Doa",
-      "icon": "la-heart"
+      "path": "/pt",
+      "title": "Início"
     },
     {
       "path": "/en/tweet-this",
