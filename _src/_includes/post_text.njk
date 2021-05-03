@@ -1,3 +1,8 @@
+{% if excerpt %}
+  <div class="prose prose-xl xl:prose-2xl mx-auto">
+    {{ excerpt | toHTML | safe }}
+  </div>
+{% endif %} 
 <div class="prose lg:prose-lg xl:prose-xl mx-auto">
   {{ content | safe }}
 </div>
