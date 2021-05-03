@@ -26,7 +26,7 @@ module.exports = ( eleventyConfig ) => {
   } );
 
   eleventyConfig.addWatchTarget( './_tmp/tailwind.css' );
-  eleventyConfig.addPassthroughCopy( { './_tmp/tailwind.css': './docs/css/tailwind.css' } );
+  eleventyConfig.addPassthroughCopy( { './_tmp/tailwind.css': './css/tailwind.css' } );
 
   return {
     templateFormats: [
