@@ -1,5 +1,6 @@
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const pluginTailwindCSS = require('eleventy-plugin-tailwindcss');
+const htmlmin = require('html-minifier');
 
 module.exports = ( eleventyConfig ) => {
   // Eleventy plugins
@@ -18,6 +19,19 @@ module.exports = ( eleventyConfig ) => {
   eleventyConfig.addCollection('signatures2',     require( './_src/_utils/getsignatures2'               ));
   eleventyConfig.addCollection('manifestoOrgs',   require( './_src/_utils/getManifestoSignaturesOrgs'   ));
   eleventyConfig.addCollection('manifestoPeople', require( './_src/_utils/getManifestoSignaturesPeople' ));
+
+  // Minify HTML output
+  eleventyConfig.addTransform( 'htmlmin', ( content, outputPath ) => {
+    if ( outputPath && outputPath.endsWith('.html') ) {
+      let minified = htmlmin.minify( content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true,
+      } );
+      return minified;
+    }
+    return content;
+  } );
 
   return {
     templateFormats: [
