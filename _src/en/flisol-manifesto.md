@@ -6,11 +6,11 @@ tags:
 date: 2021-04-29
 image: /img/freeola.jpg
 title: "Ola Bini: 2 years of goverment persecution"
+excerpt: "The [Latin American Festival of Free Software Installation](https://flisol.info/) - **FLISOL** is an event organized year after year by the free software communities of the region since 2005 with 2 main objectives: to promote the use of free software and to strengthen the ties of friendship of activists who promote this type of technology.
+
+
+Ola Bini, a free software developer, who has contributed to numerous free software projects throughout his career, has already served 2 years since the government persecution against him began, time with numerous violations to due process, discretionary application of justice, added to countless violations of his human rights. For these reasons, within the framework of the 17th edition of FLISOL, we have written the following manifesto in which we expose our deep concern about the criminalization of those who work in defense of rights in the digital world."
 ---
-
-The [Latin American Festival of Free Software Installation](https://flisol.info/) - **FLISOL** is an event organized year after year by the free software communities of the region since 2005 with 2 main objectives: to promote the use of free software and to strengthen the ties of friendship of activists who promote this type of technology.
-
-Ola Bini, a free software developer, who has contributed to numerous free software projects throughout his career, has already served 2 years since the government persecution against him began, time with numerous violations to due process, discretionary application of justice, added to countless violations of his human rights. For these reasons, within the framework of the 17th edition of FLISOL, we have written the following manifesto in which we expose our deep concern about the criminalization of those who work in defense of rights in the digital world.
 
 <div class="text-center">
   <a href="#statement">

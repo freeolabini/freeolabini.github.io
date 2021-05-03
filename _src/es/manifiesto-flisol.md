@@ -6,11 +6,10 @@ tags:
 date: 2021-04-29
 image: /img/freeola.jpg
 title: "Ola Bini: 2 años de persecución gubernamental"
+excerpt: "El [Festival Latinoamericano de Instalación de Software Libre](https://flisol.info/) – **FLISOL** es un evento que organizan, año a año, las comunidades de software libre de la región desde el 2005 con 2 objetivos: promover el uso de software libre y fortalecer los lazos de amistad de activistas que promueven este tipo de tecnología.
+
+Ola Bini, desarrollador de software libre, quien ha contribuido a numerosos proyectos de software libre a lo largo de su carrera, ha cumplido ya 2 años desde que iniciara la persecución gubernamental en su contra, tiempo durante el cual se han identificado numerosas violaciones al debido proceso, aplicación discrecional de la justicia, sumado a incontables vulneraciones a sus derechos humanos, por estos motivos, en el marco de la edición 17 del FLISOL, hemos escrito el siguiente manifiesto en donde exponemos nuestra profunda preocupación por la crimininalización de quienes trabajan en defensa de los derechos en el mundo digital."
 ---
-
-El [Festival Latinoamericano de Instalación de Software Libre](https://flisol.info/) – **FLISOL** es un evento que organizan, año a año, las comunidades de software libre de la región desde el 2005 con 2 objetivos: promover el uso de software libre y fortalecer los lazos de amistad de activistas que promueven este tipo de tecnología.
-
-Ola Bini, desarrollador de software libre, quien ha contribuido a numerosos proyectos de software libre a lo largo de su carrera, ha cumplido ya 2 años desde que iniciara la persecución gubernamental en su contra, tiempo durante el cual se han identificado numerosas violaciones al debido proceso, aplicación discrecional de la justicia, sumado a incontables vulneraciones a sus derechos humanos, por estos motivos, en el marco de la edición 17 del FLISOL, hemos escrito el siguiente manifiesto en donde exponemos nuestra profunda preocupación por la crimininalización de quienes trabajan en defensa de los derechos en el mundo digital. 
 
 <div class="text-center">
   <a href="#manifiesto">
