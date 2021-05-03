@@ -1,5 +1,5 @@
 ---
-image: /img/desborde.png
+image: /img/manifesto/desborde.png
 name: Desborde
 url: none
 ---

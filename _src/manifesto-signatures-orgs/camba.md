@@ -1,5 +1,5 @@
 ---
 image: /img/manifesto/camba.svg
-name: Camba
+name: Cambá
 url: none
 ---
