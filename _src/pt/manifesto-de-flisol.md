@@ -6,6 +6,9 @@ tags:
 date: 2021-04-29
 image: /img/freeola.jpg
 title: "Ola Bini: 2 anos de perseguição governamental"
+excerpt: "O [Festival Latinoamericano de Instalação de Software Livre](https://flisol.info/) – **FLISOL** é em evento que organiza, ano após ano, as comunidades de software livre da região desde 2005 com 2 objetivos: promover o uso do software livre e fortalecer os laços de amizade entre ativistas que promovem esse tipo de tecnologia.
+
+Ola Bini, desenvolvedor de software livre, quem contribuiu com numerosos projetos de software livre ao longo de sua carreira, já cumpriu 2 anos desde que começaram uma perseguição governamental contra ele, durante esse tempo se identificou numerosas violações ao devido processo, aplicação arbitrária da justiça, somando incontáveis violações aos seus direitos humanos, por esses motivos, no marco da 17ª edição do FLISOL, escrevemos o seguinte manifesto onde expressamos nossa profunda preocupação pela criminalização de quem trabalha em defesa dos direitos no mundo digital."
 ---
 
 <div class="text-center lg:px-20">
