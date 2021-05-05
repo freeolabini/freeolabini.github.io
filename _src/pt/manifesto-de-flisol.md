@@ -20,8 +20,6 @@ Ola Bini, desenvolvedor de software livre, quem contribuiu com numerosos projeto
 
 <hr />
 
-<div id="statement"></div>
-
 Em 11 de abril de 2019 Ola Bini, diretor técnico do Centro de Autonomia Digital (CAD), deselvolvedor de software livre, especialista de nivel mundial em privacidade e segurança, além de serum reconhecido defensor dos direitos humanos, foi detido no Aeroporto Mariscal Sucre em Quitoquando estava prestes a viajar para o Japão para participar de um treinamento de artes marciais. Ogatilho? Declarações feitas pela então Ministra do Interior, María Paula Romo, assegurando que haviahackers no país envolvidos em atividades de desestabilização contra o governo equatoriano; declaraçãona qual o nome de Ola nunca foi mencionado, no entanto foram feitos todos os esforços para construirum caso de forma precipitada e sem elementos suficientes para o incriminar e prender, ignorando assimo princípio da presunção da inocência.
 
 O que parecia ser uma detenção para fins investigativos, acabou se tornando num processo de perseguição governamental excessiva que hoje, 2 anos após o evento, não parece estar perto de terminar.
