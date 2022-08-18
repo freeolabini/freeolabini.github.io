@@ -1,6 +1,6 @@
 /*! tailwindcss v2.1.2 | MIT License | https://tailwindcss.com */
 
-/*! modern-normalize v1.0.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
+/*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
 /*
 Document
@@ -12,8 +12,8 @@ Use a better box model (opinionated).
 */
 
 *,
-*::before,
-*::after {
+::before,
+::after {
   box-sizing: border-box;
 }
 
@@ -21,7 +21,7 @@ Use a better box model (opinionated).
 Use a more readable tab size (opinionated).
 */
 
-:root {
+html {
   -moz-tab-size: 4;
   -o-tab-size: 4;
      tab-size: 4;
@@ -590,11 +590,27 @@ video {
   --list-counter-style: lower-alpha;
 }
 
+.prose ol[type="A" s] {
+  --list-counter-style: upper-alpha;
+}
+
+.prose ol[type="a" s] {
+  --list-counter-style: lower-alpha;
+}
+
 .prose ol[type="I"] {
   --list-counter-style: upper-roman;
 }
 
 .prose ol[type="i"] {
+  --list-counter-style: lower-roman;
+}
+
+.prose ol[type="I" s] {
+  --list-counter-style: upper-roman;
+}
+
+.prose ol[type="i" s] {
   --list-counter-style: lower-roman;
 }
 
@@ -4668,11 +4684,27 @@ video {
     --list-counter-style: lower-alpha;
   }
 
+  .sm\:prose ol[type="A" s] {
+    --list-counter-style: upper-alpha;
+  }
+
+  .sm\:prose ol[type="a" s] {
+    --list-counter-style: lower-alpha;
+  }
+
   .sm\:prose ol[type="I"] {
     --list-counter-style: upper-roman;
   }
 
   .sm\:prose ol[type="i"] {
+    --list-counter-style: lower-roman;
+  }
+
+  .sm\:prose ol[type="I" s] {
+    --list-counter-style: upper-roman;
+  }
+
+  .sm\:prose ol[type="i" s] {
     --list-counter-style: lower-roman;
   }
 
