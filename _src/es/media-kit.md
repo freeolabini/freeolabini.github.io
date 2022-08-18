@@ -36,6 +36,8 @@ Help raising awareness about the campaign. Reuse, share and print this material.
 
 ### Posters y Flyers
 
+* Hace tres años
+[PDF](/media-kit/notice_August-18-2022.es.pdf)
 * Front:
 [PDF](/media-kit/en/flyer_free-ola_front_A5.pdf)
 [PNG](/media-kit/en/flyer_free-ola_front_A5.png)
@@ -57,6 +59,9 @@ Include this slide in your presentations and talk about Ola's case
 
 ### Stickers
 
+* Quote: "No a la criminalización...":
+[PNG](/media-kit/protect_knowledge.es.png)
+[SVG](/media-kit/protect_knowledge.es.svg)
 * Logo with Hashtag Overlay:
 [JPG](/media-kit/sticker_1_8x8.jpg)
 * Quote: "A friend told me...":
