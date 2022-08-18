@@ -1,6 +1,6 @@
 ---
 title: Contador de Días
-layout: post.njk
+layout: daycounter.njk
 ---
 La instrucción fiscal contra Ola Bini debería haber terminado el pasado domingo
 11 de agosto. Esto no ocurrió. Por ello preparamos este contador de días. Este
@@ -14,7 +14,6 @@ Ecuador), @DianaSalazarM2 (cuenta oficial de la Fiscal
 General), @MariaPaulaRomo (Ministra de Gobierno), @Lenin (cuenta oficial del
 Presidente de Ecuador).
 
-<br>
-<div class="aspect-ratio aspect-ratio--16x9 mb4">
-<iframe class="aspect-ratio--object cover" style="overflow: hidden;"  scrolling="no" frameborder="0"  src="https://editor.p5js.org/piratax007/full/LFIpBjV_3"></iframe>
+<div class="aspect-w-16 aspect-h-9">
+	<iframe scrolling="no" frameborder="0"  src="https://editor.p5js.org/piratax007/full/LFIpBjV_3"></iframe>
 </div>
