@@ -2,8 +2,8 @@
 title: Contador de Días
 layout: daycounter.njk
 ---
-La instrucción fiscal contra Ola Bini debería haber terminado el pasado domingo
-11 de agosto. Esto no ocurrió. Por ello preparamos este contador de días. Este
+La instrucción fiscal contra Ola Bini debería haber terminado el domingo
+11 de agosto de 2019. Esto no ocurrió. Por ello preparamos este contador de días. Este
 contador se actualiza automáticamente. Sería de mucha ayuda que cada día puedas
 descargar la imagen actualizada del contador y subirla a tus redes o las redes
 sociales de tu organización relacionando a las siguientes cuentas
