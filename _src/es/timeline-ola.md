@@ -16,10 +16,10 @@ La ministra del Interior Ecuatoriana, Maria Paula Romo, ofrece una rueda de pren
 Rusos y un miembro de Wikileaks viven en el Ecuador. Dice que entregará la información a la Fiscalía. Horas antes
 al arresto de Ola, la Ministra del Interior Ecuatoriana María Paula Romo declaró que el gobierno estuvo próximo a
 capturar a individuos quienes supuestamente estarían involucrados en el intento de establecer un centro de piratería en
-Ecuador, incluyendo dos hackers Rusos, un colaborador de Wikileaks y una persona cercana a Julian Assange. Dijo : "No
+Ecuador, incluyendo dos hackers Rusos, un colaborador de Wikileaks y una persona cercana a Julian Assange. Dijo: "No
 vamos a permitir que Ecuador se convierta en un centro de hackeo, no permitiremos que actividades ilegales
-se ejecuten en el país, ni para dañar a ciudadanos Ecuatorianos o de otro país ni en contra de cualquier gobierno." Sin
-embargo, ni ella ni la autoridad al frente las investigaciones han entregado prueba alguna que respalde sus afirmaciones.
+se ejecuten en el país, ni para dañar a ciudadanos Ecuatorianos o de otro país ni en contra de cualquier gobierno. "Sin
+embargo, ni ella ni la autoridad al frente de las investigaciones han entregado prueba alguna que respalde sus afirmaciones.
 
 Leer:
 * [El Universo: Hackers rusos y un miembro de Wikileaks viven en Ecuador, revela María Paula Romo](https://www.eluniverso.com/noticias/2019/04/11/nota/7279946/jackers-rusos-miembro-wikileaks-viven-ecuador-denuncia-maria-paula/)
@@ -36,7 +36,7 @@ admitidas. Dicen que ha sido detenido bajo una orden de restricción de movimien
 abordaje del vuelo que lo llevaría a Japón cuando sucedió la detención. Le presentaron una orden de restricción que en
 primer lugar tenía el nombre de otra persona, después otra orden distinta con una nacionalidad diferente a la suya
 (Suiza). Ola estuvo detenido en el aeropuerto sin acceso a sus abogados, sin un traductor a su lengua materna, y en
-ningún momento fue informado de los cargos por los que le estaban reteniendo. Quienes le retuvieron, insistentemente
+ningún momento fue informado de los cargos por los que le estaban reteniendolo. Quienes le retuvieron, insistentemente
 intentaron hacer que él firmara una declaración. Se alega que esta orden de detención está justicada por el Artículo
 444.8 del Código Orgánico Integral Penal que establece:
 
@@ -52,7 +52,7 @@ Se emite una orden de arresto en contra de Ola Bini.
 
 ### Abril 11, 2019 – 00:00 (aprox.)
 
-Es allanada la cada se Ola. Ola es llevado a una ubicación desconocida (se especula que se trata del edifición de la
+Es allanada la casa se Ola. Ola es llevado a una ubicación desconocida (se especula que se trata del edifición de la
 policía en la calle Juan León Mera, en la esquina de la calle Robles. Él no tuvo un lugar para dormir y tuvo que pasar
 la noche allí).
 
@@ -62,7 +62,7 @@ Ola es transladado a Flagrancia en el edificio de la Función Judicial.
 
 ### Abril 12, 2019 – 11:14
 
-La Policia Nacional del Ecuador publica en su cuenta de twitter un tweet diciendo "mediante la utilización de
+La Policia Nacional del Ecuador publica en su cuenta de twitter un tweet diciendo: "mediante la utilización de
 plataformas digitales de redes sociales, transmitía contenido de connotación social (divulgación de información) a
 través de sitios web, entre los más destacados #Wikileaks. El sujeto utilizaba perfiles falsos." El tweet fue borrado posteriormente.
 
@@ -102,7 +102,7 @@ estuvo presente en la audiencia.
 
 La cuenta oficial en twitter del Ministerio del Interior publicó este tweet: "Tenemos información sobre que @wikileaks
 habría intervenido en política interna. Hoy fue detenido, con fines investigativos, un colaborador cercano a Julian
-Assange, que ha estado viviendo en Ecuado y se disponía a viajar a Japón." Lo cual fue dicho por la Ministra del
+Assange, que ha estado viviendo en Ecuador y se disponía a viajar a Japón." Lo cual fue dicho por la Ministra del
 Interior, María Paula Romo, a CNN.
 
 [Aquí se puede ver el tweet original](https://twitter.com/MinInteriorEc/status/1116538560348344320)
@@ -135,9 +135,9 @@ Bini en sus cuentas de Twitter.
 Luego de la detención de Ola Bini, Artículo 19 publicó un pronunciamiento en el que "expresa su preocupación en tanto el
 arresto y  detención ilegal (de Ola Bini) puede ser parte de una ofensiva contra la comunidad de desarrolladores que
 construyen herramientas tecnológicas de seguridad digital, mismas que permiten y habilitan comunicaciones seguras en
-línea, así como el ejercicio de lebiertades en internet"
+línea, así como el ejercicio de libertades en internet"
 
-[ARTICLE19 hace llamado urgente al gobierno de Ecuador par aque libere de manera inmediata a Ola Bini, reconocido
+[ARTICLE19 hace llamado urgente al gobierno de Ecuador para que libere de manera inmediata a Ola Bini, reconocido
 desarrollador sueco](https://articulo19.org/article19-hace-llamado-urgente-al-gobierno-de-ecuador-para-que-libere-de-manera-inmediata-a-ola-bini-reconocido-desarrollador-sueco/)
 
 ### Abril 16, 2019 – En la mañana
@@ -194,7 +194,7 @@ Read more here:
 ### Abril 22, 2019
 
 "La Sala Penal de la Corte Provincial, convocó para el día 2 de mayo a la audiencia oral, pública y contradictoria,
-referente a la orde de prisión preventiva, impugnada por el procesado Ola Bini, mediante la interposición del recurso de
+referente a la orden de prisión preventiva, impugnada por el procesado Ola Bini, mediante la interposición del recurso de
 apelación...!"
 
 * [Leer](https://twitter.com/enindefension/status/1120417750869057543).
@@ -215,9 +215,9 @@ por la detención de Ola Bini.
 
 [Ver](https://freeolabini.org/es/LetterUN/)
 
-### Junio 18, 2019
+### Junio 19, 2019
 
-La organización de DDHH - INREDH - presentó un amicus curlae (tercera parte interesada) dentro de la acción de hábeas
+La organización de DDHH - INREDH - presentó un amicus curiae (tercera parte interesada) dentro de la acción de hábeas
 corpus solicitada a favor de Ola Bini.
 
 [Ver](https://www.inredh.org/archivos/pdf/Amicus_Curiae_en_Caso_Ola_Bini.pdf)
@@ -226,7 +226,7 @@ corpus solicitada a favor de Ola Bini.
 
 El Observatorio de Derechos y Justicia (ODJ) publica un informe sobre la detención y privación de la libertad de Ola
 Bini identificando vulneraciones al debido proceso y a su derecho a la defensa, y afectaciones a la independencia del
-poder judicial a parte de las declaraciones públicas de funcionarios sobre el caso.
+poder judicial aparte de las declaraciones públicas de funcionarios sobre el caso.
 
 [Leer](https://drive.google.com/file/d/1HuoYJG6rXCx752oPh05fi9237L97j3bw/view)
 
@@ -246,11 +246,11 @@ rechazaron la persecución políticia contra Ola Bini. En esta oportunidad, se h
 
 [Leer](https://web.karisma.org.co/nos-unimos-y-pronunciamos-frente-a-la-persecucion-politica-en-caso-de-ola-bini-ejercida-por-el-gobierno-de-ecuador/)
 
-### Agosto 8, 2019
+### Agosto 18, 2019
 
 Antes de la defensa técnica de Bini, un medio de comunicación tuvo acceso a una supuesta prueba que daría cuenta de un
 presunto hackeo cometido por Ola Bini en 2015 contra la Corporación Nacional de Telecomunicaciones (CNT). Tal afirmación
-fue ampliamente rechhazada por la comunidad digital nacional e internacional. La Electronic Frontair Foundation (EFF)
+fue ampliamente rechazada por la comunidad digital nacional e internacional. La Electronic Frontair Foundation (EFF)
 realizó un informe técnico en el que explicó por qué tal imagen no erea una prueba de hackeo.
 
 [Leer](https://www.eff.org/es/deeplinks/2019/08/telnet-not-crime-unconvincing-prosecution-screenshot-leaked-ola-bini-case#:~:text=Las%20pruebas%20ofrecidas%20fueron%20una,ascensor%20de%20su%20propia%20oficina.)
@@ -303,8 +303,8 @@ en el caso Ola Bini.
 
 En el marco del Foro de Gobernanza de Internet Global (IGF por sus siglas en inglés) realizado en Berlín a fines de
 2019, organizaciones nacionales e internacionales nuevamente rechazan públicamente la persecución política contra Ola
-Bini. Además, sostienen que el caso se enmarca dentro de un proceso de persecución global contro expertos,
-investigacores y derensores de derechos digitales.
+Bini. Además, sostienen que el caso se enmarca dentro de un proceso de persecución global contra expertos,
+investigadores y defensores de derechos digitales.
 
 [Leer](https://www.accessnow.org/join-our-statement-for-the-protection-of-digital-rights-defenders/)
 
@@ -343,15 +343,15 @@ del defensor digital Ola Bini"
 * [Leer](https://www.amnesty.org/es/latest/news/2020/03/ecuador-authorities-must-monitor-trial-digital-defender-ola-bini/)
 
 Luego de varias postergaciones, la audiencia preparatoria y evaluatoria del juicio del caso Ola Bini se celebraría el 17
-de marzo del 2020. Para la misma, se conformó la Misión de Observación, integrada por organizaciones nacionales,
+de marzo de 2020. Para la misma, se conformó la Misión de Observación, integrada por organizaciones nacionales,
 regionales y globales. Por la cantidad y variedad de organizaciones, sería la más importante de la historia judicial de
 Ecuador. Por la emergencia sanitaria, la audiencia no fue llevada a cabo.
 
 * [Leer](https://www.apc.org/es/pubs/observaremos-la-audiencia-evaluatoria-y-preparatoria-de-juicio-del-caso-ola-bini)
 
 La Asociación para el Progreso de las Comunicaciones (APC) lleva el caso Ola Bini como una prioridad a ser abordada en
-la 43 sesión del Human Rights Councel en Ginebra. En su descripción, considera al caso como un ejemplo de la tendencia
-global de persecución en contra los defensores de derechos humanos en general, y de derechos digitales en particular.
+la sesión 43 del Human Rights Council en Ginebra. En su descripción, considera al caso como un ejemplo de la tendencia
+global de persecución en contra de los defensores de derechos humanos en general, y de derechos digitales en particular.
 
 * [Leer](https://www.apc.org/en/news/internet-rights-human-rights-council-43rd-session)
 
@@ -368,7 +368,7 @@ política.
 
 Luego de varios meses de espera, la audiencia preparatoria y evaluatoria de juicio se celebraría el 3 de diciembre
 de 2020. Para la misma, se organizó una nueva misión de observación. La misión se volvio a activar el 16 de diciembre
-para la reinstalación de la audiencia. Sin embargo, la Jueza a cargo del proceso, Dra. Yadira Proaño, no parmitió el
+para la reinstalación de la audiencia. Sin embargo, la Jueza a cargo del proceso, Dra. Yadira Proaño, no permitió el
 ingreso de la persona delegada para ingresar a la sala, vulnerando el principio de publicidad.
 
 [Leer](https://www.apc.org/es/pubs/observaremos-la-audiencia-evaluatoria-y-preparatoria-de-juicio-del-caso-ola-bini-0)
@@ -385,7 +385,7 @@ derechos digitales.
 
 Por presuntos seguimientos ilegales la defensa técnica de Ola Bini presentó, a inicios de octubre de 2020, una demanda
 de Habeas Data. La audiencia en cuestión se llevó a cabo, de manera telemática, el 15 de diciembre. En ese marco, la
-Misión de Observación que hizo seguimiento a la audiencia preparatoria de juicio también anunció su monitorio a este
+Misión de Observación que hizo seguimiento a la audiencia preparatoria de juicio también anunció su monitoreo a este
 proceso.
 
 [Ver](https://twitter.com/Karisma/status/1338805754094964736)
@@ -410,7 +410,7 @@ ocasión, EFF una vez más llama a las autoridades judiciales a tomar decidiones
 ### Marzo 12, 2021
 
 Frente al anuncio de una nueva convocatoria a la audiencia de Habeas Data, la organización latinoamericana Derechos
-Digitales publicó un artículo en el que hace un breve recuento del caso y resalta la necesidad de terminar con una
+Digitales publicó un artículo en el que hace un breve recuento del caso y resalta la necesidad de terminar con la
 persecución contra Ola Bini. en sus palabras, el de Ola es un caso paradigmático para la vigencia de los derechos
 humanos en línea en la región.
 
@@ -426,7 +426,7 @@ proceso que se ha podido apreciar a lo largo de la tramitación del proceso sign
 
 ### Marzo 30, 2021
 
-En cuanto al cado Ola Bini, en su informe anual de 2020, la Relatoría Especial para la Libertad de Expresión (RELE) de
+En cuanto al caso Ola Bini, en su informe anual de 2020, la Relatoría Especial para la Libertad de Expresión (RELE) de
 la Comisión Interamericana de Derechos Humanos (CIDH): alerta sobre los constantes diferimientos de las audiencias;
 resalta la conformación de la Misión de Observación de Organizaciones de la Sociedad Civil; y destaca el pedido de
 información al Estado por medio de la demanda de Habeas Data.
@@ -435,7 +435,7 @@ información al Estado por medio de la demanda de Habeas Data.
 
 ### Abril 21, 2021
 
-En el marco de la 17 edicióñ del Festival Latinoamericano de Instalación de Software Libre (FLISOL) diversas
+En el marco de la 17 edición del Festival Latinoamericano de Instalación de Software Libre (FLISOL) diversas
 organizaciones de la sociedad civil regional publicaron un nuevo pronunciamiento en rechazo a la persecución
 gubernamental en contra de Ola Bini. En tal documento, expresan su profunda preocupación por la criminalización de
 quienes trabajan en defensa de los derechos en el mundo digital.
@@ -453,7 +453,7 @@ de los derechos humanos en internet.
 ### Abril 29, 2021
 
 Tras varias dilaciones, la audiencia de Habeas Data se llevó a cabo de manera virtual el 22 de Abril de 2021. La Misión
-de observación publicó un reporte en el que reconoce una vistoria parcial para Ola Bini, pues el juez constitucional que
+de observación publicó un reporte en el que reconoce una victoria parcial para Ola Bini, pues el juez constitucional que
 conoció la causa falló en contra del Centro de Inteligencia Estratégica (CIES) obligando a que entregue de manera
 inmediata toda la información que tenga del activista.
 
@@ -486,7 +486,7 @@ establecen los riesgos que el caso encierra para la vigilancia de los derechos d
 
 La Misión de Observación publica su reporte de observación tras concluida la audiencia preparatoria de juicio. En el
 documento, la Misión llama la atención sobre la forma en la que fue reinstalada la audiencia de referencia y alerta por
-los términos (en forma y fondo) en los que la jueza Proaño decide llamar a juiciio a Bini.
+los términos (en forma y fondo) en los que la jueza Proaño decide llamar a juicio a Bini.
 
 [Leer](https://articulo19.org/reporte-de-observacion-de-la-audiencia-evaluatoria-y-preparatoria-de-juicio-del-caso-ola-bini/)
 
@@ -508,7 +508,7 @@ persecución, entre ellos, el de Ola Bini.
 
 ### Septiembre 15, 2021
 
-INREDH, organizacióñ ecuatoriana de Derechos Humanos, organiza un nuevo Space en Twitter para analizar y difundir el
+INREDH, organización ecuatoriana de Derechos Humanos, organiza un nuevo Space en Twitter para analizar y difundir el
 informe "La presecución de la comunidad de la seguridad informática en América Latina" elaborado por Access Now y la
 Clínica de Ciberderecho de la Facultad de Derecho de la Universidad de Harvard. Desde el ángulo legal y técnico, los
 ponentes resaltan el caso Ola Bini como paradigmático respecto del nivel de persecución que se puede alcanzar, y por las
@@ -541,21 +541,21 @@ de juicio por pedido de la Corporación Nacional de Telecomunicaciones (CNT).
 EFF publica un nuevo artículo en el que hace un nuevo relevamiento de los últimos acontecimientos alrededor del caso y
 sostiene que las pruebas presentadas son "alarmantemente débiles".
 
-[Leer](https://www.eff.org/deeplinks/2021/10/after-years-delays-and-alarmingly-flimsy-evidence-security-expert-ola-binis-trial)
+* [Leer](https://www.eff.org/deeplinks/2021/10/after-years-delays-and-alarmingly-flimsy-evidence-security-expert-ola-binis-trial)
 
 ### Noviembre 10, 2021
 
 En un nuevo artículo, HRW sostiene que el proceso contra Ola, tal y como se está llevando a cabo, puede tener serias
 implicaciones para los derechos digitales. Además, luego de revisar la foto (prueba madre de la FGE) concluyó que no
-se evidencia delito. Asimismo, comoparte de las preocupaciones expresadas por la Misión de observación alrededor del
+se evidencia delito. Asimismo, como parte de las preocupaciones expresadas por la Misión de observación alrededor del
 caso y concluye que el proceso pone en riesgo el cifrado como práctica para asegurar derechos fundamentales.
 
 [Leer](https://www.hrw.org/es/news/2021/11/15/derechos-digitales-y-ciberdelincuencia-en-conflicto)
 
 ### Diciembre 22, 2021
 
-130 organizaciones sociales y expertos instan a los miembros del Comité ad hoc responsable de redactar un posible
-Tratado sobre ciberdelincuencia de la Organización de las Naciones Unidas garantizar que las protecciones de los
+130 organizaciones sociales y expertos instan, a los miembros del Comité ad hoc responsable de redactar un posible
+Tratado sobre ciberdelincuencia de la Organización de las Naciones Unidas, a garantizar que las protecciones de los
 derechos humanos esté integrada en el texto final. En la carta se enlaza la descripción del caso de Ola como ejemplo de
 persecución a un experto digital a partir de legislaciones que no tienen en cuenta la protección de los derechos
 humanos.
@@ -664,7 +664,7 @@ digitales.
 ### Junio 4, 2022
 
 En el marco del Festival Latinoamericano de Instalación de Software Libre, celebrado en Quito, se llevó a cabo un panel
-en el que se abordó la situación del Software Libre en tiempo de persecución, tratando, desde diferentes presprectivas,
+en el que se abordó la situación del Software Libre en tiempos de persecución, tratando, desde diferentes perspectivas,
 el caso Ola Bini como emblemático.
 
 [Ver](https://www.youtube.com/watch?v=EgGD5p1RkHc)
