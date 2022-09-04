@@ -56,7 +56,7 @@ Es allanada la casa se Ola. Ola es llevado a una ubicación desconocida (se espe
 policía en la calle Juan León Mera, en la esquina de la calle Robles. Él no tuvo un lugar para dormir y tuvo que pasar
 la noche allí).
 
-### Abril 12, 2019 – 80:00
+### Abril 12, 2019 – 8:00
 
 Ola es transladado a Flagrancia en el edificio de la Función Judicial.
 
@@ -85,7 +85,7 @@ Lo ponemos en evidencia."](https://www.facebook.com/100000781747848/posts/208967
 
 ### Abril 12, 2019 – 22:02
 
-Empieza la audiencia libre. La fiscalía presentó como evidencia, una supuesta llamada al 1800-DELITO, en la que un
+Empieza la audiencia. La fiscalía presentó como evidencia, una supuesta llamada al 1800-DELITO, en la que un
 individuo de alias "Marcos", supuestamente indicó que Bini, "de nacionalidad Rusa, está conectado con Julian Assange".
 
 La defensa argumentó las irregularidades del caso: no hubo explicación en su lengua materna; estuvo detenido durante más
@@ -107,7 +107,7 @@ Interior, María Paula Romo, a CNN.
 
 [Aquí se puede ver el tweet original](https://twitter.com/MinInteriorEc/status/1116538560348344320)
 
-### Abril 13, 2019 – 1:50
+### Abril 13, 2019 – 13:50
 
 El juez, presidente de la Unidad de Garantías Penales, Rodolfo Navarrete, dictó el inicio de la instrucción fiscal por
 un periodo de noventa días en contra de Ola por el crimen de "ataque a la integridad de sistemas de cómputo", e impuso
@@ -153,7 +153,9 @@ libertad de ideología, y derecho a garantías legales".
 
 Voces de todo el mundo elevaron una demanda por la inmediada liberación de Ola.
 
-Los padres de Ola también reportaron que Ola había recibido varias amenazas en prisión. [Ver](https://twitter.com/freeolabini/status/1118211351971811328).
+Los padres de Ola también reportaron que Ola había recibido varias amenazas en prisión. 
+
+* [Ver](https://twitter.com/freeolabini/status/1118211351971811328).
 
 Leer:
 * [Peoples dispatch: Voices from across the world demand the release of Ola Bini](https://peoplesdispatch.org/2019/04/17/voices-from-across-the-world-demand-the-release-of-ola-bini/)
@@ -199,6 +201,14 @@ apelación...!"
 
 * [Leer](https://twitter.com/enindefension/status/1120417750869057543).
 
+### Mayo 2, 2019
+
+Tiene lugar la audiencia de apelación a la prisión preventiva de Ola Bini. El tribunal de la Corte Provincial de
+Pichincha integrado por los jueces: Juana Pacheco, Fabián Fabara y Maritza Romero (voto salvado) resuelve que Ola
+permanezca en primisión y es enviado de vuelta al Centro de detención de El Inca.
+
+[Leer](https://www.eluniverso.com/noticias/2019/05/02/nota/7313594/tribunal-analiza-pedido-sustitucion-prision-preventiva-favor-sueco/)
+
 ### Mayo 5, 2019
 
 La Confederación de Nacionalidades Indígenas del Ecuador (CONAIE) exige la liberación inmediata de Ola Bini.
@@ -221,6 +231,14 @@ La organización de DDHH - INREDH - presentó un amicus curiae (tercera parte in
 corpus solicitada a favor de Ola Bini.
 
 [Ver](https://www.inredh.org/archivos/pdf/Amicus_Curiae_en_Caso_Ola_Bini.pdf)
+
+### Junio 20, 2019
+
+Se lleva a cabo audiencia de Habeas Corpus a favor de Ola Bini en la Corte Provincial de Pichincha. El tribunal a cargo
+dictaminó que la detención de Ola fue ilegítima, arbitraria e ilegal. Ola salio de prisión esa misma noche, para
+continuar con su defensa en libertad.
+
+[Leer](https://www.elcomercio.com/actualidad/seguridad/ola-bini-habeas-corpus-libertad.html)
 
 ### Julio 4, 2019
 
@@ -308,14 +326,6 @@ investigadores y defensores de derechos digitales.
 
 [Leer](https://www.accessnow.org/join-our-statement-for-the-protection-of-digital-rights-defenders/)
 
-### Enero 22, 2020
-
-El Observatorio de Derechos y Justicia (ODJ) publica un nuevo informe sobre las amenazas a la independencia judicial en
-Ecuador. Enfocándose en las presiones y hostigamientos a operadores judiciales en casos de alto perfil público durante
-el gobierno de Lenín Moreno, resaltan el caso Ola Bini.
-
-[Leer](https://drive.google.com/file/d/18LfOSp1XWefCzY7cPuJ7UwnYh56sP9MG/view)
-
 ### Enero 20, 2020
 
 La organización latinoamericana, Derechos Digitales, publica su informe anual sobre el estado de los derechos digitales
@@ -324,6 +334,14 @@ activistas digitales en América Latina" (páginas 27-31) incorpora el caso de O
 jurídico-política.
 
 [Leer](https://www.derechosdigitales.org/wp-content/uploads/glimpse-2019.pdf)
+
+### Enero 22, 2020
+
+El Observatorio de Derechos y Justicia (ODJ) publica un nuevo informe sobre las amenazas a la independencia judicial en
+Ecuador. Enfocándose en las presiones y hostigamientos a operadores judiciales en casos de alto perfil público durante
+el gobierno de Lenín Moreno, resaltan el caso Ola Bini.
+
+[Leer](https://drive.google.com/file/d/18LfOSp1XWefCzY7cPuJ7UwnYh56sP9MG/view)
 
 ### Febrero 24, 2020
 
@@ -367,13 +385,18 @@ política.
 ### Diciembre 02, 2020
 
 Luego de varios meses de espera, la audiencia preparatoria y evaluatoria de juicio se celebraría el 3 de diciembre
-de 2020. Para la misma, se organizó una nueva misión de observación. La misión se volvio a activar el 16 de diciembre
-para la reinstalación de la audiencia. Sin embargo, la Jueza a cargo del proceso, Dra. Yadira Proaño, no permitió el
-ingreso de la persona delegada para ingresar a la sala, vulnerando el principio de publicidad.
+de 2020. Para la misma, se organizó una nueva misión de observación.
 
 [Leer](https://www.apc.org/es/pubs/observaremos-la-audiencia-evaluatoria-y-preparatoria-de-juicio-del-caso-ola-bini-0)
 
 ### Diciembre 03, 2020
+
+En la reinstalación de la audiencia, la Jueza a cargo del proceso, Dra. Yadira Proaño, no permitió el ingreso de la persona
+delegada por la Misión de Observación, vulnerando el principio de publicidad. La Jueza decidió suspender la audiencia
+para analizar los argumentos de las partes procesales por los "vicios que pudieran afectar la validez del proceso". La
+audiencia se reinstalaría el 16 de Diciembre.
+
+[Leer](https://gk.city/2020/12/03/suspenden-audiencia-preparatoria-juicio-ola-bini/)
 
 Nuevamente Amnistía Internacional hace un llamado a las autoridades ecuatorianas a respetar los principios de seguridad
 jurídica en el caso Ola Bini y a reconocer la importancia y legitimidad del trabajo realizado por los defensores de los
@@ -570,14 +593,6 @@ más perseguidos.
 
 [Ver](https://twitter.com/AmnestyTech/status/1483499911647744005)
 
-### Enero 21, 2022
-
-Como organización delegada por la Misición para observar la audiencia del juicio, INREDH publica un comunicado con
-conclusiones sobre su veeduría. Al respecto destaca nuevas vulneraciones al debido proceso, especialmente por parte de
-la FGE, e identifica presión política sobre los operadores de justicia.
-
-[Leer](https://inredh.org/se-desarrolla-el-tercer-dia-de-la-audiencia-de-juicio-contra-el-informatico-ola-bini/)
-
 ### Enero 19 al 21, 2022
 
 Como organización delegada por la Misión para observar la audiencia de juicio, ODJ publica una serie de hilos de Twitter
@@ -591,6 +606,14 @@ violaciones a los DDHH.
 * [Hilo 4](https://twitter.com/ODJEcuador/status/1484325068867993608)
 * [Hilo 5](https://twitter.com/ODJEcuador/status/1484546520250789891)
 * [Hilo 6](https://twitter.com/ODJEcuador/status/1484665195020660736)
+
+### Enero 21, 2022
+
+Como organización delegada por la Misición para observar la audiencia del juicio, INREDH publica un comunicado con
+conclusiones sobre su veeduría. Al respecto destaca nuevas vulneraciones al debido proceso, especialmente por parte de
+la FGE, e identifica presión política sobre los operadores de justicia.
+
+[Leer](https://inredh.org/se-desarrolla-el-tercer-dia-de-la-audiencia-de-juicio-contra-el-informatico-ola-bini/)
 
 ### Abril 8, 2022
 
