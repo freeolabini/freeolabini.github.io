@@ -11,7 +11,7 @@ clave: @OlaBini (cuenta personal de Ola), @FreeOlaBini (cuenta oficial en
 apoyo a Ola), @Calilo84 (cuenta de su abogado
 defensor), @FiscaliaEcuador (cuenta oficial de la Fiscalía General del Estado de
 Ecuador), @DianaSalazarM2 (cuenta oficial de la Fiscal
-General), @MariaPaulaRomo (Ministra de Gobierno), @Lenin (cuenta oficial del
+General), @CapiZapataEC (Ministro de Gobierno), @LassoGuillermo (cuenta oficial del
 Presidente de Ecuador).
 
 <div class="aspect-w-16 aspect-h-9">
