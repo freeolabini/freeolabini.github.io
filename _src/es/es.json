@@ -9,12 +9,12 @@
       "title": "Inicio"
     },
     {
-      "path": "/es/media-kit",
-      "title": "Multimedia"
-    },
-    {
       "path": "/es/about-ola",
       "title": "Acerca de"
+    },
+    {
+      "path": "/es/media-kit",
+      "title": "Multimedia"
     },
     {
       "path": "/es/timeline-ola",
