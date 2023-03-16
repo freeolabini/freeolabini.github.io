@@ -2,17 +2,10 @@
 title: Contador de Días
 layout: daycounter.njk
 ---
-La instrucción fiscal contra Ola Bini debería haber terminado el domingo
-11 de agosto de 2019. Esto no ocurrió. Por ello preparamos este contador de días. Este
-contador se actualiza automáticamente. Sería de mucha ayuda que cada día puedas
-descargar la imagen actualizada del contador y subirla a tus redes o las redes
-sociales de tu organización relacionando a las siguientes cuentas
-clave: @OlaBini (cuenta personal de Ola), @FreeOlaBini (cuenta oficial en
-apoyo a Ola), @Calilo84 (cuenta de su abogado
-defensor), @FiscaliaEcuador (cuenta oficial de la Fiscalía General del Estado de
-Ecuador), @DianaSalazarM2 (cuenta oficial de la Fiscal
-General), @CapiZapataEC (Ministro de Gobierno), @LassoGuillermo (cuenta oficial del
-Presidente de Ecuador).
+
+# Días sin que se reconozca formalmente la inocencia de Ola
+
+El 31 de enero del 2022 un tribunal ratificó, por unanimidad, la inocencia de Ola Bini. En su exposición de la resolución, el tribunal mencionó que debían levantarse las medidas cuatelares que pesan sobre Ola de manera inmediata, sin embargo, hasta el día de hoy, eso no ha sucedido y Ola Bini no ha recuperado su libertad plenamente. ¿Cuántos días más deben pasar para que esto suceda?
 
 <div class="aspect-w-16 aspect-h-9">
 	<iframe scrolling="no" frameborder="0"  src="https://editor.p5js.org/piratax007/full/LFIpBjV_3"></iframe>
