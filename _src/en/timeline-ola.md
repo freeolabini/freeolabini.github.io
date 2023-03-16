@@ -214,6 +214,12 @@ report in which they explained why such and image was not proof of hacking.
 
 [Read](https://www.eff.org/deeplinks/2019/08/telnet-not-crime-unconvincing-prosecution-screenshot-leaked-ola-bini-case)
 
+### August 23, 2019
+
+Before Bini's technical defense, a media outlet had access to alleged evidence that would account for an alleged "hack" committed by Ola Bini in 2015 against the National Telecommunications Corporation (CNT). This claim was widely rejected by the national and international digital community. The Electronic Frontier Foundation made a technical report in which it explained why such an image was not proof of a hack.
+
+[Read](https://www.eff.org/deeplinks/2019/08/telnet-not-crime-unconvincing-prosecution-screenshot-leaked-ola-bini-case)
+
 ### August 26, 2019
 
 Amnesty International denounces that the Ecuadorian government interferes in the criminal process against Ola Bini. For
@@ -596,3 +602,9 @@ of Free Software in times of persecution was addressed, treating, from different
 emblematic.
 
 [Watch](https://www.youtube.com/watch?v=EgGD5p1RkHc)
+
+### February 01, 2023
+
+Pedro Vaca, Special Rapporteur on Freedom of Expression of the IACHR, referred to the declaration of innocence of Ola Bini, stating that "he registers and welcomes the decision of the Ecuadorian justice"
+
+[Watch](https://twitter.com/PVacaV/status/1620649930229682176)

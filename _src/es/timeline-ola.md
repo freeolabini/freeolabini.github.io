@@ -273,6 +273,12 @@ realizó un informe técnico en el que explicó por qué tal imagen no erea una 
 
 [Leer](https://www.eff.org/es/deeplinks/2019/08/telnet-not-crime-unconvincing-prosecution-screenshot-leaked-ola-bini-case#:~:text=Las%20pruebas%20ofrecidas%20fueron%20una,ascensor%20de%20su%20propia%20oficina.)
 
+### Agosto 23, 2019
+
+Antes que la defensa técnica de Bini, un medio de comunicación tuvo acceso a una supuesta prueba que daría cuenta de un presunto "hackeo" cometido por Ola Bini en 2015 contra la Corporación Nacional de Telecomunicaciones (CNT). Tal afirmación fue ampliamente rechazada por la comunidad digital nacional e internacional. La Electronic Frontier Foundation realizó un informe técnico en el que explicó por qué tal imagen no era prueba de un hackeo
+
+[Leer](https://www.eff.org/es/deeplinks/2019/08/telnet-not-crime-unconvincing-prosecution-screenshot-leaked-ola-bini-case#:~:text=Las%20pruebas%20ofrecidas%20fueron%20una,ascensor%20de%20su%20propia%20oficina.)
+
 ### Agosto 26, 2019
 
 Aministía Internacional denuncia que el gobierno ecuatoriano interfiere en el proceso penal contra Ola Bini. Por tal
@@ -691,3 +697,9 @@ en el que se abordó la situación del Software Libre en tiempos de persecución
 el caso Ola Bini como emblemático.
 
 [Ver](https://www.youtube.com/watch?v=EgGD5p1RkHc)
+
+### February 01, 2023
+
+Pedro Vaca, Relator Especial sobre Libertad de Expresión de la CIDH, se pronunció sobre la declaratoria de inocencia de Ola Bini expresando que "registra y saluda la decisión de la justicia ecuatoriana"
+
+[Ver (Spanish)](https://twitter.com/PVacaV/status/1620649930229682176)
