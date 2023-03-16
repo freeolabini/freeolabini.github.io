@@ -1,6 +1,6 @@
 ---
 eleventyExcludeFromCollections: true
-title: Letters from Detention
+title: Cartas desde la prisión
 layout: letters.njk
 collection: letteres
 image: /img/freeola.jpg
