@@ -1,6 +1,7 @@
 ---
 title: Multimedia
 layout: post.njk
+image: /img/freeola.jpg
 ---
 
 El abogado Carlos Soria reproduce, en un ambiente controlado, lo que Ola Bini habría hecho, según las aseveraciones de la Fiscalía General del Estado.

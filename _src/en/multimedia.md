@@ -1,6 +1,7 @@
 ---
 title: Multimedia
 layout: post.njk
+image: /img/freeola.jpg
 ---
 
 The lawyer Carlos Soria reproduces, in a controlled environment, what Ola Bini would have done, according to the assertions of the Attorney General's Office.
