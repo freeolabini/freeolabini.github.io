@@ -54,6 +54,11 @@
       "icon": "la-bullhorn"
     },
     {
+      "path": "/en/multimedia",
+      "title": "Multimedia",
+      "icon": "la-bullhorn"
+    },
+    {
       "path": "/es/about-ola",
       "title": "Sobre Ola",
       "icon": "la-star"
