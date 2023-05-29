@@ -9,12 +9,12 @@ intro: Ola Bini, desarrollador de software libre y defensor de la privacidad, ha
 
 # Ola Bini Inocente
 
-## Una persecusión política que nunca debió ocurrir
+## Una persecución política que nunca debió ocurrir
 
 ### Un caso forjado por actores políticos
 
-El 11 de abril de 2019, tras una conferencia de prensa protagonizada por ex ministra de Interior, María Paula Romo, Ola Bini fue detenido de forma ilegal, ilegítima y arbitraria en el Aeropuerto Internacional de Quito. La ex ministra lo acusó de ser un ruso, miembro de WikiLeaks, y colaboraron de Julian Assange en el país, que había intentado desestabilizar al gobierno del expresidente Lenín Moreno.
-Tras pasar 70 días preso, fue liberado gracias a un Habeas Corpus que declaró que su detención fue ilegal y que sus derechos humanos fundamentales fueron vulnerados por el Estado. Aún así, con la intervención del gobierno de Moreno, Ola fue acusado, primero, de atacar sistemas informáticos y, luego, de acceder sin consentimiento a un sistema informático de la Corporación Nacional de Telecomunicaciones (CNT), pero no en 2019, sino, supuestamente en 2015.
+El 11 de abril de 2019, tras una conferencia de prensa protagonizada por ex ministra de Interior, María Paula Romo, Ola Bini fue detenido de forma ilegal, ilegítima y arbitraria en el Aeropuerto Internacional de Quito. La exministra lo acusó de ser ruso, miembro de WikiLeaks, colaborador de Julian Assange en el país y de haber intentado desestabilizar al gobierno del expresidente Lenín Moreno.
+Tras pasar 70 días preso, fue liberado gracias a un <i lang="lt">habeas corpus</i> que declaró que su detención fue ilegal y que sus derechos humanos fundamentales fueron vulnerados por el Estado. Aun así, con la intervención del gobierno de Moreno, Ola fue acusado, primero, de atacar sistemas informáticos y, luego, de acceder sin consentimiento a un sistema informático de la Corporación Nacional de Telecomunicaciones (CNT), pero no en 2019, sino, supuestamente en 2015.
 
 ### Victoria: Ola Bini, inocente
 
